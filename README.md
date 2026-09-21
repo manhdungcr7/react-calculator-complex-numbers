@@ -1,11 +1,12 @@
-# ReAct + Calculator cho Toán trắc nghiệm Số phức (SoICT 2026)
+# ReAct + Calculator cho Toán trắc nghiệm Số phức
 
 Repo đi kèm bài báo **"Improving Small Language Model Performance on
 High-School Mathematics Using ReAct: A Case Study on Complex Numbers"**
-(SoICT 2026): giúp một small language model (SLM) trả lời đúng toàn bộ câu
-hỏi trắc nghiệm Toán trung học phổ thông, chuyên đề Số phức, bằng cách cho
-model giải theo **ReAct** (xen kẽ lập luận và hành động) và giao phần tính
-toán cho một **Calculator** ngoài thay vì để model tự tính bằng token.
+(nộp cho SoICT 2026, đang chờ phản biện): giúp một small language model
+(SLM) trả lời đúng toàn bộ câu hỏi trắc nghiệm Toán trung học phổ thông,
+chuyên đề Số phức, bằng cách cho model giải theo **ReAct** (xen kẽ lập luận
+và hành động) và giao phần tính toán cho một **Calculator** ngoài thay vì
+để model tự tính bằng token.
 
 ## Appendix: 54 Problem Types (Complex Numbers)
 
