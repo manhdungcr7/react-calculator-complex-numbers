@@ -80,13 +80,13 @@ Repo gồm 4 phần, mỗi phần có README riêng giải thích chi tiết:
 
 ## Tóm tắt quy trình
 
-1. **Chọn bộ dữ liệu đánh giá** — trích câu hỏi Số phức từ một tài liệu ôn
+1. **Chọn bộ dữ liệu đánh giá** - trích câu hỏi Số phức từ một tài liệu ôn
    tập thật (`scripts/pdf_to_markdown/`), sinh thêm câu hỏi biến thể để mở
    rộng bộ dữ liệu (`scripts/generate_questions/`) → kết quả là bộ dữ liệu
    trong [`data/questions/`](data/questions/).
-2. **Chọn loại prompt phù hợp** — thử từ prompt cơ sở (zero-shot) đến prompt
+2. **Chọn loại prompt phù hợp** - thử từ prompt cơ sở (zero-shot) đến prompt
    có hướng dẫn giải, tìm ra những dạng bài mô hình còn giải sai.
-3. **Cải tiến bằng ReAct-Calculator** — cho model giải theo ReAct, gọi
+3. **Cải tiến bằng ReAct-Calculator** - cho model giải theo ReAct, gọi
    Calculator để tính toán chính xác thay vì tự tính bằng token
    (`experiments/`) → kết quả chi tiết từng câu ở
    [`data/results/`](data/results/).
