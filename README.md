@@ -7,9 +7,13 @@ nghiệm phương pháp **ReAct + Calculator tool-calling** so với baseline
 zero-shot trên nhiều LLM (Qwen3-4B, DeepSeek-R1-Distill-Qwen-1.5B,
 Llama-3.2-3B-Instruct) trên toàn bộ 24 dạng bài số phức.
 
-Repo chỉ chứa **code**, không chứa dữ liệu/kết quả: tài liệu PDF gốc có bản
-quyền, và các file Excel/CSV/JSON là sản phẩm chạy ra từ các script này —
-được lưu, quản lý riêng, không đưa lên đây.
+Repo chủ yếu chứa **code**, không chứa dữ liệu/kết quả đầy đủ: tài liệu PDF
+gốc có bản quyền, và các file Excel/CSV/JSON kết quả chạy thử nghiệm là sản
+phẩm chạy ra từ các script này — được lưu, quản lý riêng, không đưa lên đây.
+Ngoại lệ duy nhất là [`problem_types_54.csv`](problem_types_54.csv): danh
+sách 54 dạng bài Số phức (mã dạng + tên dạng, tiếng Anh và tiếng Việt) dùng
+trong bài báo — nội dung này do nhóm tự viết mô tả, không sao chép nguyên
+văn từ tài liệu gốc, nên không vướng bản quyền.
 
 ## 1. Chuyển đổi PDF → Markdown/LaTeX
 
