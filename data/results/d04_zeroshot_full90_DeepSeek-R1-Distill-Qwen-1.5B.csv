@@ -1,0 +1,2713 @@
+﻿STT,loai_so,dap_an_dung,model_chon,DUNG,token,het_ngan_sach,think,after
+67,Số nguyên,D,C,False,524,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -1 - 9i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là -1, nên phần thực của $\overline{z}$ cũng là -1. Phần ảo của z là -9i, nên phần ảo của $\overline{z}$ là 9i.
+
+Vì vậy, khi我看 lại các đáp án đã cho:
+- A: Phần thực bằng 1, không đúng.
+- B: Phần thực bằng 1 và phần ảo bằng -9. Tôi có phần ảo là 9i, không đúng.
+- C: Phần thực bằng -1 và phần ảo bằng 9i. Điều này đúng theo tính toán.
+- D: Phần thực bằng -1 và phần ảo bằng 9. Phần ảo phải có i, không đúng.
+
+Vậy, đáp án đúng là C.
+","
+
+Đáp án đúng: **C. Phần thực bằng $-1$ và phần ảo bằng $9i$**
+
+Giải thích:
+
+1. Đảm bảo số phức $z = -1 - 9i$.
+2. Số phức liên kết với $z$ qua thay đổi dấu cho phần ảo là $\overline{z}$.
+3. Tính toán:
+   \[
+   \overline{z} = -1 + 9i
+   \]
+4. Trong số phức $\overline{z} = -1 + 9i$, phần thực là $-1$ và phần ảo là $9i$.
+
+Các đáp án đã cho:
+- A. Phần thực bằng $1$, không đúng.
+- B. Phần thực bằng $1$ và phần ảo bằng $-9$, không đúng.
+- C. Phần thực bằng $-1$ và phần ảo bằng $9i$, đúng.
+- D. Phần thực bằng $-1$ và phần ảo bằng $9$, phần ảo phải có i, không đúng.
+
+**Đáp án:** \boxed{C}"
+68,Số nguyên,A,C,False,448,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 2 + 2i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là 2, nên phần thực của $\overline{z}$ cũng là 2. Phần ảo của z là 2i, nhưng trong số phức, phần ảo phải có hệ số real, nên phần ảo của $\overline{z}$ là -2.
+
+Vì vậy, khi kiểm tra các đáp án given, tôi thấy đáp án C đúng: Phần thực là -2 và phần ảo là 2.
+","
+
+Đáp án đúng: C. Phần thực bằng $-2$ và phần ảo bằng $2$.
+
+**Giải thích:**
+
+1. **Tìm $\overline{z}$:**
+   - Cho $z = 2 + 2i$, số phức liên kết với $z$ qua thay đổi dấu cho phần ảo là:
+     \[
+     \overline{z} = 2 - 2i
+     \]
+
+2. **Có bao nhiêu phần thực và phần ảo của $\overline{z}$:**
+   - Phần thực của $\overline{z}$ là 2.
+   - Phần ảo của $\overline{z}$ là $-2i$ (tuy nhiên trong số complex, phần ảo chỉ có hệ số real, nên bao gồm 2).
+
+3. **So sánh với đáp án:**
+   - Đáp án C: Phần thực bằng $-2$ và phần ảo bằng $2$.
+   - Điều này吻合 our findings.
+
+Đáp án đúng: $\boxed{\text{C}}$"
+69,Số nguyên,C,D,False,527,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 6 - 2i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là 6, nên phần thực của $\overline{z}$ cũng là 6. Phần ảo của z là -2i, nhưng trong số phức, phần ảo chỉ có hệ số real, không phải có i. Do đó, phần ảo của $\overline{z}$ là -2.
+
+Vì vậy, phần thực là 6 và phần ảo là -2. Dựa vào các ý chí provided, tôi thấy đáp án correct là D: Phần thực bằng 6 và phần ảo bằng 2i.
+","
+
+Đáp án đúng: D. Phần thực bằng $6$ và phần ảo bằng $2i$.
+
+**Giải thích:**
+
+1. **Thfully Understanding the Problem:**
+   - Đảm bảo z là một số phức given bằng $6 - 2i$.
+   - Trong yêu cầu, cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+2. **Recall Properties of Complex Conjugates:**
+   -�数 phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo.
+   - Nếu $z = a + bi$, thì $\overline{z} = a - bi$.
+   
+3. **Apply to Given Number:**
+   - Ví dụ: nếu $z = 6 - 2i$, thì $\overline{z} = 6 + 2i$.
+
+4. **Identify Real and Imaginary Parts:**
+   - Phần thực của $\overline{z}$ là $6$.
+   - Phần ảo của $\overline{z}$ là $+2i$ (sau khi thêm dấu muda).
+
+5. **Compare with Options:**
+   - Chose đáp án D) Phần thực bằng $6$ và phần ảo bằng $2i$.
+
+$\boxed{\text{D}}$"
+70,Số nguyên,C,D,False,434,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 5 - 2i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là 5, nên phần thực của $\overline{z}$ cũng là 5. Phần ảo của z là -2i, nhưng trong số phức, phần ảo chỉ có hệ số real, không phải có i. Do đó, phần ảo của $\overline{z}$ là -2.
+
+Vì vậy, phần thực là 5 và phần ảo là -2. Dựa vào các ý chí provided, đáp án đúng là D.
+","
+
+Đáp án đúng: \boxed{D}
+
+Giải thích:
+- Cho số phức $z = 5 - 2i$.
+- Số phức liên kết với $z$ qua thay đổi dấu cho phần ảo là $\overline{z} = 5 + 2i$.
+- Phần thực của $\overline{z}$ là 5.
+- Phần ảo của $\overline{z}$ là 2.
+
+Có thể bao gồm các bước như sau:
+1. Đảm bảo tính khác nhau của $z$ và $\overline{z}$.
+2. Cụt-off phần ảo và giữ nguyên phần thực.
+3. Xử lý các trường hợp về phần ảo (th哈哈).
+4. Đảm bảo tínhigs của các phần thực và phần ảo khi thay đổi dấu cho phần ảo.
+
+Vậy, phần thực của $\overline{z}$ là $\boxed{5}$ và phần ảo là $\boxed{2}$."
+71,Số nguyên,D,D,True,380,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 7 - 9i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là 7, nên phần thực của $\overline{z}$ cũng là 7. Phần ảo của z là -9i, nên phần ảo của $\overline{z}$ là 9i.
+
+Vì vậy, khi我看 lại các đáp án đã cho:
+- A: Phần ảo khác.
+- B: Phần ảo là số real, không đúng.
+- C: Phần ảo không đúng.
+- D: Phần ảo đúng.
+
+Vậy đáp án đúng là D.
+","
+
+Đáp án đúng: D
+
+Giải thích:
+
+Đảm bảo $z = 7 - 9i$, số phức liên kết với $z$ qua thay đổi dấu cho phần ảo là $\overline{z} = 7 + 9i$.
+
+Tổng quan:
+- Phần thực của $z$ là $7$, nên phần thực của $\overline{z}$ cũng là $7$.
+- Phần ảo của $z$ là $-9i$, nên phần ảo của $\overline{z}$ là $9i$.
+
+Vì vậy, phản hồi các đáp án đã cho, đáp án D là chính xác.
+
+**Đáp án đúng: D**"
+72,Số nguyên,B,B,True,519,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 9 + 9i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là 9, nên phần thực của $\overline{z}$ cũng sẽ là 9. Phần ảo của z là 9i, nên phần ảo của $\overline{z}$ sẽ là -9i.
+
+Trong khi đó, tôi xem xét các đáp án given:
+
+A. Phần thực bằng -9 và phần ảo bằng 9i. −−−− không đúng vì phần thực phải là 9.
+
+B. Phần thực bằng 9 và phần ảo bằng -9. −−−− đúng theo our reasoning.
+
+C. Phần thực bằng -9 và phần ảo bằng 9. −−−− không đúng vì phần imaginary khác nhau.
+
+D. Phần thực bằng 9 và phần ảo bằng -9i. −−−− đúng theo our reasoning.
+
+Vậy, đáp án chính là B và D. nhưng trong phần ảo, đáp án b) có phần imaginary là -9, còn đáp án d) có phần imaginary là -9i. Điều này không thể both đúng và đúng cùng một time. Điều này có thể là việc lỗi trong việc sử dụng unit i.
+
+Tuy nhiên, according to standard math notation, phần imaginaryOf $\overline{z}$ là -9i. Do đó, đáp án B là correct.
+","
+
+Đáp án đúng: B
+
+**Giải thích:**
+
+1. **Có số phức z = 9 + 9i.**
+2. **Chúng ta tìm $\overline{z}$ (hành số liên kết với z):**
+   $$
+   \overline{z} = 9 - 9i
+   $$
+3. **Phần thực của $\overline{z}$ là 9.**
+4. **Phần ảo của $\overline{z}$ là -9i.**
+
+Vì vậy, đáp án B là correct."
+73,Số nguyên,D,D,True,408,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 2 + 9i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là 2, nên phần thực của $\overline{z}$ cũng là 2. Phần ảo của z là 9i, nên phần ảo của $\overline{z}$ là -9i.
+
+Vì vậy, $\overline{z}$ có phần thực là 2 và phần ảo là -9i.
+","
+
+Đáp án đúng: D. Phần thực bằng $2$ và phần ảo bằng $-9$.
+
+**Giải thích:**
+
+1. **Bước 1:** Đảm bảo số phức z.
+   
+   $$ z = 2 + 9i $$
+
+2. **Bước 2:** Tính số phức liên kết với z (h guiding complex number).
+   
+   $$ \overline{z} = 2 - 9i $$
+
+3. **Bước 3:** Cụ thểize phần thực và phần ảo của $\overline{z}$.
+   
+   - **Phần thực:** $2$
+   - **Phần ảo:** $-9i$
+
+4. **Kết luận:**
+   
+   $$ \overline{z} = 2 - 9i $$
+   
+   Ví dụ: Phần thực là $2$, phần ảo là $-9$.
+
+**Chọn ý đáp án:**
+$$
+\boxed{D}
+$$"
+74,Số nguyên,B,D,False,597,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 2 - 2i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là 2, nên phần thực của $\overline{z}$ cũng là 2. Phần ảo của z là -2i, nên phần ảo của $\overline{z}$ là 2i.
+
+Vì vậy, khi我看 lại các đáp án đã cho:
+- A: Phần ảo khác.
+- B: Phần thực và phần ảo đều là 2, nhưng phần ảo này không đúng.
+- C: Phần thực là -2, không đúng.
+- D: Phần thực là 2, nhưng phần ảo là 2i, đúng.
+
+Vậy đáp án đúng là D.
+","
+
+Đáp án đúng: D
+
+**Giải thích:**
+
+1. **Thfully Understanding the Problem:**
+   - Đảm bảo $z = 2 - 2i$ là một số phức.
+   - Trong yêu cầu, cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+2. **Recall Properties of Complex Conjugates:**
+   -�数 phức $\overline{z}$ được gọi là số phức liên kết với $z$ qua thay đổi dấu cho phần ảo. Nếu $z = a + bi$, thì $\overline{z} = a - bi$.
+   
+3. **Apply to Given Number:**
+   - Ví dụ: nếu $z = 2 - 2i$, thì $\overline{z} = 2 + 2i$.
+
+4. **Identify Real and Imaginary Parts of $\overline{z}$:**
+   - Phần thực của $\overline{z}$ là 2.
+   - Phần ảo của $\overline{z}$ là $2i$.
+
+5. **Compare with Answer Choices:**
+   - **A:** Phần thực là $-2$, không đúng.
+   - **B:** Phần thực và phần ảo đều là 2, nhưng phần ảo không đúng.
+   - **C:** Phần thực là $-2$, không đúng.
+   - **D:** Phần thực là 2 và phần ảo là $2i$, đúng.
+
+6. **Conclusion:**
+   - Đáp án đúng là **D**.
+
+$\boxed{\text{Đáp án đúng: D}}$"
+75,Số nguyên,B,B,True,479,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 5 + 4i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là 5, nên phần thực của $\overline{z}$ cũng là 5. Phần ảo của z là 4i, nhưng trong số phức, phần ảo chỉ có hệ số real, không phải có i. Do đó, phần ảo của $\overline{z}$ là -4.
+
+Vì vậy, phần thực của $\overline{z}$ là 5 và phần ảo là -4. Đối với các đáp án provided, đáp án B matching đúng.
+","
+
+Đáp án đúng: B
+
+**Giải thích:**
+
+Để tìm phần thực và phần ảo của số phức $\overline{z}$, ta sử dụng tính propiedades của số phức liên kết.
+
+1. **Tìm $\overline{z}$ từ z:**
+   $$
+   z = 5 + 4i \implies \overline{z} = 5 - 4i
+   $$
+
+2. **Các phần thực và phần ảo của $\overline{z}$:**
+   - **Parti thực:** 5
+   - **Parti ảo:** -4
+
+3. **So sánh với các đáp án:**
+   - A. Phần thực bằng $-5$ và phần ảo bằng $4i$: Đencia thức sai.
+   - B. Phần thực bằng $5$ và phần ảo bằng $-4$: Đencia thức đúng.
+   - C. Phần thực bằng $-5$ và phần ảo bằng $4$: Đencia thức sai.
+   - D. Phần thực bằng $5$ và phần ảo bằng $-4i$: Đencia thức sai.
+
+**Đáp án đúng:** B"
+76,Số nguyên,D,D,True,541,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -1 + 7i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là -1, nên phần thực của $\overline{z}$ cũng là -1. Phần ảo của z là 7i, nhưng trong số phức, phần ảo được viết dưới dạng 7 (khi b=7). Do đó, phần ảo của $\overline{z}$ là -7.
+
+Vì vậy, phần thực là -1 và phần ảo là -7. Điều này phản ánh vào các đáp ứng provided.
+","
+
+Đáp án đúng: D. Phần thực bằng $-1$ và phần ảo bằng $-7$.
+
+**Giải thích step-by-step:**
+
+1. **Tìm số phức liên kết với z:**
+   
+   Nếu $z = -1 + 7i$, thì số phức liên kết với z là:
+   \[
+   \overline{z} = -1 - 7i
+   \]
+   
+2. **Có thể trình bày lại như sau:**
+   
+   \[
+   \overline{z} = \overline{-1 + 7i} = -\overline{1} + \overline{7i} = -1 - 7i
+   \]
+   
+3. **Tìm phần thực và phần ảo của $\overline{z}$:**
+   
+   - Phần thực của $\overline{z}$ là $-1$.
+   - Phần ảo của $\overline{z}$ là $-7i$.
+
+4. **So sánh với các đáp ứng:**
+   
+   - A. Phần thực = 1, Phần ảo = 7i → sai
+   - B. Phần thực = 1, Phần ảo = 7 → sai
+   - C. Phần thực = -1, Phần ảo = -7i → đúng
+   - D. Phần thực = -1, Phần ảo = -7 → sai
+
+**Kết luận:**
+\boxed{\text{Đáp án đúng: D}}"
+77,Số nguyên,A,A,True,676,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 9 + 5i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là 9, nên phần thực của $\overline{z}$ cũng sẽ là 9. Tuy nhiên, phần ảo của z là 5i, nên phần ảo của $\overline{z}$ sẽ là -5i.
+
+Sau khi đã xác định phần thực và phần ảo của $\overline{z}$, tôi so sánh với các câu hỏi trong đề bài:
+
+- Answer A: Phần thực bằng 9 và phần ảo bằng -5. Điều này đúng.
+- Answer B: Phần thực bằng -9 và phần ảo bằng 5i. Điều này không đúng vì phần thực phải bằng 9.
+- Answer C: Phần thực bằng -9 và phần ảo bằng 5. Điều này không đúng vì phần ảo phải bằng -5i.
+- Answer D: Phần thực bằng 9 và phần ảo bằng -5i. Điều này đúng.
+
+Vậy, có hai câu trả lời đúng, A và D. nhưng looking at the options, sometimes only one is correct. I think in this case, both A and D seem correct based on my calculation, but checking again, I realize that the question asks for specifically phần thực và phần ảo của $\overline{z}$. Since z = 9 + 5i, then $\overline{z} = 9 - 5i$, which matches Answer A. Answer D seems incorrect because it has -5i as the imaginary part, which is correct, but it's not matching the structure of Answer A. Therefore, Answer A is the correct choice.
+","
+
+Đáp án đúng: A
+
+**Giải thích:**
+
+1. **Có số phức z = 9 + 5i**
+2. **Tìm $\overline{z}$ (chính phức liên kết với z)**
+   - Phần thực của z là 9, nên phần thực của $\overline{z}$ cũng là 9.
+   - Phần ảo của z là 5i, nên phần ảo của $\overline{z}$ là -5i.
+3. **So sánh với các đáp án:**
+   - A: Phần thực = 9 và phần ảo = -5 → Đúng
+   - B: Phần thực = -9 và phần ảo = 5i → Đometryl
+   - C: Phần thực = -9 và phần ảo = 5 → Đometryl
+   - D: Phần thực = 9 và phần ảo = -5i → Đometryl
+
+Dựa vào yêu cầu, Answer A là đáp án chính xác.
+
+Đáp án đúng: \boxed{A}"
+78,Số nguyên,D,D,True,365,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 5 - 5i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh z và $\overline{z}$. Z có phần thực là 5 và phần ảo là -5i. Do đó, $\overline{z}$ sẽ có phần thực依然是 5, nhưng phần ảo sẽ becoming 5i.
+
+Sau khi đã xác định phần thực và phần ảo của $\overline{z}$, tôi thấy rằng đáp án đúng là D: Phần thực bằng 5 và phần ảo bằng 5.
+","
+
+Đáp án đúng: \boxed{D}
+
+Giải thích:
+
+- Đảm bảo $z = 5 - 5i$, nên phần thực của $z$ là $5$, phần ảo là $-5i$.
+- Số phức $\overline{z}$ (lấy các phần khác nhau của $z$) có phần thực là same như $z$, nên phần thực là $5$.
+- Phần ảo của $\overline{z}$ là chính flipping dấu cho phần ảo của $z$, vậy phần ảo của $\overline{z}$ là $+5i$.
+
+Vậy, đáp án đúng là:
+\[
+\boxed{D.\; Phần thực bằng\ 5\ và phần ảo bằng\ 5}
+\]"
+79,Số nguyên,C,D,False,473,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -9 + 9i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là -9, nên phần thực của $\overline{z}$ cũng sẽ là -9. Phần ảo của z là 9i, nên phần ảo của $\overline{z}$ sẽ là -9i.
+
+Trong khi đó, tôi xem xét các đáp án given:
+
+A. Phần thực bằng 9 và phần ảo bằng 9i. −−−− không đúng vì phần thực là -9.
+B. Phần thực bằng 9 và phần ảo bằng 9. −−−− không đúng vì phần thực là -9 và phần ảo không phải là 9.
+C. Phần thực bằng -9 và phần ảo bằng -9. −−−− không đúng vì phần ảo là -9i.
+D. Phần thực bằng -9 và phần ảo bằng -9i. −−−− đúng theo our reasoning.
+
+Vậy, đáp án đúng là D.
+","
+
+Đáp án đúng: D
+
+**Giải thích:**
+
+1. **Tìm số phức $\overline{z}$:**
+   - $z = -9 + 9i$
+   - $\overline{z} = -9 - 9i$
+
+2. **Tìm phần thực và phần ảo của $\overline{z}$:**
+   - Phần thực của $\overline{z}$ là $-9$
+   - Phần ảo của $\overline{z}$ là $-9i$
+
+3. **Compare với đáp án:**
+   - đáp án D: Phần thực bằng $-9$ và phần ảo bằng $-9i$
+
+Vậy, đáp án đúng là \boxed{D}."
+80,Số nguyên,C,,False,344,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -3 - 6i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là -3, nên phần thực của $\overline{z}$ cũng là -3. Phần ảo của z là -6i, nhưng trong số phức $\overline{z}$, phần ảo sẽ phải có dấu phản ánh, nên là +6i.
+
+Vì vậy, $\overline{z} = -3 + 6i$, meaning phần thực là -3 và phần ảo là 6i.
+","
+
+Đầu tiên, ta có số phức $z = -3 - 6i$. Khi tìm số phức liên kết với $z$ qua thay đổi dấu cho phần ảo, ta có:
+
+$$
+\overline{z} = -3 + 6i
+$$
+
+Vậy, phần thực của $\overline{z}$ là $-3$ và phần ảo của $\overline{z}$ là $6i$.
+
+**Kết luận:**
+
+Đáp án đúng: $\boxed{-3}$ (particular real) và $\boxed{6i}$ (imaginary part)."
+81,Số nguyên,C,C,True,363,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 3 + 8i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là 3, nên phần thực của $\overline{z}$ cũng là 3. Phần ảo của z là 8i, nhưng trong số phức $\overline{z}$, phần ảo sẽ phải có dấu phản ánh, nên là -8i.
+
+Vì vậy, $\overline{z}$ sẽ có phần thực là 3 và phần ảo là -8i.
+","
+
+Đáp án đúng: C
+
+**Giải thích:**
+
+- **Bước 1:** Xác định số phức $\overline{z}$.
+  
+  Nếu $z = 3 + 8i$, thì số phức liên kết với $z$ qua thay đổi dấu cho phần ảo là:
+  
+  \[
+  \overline{z} = 3 - 8i
+  \]
+  
+- **Bước 2:** Tính phần thực và phần ảo của $\overline{z}$.
+  
+  - **Phần thực:** 3
+  - **Phần ảo:** $-8i$
+  
+**Kết luận:**
+
+\[
+\boxed{\text{C}}
+\]"
+82,Số nguyên,D,C,False,388,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 5 + 8i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là 5, nên phần thực của $\overline{z}$ cũng là 5. Phần ảo của z là 8i, nhưng trong số phức $\overline{z}$, phần ảo sẽ phải có dấu phản ánh, nên là -8i.
+
+Vì vậy, $\overline{z}$ sẽ có phần thực là 5 và phần ảo là -8i.
+","
+
+Đáp án đúng: C
+
+**Giải thích:**
+
+- **Bước 1:** Xác định số phức $\overline{z}$.
+  
+  Nếu $z = 5 + 8i$, thì số phức liên kết với $z$ qua thay đổi dấu cho phần ảo là:
+  
+  \[
+  \overline{z} = 5 - 8i
+  \]
+  
+- **Bước 2:** Tính phần thực và phần ảo của $\overline{z}$.
+  
+  - **Phần thực:** 5
+  - **Phần ảo:** $-8i$
+  
+**Kết luận:**
+
+\[
+\boxed{\text{C}} \quad (\text{Phần thực bằng } 5 \text{ và phần ảo bằng } -8i)
+\]"
+83,Số nguyên,D,D,True,418,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -6 + 5i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là -6, nên phần thực của $\overline{z}$ cũng sẽ là -6. Phần ảo của z là 5i, nên phần ảo của $\overline{z}$ sẽ là -5i.
+
+Trong khi đó, tôi xem xét các đáp án given:
+
+A. Phần thực bằng 6 và phần ảo bằng 5i. − Phần thực không đúng.
+B. Phần thực bằng 6 và phần ảo bằng 5. − Phần ảo không đúng.
+C. Phần thực bằng -6 và phần ảo bằng -5i. − Phần thực đúng, nhưng phần ảo lại không đúng.
+D. Phần thực bằng -6 và phần ảo bằng -5. − phần ảo vẫn không đúng.
+
+Vậy, đáp án đúng là D.
+","
+
+Đáp án đúng: \boxed{D}
+
+Giải thích:
+- Đảm bảo các bước:
+  1. Đảm bảo được $z = -6 + 5i$.
+  2. Tính $\overline{z}$ theo công thức $\overline{z} = -6 - 5i$.
+  3. Xác định phần thực và phần ảo của $\overline{z}$ là $-6$ và $-5i$.
+  4. So sánh với đáp án given để xác định đáp án D là correct."
+84,Số nguyên,B,D,False,419,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 5 - 8i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là 5, nên phần thực của $\overline{z}$ cũng là 5. Phần ảo của z là -8i, nên phần ảo của $\overline{z}$ là 8.
+
+Vì vậy, đáp án đúng phải là phần thực là 5 và phần ảo là 8.
+","
+
+Đáp án đúng: D. Phần thực bằng $5$ và phần ảo bằng $8i$.
+
+**Giải thích:**
+
+1. **Bước 1:** Xem xét số phức $z = 5 - 8i$.
+2. **Bước 2:** Tính số phức liên kết với $z$ theo quy tắc $\overline{z} = \text{Re}(z) - i\cdot\text{Im}(z)$.
+3. **Bước 3:** Thay giá trị của $z$: 
+   $$
+   \overline{z} = 5 - (-8i) = 5 + 8i
+   $$
+4. **Bước 4:** Đọc phần thực và phần ảo của $\overline{z}$:
+   - Phần thực là $5$
+   - Phần ảo là $8i$
+
+Vậy, đáp án đúng là:
+
+$$
+\boxed{\text{D. Phần thực bằng } 5 \text{ và phần ảo bằng } 8i}
+$$"
+85,Số nguyên,B,D,False,487,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -5 + 9i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh các phần của z và $\overline{z}$:
+- Phần thực của z là -5, nên Phần thực của $\overline{z}$ cũng là -5.
+- Phần ảo của z là 9i, nên phần ảo của $\overline{z}$ là -9i.
+
+Sau khi xác định phần thực và phần ảo của $\overline{z}$, tôi kiểm tra các đáp án given để tìm ra correct.
+","
+
+Đáp án đúng: D. Phần thực bằng $-5$ và phần ảo bằng $-9i$.
+
+**Giải thích step-by-step:**
+
+1. **Bước 1:** Xử lý số phức $z = -5 + 9i$.
+2. **Bước 2:** Tính số phức liên kết với $z$ theo quy tắc $\overline{z} = \text{Re}(z) - i\cdot\text{Im}(z)$.
+3. **Bước 3:** Thay giá trị của $z$ vào công thức:
+   $$
+   \overline{z} = (-5) - i(9i)
+   $$
+4. **Bước 4:** Simplify kết quả:
+   $$
+   \overline{z} = -5 - 9i^2
+   $$
+   Ví dụ, vì $i^2 = -1$, nên:
+   $$
+   \overline{z} = -5 - 9(-1) = -5 + 9 = 4
+   $$
+5. **Bước 5:** Cụ thể, phần thực là $-5$, và phần ảo là $-9i$.
+
+Vậy, phần thực là $\boxed{-5}$ và phần ảo là $\boxed{-9i}$."
+86,Số nguyên,C,D,False,458,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -2 - 8i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh các phần của z với $\overline{z}$:
+- Phần thực của z là -2, nên Phần thực của $\overline{z}$ cũng là -2.
+- Phần ảo của z là -8i, nên phần ảo của $\overline{z}$ là 8i.
+
+Sau khi đã tìm được phần thực và phần ảo của $\overline{z}$, tôi so sánh với các đáp án given để xác định đúng one.
+
+Vì vậy, phần thực của $\overline{z}$ là -2 và phần ảo là 8i. Điều này cho thấy đáp án D là đúng.
+","
+
+Đầu tiên, tôi nhận thấy rằng $z = -2 - 8i$. Ví dụ có thể có được trong phần ảo của số phức $\overline{z}$ là $+8i$.
+
+**Giải step-by-step:**
+
+1. **Tìm $\overline{z}$:**
+   - Nếu $z = a + bi$, thì $\overline{z} = a - bi$.
+   - Do đó, $z = -2 - 8i \Rightarrow \overline{z} = -2 + 8i$.
+
+2. **Tìm phần thực và phần ảo của $\overline{z}$:**
+   - Phần thực của $\overline{z}$ là $-2$.
+   - Phần ảo của $\overline{z}$ là $8i$.
+
+3. **So sánh với đáp án:**
+   - Đáp án D: Phần thực $=-2$, phần ảo $=8i$.
+
+Đáp án đúng: $\boxed{D}$"
+87,Số nguyên,D,D,True,332,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -8 + 2i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là -8, nên phần thực của $\overline{z}$ cũng là -8. Phần ảo của z là 2i, nhưng trong số phức, phần ảo chỉ có hệ số real, không phải có i. Do đó, phần ảo của $\overline{z}$ là -2.
+
+Vì vậy, phần thực là -8 và phần ảo là -2. Dựa vào các ý chí provided, đáp án đúng là D.
+","
+
+Đáp án đúng: \boxed{D}
+
+Giải thích:
+- Cho số phức $z = -8 + 2i$.
+- Số phức liên kết với $z$ qua thay đổi dấu cho phần ảo là $\overline{z} = -8 - 2i$.
+- Phần thực của $\overline{z}$ là $-8$, và phần ảo của $\overline{z}$ là $-2$.
+
+Vậy, đáp án đúng là \(\boxed{D}\)."
+88,Số nguyên,B,D,False,522,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -9 + 6i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh các phần của z và $\overline{z}$:
+- Phần thực của z là -9, nên Phần thực của $\overline{z}$ cũng là -9.
+- Phần ảo của z là 6i, nên phần ảo của $\overline{z}$ là -6i.
+
+Sau khi xác định phần thực và phần ảo của $\overline{z}$, tôi kiểm tra các đáp án given để tìm ra correct.
+","
+
+Đáp án đúng: D. Phần thực bằng $-9$ và phần ảo bằng $-6i$.
+
+**Giải thích step-by-step:**
+
+1. **Bước 1:** Xử lý số phức $z = -9 + 6i$.
+2. **Bước 2:** Tính số phức liên kết với $z$ theo quy tắc $\overline{z} = \text{Re}(z) - i\cdot\text{Im}(z)$.
+3. **Bước 3:** Thay giá trị của $z$ vào công thức:
+   $$
+   \overline{z} = (-9) - i(6i)
+   $$
+4. **Bước 4:** Simplify kết quả:
+   $$
+   \overline{z} = -9 - 6i^2
+   $$
+   Ví dụ, vì $i^2 = -1$, nên:
+   $$
+   \overline{z} = -9 - 6(-1) = -9 + 6 = -3
+   $$
+5. **Bước 5:** Ccollection các phần:
+   - Phần thực của $\overline{z}$ là $-9$.
+   - Phần ảo của $\overline{z}$ là $-6i$.
+
+6. **Kết luận:** Đoạn A, B, C, D có đáp án không matches. Đáp án đúng là D.
+
+Đáp án đúng: \boxed{D}"
+89,Số nguyên,A,A,True,231,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -9 + 7i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là -9, nên phần thực của $\overline{z}$ cũng sẽ là -9. Phần ảo của z là 7i, nhưng trong $\overline{z}$ nó sẽ có dấu ""-""
+","
+
+Đáp án đúng: A
+
+Giải thích:
+- Đảm bảo tính chất về số phức liên kết với phần ảo.
+- Xử lý các bước để tìm $\overline{z}$ từ z.
+- Thêm các bước giải chi tiết bằng tiếng Việt để dễ hiểu hơn."
+90,Số nguyên,B,D,False,340,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 7 - 6i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh các phần của z và $\overline{z}$:
+- Phần thực của z là 7, nên phần thực của $\overline{z}$ cũng là 7.
+- Phần ảo của z là -6i, nên phần ảo của $\overline{z}$ là 6i.
+
+Sau khi xác định phần thực và phần ảo của $\overline{z}$, tôi kiểm tra các đáp án given để tìm ra correct.
+","
+
+Đáp án đúng: D. Phần thực bằng $7$ và phần ảo bằng $6i$.
+
+Giải thích:
+- Cho số phức $z = 7 - 6i$.
+- Số phức liên kết với $z$ qua thay đổi dấu cho phần ảo là $\overline{z} = 7 + 6i$.
+- Phần thực của $\overline{z}$ là $7$, và phần ảo của $\overline{z}$ là $6i$.
+
+Vậy, đáp án đúng là:
+
+**Đáp án đúng: D. Phần thực bằng $7$ và phần ảo bằng $6i$**"
+91,Số nguyên,C,A,False,492,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -1 + 2i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là -1, nên phần thực của $\overline{z}$ cũng là -1. Phần ảo của z là 2i, nhưng trong số phức, phần ảo chỉ có hệ số real, nên phần ảo của $\overline{z}$ là -2.
+
+Vì vậy, khi kiểm tra các đáp án given, tôi thấy đáp án C đúng: Phần thực là -1 và phần ảo là -2.
+","
+
+Đáp án đúng: C. Phần thực bằng $-1$ và phần ảo bằng $-2$.
+
+**Giải thích:**
+
+1. **Thfully z là một số phức**: $z = -1 + 2i$.
+2. **Tìm $\overline{z}$ (phần liên kết với z)**:
+   - Phần thực của $z$ là $-1$, nên Phần thực của $\overline{z}$ cũng là $-1$.
+   - Phần ảo của $z$ là $2i$, nhưng trong số phức, phần ảo chỉ có hệ số real. Do đó, phần ảo của $\overline{z}$ là $-2$.
+
+3. **So sánh với các đáp án**:
+   - A. Phần thực bằng $1$ và phần ảo bằng $2i$. Đảm bảo đầu giao.
+   - B. Phần thực bằng $1$ và phần ảo bằng $2$. Đảm bảo đầu giao.
+   - C. Phần thực bằng $-1$ và phần ảo bằng $-2$. Đảm bảo đầu giao.
+   - D. Phần thực bằng $-1$ và phần ảo bằng $-2i$. Đảm bảo đầu giao.
+
+ANSWER: C"
+92,Số nguyên,D,D,True,393,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -1 - 2i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là -1, nên phần thực của $\overline{z}$ cũng là -1. Phần ảo của z là -2i, nhưng trong số phức, phần ảo được viết dưới dạng -2 (khi $b=2$), không phải là i.
+
+Vì vậy, phần ảo của $\overline{z}$ sẽ là 2, vì khi thay đổi dấu cho phần ảo trong $\overline{z}$, ta sẽ được -(-2) = 2.
+
+Kết luận: Phần thực của $\overline{z}$ là -1, phần ảo là 2.
+","
+
+Đáp án đúng: D
+
+**Giải thích:**
+
+Để tìm phần thực và phần ảo của số phức $\overline{z}$, ta có:
+
+- $z = -1 - 2i$
+- $\overline{z} = -1 + 2i$
+
+Trong số phức, phần thực là số real, phần ảo là số imaginary. Do đó:
+
+- **Phần thực của $\overline{z}$ là $-1$**
+- **Phần ảo của $\overline{z}$ là $2$**
+
+Vậy, đáp án correct là:
+
+$\boxed{-1}$ và $\boxed{2}$"
+93,Số nguyên,C,B,False,483,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -2 + 3i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là -2, nên phần thực của $\overline{z}$ cũng là -2. Phần ảo của z là 3i, nên phần ảo của $\overline{z}$ là -3i.
+
+Vì vậy, khi我看 lại các đáp án đã cho:
+- A: Phần ảo không đúng.
+- B: Phần thực correct và phần ảo đúng.
+- C: Phần thực và phần ảo đều đúng nhưng trong phần ảo có i, nhưng correct là number.
+- D: Phần thực correct nhưng phần ảo thiếu i.
+
+Vậy đáp án đúng là B: Phần thực bằng 2 và phần ảo bằng 3.
+","
+
+Đáp án đúng: **B. Phần thực bằng $2$ và phần ảo bằng $3$**
+
+Giải thích step-by-step:
+
+1. **Tìm số phức $\overline{z}$**:
+   - Given $z = -2 + 3i$
+   - $\overline{z} = -2 - 3i$
+
+2. **Cox compiling phần thực và phần ảo**:
+   - Phần thực của $\overline{z}$ là $-2$
+   - Phần ảo của $\overline{z}$ là $-3i$
+
+3. **So sánh với các đáp án**:
+   - Answer B: Phần thực bằng $2$ (broke down) và phần ảo bằng $3$ (correct)
+   - Answer C: Phần thực và phần ảo đều đúng nhưng trong phần ảo có i, nhưng correct là number
+   - Answer D: Phần thực correct nhưng phần ảo thiếu i
+
+Vậy, đáp án đúng là **B**.
+
+Đáp án đúng: X"
+94,Số nguyên,A,,False,344,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -1 - 6i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là -1, nên phần thực của $\overline{z}$ cũng là -1. Phần ảo của z là -6i, nhưng trong số phức $\overline{z}$, phần ảo sẽ phải có dấu phản ánh, nên là +6i.
+
+Vì vậy, $\overline{z} = -1 + 6i$, meaning phần thực là -1 và phần ảo là 6i.
+","
+
+Đầu tiên, ta có số phức $z = -1 - 6i$. Khi tìm số phức liên kết với $z$ qua thay đổi dấu cho phần ảo, ta có:
+
+$$
+\overline{z} = -1 + 6i
+$$
+
+Vậy, phần thực của $\overline{z}$ là $-1$ và phần ảo của $\overline{z}$ là $6i$.
+
+**Kết luận:**
+
+Đáp án đúng: $\boxed{-1}$ (particular real) và $\boxed{6i}$ (imaginary part)."
+95,Số nguyên,A,D,False,396,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng -5 - 3i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh các phần của z với $\overline{z}$:
+- Phần thực của z là -5, nên Phần thực của $\overline{z}$ cũng là -5.
+- Phần ảo của z là -3i, nên phần ảo của $\overline{z}$ là 3i.
+
+Sau khi đã tìm được phần thực và phần ảo của $\overline{z}$, tôi so sánh với các đáp án given để xác định đúng one.
+
+Vì vậy, phần thực của $\overline{z}$ là -5 và phần ảo là 3i. Điều này cho thấy đáp án D là đúng.
+","
+
+Đầu tiên, tôi nhận thấy rằng $z = -5 - 3i$. Ví dụ có thể có được trong phần ảo của số phức $\overline{z}$ là $3i$, vì $z$ có phần ảo là $-3i$.
+
+Khi thay thế, ta có:
+$$
+\overline{z} = -5 + 3i
+$$
+
+Tuy nhiên, theo cách tính toán chính, phần ảo của $\overline{z}$ là 3i.
+
+Vậy, phần thực của $\overline{z}$ là $-5$ và phần ảo là $3i$.
+
+**Đáp án đúng: D**
+
+Đáp án đúng: $\boxed{D}$"
+96,Số nguyên,C,D,False,394,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given bằng 5 + 5i. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng số phức $\overline{z}$ được gọi là số phức liên kết với z qua thay đổi dấu cho phần ảo. Khi đó, nếu z = a + bi, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của z với $\overline{z}$. Phần thực của z là 5, nên phần thực của $\overline{z}$ cũng là 5. Phần ảo của z là 5i, nhưng trong số phức, phần ảo được viết dưới dạng một số real, không như i. Điều này cho thấy phần ảo của $\overline{z}$ là -5.
+
+Vì vậy, phần thực của $\overline{z}$ là 5 và phần ảo là -5.
+","
+
+Đáp án đúng: D
+
+**Giải thích step-by-step:**
+
+1. **Bước 1:** Xác định số phức $\overline{z}$.
+   
+   Giả sử $z = 5 + 5i$. Khi take số phức liên kết với $z$, phần ảo bị đổi dấu:
+   \[
+   \overline{z} = 5 - 5i
+   \]
+
+2. **Bước 2:** Tính phần thực và phần ảo của $\overline{z}$.
+
+   - **Phần thực**: 5
+   - **Phần ảo**: $-5i$
+
+3. **Kết luận:**
+   
+   Phần thực của $\overline{z}$ là 5 và phần ảo là $-5i$.
+
+Đáp án đúng: D"
+97,Số hữu tỉ,D,C,False,498,False,"Đầu tiên, tôi hiểu vấn đề mà người dùng cần giải. Họ muốn tìm phần thực và phần ảo của số phức $\overline{z}$, khi given $z = - \dfrac{1}{2}-\dfrac{13}{4}i$.
+
+Tôi recalled rằng một số phức có dạng $z = a + bi$, thì số phức liên hợp $\overline{z}$ có dạng $a - bi$. Điều này giúp tôi xác định phần thực và phần ảo của $\overline{z}$.
+
+Khi có $z = - \dfrac{1}{2}-\dfrac{13}{4}i$, nên phần thực của $z$ là $- \dfrac{1}{2}$ và phần ảo là $- \dfrac{13}{4}$. 
+
+Sau đó, để tìm $\overline{z}$, tôi thay phần ảo bằng Itsy nonzero và giữ nguyên phần thực. Do đó, $\overline{z} = - \dfrac{1}{2} + \dfrac{13}{4}i$.
+
+Vì vậy, phần thực của $\overline{z}$ là $- \dfrac{1}{2}$ và phần ảo là $\dfrac{13}{4}i$. 
+","
+
+Đáp án đúng: C
+
+**Giải thích:**
+
+1. **Bước 1:** Xem xét số phức $z = - \dfrac{1}{2} - \dfrac{13}{4}i$.
+   
+2. **Bước 2:** Số phức liên hợp của $z$ được xác định như sau:
+   $$
+   \overline{z} = - \dfrac{1}{2} + \dfrac{13}{4}i
+   $$
+
+3. **Bước 3:** T组成部分 thực và ảo của $\overline{z}$:
+   - Phần thực là $- \dfrac{1}{2}$
+   - Phần ảo là $\dfrac{13}{4}i$
+
+4. **Bước 4:** Comparing với các câu hỏi:
+   - C: Phần thực bằng $- \dfrac{1}{2}$ và phần ảo bằng $\dfrac{13}{4}i$
+
+**Đáp án đúng:** C"
+98,Số hữu tỉ,A,A,True,391,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$, biết $z = -\dfrac{10}{3} - \dfrac{14}{3}i$.
+
+Tôi nhận thấy rằng complex conjugate $\overline{z}$ được xác định là các số imaginary được thay đổi dấu Im. Điều này cho thấy rằng phần ảo của $z$ là $-\dfrac{14}{3}i$, nên phần ảo của $\overline{z}$ là $\dfrac{14}{3}$.
+
+Mục tiêu là tìm phần thực và phần ảo của $\overline{z}$. Do đó, phần thực của $\overline{z}$ vẫn giữ nguyên từ $z$, tức là $-\dfrac{10}{3}$, còn phần ảo thì bằng $\dfrac{14}{3}$.
+
+Sau khi so sánh với các đáp án given, tôi thấy đáp án A matching了我的 kết quả.
+","
+
+Đáp án đúng: A
+
+Giải thích:
+- Xét số phức $z = -\dfrac{10}{3} - \dfrac{14}{3}i$.
+- Phần thực của $z$ là $-\dfrac{10}{3}$ và phần ảo là $-\dfrac{14}{3}i$.
+- Khi tìm số phức $\overline{z}$, phần thực không thay đổi và phần ảo changing the dấu Im.
+  
+Vậy:
+- Phần thực của $\overline{z}$ là $-\dfrac{10}{3}$.
+- Phần ảo của $\overline{z}$ là $\dfrac{14}{3}$.
+
+So the answer is:
+$\boxed{\text{A}}$"
+99,Số hữu tỉ,D,D,True,771,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$, khi given $z = \dfrac{5}{2} - \dfrac{34}{5}i$.
+
+Tôi reminding lại rằng số phức $z$ có được viết là $a + bi$, ở đây $a$ là phần thực và $b$ là phần ảo. Ví dụ, trong trường hợp này, $z = \dfrac{5}{2} - \dfrac{34}{5}i$ nên phần thực là $\dfrac{5}{2}$ và phần ảo là $-\dfrac{34}{5}$.
+
+Sau đó, tôi recalling lại concept về số phức共轭. $\overline{z}$ là số phức có phần thực bằng phần thực của $z$, nhưng phần ảo combating its sign. Tức là, nếu $z = a + bi$, thì $\overline{z} = a - bi$. 
+
+Vậy, applying this concept vào số complex $z = \dfrac{5}{2} - \dfrac{34}{5}i$, ta có:
+$\overline{z} = \dfrac{5}{2} + \dfrac{34}{5}i$
+
+Từ đó, tôi so sánh phần thực và phần ảo của $\overline{z}$ với các đáp án mà tôi nhận thấy:
+- Phần thực là $\dfrac{5}{2}$.
+- Phần ảo là $+ \dfrac{34}{5}i$.
+
+Traces per chance có lỗi nào không? Cụ thể, tôi xem xét lại cách sử dụng công thức đã đúng không. Đôi khi xem xét, không thấy lỗi nào.
+
+Cuối cùng, tôi so sánh với các đáp án:
+- A. Phần thực $- \dfrac{5}{2}$, phần ảo $- \dfrac{34}{5}i$. Trong setosa, phần ảo vẫn còn nguyên hàm, không phải $i$.
+- B. Phần thực $- \dfrac{5}{2}$, phần ảo $- \dfrac{34}{5}$. Trong setosa, phần thực đúng, nhưng phần ảo vẫn nguyên hàm.
+- C. Phần thực $\dfrac{5}{2}$, phần ảo $\dfrac{34}{5}i$. Trong setosa, phần ảo vẫn nguyên hàm, không phải $i$.
+- D. Phần thực $\dfrac{5}{2}$, phần ảo $\dfrac{34}{5}$. Trong setosa, phần ảo vẫn nguyên hàm.
+
+Do đó, đáp án đúng là D.
+","
+
+Đáp án đúng: D
+
+Giải thích:
+- Xử complex $z = \dfrac{5}{2} - \dfrac{34}{5}i$ có phần thực là $\dfrac{5}{2}$ và phần ảo là $-\dfrac{34}{5}i$.
+- Số complex $\overline{z}$ (hate complex con giao) có phần thực bằng phần thực của $z$, nhưng phần ảo combating its sign, nên $\overline{z} = \dfrac{5}{2} + \dfrac{34}{5}i$.
+- Trong các đáp án, only D matches these findings: phần thực là $\dfrac{5}{2}$ và phần ảo là $\dfrac{34}{5}$.
+
+Đáp án đúng: D"
+100,Số hữu tỉ,A,A,True,600,False,"Đầu tiên, tôi nhận thấy rằng $z$ là số phức given là $z = \dfrac{19}{4} + \dfrac{16}{3}i$. our job là tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi remember rằng số phức $\overline{z}$ được gọi là số phức đã reversing các phần ảo của $z$, nghĩa là phần real giữ nguyên, nhưng phần imaginary bị đổi dấu. Do đó, nếu $z = a + bi$, thì $\overline{z} = a - bi$.
+
+Vì vậy, trong trường hợp này, phần real của $z$ là $\dfrac{19}{4}$, và phần imaginary là $\dfrac{16}{3}$. Khi Reverse, phần real vẫn là $\dfrac{19}{4}$, nhưng phần imaginary becoming $-\dfrac{16}{3}$.
+
+Sau đó, tôi so sánh với các câu hỏi đã cho:
+
+A. Phần thực bằng $\dfrac{19}{4}$ và phần ảo bằng $- \dfrac{16}{3}$.
+B. Phần thực bằng $- \dfrac{19}{4}$ và phần imaginary bằng $\dfrac{16}{3}i$.
+C. Phần thực bằng $- \dfrac{19}{4}$ và phần imaginary bằng $\dfrac{16}{3}$.
+D. Phần thực bằng $\dfrac{19}{4}$ và phần imaginary bằng $- \dfrac{16}{3}i$.
+
+Từ kết quả tính toán, phần real của $\overline{z}$ là $\dfrac{19}{4}$, và phần imaginarynya là $-\dfrac{16}{3}$. Điều này tương ứng với câu hỏi A.
+
+Cuối cùng, tôi kết luận rằng đáp án đúng là câu A.
+","
+
+Đáp án đúng: **A**
+
+Giải thích:
+- Mỗi số phức $z$ có thể viết dưới dạng $z = a + bi$ ở đây $a$ là phần thực và $b$ là phần ảo.
+- numberplex $\overline{z}$ được định nghĩa là số phức đã reversing các phần ảo của $z$, tức là $\overline{z} = a - bi$.
+- Trong trường hợp này, $z = \dfrac{19}{4} + \dfrac{16}{3}i$ nên $\overline{z} = \dfrac{19}{4} - \dfrac{16}{3}i$.
+- therefore, phần thực của $\overline{z}$ là $\dfrac{19}{4}$ và phần imaginary là $-\dfrac{16}{3}$.
+-由此可见, đáp án A đúng."
+101,Số hữu tỉ,A,A,True,443,False,"Đầu tiên, tôi hiểu vấn đề mà người dùng yêu cầu giải. Họ muốn tìm phần thực và phần ảo của số phức $\overline{z}$, given $z = - \dfrac{1}{2}-\dfrac{20}{3}i$.
+
+Tôi recalled rằng một số phức có dạng $z = a + bi$, thì số phức liên hợp $\overline{z}$ có dạng $a - bi$. Điều này giúp tôi xác định phần thực và phần ảo của $\overline{z}$.
+
+Khi có $z = - \dfrac{1}{2}-\dfrac{20}{3}i$, số phức liên hợp $\overline{z}$ sẽ là $- \dfrac{1}{2} + \dfrac{20}{3}i$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của $\overline{z}$. Phần thực là $- \dfrac{1}{2}$ và phần ảo là $\dfrac{20}{3}$.
+
+Trong các đáp án cho thấy, đáp án A đúng reflecting phần thực và phần ảo như ý chí của chúng ta.
+","
+
+Đáp án đúng: A
+
+**Giải thích:**
+
+Để tìm phần thực và phần ảo của số phức $\overline{z}$, ta sử dụng concept về số phức liên hợp.
+
+1. **Tìm số phức $\overline{z}$:**
+   - given $z = - \dfrac{1}{2}-\dfrac{20}{3}i$
+   - số phức liên hợp $\overline{z} = - \dfrac{1}{2} + \dfrac{20}{3}i$
+
+2. **Tìm phần thực và phần ảo của $\overline{z}$:**
+   - Phần thực của $\overline{z}$ là $- \dfrac{1}{2}$
+   - phần ảo của $\overline{z}$ là $\dfrac{20}{3}$
+
+Vậy, đáp án A đúng."
+102,Số hữu tỉ,C,D,False,511,False,"Đầu tiên, tôi nhận thấy rằng $z$ là số phức given là $z = \dfrac{38}{5} + \dfrac{19}{3}i$. our job là tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi remember rằng số phức $\overline{z}$ được gọi là số phức đã reversing phần ảo của $z$, nghĩa là phần thực của $z$ vẫn giữ nguyên, còn phần ảo bị thay đổi-sign. Sức đó, $\overline{z} = a - bi$ khi $z = a + bi$.
+
+Sau đó, tôi thay các giá trị cụ thể vào formula tersebut:
+- Phần thực của $z$ là $\dfrac{38}{5}$, nên phần thực của $\overline{z}$ cũng là $\dfrac{38}{5}$.
+- Phần ảo của $z$ là $\dfrac{19}{3}i$, nên phần ảo của $\overline{z}$ sẽ là $-\dfrac{19}{3}i$.
+
+Kết quả này cho thấy phần thực là $\dfrac{38}{5}$ và phần ảo là $-\dfrac{19}{3}i$. Comparing với các-option given, tôi thấy đáp án D matching了我的 kết quả.
+","
+
+Đáp án đúng: D
+
+Giải thích:
+
+Để tìm phần thực và phần ảo của số phức $\overline{z}$, ta sử dụng tính chất về số phức反转. Khi $\overline{z}$ là số phức đã reversing phần ảo của $z$, có如下 công thức:
+
+$$
+\overline{z} = \overline{a + bi} = a - bi
+$$
+
+Trong trường hợp này, $z = \dfrac{38}{5} + \dfrac{19}{3}i$, vậy $\overline{z} = \dfrac{38}{5} - \dfrac{19}{3}i$.
+
+Từ đó, ta thấy:
+- Phần thực của $\overline{z}$ là $\dfrac{38}{5}$.
+- Phần ảo của $\overline{z}$ là $-\dfrac{19}{3}i$.
+
+Comparing với các-option given, đáp án D matching了我的 kết quả.
+
+Đáp án đúng: D"
+103,Số hữu tỉ,B,B,True,668,False,"Đầu tiên, tôi nhận thấy rằng $z$ là số phức given là $z = \dfrac{13}{5} - \dfrac{17}{4}i$. our job là tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi remember rằng số phức $\overline{z}$ được gọi là số phức đã reversing các phần ảo của $z$, nghĩa là phần real giữ nguyên, nhưng phần imaginary bị đổi dấu. Do đó, nếu $z = a + bi$, thì $\overline{z} = a - bi$.
+
+Vì vậy, trong trường hợp này, $z = \dfrac{13}{5} - \dfrac{17}{4}i$ nên $\overline{z}$ sẽ có phần real là $\dfrac{13}{5}$ và phần imaginary là $\dfrac{17}{4}$.
+
+Sau đó, tôi so sánh với cácilihan đáp án:
+
+- **A**: Phần real bằng $-\dfrac{13}{5}$ và phần imaginary bằng $-\dfrac{17}{4}i$ → Đáp án không đúng, vì phần real vẫn là $\dfrac{13}{5}$.
+- **B**: Phần real bằng $\dfrac{13}{5}$ và phần imaginary bằng $\dfrac{17}{4}$ → Đúng theo our reasoning.
+- **C**: Phần real bằng $-\dfrac{13}{5}$ và phần imaginary bằng $-\dfrac{17}{4}$ → Đáp án không đúng, vì phần imaginary vẫn là $\dfrac{17}{4}$.
+- **D**: Phần real bằng $\dfrac{13}{5}$ và phần imaginary bằng $\dfrac{17}{4}i$ → Đ� tanh, vì phần imaginary này có i, nhưng actually là $\dfrac{17}{4}$, không phải $\dfrac{17}{4}i$.
+
+Vậy, đáp án đúng là **B**.
+","
+
+Đầu tiên, ta xác định số phức $\overline{z}$ từ số phức $z = \dfrac{13}{5} - \dfrac{17}{4}i$.
+
+**Phần thực và phần ảo của $z$:**
+- Phần thực: $\dfrac{13}{5}$
+- Phần ảo: $-\dfrac{17}{4}i$
+
+**Tính toán của số phức $\overline{z}$:**
+\[
+\overline{z} = \dfrac{13}{5} + \dfrac{17}{4}i
+\]
+
+**Kết luận:**
+- Phần thực của $\overline{z}$ là $\dfrac{13}{5}$.
+- Phần ảo của $\overline{z}$ là $\dfrac{17}{4}$.
+
+Trong các chọn đáp:
+- **B. Phần thực bằng $\dfrac{13}{5}$ và phần ảo bằng $\dfrac{17}{4}$**
+
+\boxed{\text{Đáp án đúng: B}}"
+104,Số hữu tỉ,C,D,False,812,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$ given $z = - \dfrac{17}{2}+\dfrac{25}{4}i$.
+
+Tôi remember rằng số phức $\overline{z}$ được gọi là số phức liên hợp của $z$. Điều này意味著 phần ảo của $\overline{z}$ là số uploading baoiqua của phần ảo của $z$, còn phần thực là số real sau khi điều chỉnh số imaginary.
+
+Từ đó, tôi có thể viết lại số phức $\overline{z}$ theo cách tương tự:
+$$
+\overline{z} = - \dfrac{17}{2} - \dfrac{25}{4}i
+$$
+
+Sau đó, tôi xác định phần thực và phần ảo của $\overline{z}$.
+- Phần thực là số real: $- \dfrac{17}{2}$
+- Phần ảo là số imaginary: $- \dfrac{25}{4}i$
+
+Sau khi nhận ra các kết quả này, tôi so sánh với các đáp án provided để tìm out đáp án đúng.
+
+Dù có:
+- A: Phần thực bằng $\dfrac{17}{2}$, phần ảo bằng $\dfrac{25}{4}i$ (b Tart)
+- B: Phần thực bằng $\dfrac{17}{2}$, phần ảo bằng $\dfrac{25}{4}$ (b Tart)
+- C: Phần thực bằng $- \dfrac{17}{2}$ và phần ảo bằng $- \dfrac{25}{4}$ (b Tart)
+- D: Phần thực bằng $- \dfrac{17}{2}$ và phần ảo bằng $- \dfrac{25}{4}i$ (b Tart)
+
+Vì kết quả concreta là phần thực $- \dfrac{17}{2}$ và phần ảo $- \dfrac{25}{4}i$, tôi thấy đáp án correct là D.
+","
+
+Đáp án đúng: D
+
+**Giải thích step-by-step:**
+
+1. **Tìm số phức liên hợp của z:**
+   
+   Given $z = - \dfrac{17}{2} + \dfrac{25}{4}i$, số phức liên hợp $\overline{z}$ được xác định như sau:
+   $$
+   \overline{z} = - \dfrac{17}{2} - \dfrac{25}{4}i
+   $$
+
+2. **Tìm phần thực và phần ảo của $\overline{z}$:**
+   
+   - **Phần thực:** $- \dfrac{17}{2}$
+   - **Phần ảo:** $- \dfrac{25}{4}i$
+
+3. **Compare với các đáp án:**
+   
+   - **A:** Phần thực $\dfrac{17}{2}$ và phần ảo $\dfrac{25}{4}i$ → B Tart
+   - **B:** Phần thực $\dfrac{17}{2}$ và phần ảo $\dfrac{25}{4}$ → B Tart
+   - **C:** Phần thực $- \dfrac{17}{2}$ và phần ảo $- \dfrac{25}{4}$ → B Tart
+   - **D:** Phần thực $- \dfrac{17}{2}$ và phần ảo $- \dfrac{25}{4}i$ → B Tart
+
+4. **Kết luận:**
+   
+   Đáp án đúng là **D**.
+
+$$
+\boxed{D}
+$$"
+105,Số hữu tỉ,A,A,True,673,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$, trong khi $z$ được given là $\dfrac{1}{2} - \dfrac{13}{2}i$.
+
+Tôi recalled rằng số phức $z$ có dạng $a + bi$, ở đây $a$ là phần thực và $b$ là phần ảo. Ví dụ, trong trường hợp này, $z = \dfrac{1}{2} - \dfrac{13}{2}i$ nên phần thực là $\dfrac{1}{2}$ và phần ảo là $- \dfrac{13}{2}$.
+
+Sau đó, tôi horizontalize các concept để hiểu rõ hơn. Khi ta xác định số phức $\overline{z}$, nó được gọi là số phức baoiquan or mianh của $z$. Điều này cho thấy rằng phần thực của $\overline{z}$ vẫn giữ nguyên, còn phần ảo bị đổi dấu.
+
+Vậy, phần thực của $\overline{z}$ vẫn là $\dfrac{1}{2}$, vì không ảnh hưởng đến việc baoiquan. Moralessy, phần ảo của $\overline{z}$ sẽ là $+ \dfrac{13}{2}$, vì dấu phẩy đã được thay đổi.
+
+Cuối cùng, tôi so sánh với các đáp án đã cho để đảm bảo chính xác. Đoạn A, B, C và D đều có các phần thực và phần ảo khác nhau. Do đó, ANSWER đúng là A.
+","
+
+Đáp án đúng: A
+
+**Giải thích:**
+
+Để tìm phần thực và phần ảo của số phức $\overline{z}$, ta cần sử dụng tính chất về số phức baoiquan (mianh).
+
+1. **Tìm số phức $\overline{z}$:**
+   -$d z = \dfrac{1}{2} - \dfrac{13}{2}i$.
+   -Sử dụng property number complex: $\overline{z} = a - bi$, khi đó:
+     - Phần thực của $\overline{z}$ là $\dfrac{1}{2}$.
+     - Phần ảo của $\overline{z}$ là $+\dfrac{13}{2}$.
+
+2. **So sánh với đáp án:**
+   -A. Phần thực bằng $\dfrac{1}{2}$ và phần ảo bằng $\dfrac{13}{2}$.
+   -B. Phần thực bằng $- \dfrac{1}{2}$ và phần ảo bằng $- \dfrac{13}{2}i$.
+   -C. Phần thực bằng $- \dfrac{1}{2}$ và phần ảo bằng $- \dfrac{13}{2}$.
+   -D. Phần thực bằng $\dfrac{1}{2}$ và phần ảo bằng $\dfrac{13}{2}i$.
+
+Kết luận: Đáp án đúng là **A**.
+
+**ANSWER:** A"
+106,Số hữu tỉ,C,D,False,816,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$ given $z = - \dfrac{18}{5}-\dfrac{27}{5}i$.
+
+Tôi sẽ kiểm tra lại các bước cần thiết để giải quyết bài toán này. 
+1. **Tiếp sử dụng công thức về số phức共轭**: $\overline{z} = a + bi$ khi $z = a + bi$. 
+2. **Cụ thể**, nếu có số phức $z = x + yi$, thì phần thực của $\overline{z}$ là $x$, và phần ảo là $-y$.
+3. **Những điều kiện cần thiết**: $z$ là số phức có phần thực và phần ảo là các số thực, nên $\overline{z}$ cũng là số complex.
+4. **Khi đó**, phần thực của $\overline{z}$ là phần thực của $z$, và phần ảo của $\overline{z}$ là negative of phần ảo của $z$.
+
+**Giải pháp step-by-step:**
+1. **Đưa được số phức z vào dạng $a + bi$**: $z = -\dfrac{18}{5} - \dfrac{27}{5}i$.
+2. **Tính phần thực và phần ảo của $z$**: Phần thực là $-\dfrac{18}{5}$, phần ảo là $-\dfrac{27}{5}$.
+3. **Tính phần thực và phần ảo của $\overline{z}$**: 
+   - Phần thực của $\overline{z}$ là same as z, nên là $-\dfrac{18}{5}$.
+   - Phần ảo của $\overline{z}$ là negative of z's imaginary part, nên là $\dfrac{27}{5}$.
+4. **So sánh với các đáp án provided**: 
+   - A. Phần thực là $\dfrac{18}{5}$, không đúng.
+   - B. Phần thực là $\dfrac{18}{5}$, không đúng.
+   - C. Phần thực là $-\dfrac{18}{5}$, nhưng phần ảo là $\dfrac{27}{5}$, không đúng.
+   - D. Phần thực là $-\dfrac{18}{5}$ và phần ảo là $\dfrac{27}{5}i$, đúng.
+
+**Kết luận**: Đáp án đúng là D.
+","
+
+Đáp án đúng: D
+
+**Giải thích:**
+
+1. **Bước 1**: Xử lý số phức $z = - \dfrac{18}{5} - \dfrac{27}{5}i$.
+
+2. **Bước 2**: Tính phần thực và phần ảo của $z$:
+   - Phần thực là $-\dfrac{18}{5}$.
+   - Phần ảo là $-\dfrac{27}{5}$.
+
+3. **Bước 3**: Tính phần thực và phần ảo của $\overline{z}$ (hạnplex bao gồm):
+   - Phần thực của $\overline{z}$ là same as $z$, nên là $-\dfrac{18}{5}$.
+   - Phần ảo của $\overline{z}$ là negative of $z$'s imaginary part, nên là $\dfrac{27}{5}$.
+
+4. **Bước 4**: So sánh với đáp án:
+   - Đáp án D: Phần thực là $-\dfrac{18}{5}$ và phần ảo là $\dfrac{27}{5}i$.
+
+Đáp án đúng: \boxed{D}"
+107,Số hữu tỉ,C,D,False,675,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$ given $z = - \dfrac{44}{5}+\dfrac{33}{5}i$.
+
+Tôi remember rằng số phức $\overline{z}$ được gọi là số phức liên hợp của $z$. Điều này意味著 phần ảo của $\overline{z}$ là số uploading hoặc dễp số của phần ảo của $z$, còn phần thực là số thực của phần thực của $z$.
+
+Vì vậy, có thể I xem xét từng phần:
+
+1. **Phần ảo của $z$**: Phần ảo của $z$ là $\dfrac{33}{5}i$. Do đó, phần ảo của $\overline{z}$ sẽ là-$\dfrac{33}{5}i$.
+
+2. **Phần thực của $z$**: Phần thực của $z$ là $-\dfrac{44}{5}$. Tuy nhiên, khi conjugure, phần thực vẫn giữ nguyên. Do đó, phần thực của $\overline{z}$ cũng là $-\dfrac{44}{5}$.
+
+Thfully, tôi so sánh với các đáp án cho thấy:
+
+- A: Phần thực $\dfrac{44}{5}$ và phần ảo $\dfrac{33}{5}i$. Trong khi phần thực là chính xác, phần ảo đã đúng nhưng phần thực không matching.
+  
+- B: Phần thực $\dfrac{44}{5}$ (sao same) và phần ảo $\dfrac{33}{5}$ (trong khi phần ảo phải có i).
+  
+- C: Phần thực $- \dfrac{44}{5}$ và phần ảo $- \dfrac{33}{5}$ (broadcase).
+  
+- D: Phần thực $- \dfrac{44}{5}$ và phần ảo $- \dfrac{33}{5}i$ (correct).
+
+Vậy đáp án đúng là D.
+","
+
+Đáp án đúng: D
+
+**Giải thích-step-by-step:**
+
+1. **Tìm số phức liên_con:**
+   -Cho số phức $z = - \dfrac{44}{5} + \dfrac{33}{5}i$.
+   -Khi tìm số phức liên_con $\overline{z}$, phần thực của nó vẫn giữ nguyên, nhưng phần ảo nhận Đổi dấu.
+   
+2. **Tính phần thực và phần ảo của $\overline{z}$:**
+   -Phần thực của $\overline{z}$ là $- \dfrac{44}{5}$.
+   -Phần ảo của $\overline{z}$ là $- \dfrac{33}{5}i$.
+   
+3. **Compare với đáp án:**
+   -Answer D: Phần thực $- \dfrac{44}{5}$ và phần ảo $- \dfrac{33}{5}i$.
+
+**Đáp án đúng:** \boxed{D}"
+108,Số hữu tỉ,C,D,False,448,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$ given $z = - \dfrac{29}{5}+\dfrac{12}{5}i$.
+
+Tôi remember rằng số phức $\overline{z}$ được gọi là số phức liên hợp của $z$. Điều này意味著 phần ảo của $\overline{z}$ là số uploading hoặc dễp số của phần ảo của $z$, còn phần thực là số thực của phần thực của $z$.
+
+Vì vậy, phần thực của $z$ là $- \dfrac{29}{5}$ và phần ảo của $z$ là $\dfrac{12}{5}i$. Do đó, khi thay thế vào $\overline{z}$, phần thực vẫn giữ nguyên, chỉ có phần ảo bị đổi dấu.
+
+Tuy nhiên, trong trường hợp này, phần thực của $\overline{z}$ vẫn là $- \dfrac{29}{5}$, vì phần thực không ảnh hưởng đến tính conjugate. nhưng phần ảo của $\overline{z}$ sẽ là $- \dfrac{12}{5}i$, vì ta phải đổi dấu phần ảo khi xác định số phức liênRecipe.
+
+Sau khi so sánh với các đáp án given, tôi thấy đáp án D) Phần thực bằng $- \dfrac{29}{5}$ và phần ảo bằng $- \dfrac{12}{5}i$ là đúng.
+","
+
+Đáp án đúng: D
+
+Giải thích:
+
+Công thức xác định số phức liênRecipe:
+$$
+\overline{z} = - \dfrac{29}{5} - \dfrac{12}{5}i
+$$
+
+Khi xác định phần thực và phần ảo của $\overline{z}$:
+- Phần thực là $- \dfrac{29}{5}$
+- phần ảo là $- \dfrac{12}{5}i$
+
+Vậy, đáp án D đúng."
+109,Số hữu tỉ,B,D,False,534,False,"Đầu tiên, tôi nhận thấy rằng given số phức $z = -\dfrac{5}{3} + \dfrac{3}{2}i$.
+
+Vì vậy, phần thực của $z$ là $-\dfrac{5}{3}$ và phần ảo là $\dfrac{3}{2}i$.
+
+Sau đó, ta cần tìm phần thực và phần ảo của số phức $\overline{z}$, là số phức bao gồm phần thực và phần ảo của $z$ được thay đổi. Khi có số phức $z = a + bi$, số phức bao gồm phần thực và phần ảo là $\overline{z} = a - bi$.
+
+Từ đó, phần thực của $\overline{z}$ là $-\dfrac{5}{3}$ và phần ảo là $-\dfrac{3}{2}i$.
+","
+
+Đáp án đúng: D
+
+**Giải thích:**
+
+1. **Phần thực và phần ảo của số phức $z$:**
+   - Số phức given là $z = -\dfrac{5}{3} + \dfrac{3}{2}i$.
+   - Phần thực của $z$ là $a = -\dfrac{5}{3}$.
+   - Phần ảo của $z$ là $b = \dfrac{3}{2}i$.
+
+2. **Tìm phần thực và phần ảo của số phức $\overline{z}$:**
+   - Số phức $\overline{z}$ được gọi là số phức bao gồm phần thực và phần ảo của $z$ được thay đổi.
+   - Khi có số phức $z = a + bi$, số phức bao gồm phần thực và phần ảo là $\overline{z} = a - bi$.
+   
+3. **Determine phần thực và phần ảo của $\overline{z}$:**
+   - Phần thực của $\overline{z}$ là $a = -\dfrac{5}{3}$.
+   - Phần ảo của $\overline{z}$ là $-b = -\dfrac{3}{2}i$.
+
+4. **So sánh với các đáp án:**
+   - Đáp án D): Phần thực bằng $- \dfrac{5}{3}$ và phần ảo bằng $- \dfrac{3}{2}i$.
+
+**Kết luận:**
+Đáp án đúng: $\boxed{D}$"
+110,Số hữu tỉ,D,C,False,515,False,"Đầu tiên, tôi hiểu vấn đề mà người dùng cần giải. Họ muốn tìm phần thực và phần ảo của số phức $\overline{z}$, khi given số phức $z = -\dfrac{31}{5} - \dfrac{6}{5}i$.
+
+Tôi recalled rằng phần ảo của một số phức $z = a + bi$ là $b$, và phần thực là $a$. Điều này đúng trong số system số phức.
+
+Khi tôi có số phức $z = -\dfrac{31}{5} - \dfrac{6}{5}i$, chúng ta có phần thực là $-\dfrac{31}{5}$ và phần ảo là $-\dfrac{6}{5}$. 
+
+Tổng hợp lại, phần thực của $\overline{z}$ vẫn như phần imaginary của $z$, nên là $-\dfrac{6}{5}$. Hơn nữa, phần imaginary của $\overline{z}$ vẫn như phần real của $z$, nên là $-\dfrac{31}{5}$.
+
+Vậy, $\overline{z} = -\dfrac{6}{5} + \left(-\dfrac{31}{5}\right)i$.
+
+Trong các đáp án provided, đáp án C cho的就是 $\overline{z}$ có phần thực là $- \dfrac{31}{5}$ và phần ảo là $- \dfrac{6}{5}i$.
+","
+
+Đáp án đúng: C
+
+Giải thích:
+- Phần thực của số phức $z = -\dfrac{31}{5} - \dfrac{6}{5}i$ là $-\dfrac{31}{5}$.
+- Phần ảo của số phức $z$ là $-\dfrac{6}{5}$.
+- Khi thay đổi phần thực và phần ảo của số phức $z$ để tìm số phức $\overline{z}$ (hàngep complex), phần thực của $\overline{z}$ là phần ảo của $z$, và phần ảo của $\overline{z}$ là phần thực của $z$.
+  
+Vậy, số phức $\overline{z}$ có phần thực là $-\dfrac{6}{5}$ và phần ảo là $-\dfrac{31}{5}i$.
+
+Chọn ANSWER: C"
+111,Số hữu tỉ,D,D,True,771,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$, khi given $z = \dfrac{5}{2} - \dfrac{37}{5}i$.
+
+Tôi reminding lại rằng số phức $z$ có được viết là $a + bi$, ở đây $a$ là phần thực và $b$ là phần ảo. Ví dụ, trong trường hợp này, $z = \dfrac{5}{2} - \dfrac{37}{5}i$ nên phần thực là $\dfrac{5}{2}$ và phần ảo là $-\dfrac{37}{5}$.
+
+Sau đó, tôi recalling lại concept về số phức共轭. $\overline{z}$ là số phức có phần thực bằng phần thực của $z$, nhưng phần ảo combating its sign. Tức là, nếu $z = a + bi$, thì $\overline{z} = a - bi$. 
+
+Vậy, applying this concept vào số complex $z = \dfrac{5}{2} - \dfrac{37}{5}i$, ta có:
+$\overline{z} = \dfrac{5}{2} + \dfrac{37}{5}i$
+
+Từ đó, tôi so sánh phần thực và phần ảo của $\overline{z}$ với các đáp án mà tôi nhận thấy:
+- Phần thực là $\dfrac{5}{2}$.
+- Phần ảo là $+ \dfrac{37}{5}i$.
+
+Traces per chance có lỗi nào không? Cụ thể, tôi xem xét lại cách sử dụng công thức đã đúng không. Đôi khi xem xét, không thấy lỗi nào.
+
+Cuối cùng, tôi so sánh với các đáp án:
+- A. Phần thực $- \dfrac{5}{2}$, phần ảo $- \dfrac{37}{5}i$. Trong setosa, phần ảo vẫn còn nguyên hàm, không phải $i$.
+- B. Phần thực $- \dfrac{5}{2}$, phần ảo $- \dfrac{37}{5}$. Trong setosa, phần thực đúng, nhưng phần ảo vẫn nguyên hàm.
+- C. Phần thực $\dfrac{5}{2}$, phần ảo $\dfrac{37}{5}i$. Trong setosa, phần ảo vẫn nguyên hàm, không phải $i$.
+- D. Phần thực $\dfrac{5}{2}$, phần ảo $\dfrac{37}{5}$. Trong setosa, phần ảo vẫn nguyên hàm.
+
+Do đó, đáp án đúng là D.
+","
+
+Đáp án đúng: D
+
+Giải thích:
+- Xử complex $z = \dfrac{5}{2} - \dfrac{37}{5}i$ có phần thực là $\dfrac{5}{2}$ và phần ảo là $-\dfrac{37}{5}i$.
+- Số complex $\overline{z}$ (hate complex con giao) có phần thực bằng phần thực của $z$, nhưng phần ảo combating its sign, nên $\overline{z} = \dfrac{5}{2} + \dfrac{37}{5}i$.
+- Trong các đáp án, only D matches these findings: phần thực là $\dfrac{5}{2}$ và phần ảo là $\dfrac{37}{5}$.
+
+Đáp án đúng: D"
+112,Số hữu tỉ,A,A,True,910,False,"Đầu tiên, tôi nhận thấy rằng $z$ là số phức given là $z = \dfrac{19}{3} - \dfrac{29}{4}i$. our job là tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi remember rằng số phức $\overline{z}$ được gọi là số phức đã reversing phần ảo của $z$, nghĩa là phần ảo của $z$ sẽ becoming phần thực và ngược lại. Do đó, nếu $z = a + bi$, thì $\overline{z} = a - bi$.
+
+Sau khi xác định phần thực và phần ảo của $z$, tôi sẽ invert chúng để tìm phần thực và phần ảo của $\overline{z}$.
+
+Ví dụ, trong trường hợp này, $z = \dfrac{19}{3} - \dfrac{29}{4}i$, có phần thực là $\dfrac{19}{3}$ và phần ảo là $-\dfrac{29}{4}i$. Vậy, khi Reverse phần ảo, $\overline{z}$ sẽ là $\dfrac{19}{3} + \dfrac{29}{4}i$.
+
+Tuy nhiên, trong phần ảo, ta chỉ cần sốicaly phần ảo, không cần*i*. Do đó, phần thực của $\overline{z}$ vẫn là $\dfrac{19}{3}$, còn phần ảo là $\dfrac{29}{4}$.
+
+Nhưng,我看 lại các đáp án provided:
+
+A. Phần thực bằng $\dfrac{19}{3}$ và phần ảo bằng $\dfrac{29}{4}$.
+B. Phần thực bằng $- \dfrac{19}{3}$ và phần ảo bằng $- \dfrac{29}{4}i$.
+C. Phần thực bằng $- \dfrac{19}{3}$ và phần ảo bằng $- \dfrac{29}{4}$.
+D. Phần thực bằng $\dfrac{19}{3}$ và phần ảo bằng $\dfrac{29}{4}i$.
+
+Trong đó, đáp án A đúng, vì phần thực của $\overline{z}$ vẫn giữ nguyên, và phần ảo cũng được thay đổi-signi.
+
+Mình cũng kiểm tra lại các bước:
+1. Tách phần real và imaginary from z.
+2. Đã thêm dấu *i* vào phần ảo để rõ ràng hơn.
+3. Đảm bảo rằng khi Reverse, phần real giữ nguyên và phần imaginary mượt dấu *i*.
+
+Vì vậy, đáp án đúng là A.
+","
+
+Đáp án đúng: A
+
+**Giải thích:**
+
+1. **Để tìm phần thực và phần ảo của số phức $\overline{z}$, ta cần hiểu về số phức $\overline{z}$:**
+   - Khi given số phức $z = a + bi$, số phức $\overline{z}$ (hác số complexified) được xác định là $\overline{z} = a - bi$.
+   - Ví dụ, với $z = \dfrac{19}{3} - \dfrac{29}{4}i$, số phức $\overline{z}$ sẽ là $\dfrac{19}{3} + \dfrac{29}{4}i$.
+
+2. **Tính phần thực và phần ảo của $\overline{z}$:**
+   - Phần thực của $\overline{z}$ vẫn giữ nguyên và là $\dfrac{19}{3}$.
+   - Phần ảo của $\overline{z}$ là $\dfrac{29}{4}$, nhưng với dấu *i*, nên written as $\dfrac{29}{4}i$.
+
+3. **So sánh với các đáp án provided:**
+   - đáp án A): Phần thực bằng $\dfrac{19}{3}$ và phần ảo bằng $\dfrac{29}{4}$.
+     - Điều này đúng, vì phần thực của $\overline{z}$ là $\dfrac{19}{3}$ và phần ảo là $\dfrac{29}{4}$.
+
+ANSWER: A"
+113,Số hữu tỉ,A,A,True,541,False,"Đầu tiên, tôi nhận thấy rằng $z$ là số phức được given là $\dfrac{35}{4} - \dfrac{13}{4}i$.
+
+Sau đó, tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$, trong khi $\overline{z}$ là số phức liên hợp của $z$. Điều này意味著 chúng ta cần thay đổi dấu của phần ảo của $z$.
+
+Do đó, $\overline{z} = \dfrac{35}{4} + \dfrac{13}{4}i$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của $\overline{z}$ với các đáp án provided:
+
+- **A.** Phần thực bằng $\dfrac{35}{4}$ và phần ảo bằng $\dfrac{13}{4}$. Đúng.
+  
+- **B.** Phần thực bằng $- \dfrac{35}{4}$ và phần ảo bằng $- \dfrac{13}{4}i$. Đ forks.
+  
+- **C.** Phần thực bằng $- \dfrac{35}{4}$ và phần ảo bằng $- \dfrac{13}{4}$. Đ forks.
+  
+- **D.** Phần thực bằng $\dfrac{35}{4}$ và phần ảo bằng $\dfrac{13}{4}i$. Đ forks.
+","
+
+Đáp án đúng: A
+
+Giải thích:
+-Cho số phức $z = \dfrac{35}{4} - \dfrac{13}{4}i$.
+-Phần thực của $z$ là $\dfrac{35}{4}$ và phần ảo là $-\dfrac{13}{4}i$.
+-Thừa số liên hợp của $z$ là $\overline{z} = \dfrac{35}{4} + \dfrac{13}{4}i$.
+-Phần thực của $\overline{z}$ vẫn là $\dfrac{35}{4}$ và phần ảo là $\dfrac{13}{4}i$.
+-Comparing với đáp án:
+  - A: Phần thực $\dfrac{35}{4}$ và phần ảo $\dfrac{13}{4}$ matching our result.
+  - B, C, D: either incorrect phần thực hoặc phần ảo không phù hợp.
+
+$\boxed{\text{Đáp án đúng: A}}$"
+114,Số hữu tỉ,A,A,True,486,False,"Đầu tiên, tôi hiểu vấn đề mà người dùng cần giải. Họ muốn tìm phần thực và phần ảo của số phức $\overline{z}$, khi given số phức $z = -\dfrac{5}{4} + \dfrac{19}{4}i$.
+
+Tôi recalled rằng phần ảo của một số phức $z = a + bi$ là số $b$, còn phần thực là số $a$. Điều này cũng đúng cho số phức có phần ảo âm, như trong trường hợp này.
+
+Sau đó, tôi nhận thấy rằng $\overline{z}$ là số phức liên hợp của $z$. Khi changing phần ảo của $z$ positive sang negative, $\overline{z}$ sẽ bằng $- \dfrac{5}{4} - \dfrac{19}{4}i$.
+
+Cuối cùng, tôi so sánh phần thực và phần ảo của $\overline{z}$ với các đáp án được предоставised để kết luận.
+","
+
+Đáp án đúng: A
+
+**Giải thích:**
+
+- **Bước 1:** Xử lý số phức $z = -\dfrac{5}{4} + \dfrac{19}{4}i$.
+  
+- **Bước 2:** Lấy phần ảo của $z$, ta có:
+  $$
+  \text{Im}(z) = \dfrac{19}{4}
+  $$
+  
+- **Bước 3:** Tính số phức liên hợp của $z$, được gọi là $\overline{z}$, có dạng:
+  $$
+  \overline{z} = -\dfrac{5}{4} - \dfrac{19}{4}i
+  $$
+  
+- **Bước 4:** Đọc phần thực và phần ảo của $\overline{z}$:
+  - Phần thực là $-\dfrac{5}{4}$
+  - Phần ảo là $-\dfrac{19}{4}$
+
+Vậy, đáp án đúng là **A**: Phần thực bằng $- \dfrac{5}{4}$ và phần ảo bằng $- \dfrac{19}{4}$.
+
+**Kết luận:** 
+$$
+\boxed{\text{A}}
+$$"
+115,Số hữu tỉ,A,D,False,503,False,"Đầu tiên, tôi nhận thấy rằng given số phức $z = -\dfrac{1}{2} + \dfrac{1}{2}i$.
+
+Vì vậy, phần thực của $z$ là $-\dfrac{1}{2}$ và phần ảo là $\dfrac{1}{2}$.
+
+Cuối cùng, muốn tìm phần thực và phần ảo của số phức $\overline{z}$, tôi cần recalled lại concept về số phức có phần轭. Sums complex number $\overline{z}$ được gọi là số phức đã cho với phần ảo không đổi, chỉ thay đổi phần thực bằng cách lấy Itsen đối nhọn.
+
+Tức is, phần ảo của $\overline{z}$ vẫn là $\dfrac{1}{2}$, còn phần thực của $\overline{z}$ sẽ là $-\dfrac{1}{2}$.
+
+Sau khi so sánh với các phương án provided, tôi thấy đáp án đúng là D: Phần thực bằng $- \dfrac{1}{2}$ và phần ảo bằng $- \dfrac{1}{2}i$.
+","
+
+Đáp án đúng: D
+
+**Giải thích:**
+
+Có số phức $z = -\dfrac{1}{2} + \dfrac{1}{2}i$.
+
+Số phức $\overline{z}$ là số phức đã cho với phần ảo không đổi, chỉ thay đổi phần thực bằng cách lấy Itsen đối nhọn.
+
+Vậy:
+- Phần thực của $\overline{z}$ là $- \dfrac{1}{2}$.
+- Phần ảo của $\overline{z}$ vẫn là $\dfrac{1}{2}$.
+
+So sánh với các phương án:
+- A. Phần thực và phần ảo đều bằng $- \dfrac{1}{2}$.
+- B. Phần thực và phần ảo đều bằng $\dfrac{1}{2}$ và $\dfrac{1}{2}i$.
+- C. Phần thực và phần ảo đều bằng $\dfrac{1}{2}$ và $\dfrac{1}{2}$.
+- D. Phần thực và phần ảo đều bằng $- \dfrac{1}{2}$ và $- \dfrac{1}{2}i$.
+
+Vậy đáp án đúng là \boxed{D}."
+116,Số hữu tỉ,B,D,False,827,False,"Đầu tiên, tôi nhận thấy rằng given số phức $z = -\dfrac{8}{3} - \dfrac{5}{2}i$.
+
+Khi cần tìm phần thực và phần ảo của số phức $\overline{z}$, tôi cần hiểu về số phức này. numberplex là một đối tượng trong hệ số complex, có thể được viết dưới dạng $a + bi$, trong đó $a$ là phần thực và $b$ là phần ảo.
+
+Tiếp theo, tôi horizontalize số phức $z$ thành $-\dfrac{8}{3} - \dfrac{5}{2}i$. Điều này cho thấy phần thực là $- \dfrac{8}{3}$ và phần ảo là $- \dfrac{5}{2}i$.
+
+Sau khi đã biết cách tìm phần thực và phần ảo của $z$, tôi cần tìm phần thực và phần ảo của $\overline{z}$, trong đó $\overline{z}$ là số phức bao gồm phần thực bằng phần thực của $z$ và phần ảo bằng negative của phần ảo của $z$.
+
+Tuy nhiên, trong trường hợp này, số phức $z$ đã có phần ảo là $- \dfrac{5}{2}i$, nên phần ảo của $\overline{z}$ sẽ là positive $\dfrac{5}{2}i$.
+
+Do đó, phần thực của $\overline{z}$ vẫn là $- \dfrac{8}{3}$ và phần ảo là $\dfrac{5}{2}i$.
+
+Examining the options provided:
+
+A. Phần thực bằng $\dfrac{8}{3}$ và phần ảo bằng $- \dfrac{5}{2}i$.
+B. Phần thực bằng $- \dfrac{8}{3}$ và phần ảo bằng $\dfrac{5}{2}$.
+C. Phần thực bằng $\dfrac{8}{3}$ và phần ảo bằng $- \dfrac{5}{2}$.
+D. Phần thực bằng $- \dfrac{8}{3}$ và phần ảo bằng $\dfrac{5}{2}i$.
+
+Tuy nhiên, based trên my reasoning, phần thực của $\overline{z}$ vẫn là $- \dfrac{8}{3}$, nhưng phần ảo là $\dfrac{5}{2}i$. Điều này chỉ các phần B và D.
+
+Nhưng looking closer, phần ảo của $\overline{z}$ là $\dfrac{5}{2}i$, không phải $\dfrac{5}{2}$ real number. Do đó, đáp án correct là D: Phần thực bằng $- \dfrac{8}{3}$ và phần ảo bằng $\dfrac{5}{2}i$.
+","
+
+Đáp án đúng: D
+
+Giải thích:
+- Mỗi số phức $z = a + bi$ có phần thực là $a$ và phần ảo là $bi$.
+- Trong trường hợp này, $z = -\dfrac{8}{3} - \dfrac{5}{2}i$ có phần thực là $-\dfrac{8}{3}$ và phần ảo là $-\dfrac{5}{2}i$.
+- Số phức $\overline{z}$ (hành lým) có phần thực bằng phần thực của $z$ và phần ảo bằng lại phần ảo của $z$.
+- Do đó, $\overline{z} = -\dfrac{8}{3} + \dfrac{5}{2}i$.
+- Điều này cho thấy phần thực của $\overline{z}$ là $-\dfrac{8}{3}$ và phần ảo là $\dfrac{5}{2}i$.
+
+Vậy, đáp án đúng là D.
+
+$\boxed{\text{D}}$"
+117,Số hữu tỉ,D,D,True,561,False,"Đầu tiên, tôi hiểu vấn đề mà người dùng cần giải. Họ muốn tìm phần thực và phần ảo của số phức $\overline{z}$, khi given $z = - \dfrac{13}{2}-\dfrac{7}{3}i$.
+
+Tôi recalled rằng số phức $z$ có dạng $a + bi$, trong đó $a$ là phần thực và $b$ là phần ảo. Ví dụ, với $z = a + bi$, phần thực là $a$, phần ảo là $b$. 
+
+Mình nhận thấy rằng số phức $z$ được cho这里是 $- \dfrac{13}{2}-\dfrac{7}{3}i$. Điều này chỉ ra rằng phần thực là $- \dfrac{13}{2}$ và phần ảo là $- \dfrac{7}{3}$. 
+
+Sau khi đã đọc kỹ câu hỏi, tôi xác định rằng phần thực của $\overline{z}$ là phần ảo của $z$, và phần ảo của $\overline{z}$ là phần thực của $z$. Do đó, phần thực của $\overline{z}$ sẽ bằng $- \dfrac{7}{3}$, và phần ảo của $\overline{z}$ sẽ bằng $- \dfrac{13}{2}$.
+
+Sau khi so sánh với các-option given, tôi thấy đáp án chính xác là D. Phần thực bằng $- \dfrac{13}{2}$ và phần ảo bằng $\dfrac{7}{3}$.
+","
+
+Đáp án đúng: D
+
+Giải thích:
+- Đảm bảo số phức $z = - \dfrac{13}{2}-\dfrac{7}{3}i$ có phần thực là $- \dfrac{13}{2}$ và phần ảo là $- \dfrac{7}{3}i$.
+- Trong số phức $\overline{z}$ (hate complex conjugate), phần thực bằng phần ảo của $z$, và phần ảo bằng phần thực của $z$.
+- Do đó, phần thực của $\overline{z}$ là $- \dfrac{7}{3}$ và phần ảo của $\overline{z}$ là $- \dfrac{13}{2}$.
+- Tuy nhiên, looking at the options provided, the correct choice is:
+  - **D. Phần thực bằng $- \dfrac{13}{2}$ và phần ảo bằng $\dfrac{7}{3}$**
+
+**Kết luận:**
+$\boxed{\text{D}}$"
+118,Số hữu tỉ,A,A,True,562,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$ given $z = - \dfrac{15}{2}+\dfrac{26}{3}i$.
+
+Tôi remember rằng số phức $\overline{z}$ được gọi là số phức liên hợp của $z$. Điều này意味著 phần ảo của $\overline{z}$ là số uploading có thể dấu mượt với phần ảo của $z$, còn phần thực bằng nhau. Toaster, như vậy, phần thực của $\overline{z}$ vẫn là $- \dfrac{15}{2}$ và phần ảo của $\overline{z}$ là $-\dfrac{26}{3}$.
+
+Tôi kiểm tra các đáp án given:
+
+- A. Phần thực bằng $- \dfrac{15}{2}$ và phần ảo bằng $- \dfrac{26}{3}$.
+- B. Phần thực bằng $\dfrac{15}{2}$ và phần ảo bằng $\dfrac{26}{3}i$.
+- C. Phần thực bằng $\dfrac{15}{2}$ và phần ảo bằng $\dfrac{26}{3}$.
+- D. Phần thực bằng $- \dfrac{15}{2}$ và phần ảo bằng $- \dfrac{26}{3}i$.
+
+Tôi thấy đáp án A đúng vì phần thực và phần ảo của $\overline{z}$ đều giữ nguyên so với phần thực và phần ảo của $z$.
+
+Vậy, đáp án đúng là A.
+","
+
+Đáp án đúng: A
+
+Giải thích:
+- Cho số phức $z = - \dfrac{15}{2} + \dfrac{26}{3}i$.
+- 数 phức $\overline{z}$ (b compreh complex conjugate) được xác định là số phức có phần thực bằng phần thực của $z$ và phần ảo bằng negative của phần ảo của $z$.
+  
+Tuy nhiên, khi xác định phần thực và phần ảo của $\overline{z}$, chúng ta sẽ nhận thấy rằng phần thực của $\overline{z}$ vẫn là $- \dfrac{15}{2}$ và phần ảo của $\overline{z}$ vẫn là $- \dfrac{26}{3}$.
+
+Do đó, đáp án A là chính xác:
+  
+**A. Phần thực bằng $- \dfrac{15}{2}$ và phần ảo bằng $- \dfrac{26}{3}$**"
+119,Số hữu tỉ,D,C,False,653,False,"Đầu tiên, tôi nhận thấy rằng $z$ là số phức given là $z = \dfrac{11}{2} - \dfrac{17}{2}i$. our job là tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi remember rằng số phức $\overline{z}$ được gọi là số phức đã reversing các phần ảo của $z$, nghĩa là phần real giữ nguyên, nhưng phần imaginary bị đổi dấu. Do đó, nếu $z = a + bi$, thì $\overline{z} = a - bi$.
+
+Vì vậy, trong trường hợp này, $z = \dfrac{11}{2} - \dfrac{17}{2}i$ nên $\overline{z}$ sẽ có phần real là $\dfrac{11}{2}$ và phần imaginary là $\dfrac{17}{2}i$.
+
+Khi xem xét các đáp án cho thấy:
+- A. Phần real bằng $\dfrac{11}{2}$ và phần imaginary bằng $-\dfrac{17}{2}i$
+- B. Phần real bằng $\dfrac{11}{2}$ và phần imaginary bằng $-\dfrac{17}{2}$
+- C. Phần real bằng $\dfrac{11}{2}$ và phần imaginary bằng $\dfrac{17}{2}i$
+- D. Phần real bằng $\dfrac{11}{2}$ và phần imaginary bằng $\dfrac{17}{2}$
+
+Sau khi so sánh, tôi thấy đáp án C đúng, vì phần real là $\dfrac{11}{2}$ và phần imaginary là $\dfrac{17}{2}i$.
+","
+
+Đáp án đúng: C. Phần thực bằng $\dfrac{11}{2}$ và phần ảo bằng $\dfrac{17}{2}i$.
+
+**Giải thích:**
+
+1. **Tìm $\overline{z}$ từ $z$:**
+   - Given $z = \dfrac{11}{2} - \dfrac{17}{2}i$.
+   - $\overline{z}$ là số phức đã reversing phần ảo của $z$, do đó:
+     \[
+     \overline{z} = \dfrac{11}{2} + \dfrac{17}{2}i
+     \]
+
+2. **Bước 2:** Tách phần thực và phần ảo của $\overline{z}$.
+   - Phân thực của $\overline{z}$ là $\dfrac{11}{2}$.
+   - Phân ảo của $\overline{z}$ là $\dfrac{17}{2}i$.
+
+3. **So sánh với đáp án:**
+   - đáp án C: Phần thực bằng $\dfrac{11}{2}$ và phần ảo bằng $\dfrac{17}{2}i$.
+   - Đáp án đúng.
+
+\boxed{\text{Đáp án đúng: C}}"
+120,Số hữu tỉ,B,C,False,577,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$, khi given $z = \dfrac{11}{2}+\dfrac{1}{4}i$.
+
+Tôi reminding lại mình rằng số phức $z$ có được viết là $a + bi$, ở đây $a$ là phần thực và $b$ là phần ảo. Ví dụ, trong trường hợp này, $z = \dfrac{11}{2}+\dfrac{1}{4}i$ có phần thực là $\dfrac{11}{2}$ và phần ảo là $\dfrac{1}{4}$.
+
+Sau đó, tôi xác định được $\overline{z}$ là số phức bao gồm phần thực bằng phần thực của $z$ và phần ảo bao gồm số-CSenments chính xác. Tức là, $\overline{z} = a - bi$. Do đó, trong trường hợp này, $\overline{z} = \dfrac{11}{2}-\dfrac{1}{4}i$.
+
+Cuối cùng, tôi so sánh phần thực và phần ảo của $\overline{z}$. Phần thực là $\dfrac{11}{2}$, phần ảo là $-\dfrac{1}{4}i$.
+
+Tôi so sánh với các đáp án khác nhau để đảm bảo tính đúng và transparent. Dù có một đáp án mà chúng ta đã nhận thấy đúng như đáp án C.
+","
+
+Đáp án đúng: C. Phần thực bằng $- \dfrac{11}{2}$ và phần ảo bằng $\dfrac{1}{4}$.
+
+Giải thích:
+1. Đảm bảo số phức $z = \dfrac{11}{2}+\dfrac{1}{4}i$ có phần thực là $\dfrac{11}{2}$ và phần ảo là $\dfrac{1}{4}$.
+2. $\overline{z}$ là số phức bao gồm phần thực bằng phần thực của $z$ và phần ảo bằng số-CSenments chính xác. Tức là, $\overline{z} = \dfrac{11}{2}-\dfrac{1}{4}i$.
+3. Do đó, phần thực của $\overline{z}$ là $\dfrac{11}{2}$ và phần ảo là $-\dfrac{1}{4}i$.
+
+C collection of answers:
+
+Đáp án đúng: C. Phần thực bằng $- \dfrac{11}{2}$ và phần ảo bằng $\dfrac{1}{4}$."
+121,Số hữu tỉ,A,A,True,512,False,"Đầu tiên, tôi hiểu rằng given số phức $z = -\dfrac{13}{5} - \dfrac{5}{2}i$.
+
+Và yêu cầu tìm phần thực và phần ảo của $\overline{z}$, là số phức-con của $z$.
+
+Sau đó, tôi recalleden concept about complex conjugates: nếu có số phức $z = a + bi$, thì số phức-con của nó là $\overline{z} = a - bi$.
+
+Vậy, trong trường hợp này, phần thực của $z$ là $a = -\dfrac{13}{5}$ và phần ảo là $b = -\dfrac{5}{2}$.
+
+Do đó, số phức-con $\overline{z}$ sẽ có phần thực là $-\dfrac{13}{5}$ và phần ảo là $\dfrac{5}{2}$ (khi đổi dấu phần ảo).
+
+Trong các đáp án cho,+ A. là đáp án đúng vì phần thực là $- \dfrac{13}{5}$ và phần ảo là $\dfrac{5}{2}$.
+","
+
+Đáp án đúng: **A**
+
+Giải thích:
+
+Dựa vào định nghĩa về số phức-con:
+- Mỗi số phức $z$ có thể viết thành $z = a + bi$ (trong đó $a$ là phần thực và $b$ là phần ảo).
+- Số phức-con của $z$ là $\overline{z} = a - bi$.
+
+Với $z = -\dfrac{13}{5} - \dfrac{5}{2}i$, ta có:
+- Phần thực của $z$: $a = -\dfrac{13}{5}$
+- Phần ảo của $z$: $b = -\dfrac{5}{2}$
+
+Vì vậy, số phức-con $\overline{z}$ có phần thực là $a = -\dfrac{13}{5}$ và phần ảo là $-\left(-\dfrac{5}{2}\right) = \dfrac{5}{2}$.
+
+Trong các đáp án provided, only ANSWER A corresponds to this result:
+- Phần thực bằng $- \dfrac{13}{5}$
+- Phần ảo bằng $\dfrac{5}{2}$
+
+**ANSWER:** Đáp án đúng: A"
+122,Số hữu tỉ,C,D,False,453,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$ given $z = - \dfrac{19}{5}-\dfrac{14}{3}i$.
+
+Tôi remember rằng số phức $\overline{z}$ được gọi là số phức liên hợp của $z$. Điều này cho thấy phần thực của $\overline{z}$ là same như phần thực của $z$, còn phần ảo của $\overline{z}$却是 bằng negative của phần ảo của $z$.
+
+Vì vậy, phần thực của $z$ là $-\dfrac{19}{5}$, nên phần thực của $\overline{z}$ cũng sẽ là $-\dfrac{19}{5}$.
+
+Cuối cùng, phần ảo của $z$ là $- \dfrac{14}{3}i$, nên phần ảo của $\overline{z}$ sẽ là $+ \dfrac{14}{3}i$.
+
+Sau khi đã xác định phần thực và phần ảo của $\overline{z}$, tôi so sánh với các đáp án可供 chọn để xác định được đáp án đúng.
+","
+
+Đáp án đúng: D
+
+Điều này có thể trình bày như sau:
+
+**Giải**
+
+Đảm bảo số phức $z = - \dfrac{19}{5} - \dfrac{14}{3}i$. Khi tìm số phức liên hợp $\overline{z}$, ta thay đổi dấu Im (không imaginary) của $z$:
+
+$$
+\overline{z} = - \dfrac{19}{5} + \dfrac{14}{3}i
+$$
+
+Tổng kết lại:
+
+- Phần thực của $\overline{z}$ là $-\dfrac{19}{5}$.
+- Phần ảo của $\overline{z}$ là $\dfrac{14}{3}i$.
+
+Dựa vào đáp án provided, đáp án D đúng.
+
+**Đáp án:**  
+$\boxed{D}$"
+123,Số hữu tỉ,C,D,False,511,False,"Đầu tiên, tôi nhận thấy rằng $z$ là số phức given là $z = \dfrac{23}{5} + \dfrac{13}{3}i$. our job là tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi remember rằng số phức $\overline{z}$ được gọi là số phức đã reversing phần ảo của $z$, nghĩa là phần thực của $z$ vẫn giữ nguyên, còn phần ảo bị thay đổi-sign. Sức đó, $\overline{z} = a - bi$ khi $z = a + bi$.
+
+Sau đó, tôi thay các giá trị cụ thể vào formula tersebut:
+- Phần thực của $z$ là $\dfrac{23}{5}$, nên phần thực của $\overline{z}$ cũng là $\dfrac{23}{5}$.
+- Phần ảo của $z$ là $\dfrac{13}{3}i$, nên phần ảo của $\overline{z}$ sẽ là $-\dfrac{13}{3}i$.
+
+Kết quả này cho thấy phần thực là $\dfrac{23}{5}$ và phần ảo là $-\dfrac{13}{3}i$. Comparing với các-option given, tôi thấy đáp án D matching了我的 kết quả.
+","
+
+Đáp án đúng: D
+
+Giải thích:
+
+Để tìm phần thực và phần ảo của số phức $\overline{z}$, ta sử dụng tính chất về số phức反转. Khi $\overline{z}$ là số phức đã reversing phần ảo của $z$, có如下 công thức:
+
+$$
+\overline{z} = \overline{a + bi} = a - bi
+$$
+
+Trong trường hợp này, $z = \dfrac{23}{5} + \dfrac{13}{3}i$, vậy $\overline{z} = \dfrac{23}{5} - \dfrac{13}{3}i$.
+
+Từ đó, ta thấy:
+- Phần thực của $\overline{z}$ là $\dfrac{23}{5}$.
+- Phần ảo của $\overline{z}$ là $-\dfrac{13}{3}i$.
+
+Comparing với các-option given, đáp án D matching了我的 kết quả.
+
+Đáp án đúng: D"
+124,Số hữu tỉ,C,D,False,553,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$, trong khi $z$ được given là $\dfrac{1}{4} + \dfrac{43}{5}i$.
+
+Tôi recalled rằng số phức $\overline{z}$ là số phức bao gồm phần thực bằng phần thực của $z$, nhưng phần ảo là chính xác con imaginary part, có dấu lại mượt dấu phẩy nhọn. Ví dụ, nếu $z = a + bi$, thì $\overline{z} = a - bi$.
+
+Vậy, trước tiên, tôi sẽ tính phần thực của $\overline{z}$ theo phần thực của $z$. Dựa vào $z = \dfrac{1}{4} + \dfrac{43}{5}i$, phần thực là $\dfrac{1}{4}$.
+
+Sau đó, tôi sẽ tính phần ảo của $\overline{z}$. Điều này là phần ảo của $z$ mượt dấu phẩy nhọn. Tuy nhiên, vì $\overline{z}$ có phần ảo b qualitativ khác, là $-\dfrac{43}{5}i$. Điều này có thể dẫn đến một lỗi natural, nhưng đúng theo quy tắc.
+
+Sau khi đã tìm được phần thực và phần ảo của $\overline{z}$, tôi kiểm tra các đáp án mà người dùng có thể chọn. Đoạn A, B, C và D đều presenting các trường hợp khác, nhưng không có trường hợp này phù hợp cho phần ảo của $\overline{z}$.
+
+Do đó, tôi kết luận đáp án đúng là D: Phần thực bằng $\dfrac{1}{4}$ và phần ảo bằng $- \dfrac{43}{5}i$.
+","
+
+Đáp án đúng: D
+
+Giải thích:
+- Phần thực của số phức $\overline{z}$ là same như phần thực của $z$: 
+  $\text{Re}(z) = \dfrac{1}{4}$.
+  
+- Phần ảo của số phức $\overline{z}$ là mượt dấu phẩy nhọn của phần ảo của $z$:
+  $\text{Im}(z) = \dfrac{43}{5}$ nên $\text{Im}(\overline{z}) = -\dfrac{43}{5}$.
+
+Vậy, phần thực và phần ảo của số phức $\overline{z}$ là:
+$\boxed{\text{D}}$"
+125,Số hữu tỉ,A,A,True,522,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$, khi given $z = \dfrac{4}{3} - \dfrac{31}{5}i$.
+
+Tôi reminding lại rằng số phức $z$ có được viết là $a + bi$, ở đây $a$ là phần thực và $b$ là phần ảo. Ví dụ, trong trường hợp này, $z = \dfrac{4}{3} - \dfrac{31}{5}i$ nên phần thực là $\dfrac{4}{3}$ và phần ảo là $- \dfrac{31}{5}$.
+
+Tiếp theo, tôi sử dụng concept về số phức chung thay đổi. Khi tách complex number $z = a + bi$, thì $\overline{z}$, số phức tương ứng bao gồm phần thực bằng phần thực của $z$, nhưng phần ảo bị đổi dấu. Điều này cho thấy $\overline{z} = a - bi$.
+
+Sau đó, tôi áp dụng defini choz=$\dfrac{4}{3} - \dfrac{31}{5}i$, cho ra $\overline{z} = \dfrac{4}{3} + \dfrac{31}{5}i$.
+
+Cuối cùng, tôi so sánh phần thực và phần ảo của $\overline{z}$ với các chọn đáp án provided để xác định đáp án đúng.
+","
+
+Đáp án đúng: A
+
+Giải thích:
+- Trong số phức $z = \dfrac{4}{3} - \dfrac{31}{5}i$, phần thực là $\dfrac{4}{3}$ và phần ảo là $- \dfrac{31}{5}$.
+- Số phức $\overline{z}$ có phần thực bằng phần thực của $z$, nhưng phần ảo bị thay đổi dấu. Do đó, $\overline{z} = \dfrac{4}{3} + \dfrac{31}{5}i$.
+- Điều này cho thấy phần thực của $\overline{z}$ là $\dfrac{4}{3}$ và phần ảo là $+ \dfrac{31}{5}$.
+- Comparing với các chọn đáp án, only option A matches this result.
+
+Đáp án đúng: **A**"
+126,Số hữu tỉ,B,D,False,569,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$ given $z = - \dfrac{37}{5}+\dfrac{17}{4}i$.
+
+Tôi remember rằng số phức $\overline{z}$ được gọi là số phức liên hợp của $z$. Điều này意味著 phần ảo của $\overline{z}$ là số uploading có dấu hiệulessness so với phần ảo của $z$, còn phần thực bằng nhau. Toaster, phần thực của $z$ là $- \dfrac{37}{5}$ và phần ảo là $\dfrac{17}{4}i$.
+
+Do đó, phần thực của $\overline{z}$ vẫn là $- \dfrac{37}{5}$ và phần ảo là $-\dfrac{17}{4}$. Điều này cho thấy đáp án đúng là D.
+","
+
+Để giải bài toán này, ta sẽ trình bày các bước rõ ràng và từng bước:
+
+1. **Có bao gồm gì?**
+   - Đảm bảo人们对 số phức $z$ đã có một cách cụ thể, trong trường hợp này, $z$ được diberikan là:
+     \[
+     z = -\dfrac{37}{5} + \dfrac{17}{4}i
+     \]
+   - Trong khi đó, ta muốn tìm phần thực và phần ảo của số phức $\overline{z}$, ở đây $\overline{z}$ là số phức liên hợp của $z$.
+
+2. **Giải thích concept về số phức liên hợp:**
+   - Sức thời gian của số phức $\overline{z}$ là phần thực của $z$, đó là $- \dfrac{37}{5}$.
+   - Sức imaginary của số phức $\overline{z}$ là phần ảo của $z$, đó là $-\dfrac{17}{4}$.
+   - Khi có số phức $\overline{z}$, chúng ta có thể viết ra như sau:
+     \[
+     \overline{z} = -\dfrac{37}{5} - \dfrac{17}{4}i
+     \]
+
+3. **Kết luận:**
+   - Phần thực của $\overline{z}$ là $- \dfrac{37}{5}$.
+   - Phần ảo của $\overline{z}$ là $-\dfrac{17}{4}$.
+
+Trong khi đó, đáp án đúng là:
+
+**Đáp án đúng: D**
+
+$\boxed{D}$"
+127,Số vô tỉ,B,D,False,584,False,"Đầu tiên, tôi nhận thấy rằng $z$ là một số phức given bằng $3 \sqrt{5} - 2 \sqrt{10}i$. Mình cần tìm phần thực và phần ảo của số phức $\overline{z}$, nghĩa là số phức bao gồm các phần real và imaginary.
+
+Tôi reminding lại có hai trường hợp này:
+1. Nếu $z = a + bi$, thì $\overline{z} = a - bi$.
+2. Phần thực của $\overline{z}$ vẫn là $a$.
+3. Phần ảo của $\overline{z}$ là $-b$.
+
+Vậy, trong trường hợp này, phần thực của $z$ là $3 \sqrt{5}$ và phần ảo là $-2 \sqrt{10}$. Do đó, phần thực của $\overline{z}$ sẽ vẫn là $3 \sqrt{5}$, và phần ảo sẽ là $2 \sqrt{10}$ (khi đổi dấu).
+
+Sau khi so sánh với các câu hỏi đã cho, tôi thấy đáp án chính xác là option D: Phần thực bằng $3 \sqrt{5}$ và phần ảo bằng $2 \sqrt{10}i$.
+","
+
+Đáp án đúng: D
+
+**Giải thích:**
+
+Công thức来找 phần thực và phần ảo của số phức $\overline{z}$:
+
+- Nếu $z = a + bi$, thì $\overline{z} = a - bi$.
+- Phần thực của $\overline{z}$ là $a$.
+- Phần ảo của $\overline{z}$ là $-b$.
+
+Trong trường hợp này, $z = 3 \sqrt{5} - 2 \sqrt{10}i$, nên:
+- Phần thực của $z$ là $3 \sqrt{5}$.
+- Phần ảo của $z$ là $-2 \sqrt{10}$.
+
+Do đó, phần thực của $\overline{z}$ là $3 \sqrt{5}$ và phần ảo của $\overline{z}$ là $2 \sqrt{10}$ (khi đổi dấu).
+
+Comparing with the options:
+- **A:** Phần thực $-3 \sqrt{5}$ và phần ảo $-2 \sqrt{10}i$
+- **B:** Phần thực $3 \sqrt{5}$ và phần ảo $2 \sqrt{10}$
+- **C:** Phần thực $-3 \sqrt{5}$ và phần ảo $-2 \sqrt{10}$
+- **D:** Phần thực $3 \sqrt{5}$ và phần ảo $2 \sqrt{10}i$
+
+ANSWER: D"
+128,Số vô tỉ,D,D,True,423,False,"Đầu tiên, ta nhận thấy số phức $z$ được given là $6 + \sqrt{2}i$. Ví dụ, có thể nói rằng phần thực của $z$ là 6 và phần ảo là $\sqrt{2}$.
+
+Tiếp theo, yêu cầu là tìm phần thực và phần ảo của số phức $\overline{z}$, trong khi $\overline{z}$ là số phức bao gồm phần thực bằng phần thực của $z$, nhưng phần ảo là dấumentsersive của phần ảo của $z$.
+
+Do đó, phần thực của $\overline{z}$ vẫn là 6, còn phần ảo của $\overline{z}$ là $- \sqrt{2}$.
+
+Vậy, đáp án đúng là D. Phần thực bằng 6 và phần ảo bằng $- \sqrt{2}$.
+","
+
+Đáp án đúng: D. Phần thực bằng $6$ và phần ảo bằng $- \sqrt{2}$.
+
+**Giải thích step-by-step:**
+
+1. **Bước 1:** Xem xét số phức $z = 6 + \sqrt{2}i$.
+   - Phần thực của $z$ là $6$.
+   - Phần ảo của $z$ là $\sqrt{2}i$.
+
+2. **Bước 2:** T组成部分 complex tương ứng với số phức $\overline{z}$ (höông thức bao quanh).
+   - Phần thực của $\overline{z}$ vẫn giữ nguyên: $6$.
+   - Phần ảo của $\overline{z}$ là dấumentsersive của phần ảo của $z$: $- \sqrt{2}i$.
+
+3. **Bước 3:** So sánh với các chọn đáp:
+   - Chọn D) Phần thực bằng $6$ và phần ảo bằng $- \sqrt{2}$.
+
+**Kết luận:**
+$\boxed{\text{Đáp án đúng: D}}$"
+129,Số vô tỉ,A,,False,9216,True,"Đầu tiên, tôi hiểu yêu cầu của bài toán: cho số phức $z = - \sqrt{2}+\sqrt{3}i$, cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi kiểm tra xem có phải gì đã không biết. Phần thực và phần ảo là các phần tử chính trong một số phức, có thể được tính từ phần tử này. Tuy nhiên, trong bài toán này, ta cần tính phần thực và phần ảo của $\overline{z}$, nên tôi cần recalled lại baiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii0)) guaranteediiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii passages**iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii etc.
+**Answer**
+","<think>
+Okay, hallo, chicos se sirs, oriviiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii"
+130,Số vô tỉ,B,B,True,454,False,"Đầu tiên, tôi xem xét số phức given là $z = 2 \sqrt{10} - \sqrt{11}i$.
+
+Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$, đó là số phức bao gồm phần thực và phần ảo có giá trị nào đó. 
+- Phần thực của một số phức generally đượcox show bởi $Re(z)$, còn phần ảo bằng $Im(z)$.
+- Så, phần thực của $z$ là $2 \sqrt{10}$, phần ảo là $-\sqrt{11}$.
+
+Sau khi đã biết phần thực và phần ảo của $z$, tôi có thể xác định phần thực và phần ảo của $\overline{z}$.
+- Trong số phức giao hoán, phần thực của $\overline{z}$ vẫn giữ nguyên, nên phần thực của $\overline{z}$ là $2 \sqrt{10}$.
+- Mình cũng biết rằng phần ảo của $\overline{z}$ chính bao gồm Giá trị negative của phần ảo của $z$, vì vậy phần ảo của $\overline{z}$ là $+\sqrt{11}$.
+
+Vì vậy, kết quả là:
+- Phần thực là $2 \sqrt{10}$.
+- Phần ảo là $+\sqrt{11}$.
+
+Trở lại các-option:
+A. Phần thực là $-2\sqrt{10}$ và phần ảo là $- \sqrt{11}i$. → Đ Penguin tính这条路less.
+B. Phần thực là $2\sqrt{10}$ và phần ảo là $\sqrt{11}$. → Đúng!
+C. Phần thực là $-2\sqrt{10}$ và phần ảo là $- \sqrt{11}$. → Đ Penguin.
+D. Phần thực là $2\sqrt{10}$ và phần ảo là $\sqrt{11}i$. → Đ Penguin.
+
+Vậy, đáp án đúng là B.
+","
+
+Đáp án đúng: B
+
+$\boxed{\text{B}}$"
+131,Số vô tỉ,D,D,True,599,False,"Đầu tiên, tôi nhận thấy rằng số phức $z$ được given là $z = \sqrt{2} - \sqrt{10}i$.我们的任务是找到数的共轭复数$\overline{z}$的实部和虚部。
+
+Sau đó, tôi recalled that complex numbers are expressed in the form $a + bi$, where $a$ là phần thực và $b$ là phần ảo. For số phức này, phần thực là $\sqrt{2}$ và phần ảo là $-\sqrt{10}i$.
+
+Khi tìm số phức conjugate, các phần thực vẫn giữ nguyên, nhưng phần ảo acquiring một dấu mtract với nhọn. Điều này cho thấy $\overline{z} = \sqrt{2} + \sqrt{10}i$.
+
+Vì vậy, phần thực của $\overline{z}$ là $\sqrt{2}$ và phần ảo là $\sqrt{10}i$.
+","
+
+Đáp án đúng: D
+
+**Giải thích:**
+
+1. **Tìm số phức $\overline{z}$ từ số phức $z$:**
+
+   $$
+   z = \sqrt{2} - \sqrt{10}i
+   $$
+
+   T汇 số phức $\overline{z}$ (hành l attending) cần bao gồm phần thực không thay đổi và thêm một dấu mtract với nhọn cho phần ảo.
+
+   $$
+   \overline{z} = \sqrt{2} + \sqrt{10}i
+   $$
+
+2. **Tìm phần thực và phần ảo của $\overline{z}$:**
+
+   - **Phần thực:** $\sqrt{2}$
+   
+   - **Phần ảo:** $\sqrt{10}i$
+
+3. **So sánh với các ý potential Answer:**
+
+   - **A.** Phần thực bằng $- \sqrt{2}$ và phần ảo bằng $- \sqrt{10}i$ → Đúng phải, vì phần ảo phải có dấu mtract.
+   
+   - **B.** Phần thực bằng $- \sqrt{2}$ và phần ảo bằng $- \sqrt{10}$ → Đ thức không đúng, vì phần ảo phải có phần imaginary.
+   
+   - **C.** Phần thực bằng $\sqrt{2}$ và phần ảo bằng $\sqrt{10}i$ → Đ thức đúng, nhưng phần ảo phải có dấu mtract.
+   
+   - **D.** Phần thực bằng $\sqrt{2}$ và phần ảo bằng $\sqrt{10}$ → Đ thức sai, vì phần ảo phải có dấu mtract.
+
+Vậy, **Answer D** là chính xác.
+
+**Đáp án đúng:**
+$$
+\boxed{D}
+$$"
+132,Số vô tỉ,C,B,False,683,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán: given số phức $z = -8 + 4\sqrt{2}i$, tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi nhận thấy rằng $\overline{z}$ là số phức liên hợp của $z$. Trong số phức, phần thực của một số complex là số imaginary part, còn phần ảo là phần real. Tuy nhiên, trong các đáp án given, không có phần ảo đượcoxo như $4\sqrt{2}i$, chỉ có $4\sqrt{2}$.
+
+Vì vậy, tôi cần xác định phần thực và phần ảo của $\overline{z}$. Khi反转 số phức $z$ (tức là lấy phần ảo và đổi-sign), phần thực vẫn giữ nguyên, nhưng phần ảo bị đổi dấu.
+
+Từ đó, $z = -8 + 4\sqrt{2}i$ nên $\overline{z} = -8 - 4\sqrt{2}i$.
+
+Sau khi so sánh với các đáp án:
+
+- A. Phần thực bằng 8, phần ảo bằng $4\sqrt{2}i$: Đúng trong phần thực, nhưng phần ảo không đúng.
+  
+- B. Phần thực bằng 8, phần ảo bằng $4\sqrt{2}$: Partial real là đúng, partial imaginary là đúng.
+  
+- C. Phần thực bằng -8, phần ảo bằng $-4\sqrt{2}$: Partial real là đúng, partial imaginary là đúng.
+  
+- D. Phần thực bằng -8, phần ảo bằng $-4\sqrt{2}i$: Partial real là đúng, phần ảo này không đúng.
+
+Vậy, đáp án chính là B hoặc C. Chose the one that matches both phần thực và phần ảo đã đúng.
+","
+
+Đáp án đúng: **B. Phần thực bằng $8$ và phần ảo bằng $4 \sqrt{2}$**
+
+**Giải thích:**
+
+1. **Xác định số phức $\overline{z}$:**
+   - $z = -8 + 4\sqrt{2}i$
+   - $\overline{z} = -8 - 4\sqrt{2}i$
+
+2. **Tìm phần thực và phần ảo của $\overline{z}$:**
+   - Phần thực của $\overline{z}$ là $-8$
+   - Phần ảo của $\overline{z}$ là $-4\sqrt{2}$
+
+3. **So sánh với đáp án:**
+   - **A:** Phần thực correct, phần ảo incorrêpt
+   - **B:** Phần thực correct, phần ảo correct ($4\sqrt{2}$)
+   - **C:** Phần thực correct, phần ảo correct ($-4\sqrt{2}$)
+   - **D:** Phần ảo incorrêpt ($-4\sqrt{2}i$)
+
+Vậy, đáp án chính là **B. Phần thực bằng $8$ và phần ảo bằng $4 \sqrt{2}$**.
+
+$\boxed{\text{Đáp án đúng: B}}$"
+133,Số vô tỉ,D,C,False,408,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán: given số phức $z = -1 - 4\sqrt{5}i$, tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi nhận thấy rằng $\overline{z}$ là số phức liên hợp của $z$. Trong số phức, phần thực là số的那一 part real, còn phần ảo là số那一 part imaginary. Vì vậy, phần thực của $\overline{z}$ sẽ bằng phần thực của $z$, và phần ảo sẽ bằng negative of phần ảo của $z$.
+
+Ngoài ra, $z$ có phần thực là $-1$ và phần ảo là $-4\sqrt{5}i$. Do đó, phần thực của $\overline{z}$ vẫn là $-1$, nhưng phần ảo sẽ là positive version của phần ảo của $z$, tức là $+4\sqrt{5}i$.
+
+Sau khi so sánh với các đáp án given, tôi thấy đáp án C): Phần thực bằng $-1$ và phần ảo bằng $4\sqrt{5}i$.
+","
+
+Đáp án đúng: C. Phần thực bằng $-1$ và phần ảo bằng $4 \sqrt{5}i$.
+
+Giải thích:
+-�数 phức $z = -1 - 4\sqrt{5}i$ có phần thực là $-1$ và phần ảo là $-4\sqrt{5}i$.
+-�数 phức $\overline{z}$ (hơn nhất) là số phức liên hợp của $z$, có phần thực bằng phần thực của $z$, và phần ảo là tínhverse của phần ảo của $z$.
+  
+Vậy, phần thực của $\overline{z}$ là $-1$, và phần ảo là $+4\sqrt{5}i$.
+
+ANSWER: C"
+134,Số vô tỉ,C,B,False,647,False,"Đầu tiên, tôi nhận thấy rằng given số phức $z$ là $3 \sqrt{10} + 3 \sqrt{5}i$.
+
+Vì yêu cầu tìm phần thực và phần ảo của số phức $\overline{z}$, nên tôi cần xác định số phức $\overline{z}$ first. 
+Sau đó, tôi sẽ so sánh phần thực và phần ảo với các đáp án được cho.
+
+Khi có một số phức $z = a + bi$, phần thực là $a$, và phần ảo là $b$. Tuy nhiên, trong trường hợp này, số phức $\overline{z}$ là số phức以其 phần ảo đối nhau và phần thực vẫn giữ nguyên. Điều này cho thấy $\overline{z} = a - bi$.
+
+Từ đó, cho thấy $z = 3 \sqrt{10} + 3 \sqrt{5}i$, nên $\overline{z} = 3 \sqrt{10} - 3 \sqrt{5}i$.
+
+Sau khi có $\overline{z}$, tôi so sánh phần thực và phần ảo với các đáp án:
+- Đáp án A: Phần thực bằng $- 3 \sqrt{10}$ và phần ảo bằng $3 \sqrt{5}i$. 
+Nhưng phần ảo này phải có dấu ""-""
+- Đáp án B: Phần thực bằng $- 3 \sqrt{10}$ và phần ảo bằng $3 \sqrt{5}$.
+Sau khi điều chỉnh phần ảo như前所 Mentioned, phần ảo đã đúng.
+- Đáp án C: Phần thực bằng $3 \sqrt{10}$ và phần ảo bằng $- 3 \sqrt{5}$.
+Bây giờ, phần thực đã đúng nhưng phần ảo thiếu dấu ""-""
+- Đáp án D: Phần thực bằng $3 \sqrt{10}$ và phần ảo bằng $- 3 \sqrt{5}i$.
+Hơn nữa, phần ảo đã đúng nhưng phần thực thiếu dấu ""-""
+
+Do đó, đáp án chính xác là đáp án B.
+","
+
+Đáp án đúng: B
+
+Giải thích:
+- given số phức $z = 3 \sqrt{10} + 3 \sqrt{5}i$.
+- số phức $\overline{z}$ (hai số phức baoiqua) có phần thực bằng phần thực của $z$ và phần ảo bằng baoiqua của phần ảo của $z$.
+- vậy, $\overline{z} = 3 \sqrt{10} - 3 \sqrt{5}i$.
+-由此可见, phần thực của $\overline{z}$ là $-3 \sqrt{10}$ và phần ảo là $3 \sqrt{5}$.
+- đáp án B): Phần thực bằng $- 3 \sqrt{10}$ và phần ảo bằng $3 \sqrt{5}$.
+
+$\boxed{\text{Đáp án}: B}$"
+135,Số vô tỉ,A,D,False,582,False,"Đầu tiên, tôi nhận thấy rằng số phức given là $z = -3\sqrt{10} - 6i$.
+
+Vì cần tìm phần thực và phần ảo của số phức $\overline{z}$, tôi cần recalled được concept về số phức và Itsy Usu. Trong số phức, phần thực là số的那一 phần real, còn phần ảo là số那一 phần imaginary. Khi có số phức $z = a + bi$, thì phần thực là $a$, phần ảo là $b$.
+
+Từ đó, tôi thấy rằng phần thực của $z$ là $-3\sqrt{10}$ và phần ảo là $-6$. Điều này cho thấy rằng complex conjugate $\overline{z}$ sẽ có phần thực như phần thực của $z$ và phần ảo bằngen số đối với phần ảo của $z$.
+
+Vậy, phần thực của $\overline{z}$ vẫn là $-3\sqrt{10}$, còn phần ảo của $\overline{z}$ sẽ là $6i$.
+
+Sau khi so sánh các đáp án đã cho, tôi thấy đáp án D matching了我的 tính toán.
+","
+
+Đáp án đúng: D
+
+**Giải thích:**
+
+- Đảm bảo các bước:
+  
+  1. **Bước 1:** Xác định phần thực và phần ảo của số phức z.
+  
+    $$
+    z = -3\sqrt{10} - 6i
+    $$
+    
+    Phần thực là $-3\sqrt{10}$, phần ảo là $-6$.
+  
+  2. **Bước 2:** Tính số phức $\overline{z}$ (phần ảo bằngen số đối).
+  
+    $$
+    \overline{z} = -3\sqrt{10} + 6i
+    $$
+    
+    Phần thực của $\overline{z}$ vẫn là $-3\sqrt{10}$, phần ảo là $6i$.
+  
+  3. **Bước 3:** So sánh với các đáp án given.
+  
+    - A. Phần thực $-3\sqrt{10}$ correct, phần ảo $6i$ correct.
+    - B. Phần thực $3\sqrt{10}$ incorrect, phần ảo $-6i$ incorrect.
+    - C. Phần thực $3\sqrt{10}$ incorrect, phần ảo $-6$ incorrect.
+    - D. Phần thực $-3\sqrt{10}$ correct, phần ảo $6i$ correct.
+  
+  Ví dụ, đáp án D matching了我的 tính toán.
+
+
+Đáp án đúng: D"
+136,Số vô tỉ,D,D,True,318,False,"Đầu tiên, tôi nhận thấy rằng $z$ là một số phức có biểu thức$t$. Điều này cho thấy rằng phần thực của $z$ là $2 \sqrt{3}$ và phần ảo là $-4i$.
+
+Vì yêu cầu tìm phần thực và phần ảo của số phức $\overline{z}$, trong khi $\overline{z}$ là số phức bao gồm phần thực bằng phần thực của $z$, còn phần ảo bằng negative của phần ảo của $z$. Do đó, phần thực của $\overline{z}$ vẫn là $2 \sqrt{3}$, còn phần ảo là $4i$.
+
+Cuối cùng, tôi so sánh với các đáp án given để xác định được kết quả đúng.
+","
+
+Đáp án đúng: D. Phần thực bằng $2 \sqrt{3}$ và phần ảo bằng $4$.
+
+Giải thích:
+- Cho số phức $z = 2 \sqrt{3} - 4i$.
+- Phần thực của $z$ là $2 \sqrt{3}$ và phần ảo là $-4i$.
+- Số phức $\overline{z}$ (h guiding complex) có phần thực bằng phần thực của $z$, và phần ảo bằng negative của phần ảo của $z$.
+- Do đó, phần thực của $\overline{z}$ là $2 \sqrt{3}$ và phần ảo là $4$.
+
+ANSWER: Đáp án đúng: D"
+137,Số vô tỉ,B,D,False,398,False,"Đầu tiên, tôi nhận thấy rằng $z$ là một số phức given bằng $3 \sqrt{3} - 2 \sqrt{10}i$. Mình cần tìm phần thực và phần ảo của số phức $\overline{z}$, nghĩa là số phức bao gồm các phần real và imaginary.
+
+Tôi reminding lại có hai trường hợp này:
+1. Nếu $z = a + bi$, thì $\overline{z} = a - bi$.
+2. Phần thực của $\overline{z}$ vẫn là $a$.
+3. Phần ảo của $\overline{z}$ là $-b$.
+
+Vậy, trong trường hợp này, phần thực của $z$ là $3 \sqrt{3}$ và phần ảo là $-2 \sqrt{10}$. Do đó, phần thực của $\overline{z}$ vẫn là $3 \sqrt{3}$, còn phần ảo là $2 \sqrt{10}$ (lỗi) được đổi dấu.
+
+Sau khi so sánh với các câu hỏi đã cho, tôi thấy đáp án chính xác là D: Phần thực bằng $3 \sqrt{3}$ và phần ảo bằng $2 \sqrt{10}i$.
+","
+
+Đáp án đúng: D
+
+**Giải thích:**
+
+Given số phức $z = 3\sqrt{3} - 2\sqrt{10}i$.
+
+Khi inverting số phức $z$, ta có:
+$$
+\overline{z} = 3\sqrt{3} + 2\sqrt{10}i
+$$
+
+Trong số phức $\overline{z}$, phần thực là $3\sqrt{3}$ và phần ảo là $2\sqrt{10}i$.
+
+Vậy, đáp án correct là:
+$$
+\boxed{D}
+$$"
+138,Số vô tỉ,B,C,False,503,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán: cho số phức $z = -4\sqrt{10} + 3i$, cần tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi kiểm tra xem có phải gì đã không biết. Phần thực và phần ảo là các phần tử chính trong số phức, nên có thể dễ dàng tìm được từ given. 
+
+Sau đó, tôi nhận thấy rằng $\overline{z}$ là số phức liên hợp của $z$. Điều này nghĩa là phần thực của $z$ vẫn giữ nguyên, nhưng phần ảo bị đổi dấu. 
+
+Vậy, phần thực của $\overline{z}$ vẫn là $-4\sqrt{10}$, còn phần ảo là $-3$.
+
+Khi so sánh với các option given:
+- A. Phần thực correct và phần ảo thiếu.
+- B. Phần thực correct và phần ảo thiếu.
+- C. Phần thực correct và phần ảo đúng.
+- D. Phần thực correct nhưng phần ảo thiếu.
+
+Do đó, tôi xác định đáp án correct là C.
+","
+
+Đáp án đúng: C. Phần thực bằng $4 \sqrt{10}$ và phần ảo bằng $3$.
+
+**Giải thích:**
+
+Để tìm phần thực và phần ảo của số phức $\overline{z}$, ta sử dụng concept về số phức liên hợp.
+
+Trong số phức $z = a + bi$, phần thực là $a$, phần ảo là $b$. Khi kết hợp với số phức liên hợp, phần thực vẫn giữ nguyên, nhưng phần ảo bị đổi dấu.
+
+Given:
+$$ z = -4\sqrt{10} + 3i $$
+
+Suy nghĩ:
+$$ \overline{z} = -4\sqrt{10} - 3i $$
+
+Tuy nhiên, theo việc trình bày above, ta thấy rằng phần ảo đã được thêm một dấu m Rich negative. Do đó, phần ảo của $\overline{z}$ là $-3$.
+
+Vậy, phần thực là $-4\sqrt{10}$ và phần ảo là $-3$.
+
+So sánh với các đáp án:
+- C. Phần thực bằng $4 \sqrt{10}$ và phần ảo bằng $3$
+
+$\boxed{\text{C}}$"
+139,Số vô tỉ,C,D,False,764,False,"Đầu tiên, tôi nhận thấy rằng given số phức $z$ là $2 \sqrt{11} + 2 \sqrt{7}i$.
+
+Vì yêu cầu tìm phần thực và phần ảo của số phức $\overline{z}$, nên tôi cần xác định số phức $\overline{z}$ first. 
+Sau đó, tôi sẽ so sánh phần thực và phần ảo với các đáp án được cho.
+
+Khi có một số phức $z = a + bi$, phần thực là $a$, và phần ảo là $b$. Tuy nhiên, trong trường hợp này, số phức $\overline{z}$ là số phức以其 phần ảo đối nhau bao quanh phần thực. Điều này cho thấy:
+$$
+\overline{z} = a - bi
+$$
+
+Trong trường hợp này, $z = 2 \sqrt{11} + 2 \sqrt{7}i$, nên số phức $\overline{z}$ sẽ là:
+$$
+\overline{z} = 2 \sqrt{11} - 2 \sqrt{7}i
+$$
+
+Dựa vào kết quả này, phần thực của $\overline{z}$ là $2 \sqrt{11}$, và phần ảo là $-2 \sqrt{7}i$.
+
+Examining the answer choices:
+
+A. Phần thực bằng $- 2 \sqrt{11}$ và phần ảo bằng $2 \sqrt{7}i$.
+B. Phần thực bằng $- 2 \sqrt{11}$ và phần ảo bằng $2 \sqrt{7}$.
+C. Phần thực bằng $2 \sqrt{11}$ và phần ảo bằng $- 2 \sqrt{7}$.
+D. Phần thực bằng $2 \sqrt{11}$ và phần ảo bằng $- 2 \sqrt{7}i$.
+
+Từ kết quả our calculated, phần thực là $2 \sqrt{11}$ và phần ảo là $-2 \sqrt{7}i$, không phải như các đáp án A và B, vì chúng đều reporting phần thực và phần ảo với các sốified khác. C and Dhowever, C reporting phần thực correct, nhưng phần ảo không đúng, còn D reporting phần thực correct và phần ảo đúng.
+
+Vậy, đáp án chính là D.
+","
+
+Đáp án đúng: D
+
+**Giải thích:**
+
+Để tìm phần thực và phần ảo của số phức $\overline{z}$, ta cần xác định số phức $\overline{z}$ first.
+
+Given:
+$$
+z = 2 \sqrt{11} + 2 \sqrt{7}i
+$$
+
+Mỗi số phức $z$ có phần thực là $a$ và phần ảo là $b$. Tuy nhiên, số phức $\overline{z}$ có phần thực là $a$ và phần ảo là $-b$. Điều này cho thấy:
+$$
+\overline{z} = 2 \sqrt{11} - 2 \sqrt{7}i
+$$
+
+Tổng quát:
+- Phần thực của $\overline{z}$ là $2 \sqrt{11}$.
+- phần ảo của $\overline{z}$ là $-2 \sqrt{7}i$.
+
+Comparing with the answer choices:
+- **D**): Phần thực bằng $2 \sqrt{11}$ và phần ảo bằng $- 2 \sqrt{7}i$.
+
+Vậy, đáp án đúng là \boxed{D}."
+140,Số vô tỉ,B,B,True,561,False,"Đầu tiên, tôi xem xét số phức given là $z = 3\sqrt{5} - \sqrt{10}i$.
+
+Mình muốn tìm phần thực và phần ảo của số phức $\overline{z}$, trong đó $\overline{z}$ là số phức có phần thực bằng phần thực của $z$, nhưng phần ảo là negative của phần ảo của $z$.
+
+Vậy, phần thực của $\overline{z}$ vẫn là $3\sqrt{5}$, vì không ảnh hưởng đến phần thực khi lấy sốplexiconi complexified.
+
+M Vineh, phần ảo của $\overline{z}$ là $+\sqrt{10}$, vì chúng ta chỉ thay đổi dấu của phần ảo.
+
+Sau khi so sánh với các đáp án provided:
+
+- A. Phần thực bằng $- 3 \sqrt{5}$ và phần ảo bằng $- \sqrt{10}i$. Đúng là phần thực đã bị ảnh hưởng, nhưng phần ảo vẫn có dấu khác.
+- B. Phần thực bằng $3 \sqrt{5}$ và phần ảo bằng $\sqrt{10}$. Đúng theo yêu cầu, nhưng phần ảo đã đúng, nhưng phần thực đã đúng.
+- C. Phần thực bằng $- 3 \sqrt{5}$ và phần ảo bằng $- \sqrt{10}$. Phần thực đã đúng, nhưng phần ảo đã bị ảnh hưởng.
+- D. Phần thực bằng $3 \sqrt{5}$ và phần ảo bằng $\sqrt{10}i$. Phần thực đúng, nhưng phần ảo đã bị ảnh hưởng.
+
+Vì vậy, đáp án chính xác là đáp án B.
+","
+
+Đáp án đúng: B
+
+**Giải thích:**
+
+Có số phức $z = 3\sqrt{5} - \sqrt{10}i$.
+
+Khi lấy số phứcicon complex $\overline{z}$, phần thực không thay đổi, nhưng phần ảo bị đổi dấu. Do đó:
+
+$$
+\overline{z} = 3\sqrt{5} + \sqrt{10}i
+$$
+
+Tuy nhiên, trong phần ảo, số imaginary đã có dấu ""-"". Do đó, phần ảo của $\overline{z}$ là $\sqrt{10}$.
+
+Tuy nhiên, đáp án B reporting lại phần thực và phần ảo như sau:
+
+- **Phần thực**: $3\sqrt{5}$ (chính)
+- **Phần ảo**: $\sqrt{10}$ (thfully correct)
+
+Vậy đáp án B là chính xác."
+141,Số vô tỉ,C,A,False,485,False,"Đầu tiên, ta nhận thấy số phức $z$ được given là $z = -7 - \sqrt{6}i$. Ví dụ, có thể viết lại thành $z = a + bi$, trong đó $a$ là phần thực và $b$ là phần ảo.
+
+Sau khi xác định phần thực và phần ảo của $z$, ta cần tìm phần thực và phần ảo của $\overline{z}$, không hiểu $\overline{z}$ là bao gồm phần thực và phần ảo như thế nào. Khi tách số phức $z$ thành phần thực và phần ảo, phần thực là $-7$, và phần ảo là $-\sqrt{6}i$.
+
+Một cách rõ ràng, phần thực của $\overline{z}$ vẫn là phần thực của $z$, vì khi thay đổi phần ảo theo dấu reversing, phần thực không ảnh hưởng. Do đó, phần thực của $\overline{z}$ vẫn là $-7$.
+
+Vice versa, phần ảo của $\overline{z}$ là số negative của phần ảo của $z$. Điều này có nghĩa là phần ảo của $\overline{z}$ là $+\sqrt{6}i$.
+
+Kết quả là: Phần thực bằng $-7$ và phần ảo bằng $+\sqrt{6}i$. 
+","
+
+Đáp án đúng: A
+
+Giải thích:
+- **Bước 1:** Đảm bảo số phức $z = -7 - \sqrt{6}i$
+- **Bước 2:** Tách số complex thành phần thực và phần ảo:
+  - Phần thực: $-7$
+  - Phần ảo: $-\sqrt{6}i$
+- **Bước 3:** Khi tách số complex $z$ thành $\overline{z}$ (hơn nữa, $\overline{z}$ là số complex bao gồm phần thực và phần ảo như thế nào):
+  - Phần thực của $\overline{z}$ vẫn là $-7$
+  - Phần ảo của $\overline{z}$ là số positive của phần ảo của $z$, nên là $+\sqrt{6}i$
+  
+Vậy:
+$$
+\boxed{\text{A}}"
+142,Số vô tỉ,B,D,False,644,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given là 4√2 - 4√5i. Mình cần tìm phần thực và phần ảo của số phức \(\overline{z}\), trong khi \(\overline{z}\) là số phức bao gồm phần thực và phần ảo đã có.
+
+Vì \(\overline{z}\) là số phức liên hợp của z, то phần thực của \(\overline{z}\) vẫn giữ nguyên từ z, còn phần ảo bị đổi dấu. Khi đó, phần thực của \(\overline{z}\) vẫn là 4√2, và phần ảo là +4√5i.
+
+Sau đó, tôi so sánh với các-option given:
+
+- A. Phần thực bằng -4√2 và phần ảo bằng -4√5i.
+- B. Phần thực bằng 4√2 và phần ảo bằng 4√5.
+- C. Phần thực bằng -4√2 và phần ảo bằng -4√5.
+- D. Phần thực bằng 4√2 và phần ảo bằng 4√5i.
+
+Từ việc so sánh, tôi thấy rằng đáp án đúng là D: Phần thực bằng 4√2 và phần ảo bằng 4√5i.
+","
+
+Đáp án đúng: **D. Phần thực bằng \(4 \sqrt{2}\) và phần ảo bằng \(4 \sqrt{5}i\).**
+
+**Giải thích:**
+
+1. Đảm bảo số phức given là:
+   \[
+   z = 4 \sqrt{2} - 4 \sqrt{5}i
+   \]
+   
+2. 数 phức \(\overline{z}\) là số phức liên hợp của \(z\), nghĩa là:
+   \[
+   \overline{z} = 4 \sqrt{2} + 4 \sqrt{5}i
+   \]
+   
+3. Tuy nhiên, theo yêu cầu của người dùng, ta cần tìm phần thực và phần ảo của \(\overline{z}\):
+   - Phần thực của \(\overline{z}\) là \(4 \sqrt{2}\).
+   - Phần ảo của \(\overline{z}\) là \(+4 \sqrt{5}i\).
+
+4. So sánh với các-option given:
+   - **A**: Phần thực bằng \(-4 \sqrt{2}\), không đúng.
+   - **B**: Phần thực bằng \(4 \sqrt{2}\), nhưng phần ảo là \(4 \sqrt{5}\) (không phải \(4 \sqrt{5}i\)).
+   - **C**: Phần thực bằng \(-4 \sqrt{2}\), không đúng.
+   - **D**: Phần thực bằng \(4 \sqrt{2}\) và phần ảo bằng \(4 \sqrt{5}i\).  
+     Điều này đúng theo our working.
+
+Đáp án đúng: \(\boxed{D}\)"
+143,Số vô tỉ,C,D,False,519,False,"Đầu tiên, tôi cần hiểu được yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$, với $z = 2 \sqrt{6} + 5i$.
+
+Tôi biết rằng số phức $z$ có dạng $a + bi$, ở đây $a$ là phần thực và $b$ là phần ảo. Do đó, phần thực của $z$ là $2 \sqrt{6}$ và phần ảo là $5$.
+
+Cuối cùng, $\overline{z}$ là số phức đã reversing phần ảo của $z$. Điều này cho thấy phần thực của $\overline{z}$ vẫn là $2 \sqrt{6}$, còn phần ảo却是 $-5$.
+
+Sau khi so sánh với các đáp án given, tôi thấy đáp án C đúng: Phần thực bằng $2 \sqrt{6}$ và phần ảo bằng $-5$.
+","
+
+Đầu tiên, tôi cần xác định phần thực và phần ảo của số phức $\overline{z}$.
+
+1. **Tìm phần thực và phần ảo của $z$:**
+   
+   given $z = 2 \sqrt{6} + 5i$, 
+   - Phần thực là $2 \sqrt{6}$
+   - Phần ảo là $5$
+
+2. **Tìm phần thực và phần ảo của $\overline{z}$:**
+   
+   $\overline{z}$ là số phức đã reversing phần ảo của $z$.
+   - Phần thực của $\overline{z}$ vẫn là $2 \sqrt{6}$
+   - Phần ảo của $\overline{z}$ là $-5$
+
+3. **So sánh với các đáp án:**
+   
+   - đáp án A: Phần thực $= -2 \sqrt{6}$; Phần ảo $= 5i$ → Đúng).
+   - đáp án B: Phần thực $= -2 \sqrt{6}$; Phần ảo $= 5$ → Đúng).
+   - đáp án C: Phần thực $= 2 \sqrt{6}$; Phần ảo $= -5$ → Đúng).
+   - đáp án D: Phần thực $= 2 \sqrt{6}$; phần ảo $= -5i$ → Đúng).
+
+**Kết luận:** 
+
+Đáp án đúng là:
+
+\boxed{\text{C}}"
+144,Số vô tỉ,D,B,False,490,False,"Đầu tiên, ta nhận thấy số phức $z$ được given là $z = -7 - \sqrt{5}i$. Ví dụ, có thể viết lại thành $z = a + bi$, trong đó $a$ là phần thực và $b$ là phần ảo.
+
+Sau khi xác định các phần này, ta cần tìm phần thực và phần ảo của $\overline{z}$, chính là số phức có phần thực bằng phần ảo $z$, và phần ảo bằng phần thực $z$.
+
+Từ cách thức này, ta thấy rằng phần thực của $\overline{z}$ là $-7$, vì phần thực của $z$ là $-7$. Mismatched một cách như nhau, còn phần ảo của $\overline{z}$ là $-\sqrt{5}$, vì phần ảo của $z$ là $-\sqrt{5}i$.
+
+Vì vậy, đáp án đúng là phần thực bằng $-7$ và phần ảo bằng $-\sqrt{5}$.
+","
+
+Để giải bài toán này, chúng ta sẽ sử dụng các concept về số phức và h-ln tương ứng.
+
+**Dùl step-by-step:**
+
+1. **Bước 1:** Xử lý số phức $z = -7 - \sqrt{5}i$.
+   
+   - Phần thực là $-7$
+   - Phần ảo là $-\sqrt{5}$
+
+2. **Bước 2:** Tính số phức $\overline{z}$.
+   
+   - Phải xóa phần ảo của $z$ và giữ nguyên phần thực.
+   - Do đó, $\overline{z} = -7 + \sqrt{5}i$
+
+3. **Bước 3:** Cụm phần thực và phần ảo của $\overline{z}$.
+   
+   - Phần thực của $\overline{z}$ là $-7$
+   - Phần ảo của $\overline{z}$ là $\sqrt{5}$
+
+4. **Bước 4:** So sánh với các ý文中 cho.
+   
+   - Chọn đáp án B: Phần thực bằng $7$ và phần ảo bằng $- \sqrt{5}$
+
+**Kết luận:**
+
+\boxed{\text{Đáp án đúng: B}}"
+145,Số vô tỉ,B,D,False,396,False,"Đầu tiên, tôi xem xét số phức given là $z = -4\sqrt{5} - \sqrt{10}i$.
+
+Mình cần tìm phần thực và phần ảo của số phức $\overline{z}$, đó là số phức đã reversing các phần imaginary. Tức là, phần thực của $z$ sẽ là phần ảo của $\overline{z}$ và lại v.v.
+
+Tôi cũng biết rằng phần thực của một số phức $a + bi$ là $a$, còn phần ảo là $b$. Do đó, phần thực của $\overline{z}$ sẽ là phần ảo của $z$, và phần ảo của $\overline{z}$ sẽ là phần thực của $z$.
+
+Sau đó, tôi so sánh với các đáp án mà người dùng có thể chọn. Bước này giúp tôi quicker undestand vấn đề.
+","
+
+Đáp án đúng: D
+
+Giải thích:
+
+Cụ thể, số phức $\overline{z}$ được xác định là số phức đã reversing phần imaginary và biến đổi dấu của phần imaginary. Ví dụ, nếu $z = a + bi$, thì $\overline{z} = a - bi$.
+
+Vì vậy, phần thực của $\overline{z}$ là phần ảo của $z$, và phần ảo của $\overline{z}$ là phần thực của $z$.
+
+Tiếp theo:
+- Phần thực của $z$ là $-4\sqrt{5}$.
+- Phần ảo của $z$ là $-\sqrt{10}i$.
+
+Vậy:
+- Phần thực của $\overline{z}$ là $-4\sqrt{5}$.
+- Phần ảo của $\overline{z}$ là $4\sqrt{5}$.
+
+Trong các đáp án đã cho, only option D matches this result."
+146,Số vô tỉ,D,D,True,537,False,"Đầu tiên, ta nhận thấy số phức $z$ được given là $8 - \sqrt{2}i$. Ví dụ, có thể nói rằng phần thực của $z$ là 8 và phần ảo là $-\sqrt{2}$.
+
+Khi cần tìm số phức $\overline{z}$ (hàm thay đổi complex), ta simply切换 dấu phẩy của phần ảo. Điều này cho thấy $\overline{z} = 8 + \sqrt{2}i$.
+
+Cuối cùng, xác định phần thực và phần ảo của $\overline{z}$:
+- Phần thực là 8.
+- Phần ảo là $\sqrt{2}i$.
+
+Tổng kết lại, đáp án đúng là""C. Phần thực bằng $8$ và phần ảo bằng $\sqrt{2}i$.""
+","
+
+Đáp án đúng: **C. Phần thực bằng $8$ và phần ảo bằng $\sqrt{2}i$**
+
+**Giải thích step-by-step:**
+
+1. **Bước 1:** Xác định số phức $z$ và phần thực và phần ảo của nó.
+   - $z = 8 - \sqrt{2}i$
+   - Phần thực của $z$: $8$
+   - Phần ảo của $z$: $-\sqrt{2}$
+
+2. **Bước 2:** Tính số phức $\overline{z}$ (hàm thay đổi complex).
+   - $\overline{z} = 8 + \sqrt{2}i$
+
+3. **Bước 3:** Xác định phần thực và phần ảo của $\overline{z}$.
+   - Phần thực của $\overline{z}$: $8$
+   - Phần ảo của $\overline{z}$: $\sqrt{2}i$
+
+4. **Bước 4:** So sánh với các option given.
+   - **A.** Phần thực=-8; phần ảo=$-\sqrt{2}i$ → Đáp án không phù hợp
+   - **B.** Phần thực=-8; phần ảo=$-\sqrt{2}$ → Đáp án không phù hợp
+   - **C.** Phần thực=8; phần ảo=$\sqrt{2}i$ → Đáp án đúng
+   - **D.** Phần thực=8; phần ảo=$\sqrt{2}$ → Đáp án không phù hợp
+
+**Đáp án đúng:** $\boxed{\text{C}}$"
+147,Số vô tỉ,A,,False,514,False,"Đầu tiên, tôi nhận thấy rằng z là một số phức được given là 2√2 - 2√3i. Mình cần tìm phần thực và phần ảo của số phức \(\overline{z}\), trong khi \(\overline{z}\) là số phức đã có các phần tử thay đổi tracks, cụ thể là phần ảo bị đổi dấu.
+
+Vì z = a + bi, nên \(\overline{z}\) = a - bi. Trong trường hợp này, a là phần thực của z, còn b là phần ảo của z. Do đó, phần thực của \(\overline{z}\) vẫn như phần thực của z, nhưng phần ảo đã bị thêm dấu ""-"".
+
+Vì vậy, phần thực của \(\overline{z}\) vẫn là 2√2, nhưng phần ảo của \(\overline{z}\) là -(-2√3i) = 2√3i.
+
+Sau khi so sánh với các đáp án given, tôi thấy đáp án C matching đúng: phần thực là -2√2 và phần ảo là -2√3.
+","
+
+Đáp án đúng: \boxed{-2\sqrt{2}} và \boxed{-2\sqrt{3}}
+
+Để giải bài toán này, ta sử dụng concept về số phức đã có các phần tử. given:
+\[
+z = 2\sqrt{2} - 2\sqrt{3}i
+\]
+Khi muốn tìm số phức \(\overline{z}\), ta simply thay phần ảo của z bằng với Its negative:
+\[
+\overline{z} = 2\sqrt{2} + 2\sqrt{3}i
+\]
+Tuy nhiên, yêu cầu là tìm phần thực và phần ảo của \(\overline{z}\). 
+- Phần thực của \(\overline{z}\) là \(2\sqrt{2}\).
+- Phần ảo của \(\overline{z}\) là \(+2\sqrt{3}i\).
+
+Comparing với các đáp án given:
+- Answer C): Phần thực bằng \(-2\sqrt{2}\) và phần ảo bằng \(-2\sqrt{3}\).
+
+**Kết luận:**
+Đáp án đúng là \(\boxed{-2\sqrt{2}}\) và \(\boxed{-2\sqrt{3}}\)."
+148,Số vô tỉ,D,D,True,466,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán: given số phức $z = 1 + 2\sqrt{6}i$, tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi nhận thấy rằng $\overline{z}$ là số phức liên hợp của $z$. Trong số phức, phần thực là số的那一 phần real, còn phần ảo là số那一 phần imaginary. Vì vậy, phần thực của $\overline{z}$ sẽ bằng phần thực của $z$, và phần ảo sẽ bằng -bwhenever $z = a + bi$.
+
+Vì $z = 1 + 2\sqrt{6}i$, nên $a=1$ và $b=2\sqrt{6}$. Do đó, phần thực của $\overline{z}$ là $1$, và phần ảo là -$2\sqrt{6}$.
+
+Sau khi xác định được phần thực và phần ảo của $\overline{z}$, tôi so sánh với các đáp án provided để xác định correct answer.
+","
+
+Đáp án đúng: D. Phần thực bằng $1$ và phần ảo bằng $- 2 \sqrt{6}$.
+
+**Giải thích:**
+
+1. **Có$b$ số phức**:Cho số phức $z = a + bi$, số phức liên hợp của $z$ là $\overline{z} = a - bi$.
+2. **Từ $z = 1 + 2\sqrt{6}i$**, ta có:
+   - Phần thực $a = 1$
+   - Phần ảo $b = 2\sqrt{6}$
+3. **Tính $\overline{z}$**:
+   $$
+   \overline{z} = 1 - 2\sqrt{6}i
+   $$
+4. **Chọn đáp án**:
+   - Phần thực của $\overline{z}$ là $1$
+   - Phần ảo của $\overline{z}$ là $-2\sqrt{6}$
+
+Đáp án đúng: D. Phần thực bằng $1$ và phần ảo bằng $- 2 \sqrt{6}$."
+149,Số vô tỉ,D,C,False,573,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán: given số phức $z = -2 + 4\sqrt{3}i$, tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi nhận thấy rằng $\overline{z}$ là số phức liên hợp của $z$. Trong số phức, phần thực là số的那一 phần real, còn phần ảo là số那一 phần imaginary. Vì vậy, phần thực của $\overline{z}$ sẽ bằng phần thực của $z$, và phần ảo của $\overline{z}$ sẽ bằng negative của phần ảo của $z$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của $z$ với phần thực và phần ảo của $\overline{z}$. Do đó, phần thực của $\overline{z}$ vẫn là $-2$, còn phần ảo của $\overline{z}$ sẽ là $-4\sqrt{3}i$.
+
+Cuối cùng, tôi so sánh các đáp án mà tôi đã tìm và xem có nào匹配 được. Dựa vào việc này, đáp án đúng là option C.
+","
+
+Đáp án đúng: \boxed{C}
+
+**Giải thích:**
+
+1. **Có$b\left( z \right) = -2$ và $a\left( z \right) = 4\sqrt{3}i$ (vì $z = -2 + 4\sqrt{3}i$).**
+   
+2. **Nếu $\overline{z}$ là số phức liên hợp của $z$, thì:**
+   
+   $$
+   b\left( \overline{z} \right) = a\left( z \right) = 4\sqrt{3}
+   $$
+   
+   $$
+   a\left( \overline{z} \right) = -b\left( z \right) = -(-2) = 2
+   $$
+
+3. **Tuy nhiên, trong số complex $a\left( \overline{z} \right)$ nên phải có phần ảo là $-4\sqrt{3}i$ rather $4\sqrt{3}i$ due to the sign change.**
+
+4. **Do đó, phần thực của $\overline{z}$ là $2$ và phần ảo là $-4\sqrt{3}i$.**
+
+5. **Tuy nhiên, phản ánh vào các đáp án given, ta thấy đáp án C): Phần thực bằng $-2$ và phần ảo bằng $-4\sqrt{3}i$ matching our result.**
+
+Đáp án đúng: \boxed{C}"
+150,Số vô tỉ,B,D,False,292,False,"Đầu tiên, tôi cần hiểu được yêu cầu của bài toán. Tôi cần tìm phần thực và phần ảo của số phức $\overline{z}$, với $z = -4\sqrt{7} - 4i$.
+
+Tôi biết rằng số phức $\overline{z}$ là số phức có phần thực bằng phần thực của $z$, nhưng phần ảo đã đổi dấu. Do đó, phần thực của $\overline{z}$ là $-4\sqrt{7}$ và phần ảo là $+4i$.
+
+Sau khi so sánh với các đáp án given, tôi thấy đáp án D): Phần thực bằng $-4\sqrt{7}$ và phần ảo bằng $4i$ matching了我的 kết quả.
+","
+
+Đáp án đúng: D. Phần thực bằng $- 4 \sqrt{7}$ và phần ảo bằng $4i$.
+
+Giải thích:
+- Cho số phức $z = -4\sqrt{7} - 4i$.
+- Số phức $\overline{z}$ là số phức có phần thực bằng phần thực của $z$, nhưng phần ảo đã đổi dấu. Do đó, phần thực của $\overline{z}$ là $-4\sqrt{7}$ và phần ảo là $+4i$.
+- Comparing với các đáp án given, đáp án D) đáp ứng đúng."
+151,Số vô tỉ,D,D,True,377,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán: given số phức $z = -1 - 3\sqrt{7}i$, tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi nhận thấy rằng $\overline{z}$ là số phức liên hợp của $z$. Trong số phức, phần thực là số的那一 part real, còn phần ảo là số那一 part imaginary. Vì vậy, phần thực của $\overline{z}$ sẽ bằng phần thực của $z$, và phần ảo sẽ bằng negative of phần ảo của $z$.
+
+Ngoài ra, $z$ có phần thực là $-1$ và phần ảo là $-3\sqrt{7}$. Do đó, phần thực của $\overline{z}$ sẽ vẫn là $-1$, và phần ảo sẽ là $3\sqrt{7}$ (b NEGATIF của phần ảo của $z$).
+
+Sau khi so sánh với các đáp án provided:
+
+- A. Phần thực bằng $1$ và phần ảo bằng $- 3 \sqrt{7}i$.
+- B. Phần thực bằng $1$ và phần ảo bằng $- 3 \sqrt{7}$.
+- C. Phần thực bằng $-1$ và phần ảo bằng $3 \sqrt{7}i$.
+- D. Phần thực bằng $-1$ và phần ảo bằng $3 \sqrt{7}$.
+
+Tuy nhiên, according to my reasoning, phần thực của $\overline{z}$ là $-1$, và phần ảo là $3\sqrt{7}$. Điều này吻合 với đáp án D.
+
+Vậy, ANSWER: D.
+","
+
+Đáp án đúng: $\boxed{D}$"
+152,Số vô tỉ,B,B,True,558,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán: given số phức $z = -6 + 3\sqrt{7}i$, tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi nhận thấy rằng $\overline{z}$ là số phức liên hợp của $z$. Trong số phức, phần thực của một số complex là số imaginary unitless, còn phần ảo là số imaginary. Ví dụ, nếu $z = a + bi$, thì $\overline{z} = a - bi$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của $z$ với phần thực và phần ảo của $\overline{z}$. Do đó, phần thực của $\overline{z}$ vẫn như phần thực của $z$,umsilon là $-6$, còn phần ảo của $\overline{z}$ sẽ bằng negative của phần ảo của $z$, không nhất quán. Điều này cho thấy phần ảo của $\overline{z}$ là $-3\sqrt{7}$.
+
+Sau khi xác định phần thực và phần ảo của $\overline{z}$, tôi so sánh với các đáp án given:
+
+A. Phần thực bằng $6$ và phần ảo bằng $3 \sqrt{7}i$: Đ sai, vì phần real là $-6$.
+B. Phần thực bằng $-6$ và phần ảo bằng $- 3 \sqrt{7}$: Đ đúng, since phần real là $-6$ và phần ảo là $-3\sqrt{7}$.
+C. Phần thực bằng $6$ và phần ảo bằng $3 \sqrt{7}$: Đ sai, vì phần real là $-6$.
+D. Phần thực bằng $-6$ và phần ảo bằng $- 3 \sqrt{7}i$: Đ sai, vì phần ảo đã có i.
+
+Vậy, đáp án đúng là B.
+","
+
+Đáp án đúng: B
+
+Giải thích:
+- Cho số phức $z = -6 + 3\sqrt{7}i$.
+- Số phức liên hợp của $z$ là $\overline{z} = -6 - 3\sqrt{7}i$.
+- Phần thực của $\overline{z}$ là $-6$.
+- Phần ảo của $\overline{z}$ là $-3\sqrt{7}$.
+
+Tuy nhiên, đáp án B chỉ mentioning phần thực là $-6$, nhưng phần ảo không phải là số imaginary unitless, nên đáp án đúng là B.
+
+Đáp án đúng: B"
+153,Số vô tỉ,A,D,False,439,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán: given số phức $z = -7 + 3\sqrt{5}i$, tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi nhận thấy rằng $\overline{z}$ là số phức liên hợp của $z$. Trong số phức, phần thực là số的那一 part real, còn phần ảo là số那一 part imaginary. Vì vậy, phần thực của $\overline{z}$ sẽ bằng phần thực của $z$, và phần ảo của $\overline{z}$ sẽ bằng negative of phần ảo của $z$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của $z$ với phần thực và phần ảo của $\overline{z}$. Do đó, phần thực của $\overline{z}$ vẫn là $-7$, còn phần ảo của $\overline{z}$ sẽ là $-3\sqrt{5}$i.
+
+Vì vậy, kết quả cần thiết là phần thực là $-7$ và phần ảo là $-3\sqrt{5}i$. Điều này cho thấy đáp án correct là D.
+","
+
+Đáp án đúng: D
+
+**Giải thích:**
+
+1. **Công thức liên hợp**: Phần thực và phần ảo của số phức $\overline{z}$ được xác định như sau:
+   - Phần thực của $\overline{z}$ là phần thực của $z$
+   - Phần ảo của $\overline{z}$ là $-\text{phần ảo của } z$
+
+2. **Tính toán**:
+   - $z = -7 + 3\sqrt{5}i$
+   - $\overline{z} = -7 - 3\sqrt{5}i$
+
+3. **Kết luận**:
+   - Phần thực của $\overline{z}$ là $-7$
+   - Phần ảo của $\overline{z}$ là $-3\sqrt{5}i$
+
+Đáp án đúng: $\boxed{D}$"
+154,Số vô tỉ,B,B,True,575,False,"Đầu tiên, tôi hiểu được yêu cầu của bài toán: tìm phần thực và phần ảo của số phức $\overline{z}$, biết $z = 2 \sqrt{7} - 3i$.
+
+Tôi nhận thấy rằng $\overline{z}$ là số phức liên hợp của $z$. Khi có số phức $z = a + bi$, thì $\overline{z} = a - bi$. 
+
+Sau đó, tôi so sánh phần thực và phần ảo của $z$ với $\overline{z}$:
+- Phần thực của $z$ là $2 \sqrt{7}$, nên phần thực của $\overline{z}$ cũng là $2 \sqrt{7}$.
+- Phần ảo của $z$ là $-3i$, nên phần ảo của $\overline{z}$ là $+3i$.
+
+Tôi so sánh với các đáp án provided:
+- A. Phần thực bằng $-2 \sqrt{7}$ (bù), không đúng.
+- B. Phần thực $2 \sqrt{7}$ (tương tự correct) và phần ảo $3$ (bù).
+- C. Phần thực $-2 \sqrt{7}$ (bù), không đúng.
+- D. Phần thực $2 \sqrt{7}$ (correct) và phần ảo $3i$ (bù).
+
+Vì vậy, đáp án chính xác là B.
+","
+
+Đáp án đúng: B
+
+**Giải thích:**
+
+Giả sử $z = 2\sqrt{7} - 3i$ là một số phức.
+
+Khi có số phức $z = a + bi$, số phức liên hợp của $z$ là $\overline{z} = a - bi$.
+
+Từ đó:
+- Phần thực của $z$ là $2\sqrt{7}$, nên phần thực của $\overline{z}$ cũng là $2\sqrt{7}$.
+- Phần ảo của $z$ là $-3i$, nên phần ảo của $\overline{z}$ là $3i$.
+
+Comparing with the options given:
+- **A**: Phần thực $-2\sqrt{7}$ (bù), không đúng.
+- **B**: Phần thực $2\sqrt{7}$ (correct) và phần ảo $3$ (bù), correct.
+- **C**: Phần thực $-2\sqrt{7}$ (bù), không đúng.
+- **D**: Phần thực $2\sqrt{7}$ (correct) và phần ảo $3i$ (bù), bù.
+
+Vậy, đáp án chính xác là **B**.
+
+$\boxed{\text{B}}$"
+155,Số vô tỉ,D,D,True,500,False,"Đầu tiên, tôi nhận thấy rằng $z$ là một số phức có phần thực là $2\sqrt{6}$ và phần ảo là $-8i$.
+
+Sau đó, tôi cần tìm phần thực và phần ảo của $\overline{z}$, chính là số phức bao gồm phần thực bằng phần thực của $z$ và phần ảo bằng negative của phần ảo của $z$. Điều này cho thấy phần thực của $\overline{z}$ vẫn là $2\sqrt{6}$, còn phần ảo là $8$.
+
+Vậy, đáp án đúng là D. Phần thực là $2\sqrt{6}$ và phần ảo là $8$.
+","
+
+Đầu tiên, tôi nhận thấy rằng số phức $z = 2 \sqrt{6} - 8i$ có phần thực là $2\sqrt{6}$ và phần ảo là $-8i$.
+
+Sau đó,当我们 gọi $\overline{z}$ là số phức bao gồm phần thực bằng phần thực của $z$ và phần ảo bằng negative của phần ảo của $z$, ta có:
+$$
+\overline{z} = 2\sqrt{6} + 8i
+$$
+
+Do đó:
+- **Phần thực của $\overline{z}$ là $2\sqrt{6}$**.
+- **Phần ảo của $\overline{z}$ là $+8i$**.
+
+Tuy nhiên, trong các câu hỏi này,往往会 chỉ định phần ảo theo phần-track imaginary, không cần thay đổi dấu. Do đó, phần ảo của $\overline{z}$ là $8$.
+
+**Kết luận:**
+Đáp án đúng là **D. Phần thực bằng $2 \sqrt{6}$ và phần ảo bằng $8$**.
+
+### Câu hỏi khác:
+A. Phần thực bằng $- 2 \sqrt{6}$ và phần ảo bằng $-8i$.
+B. Phần thực bằng $- 2 \sqrt{6}$ và phần ảo bằng $-8$.
+C. Phần thực bằng $2 \sqrt{6}$ và phần ảo bằng $8i$.
+D. Phần thực bằng $2 \sqrt{6}$ và phần ảo bằng $8$.
+
+Đáp án đúng: \boxed{D}"
+156,Số vô tỉ,C,D,False,626,False,"Đầu tiên, tôi hiểu yêu cầu của bài toán: given số phức $z = -2 + 2\sqrt{11}i$, tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+Tôi recalled rằng phần thực của số phức $z$ là các số real, trong đó phần ảo là số imaginary. Ví dụ, trong số phức $z = a + bi$, $a$ là phần thực và $b$ là phần ảo.
+
+Tiếp theo, tôi xác định số phức $\overline{z}$, có nghĩa là số phức bao gồm phần thực và phần ảo vẫn giữ nguyên, nhưng phần ảo dấu hiệuless (máy rực) thành sốrical. Tuy nhiên, trong trường hợp này, phần ảo vẫn giữ nguyên, nhưng phần thực đổi dấu. Điều này chỉ đúng khi $\overline{z}$ là số phức giao hoán với $z$, như trong trường hợp $z$ có phần thực không bằng zero.
+
+Vì vậy, để tìm $\overline{z}$, tôi cần thay đổi dấu của phần ảo của $z$. Điều này cho thấy $\overline{z} = -2 - 2\sqrt{11}i$.
+
+Sau đó, tôi so sánh phần thực và phần ảo của $\overline{z}$ với các-option cho thấy:
+- A: Phần thực 2, phần ảo $2\sqrt{11}i$
+- B: Phần thực 2, phần ảo $2\sqrt{11}$
+- C: Phần thực -2, phần ảo $-2\sqrt{11}$
+- D: Phần thực -2, phần ảo $-2\sqrt{11}i$
+
+Vì $\overline{z}$ có phần thực -2 và phần ảo $-2\sqrt{11}i$, đáp án cần thiết là D.
+","
+
+Đáp án đúng: \boxed{D}
+
+Giải thích:
+
+Để tìm phần thực và phần ảo của số phức $\overline{z}$, ta cần tính số phức giao hoán $\overline{z}$ từ số phức $z = -2 + 2\sqrt{11}i$.
+
+1. **Tính số phức giao hoan**:
+   $$
+   \overline{z} = -2 - 2\sqrt{11}i
+   $$
+
+2. **Bước 2**: Đọc phần thực và phần ảo của $\overline{z}$:
+   - **Phần thực**: $-2$
+   - **Phần ảo**: $-2\sqrt{11}i$
+
+3. **Chọn ý option**:
+   - Chose option D: Phần thực bằng $-2$ và phần ảo bằng $-2\sqrt{11}i$.
+
+Đáp án đúng: \boxed{D}"

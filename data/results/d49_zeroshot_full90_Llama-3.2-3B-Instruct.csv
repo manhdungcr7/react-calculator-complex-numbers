@@ -1,0 +1,4349 @@
+﻿STT,loai_so,dap_an_dung,model_chon,DUNG,token,het_ngan_sach,think,after
+2761,Số nguyên,B,C,False,588,False,"Để giải bài toán này, ta cần kiểm tra xem mỗi phương trình có chấp nhận cả hai số phức $z=-1+6i$ và $-1-6i$ là nghiệm hay không.
+
+**Phương trình A: $z^2-2z+37=0$**
+
+Để kiểm tra xem phương trình này có chấp nhận cả hai số phức $z=-1+6i$ và $-1-6i$ là nghiệm hay không, ta hãy thực hiện các bước sau:
+
+### Bước 1: Thay giá trị của $z$ vào phương trình
+
+Thay $z=-1+6i$ vào phương trình:
+$$
+\begin{aligned}
+(-1+6i)^2 - 2(-1+6i) + 37 &= 0 \\
+&= (1-12i^2 + 12i) - (-2 + 12i) + 37 \\
+&= 1 + 12 + 12i + 2 - 12i + 37 \\
+&= 50
+\end{aligned}
+$$
+
+Thay $z=-1-6i$ vào phương trình:
+$$
+\begin{aligned}
+(-1-6i)^2 - 2(-1-6i) + 37 &= 0 \\
+&= (1 - 12i^2 - 12i) - (-2 - 12i) + 37 \\
+&= 1 + 12 + (-12i) + 2 + 12i + 37 \\
+&= 50
+\end{aligned}
+$$
+
+### Kết luận
+
+Do phương trình $z^2-2z+37=0$ không bằng 0 với cả hai số phức $z=-1+6i$ và $-1-6i$, nên phương trình này không chấp nhận cả hai số phức đó là nghiệm.
+
+**Phương trình B: $z^2+2z+37=0$**
+
+Thực hiện các bước tương tự như trên, ta sẽ thấy rằng phương trình này cũng không chấp nhận cả hai số phức $z=-1+6i$ và $-1-6i$ là nghiệm.
+
+**Phương trình C: $z^2+2z-37=0$**
+
+Thực hiện các bước tương tự như trên, ta sẽ thấy rằng phương trình này chấp nhận cả hai số phức $z=-1+6i$ và $-1-6i$ là nghiệm.
+
+**Phương trình D: $z^2-2z-37=0$**
+
+Thực hiện các bước tương tự như trên, ta sẽ thấy rằng phương trình này cũng chấp nhận cả hai số phức $z=-1+6i$ và $-1-6i$ là nghiệm.
+
+Kết luận:
+
+Đáp án đúng: C",
+2762,Số nguyên,A,D,False,730,False,"Để tìm phương trình nhận hai số phức $z=1-i$ và $1+i$ là nghiệm, ta cần kiểm tra xem chúng có thỏa mãn phương trình hay không.
+
+Ta có:
+
+- Đối với phương trình $z^2-2z+2=0$
+
+$$
+\begin{aligned}
+(1-i)^2 - 2(1-i) + 2 &= 0\\
+1 - 2i + i^2 - 2 + 2 + 2i &= 0\\
+1 - 2i -1 + 2 + 2i &= 0\\
+2 &= 0
+\end{aligned}
+$$
+
+Vì $2 \neq 0$, nên phương trình $z^2-2z+2=0$ không phải là phương trình nhận hai số phức $z=1-i$ và $1+i$ là nghiệm.
+
+- Đối với phương trình $z^2+2z+2=0$
+
+$$
+\begin{aligned}
+(1-i)^2 + 2(1-i) + 2 &= 0\\
+1 - 2i + i^2 + 2 - 2i + 2 &= 0\\
+1 - 2i -1 + 2 - 2i + 2 &= 0\\
+2 - 4i &= 0
+\end{aligned}
+$$
+
+Vì $2 - 4i \neq 0$, nên phương trình $z^2+2z+2=0$ không phải là phương trình nhận hai số phức $z=1-i$ và $1+i$ là nghiệm.
+
+- Đối với phương trình $z^2-2z-2=0$
+
+$$
+\begin{aligned}
+(1-i)^2 - 2(1-i) - 2 &= 0\\
+1 - 2i + i^2 - 2 + 2i - 2 &= 0\\
+1 - 2i -1 - 2 + 2i &= 0\\
+-2 &= 0
+\end{aligned}
+$$
+
+Vì $-2 \neq 0$, nên phương trình $z^2-2z-2=0$ không phải là phương trình nhận hai số phức $z=1-i$ và $1+i$ là nghiệm.
+
+- Đối với phương trình $z^2+2z-2=0$
+
+$$
+\begin{aligned}
+(1-i)^2 + 2(1-i) - 2 &= 0\\
+1 - 2i + i^2 + 2 - 2i - 2 &= 0\\
+1 - 2i -1 - 2i - 2 &= 0\\
+-2 - 4i &= 0
+\end{aligned}
+$$
+
+Vì $-2 - 4i \neq 0$, nên phương trình $z^2+2z-2=0$ không phải là phương trình nhận hai số phức $z=1-i$ và $1+i$ là nghiệm.
+
+Nhận thấy tất cả các phương trình trên đều không phải là phương trình nhận hai số phức $z=1-i$ và $1+i$ là nghiệm. Do đó, không có phương trình nào trong các phương trình đã cho là phương trình nhận hai số phức $z=1-i$ và $1+i$ là nghiệm.
+
+Đáp án đúng: $\boxed{D}$",
+2763,Số nguyên,B,D,False,224,False,"Để tìm phương trình có hai nghiệm là $z=-4-i$ và $-4+i$, ta cần kiểm tra xem cả hai số phức này đều là nghiệm của phương trình hay không.
+
+Gọi phương trình là $az^2+bz+c=0$
+
+Ta có:
+
+$$
+\begin{aligned}
+z=-4-i \text{ và } -4+i \text{ là nghiệm của phương trình } az^2+bz+c=0\\
+\iff (z-(-4-i))(z-(-4+i))=0\\
+\iff (z+4+i)(z+4-i)=0\\
+\iff z^2+4z+i^2+4z+4i-iz-4i=0\\
+\iff z^2+8z+(4-i-i) = 0\\
+\iff z^2+8z+4-2i=0.
+\end{aligned}
+$$
+
+Vì phương trình trên không có phần thực, nên không phải là phương trình có nghiệm. 
+
+Đáp án đúng: D",
+2764,Số nguyên,C,B,False,796,False,"Để giải bài toán này, ta cần kiểm tra xem mỗi phương trình có chấp nhận cả hai số phức $z=-7+3i$ và $-7-3i$ là nghiệm hay không.
+
+**Phương trình A: $z^2-14z+58=0$**
+
+Ta có:
+$$
+\begin{aligned}
+z^2 - 14z + 58 &= 0 \\
+z^2 - 14z + (7^2 + 3^2) &= 0 \\
+(z - 7)^2 + 3^2 &= 0 \\
+(z - 7)^2 &= -3^2 \\
+z - 7 &= \pm 3i \\
+z &= 7 \pm 3i
+\end{aligned}
+$$
+
+Vì $7+3i$ và $7-3i$ đều không phải là nghiệm của phương trình, nên phương trình $z^2-14z+58=0$ không chấp nhận cả hai số phức $z=-7+3i$ và $-7-3i$ là nghiệm.
+
+**Phương trình B: $z^2+14z-58=0$**
+
+Ta có:
+$$
+\begin{aligned}
+z^2 + 14z - 58 &= 0 \\
+z^2 + 14z + (7^2 - 3^2) &= 0 \\
+(z + 7)^2 - 3^2 &= 0 \\
+(z + 7)^2 &= 3^2 \\
+z + 7 &= \pm 3i \\
+z &= -7 \pm 3i
+\end{aligned}
+$$
+
+Vì $-7+3i$ và $-7-3i$ đều là nghiệm của phương trình, nên phương trình $z^2+14z-58=0$ chấp nhận cả hai số phức $z=-7+3i$ và $-7-3i$ là nghiệm.
+
+**Phương trình C: $z^2+14z+58=0$**
+
+Ta có:
+$$
+\begin{aligned}
+z^2 + 14z + 58 &= 0 \\
+z^2 + 14z + (7^2 + 3^2) &= 0 \\
+(z + 7)^2 + 3^2 &= 0 \\
+(z + 7)^2 &= -3^2 \\
+z + 7 &= \pm 3i \\
+z &= -7 \pm 3i
+\end{aligned}
+$$
+
+Vì $-7+3i$ và $-7-3i$ đều không phải là nghiệm của phương trình, nên phương trình $z^2+14z+58=0$ không chấp nhận cả hai số phức $z=-7+3i$ và $-7-3i$ là nghiệm.
+
+**Phương trình D: $z^2-14z-58=0$**
+
+Ta có:
+$$
+\begin{aligned}
+z^2 - 14z - 58 &= 0 \\
+z^2 - 14z + (7^2 - (-3)^2) &= 0 \\
+(z - 7)^2 - 3^2 &= 0 \\
+(z - 7)^2 &= 3^2 \\
+z - 7 &= \pm 3i \\
+z &= 7 \pm 3i
+\end{aligned}
+$$
+
+Vì $-7+3i$ và $-7-3i$ đều không phải là nghiệm của phương trình, nên phương trình $z^2-14z-58=0$ không chấp nhận cả hai số phức $z=-7+3i$ và $-7-3i$ là nghiệm.
+
+Kết luận: Đáp án đúng: B",
+2765,Số nguyên,C,C,True,346,False,"Để tìm phương trình nhận hai số phức $z=6+5i$ và $6-5i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức giải quyết phương trình bậc hai với hai nghiệm là $z_1$ và $z_2$:
+
+$$
+z^2 - (z_1+z_2)z + z_1z_2 = 0.
+$$
+
+Trước tiên, chúng ta sẽ tính $z_1+z_2$ và $z_1z_2$ bằng cách thực hiện phép cộng và nhân hai số phức $z_1=6+5i$ và $z_2=6-5i$:
+
+$$
+\begin{aligned}
+z_1+z_2&=(6+5i)+(6-5i)\\
+&=12,
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+z_1z_2&=(6+5i)(6-5i)\\
+&=36-25i^2\\
+&=36+25\\
+&=61.
+\end{aligned}
+$$
+
+Bây giờ, chúng ta có thể đưa vào các giá trị của $z_1+z_2$ và $z_1z_2$ vào công thức trên để tìm phương trình bậc hai:
+
+$$
+\begin{aligned}
+z^2-(z_1+z_2)z+z_1z_2&=0\\
+z^2-12z+61&=0
+\end{aligned}
+$$
+
+Vậy đáp án đúng là: $\boxed{C}$",
+2766,Số nguyên,B,,False,403,False,"Để tìm phương trình nhận hai số phức $z=7+9i$ và $7-9i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức phân tích phương trình bậc hai với hai số phức $z_1=a+bi$ và $z_2=c+di$: nếu phương trình có thể được viết dưới dạng $(x-z_1)(x-z_2)=0$, thì phương trình đó sẽ nhận hai số phức $z_1$ và $z_2$ là nghiệm.
+
+Vì $z=7+9i$ và $z=7-9i$ là hai số phức khác nhau nên chúng không phải là cùng một số phức. Vì vậy, chúng không thể thỏa mãn phương trình $(x-z_1)(x-z_2)=0$.
+
+Tuy nhiên, chúng ta có thể tìm phương trình bậc hai có $z=7+9i$ và $z=7-9i$ là nghiệm bằng cách nhân đôi hai số phức và cộng chúng lại với nhau:
+
+$$
+\begin{aligned}
+(z+z')^2 &= z^2 + 2zz' + (z')^2\\
+&= (7+9i)^2 + 2(7+9i)(7-9i) + (7-9i)^2\\
+&= (49 - 81i^2) + 2(49 - 81i^2) + (49 - 81i^2)\\
+&= (49+81) + 2(49+81) + (49+81)\\
+&= 130 + 196 + 130\\
+&= 456.
+\end{aligned}
+$$
+
+Vậy phương trình bậc hai có $z=7+9i$ và $z=7-9i$ là nghiệm là $z^2+14z-130=0$.",
+2767,Số nguyên,B,C,False,221,False,"Để tìm phương trình có hai nghiệm là $z=-4+i$ và $-4-i$, ta cần kiểm tra xem cả hai số phức này đều là nghiệm của phương trình hay không.
+
+Gọi phương trình là $az^2+bz+c=0$
+
+Ta có:
+
+$$
+\begin{aligned}
+z=-4+i \text{ và } -4-i \text{ là nghiệm của phương trình } az^2+bz+c=0\\
+\iff (z-(-4+i))(z-(-4-i))=0\\
+\iff (z+4-i)(z+4+i)=0\\
+\iff z^2+4z+i^2+4z+4i-iz-4i-1=0\\
+\iff z^2+8z+3=0.
+\end{aligned}
+$$
+
+Vậy phương trình có hai số phức $z=-4+i$ và $-4-i$ là nghiệm là $z^2+8z+3=0$.
+
+Đáp án đúng: C",
+2768,Số nguyên,C,,False,473,False,"Để tìm phương trình nhận hai số phức $z=7+3i$ và $7-3i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức kiểm tra xem một số phức nào đó là nghiệm của phương trình số $az^2+bz+c=0$ hay không là:
+
+$$
+\begin{aligned}
+&amp;\text{Nếu } z_1 = a + bi \text{ là nghiệm, thì }\\
+&amp; (a+bi)^2 + b(a+bi) + c = 0 \iff (a^2 - b^2 + ab) + (ab + b^2)i + c = 0.
+\end{aligned}
+$$
+
+Vậy để $z=7+3i$ và $z=7-3i$ là nghiệm, ta cần có $(7+3i)^2 + 14(7+3i) + 58 = 0$ và $(7-3i)^2 - 14(7-3i) + 58 = 0.$
+
+Ta có:
+- $(7+3i)^2 + 14(7+3i) + 58 = (49-9+6i) + 98 + 42i + 58 = 0$
+$\iff (40+48i) + 98 + 42i + 58 = 0$
+$\iff 196 + 90i = 0$
+
+- $(7-3i)^2 - 14(7-3i) + 58 = (49-9-6i) - 98 + 42i + 58 = 0$
+$\iff (40-6i) - 98 + 42i + 58 = 0$
+$\iff -40+36i = 0$
+
+Như vậy, ta có $(7+3i)^2 + 14(7+3i) + 58 \neq 0$ và $(7-3i)^2 - 14(7-3i) + 58 \neq 0,$ nên không có phương trình nào trong các phương trình trên đều đúng. 
+
+Vậy đáp án đúng: $\boxed{\text{Không có đáp án nào}}$",
+2769,Số nguyên,B,,False,676,False,"Để tìm phương trình nhận hai số phức $z=5-i$ và $5+i$ là nghiệm, ta cần kiểm tra xem chúng có thỏa mãn phương trình hay không.
+
+Ta có:
+
+$$z^2+10z-26=0$$
+
+Vậy ta sẽ thay $z=5-i$ vào phương trình trên:
+
+$$(5-i)^2+10(5-i)-26=0$$
+
+Simplifying:
+$$25-10i+i^2+50-10i-26=0$$
+
+Gọi $i^2=-1$, ta có:
+
+$$25-10i-1+50-10i-26=0$$
+
+Simplifying tiếp:
+
+$$48-20i=0$$
+
+Nhận thấy $48-20i\neq 0$, do đó $z=5-i$ không phải là nghiệm của phương trình $z^2+10z-26=0$.
+
+Tiếp theo, ta sẽ thay $z=5+i$ vào phương trình trên:
+
+$$(5+i)^2+10(5+i)-26=0$$
+
+Simplifying:
+$$25+10i+i^2+50+10i-26=0$$
+
+Gọi $i^2=-1$, ta có:
+
+$$25+10i-1+50+10i-26=0$$
+
+Simplifying tiếp:
+
+$$48+20i=0$$
+
+Nhận thấy $48+20i\neq 0$, do đó $z=5+i$ không phải là nghiệm của phương trình $z^2+10z-26=0$.
+
+Tiếp theo, ta sẽ thay $z=5-i$ vào phương trình $z^2-10z-26=0$:
+
+$$(5-i)^2-10(5-i)-26=0$$
+
+Simplifying:
+$$25-10i+i^2-50+10i-26=0$$
+
+Gọi $i^2=-1$, ta có:
+
+$$25-10i-1-50+10i-26=0$$
+
+Simplifying tiếp:
+
+$$-52=0$$
+
+Nhận thấy $-52\neq 0$, do đó $z=5-i$ không phải là nghiệm của phương trình $z^2-10z-26=0$.
+
+Cuối cùng, ta sẽ thay $z=5+i$ vào phương trình $z^2-10z-26=0$:
+
+$$(5+i)^2-10(5+i)-26=0$$
+
+Simplifying:
+$$25+10i+i^2-50-10i-26=0$$
+
+Gọi $i^2=-1$, ta có:
+
+$$25+10i-1-50-10i-26=0$$
+
+Simplifying tiếp:
+
+$$-52=0$$
+
+Nhận thấy $-52\neq 0$, do đó $z=5+i$ không phải là nghiệm của phương trình $z^2-10z-26=0$.
+
+Kết luận: 
+
+Không có phương trình nào trong các phương trình đã cho nhận hai số phức $z=5-i$ và $5+i$ là nghiệm.",
+2770,Số nguyên,D,C,False,1798,False,"Để giải bài toán này, ta cần kiểm tra xem mỗi phương trình có chấp nhận cả hai số phức $z=-4+5i$ và $-4-5i$ là nghiệm hay không.
+
+**Phương trình A: $z^2-8z+41=0$**
+
+Để kiểm tra xem phương trình này có chấp nhận cả hai số phức $z=-4+5i$ và $-4-5i$ là nghiệm hay không, ta hãy thực hiện các bước sau:
+
+1. Thay $z=-4+5i$ vào phương trình:
+$$
+\begin{aligned}
+(-4+5i)^2 - 8(-4+5i) + 41 &= 0 \\
+16 - 80i + 25i^2 + 32 - 40i + 41 &= 0 \\
+16 - 80i - 25 - 40i + 32 + 41 &= 0 \\
+12 - 120i &= 0 \\
+-120i &= -12 \\
+i &= \frac{-12}{-120} = \frac{1}{10}
+\end{aligned}
+$$
+
+Vì $\frac{1}{10}$ không phải là một số phức, nên phương trình $z^2-8z+41=0$ không chấp nhận cả hai số phức $z=-4+5i$ và $-4-5i$ là nghiệm.
+
+2. Thay $z=-4-5i$ vào phương trình:
+$$
+\begin{aligned}
+(-4-5i)^2 - 8(-4-5i) + 41 &= 0 \\
+16 + 80i + 25i^2 - 32 + 40i + 41 &= 0 \\
+16 + 80i - 25 - 32 + 40i + 41 &= 0 \\
+20 + 120i &= 0 \\
+120i &= -20 \\
+i &= \frac{-20}{120} = -\frac{1}{6}
+\end{aligned}
+$$
+
+Vì $\frac{-1}{6}$ không phải là một số phức, nên phương trình $z^2-8z+41=0$ cũng không chấp nhận cả hai số phức $z=-4+5i$ và $-4-5i$ là nghiệm.
+
+**Phương trình B: $z^2+8z-41=0$**
+
+Để kiểm tra xem phương trình này có chấp nhận cả hai số phức $z=-4+5i$ và $-4-5i$ là nghiệm hay không, ta hãy thực hiện các bước sau:
+
+1. Thay $z=-4+5i$ vào phương trình:
+$$
+\begin{aligned}
+(-4+5i)^2 + 8(-4+5i) - 41 &= 0 \\
+16 - 80i + 25i^2 - 32 + 40i - 41 &= 0 \\
+16 - 80i - 25 - 32 - 40i - 41 &= 0 \\
+-60 - 120i &= 0 \\
+-120i &= 60 \\
+i &= \frac{60}{-120} = -\frac{1}{2}
+\end{aligned}
+$$
+
+Vì $\frac{-1}{2}$ là một số thực, nên phương trình $z^2+8z-41=0$ chấp nhận số phức $z=-4+5i$ là nghiệm.
+
+2. Thay $z=-4-5i$ vào phương trình:
+$$
+\begin{aligned}
+(-4-5i)^2 + 8(-4-5i) - 41 &= 0 \\
+16 + 80i + 25i^2 - 32 - 40i - 41 &= 0 \\
+16 + 80i - 25 - 32 - 40i - 41 &= 0 \\
+-60 + 40i &= 0 \\
+40i &= 60 \\
+i &= \frac{60}{40} = \frac{3}{2}
+\end{aligned}
+$$
+
+Vì $\frac{3}{2}$ là một số thực, nên phương trình $z^2+8z-41=0$ chấp nhận số phức $z=-4-5i$ là nghiệm.
+
+**Phương trình C: $z^2-8z-41=0$**
+
+Để kiểm tra xem phương trình này có chấp nhận cả hai số phức $z=-4+5i$ và $-4-5i$ là nghiệm hay không, ta hãy thực hiện các bước sau:
+
+1. Thay $z=-4+5i$ vào phương trình:
+$$
+\begin{aligned}
+(-4+5i)^2 - 8(-4+5i) - 41 &= 0 \\
+16 - 80i + 25i^2 + 32 - 40i - 41 &= 0 \\
+16 - 80i - 25 - 32 - 40i - 41 &= 0 \\
+-60 - 120i &= 0 \\
+-120i &= 60 \\
+i &= \frac{60}{-120} = -\frac{1}{2}
+\end{aligned}
+$$
+
+Vì $\frac{-1}{2}$ là một số thực, nên phương trình $z^2-8z-41=0$ chấp nhận số phức $z=-4+5i$ là nghiệm.
+
+2. Thay $z=-4-5i$ vào phương trình:
+$$
+\begin{aligned}
+(-4-5i)^2 - 8(-4-5i) - 41 &= 0 \\
+16 + 80i + 25i^2 - 32 + 40i - 41 &= 0 \\
+16 + 80i - 25 - 32 - 40i - 41 &= 0 \\
+-60 + 40i &= 0 \\
+40i &= 60 \\
+i &= \frac{60}{40} = \frac{3}{2}
+\end{aligned}
+$$
+
+Vì $\frac{3}{2}$ là một số thực, nên phương trình $z^2-8z-41=0$ chấp nhận số phức $z=-4-5i$ là nghiệm.
+
+**Phương trình D: $z^2+8z+41=0$**
+
+Để kiểm tra xem phương trình này có chấp nhận cả hai số phức $z=-4+5i$ và $-4-5i$ là nghiệm hay không, ta hãy thực hiện các bước sau:
+
+1. Thay $z=-4+5i$ vào phương trình:
+$$
+\begin{aligned}
+(-4+5i)^2 + 8(-4+5i) + 41 &= 0 \\
+16 - 80i + 25i^2 - 32 + 40i + 41 &= 0 \\
+16 - 80i - 25 - 32 - 40i + 41 &= 0 \\
+-60 - 120i &= 0 \\
+-120i &= 60 \\
+i &= \frac{60}{-120} = -\frac{1}{2}
+\end{aligned}
+$$
+
+Vì $\frac{-1}{2}$ là một số thực, nên phương trình $z^2+8z+41=0$ chấp nhận số phức $z=-4+5i$ là nghiệm.
+
+2. Thay $z=-4-5i$ vào phương trình:
+$$
+\begin{aligned}
+(-4-5i)^2 + 8(-4-5i) + 41 &= 0 \\
+16 + 80i + 25i^2 - 32 - 40i + 41 &= 0 \\
+16 + 80i - 25 - 32 - 40i + 41 &= 0 \\
+-60 + 40i &= 0 \\
+40i &= 60 \\
+i &= \frac{60}{40} = \frac{3}{2}
+\end{aligned}
+$$
+
+Vì $\frac{3}{2}$ là một số thực, nên phương trình $z^2+8z+41=0$ chấp nhận số phức $z=-4-5i$ là nghiệm.
+
+Kết luận rằng phương trình $z^2+8z-41=0$ là phương trình duy nhất chấp nhận cả hai số phức $z=-4+5i$ và $-4-5i$ là nghiệm.
+
+Đáp án đúng: C",
+2771,Số nguyên,C,,False,800,False,"Để giải bài toán này, ta cần kiểm tra xem mỗi phương trình có chấp nhận cả hai số phức $z=-9-6i$ và $-9+6i$ là nghiệm hay không.
+
+**Phương trình A: $z^2-18z+117=0$**
+
+Ta có:
+$$
+\begin{aligned}
+z^2 - 18z + 117 &= 0 \\
+(-9 - 6i)^2 - 18(-9 - 6i) + 117 &= 0\\
+81 + 54i - 36 - 108i + 117 &= 0\\
+162 - 54i + 117 &= 0\\
+279 - 54i &= 0
+\end{aligned}
+$$
+
+Nhận thấy $279 - 54i \neq 0$, do đó phương trình $z^2 - 18z + 117 = 0$ không chấp nhận cả hai số phức $z = -9 - 6i$ và $z = -9 + 6i$ là nghiệm.
+
+**Phương trình B: $z^2+18z-117=0$**
+
+Ta có:
+$$
+\begin{aligned}
+z^2 + 18z - 117 &= 0 \\
+(-9 - 6i)^2 + 18(-9 - 6i) - 117 &= 0\\
+81 + 54i - 36 - 108i - 117 &= 0\\
+-72 - 54i &= 0
+\end{aligned}
+$$
+
+Nhận thấy $-72 - 54i \neq 0$, do đó phương trình $z^2 + 18z - 117 = 0$ không chấp nhận cả hai số phức $z = -9 - 6i$ và $z = -9 + 6i$ là nghiệm.
+
+**Phương trình C: $z^2+18z+117=0$**
+
+Ta có:
+$$
+\begin{aligned}
+z^2 + 18z + 117 &= 0 \\
+(-9 - 6i)^2 + 18(-9 - 6i) + 117 &= 0\\
+81 + 54i - 36 - 108i + 117 &= 0\\
+162 - 54i + 117 &= 0\\
+279 - 54i &= 0
+\end{aligned}
+$$
+
+Nhận thấy $279 - 54i \neq 0$, do đó phương trình $z^2 + 18z + 117 = 0$ không chấp nhận cả hai số phức $z = -9 - 6i$ và $z = -9 + 6i$ là nghiệm.
+
+**Phương trình D: $z^2-18z-117=0$**
+
+Ta có:
+$$
+\begin{aligned}
+z^2 - 18z - 117 &= 0 \\
+(-9 - 6i)^2 - 18(-9 - 6i) - 117 &= 0\\
+81 + 54i - 36 + 108i - 117 &= 0\\
+-72 + 162i &= 0
+\end{aligned}
+$$
+
+Nhận thấy $-72 + 162i \neq 0$, do đó phương trình $z^2 - 18z - 117 = 0$ không chấp nhận cả hai số phức $z = -9 - 6i$ và $z = -9 + 6i$ là nghiệm.
+
+Vậy, không có phương trình nào trong các phương trình đã đề cập ở trên chấp nhận cả hai số phức $z = -9 - 6i$ và $z = -9 + 6i$ là nghiệm.",
+2772,Số nguyên,B,A,False,354,False,"Để tìm phương trình nhận hai số phức $z=4-8i$ và $4+8i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức kiểm tra xem một số phức nào đó là nghiệm của phương trình số $az^2+bz+c=0$ hay không là:
+
+$$
+\begin{aligned}
+&amp;\text{Nếu } z_1 = a + bi \text{ là nghiệm, thì }\\
+&amp; (a+bi)^2 + b(a+bi) + c = 0 \iff\\
+&amp; a^2 - b^2 + 2abi + ab + abi + b^2 + c = 0 \\
+&amp; \iff (a^2 + b^2) + (ab + ab + b^2)i + c = 0.
+\end{aligned}
+$$
+
+Vậy, nếu $(a^2 + b^2) + (2ab + b^2)i + c = 0$, thì $z = a + bi$ là nghiệm.
+
+Trong trường hợp này, chúng ta có thể nhận thấy rằng:
+- Đối với $z=4-8i$: $a=4,b=-8,c=80$;
+- Đối với $z=4+8i$: $a=4,b=8,c=80$.
+
+Vì cả hai đều thỏa mãn $(a^2 + b^2) + (2ab + b^2)i + c = 0$, nên chúng ta có thể kết luận rằng cả hai số phức đều là nghiệm của phương trình số $z^2+8z+80=0$.
+
+Đáp án đúng: A",
+2773,Số nguyên,D,,False,232,False,"Để giải bài toán này, ta cần kiểm tra xem mỗi phương trình có chấp nhận cả hai số phức $z=-3+2i$ và $-3-2i$ là nghiệm hay không.
+
+**Phương trình A: $z^2-6z+13=0$**
+
+Ta có:
+$$
+\begin{aligned}
+z^2 - 6z + 13 &= 0 \\
+(-3 + 2i)^2 - 6(-3 + 2i) + 13 &= 0\\
+9 - 12i + 4i^2 -18 + 12i + 13 &= 0\\
+9 - 12i -4 - 18 + 12i + 13 &= 0\\
+0 &= 0.
+\end{aligned}
+$$
+
+Do đó, $z = -3 + 2i$ và $z = -3 - 2i$ đều là nghiệm của phương trình $z^2 - 6z + 13 = 0$. 
+
+Vậy đáp án đúng là $\boxed{\textbf{A}}$.",
+2774,Số nguyên,C,C,True,189,False,"Để tìm phương trình nhận hai số phức $z=9+4i$ và $9-4i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức cơ bản về số phức: 
+
+$$
+(z - a)(z - b) = z^2 - (a + b)z + ab.
+$$
+
+Vì $z=9+4i$ và $z=9-4i$, ta có:
+
+$$
+\begin{aligned}
+z^2-(9+4i)-(9-4i)+97&=0\\
+z^2-18+97&=0\\
+z^2-18+97&=0\\
+z^2-18+97&=0\\
+z^2+18z-97&=0\\
+\end{aligned}
+$$
+
+Do đó, đáp án đúng là C.",
+2775,Số nguyên,B,,False,408,False,"Để tìm phương trình nhận hai số phức $z=2-2i$ và $2+2i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức kiểm tra xem một số phức nào đó là nghiệm của phương trình số phức $az^2+bz+c=0$ hay không:
+
+$$
+\begin{aligned}
+&amp;\text{Nếu } z_1,z_2 \text{ là hai nghiệm của phương trình số phức } az^2+bz+c=0\\
+&amp;\text{ thì } (z-z_1)(z-z_2)=z^2-(z_1+z_2)z+z_{1}z_{2}=0.
+\end{aligned}
+$$
+
+Vì $2-2i$ và $2+2i$ là hai nghiệm của phương trình số phức $az^2+bz+c=0$, ta có:
+$$
+\begin{aligned}
+(2-2i)-(2+2i)&amp;=0\\
+\Rightarrow 0&amp;=0
+\end{aligned}
+$$
+
+Vậy $(z-(2-2i))(z-(2+2i))=0$ cũng là phương trình số phức có $z=2-2i$ và $z=2+2i$ là nghiệm. 
+
+Ta viết ra $(z-(2-2i))(z-(2+2i))=0$ theo dạng tiêu chuẩn là:
+
+$$
+\begin{aligned}
+(z-(2-2i))(z-(2+2i))&amp;=0\\
+\Rightarrow z^2-(2+2i+z-(2-2i))z+(2-2i)(2+2i)&amp;=0\\
+\Rightarrow z^2-4z+8&amp;=0
+\end{aligned}
+$$
+
+Vậy đáp án đúng là $\boxed{\textbf{B}}$.",
+2776,Số nguyên,B,B,True,317,False,"Để tìm phương trình nhận hai số phức $z=5-9i$ và $5+9i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức giải quyết phương trình bậc hai với hai nghiệm là $z_1$ và $z_2$:
+
+$$
+z^2 - (z_1+z_2)z + z_1z_2 = 0.
+$$
+
+Trước tiên, chúng ta sẽ tính $z_1+z_2$ và $z_1z_2$ bằng cách thay giá trị $z_1$ và $z_2$ vào các biểu thức này. 
+
+Vậy $z_1+z_2 = (5-9i)+(5+9i) = 10$
+
+Và $z_1z_2 = (5-9i)(5+9i) = 25+45i-45i-81i^2$
+
+Gọi $i^2=-1$, nên $-81i^2 = 81$. Do đó, $z_1z_2 = 25+81=106.$
+
+Bây giờ, ta có thể xác định phương trình bậc hai với hai nghiệm $z=5-9i$ và $5+9i$ là
+
+$$
+z^2-(z_1+z_2)z+z_1z_2=0 \implies z^2-10z+106=0
+$$
+
+Đáp án đúng: B",
+2777,Số nguyên,A,,False,768,False,"Để giải bài toán này, ta cần kiểm tra xem mỗi phương trình có phải là phương trình vừa với hai số phức $z=-7+8i$ và $-7-8i$ hay không.
+
+### Vấn đề
+
+Phương trình nào dưới đây nhận hai số phức $z=-7+8i$ và $-7-8i$ là nghiệm?
+
+A. $z^2+14z+113=0$
+B. $z^2-14z+113=0$
+C. $z^2+14z-113=0$
+D. $z^2-14z-113=0$
+
+### Giải
+
+#### Bước 1: Gọi $z = -7 + 8i$
+
+Ta sẽ thay thế $z = -7 + 8i$ vào từng phương trình để kiểm tra xem có đúng hay không.
+
+#### Bước 2: Thay $z = -7 + 8i$ vào phương trình A
+
+$(-7+8i)^2+14(-7+8i)+113$
+
+$\implies (-49+16i^2)+(-98+112i)+113$
+
+$\implies (-49-16)+(-98+112i)+113$
+
+$\implies -49-16-98+112i+113$
+
+$\implies -144+112i$
+
+Vì $-144+112i$ không phải là một trong hai nghiệm gốc, nên phương trình A không phải là phương trình vừa.
+
+#### Bước 3: Thay $z = -7 + 8i$ vào phương trình B
+
+$(-7+8i)^2-14(-7+8i)+113$
+
+$\implies (-49+16i^2)-(-98+112i)+113$
+
+$\implies (-49-16)-(-98+112i)+113$
+
+$\implies -49-16+98-112i+113$
+
+$\implies 142-112i$
+
+Vì $142-112i$ không phải là một trong hai nghiệm gốc, nên phương trình B không phải là phương trình vừa.
+
+#### Bước 4: Thay $z = -7 + 8i$ vào phương trình C
+
+$(-7+8i)^2+14(-7+8i)-113$
+
+$\implies (-49+16i^2)+(-98+112i)-113$
+
+$\implies (-49-16)+(-98+112i)-113$
+
+$\implies -49-16-98+112i-113$
+
+$\implies -260+112i$
+
+Vì $-260+112i$ không phải là một trong hai nghiệm gốc, nên phương trình C không phải là phương trình vừa.
+
+#### Bước 5: Thay $z = -7 + 8i$ vào phương trình D
+
+$(-7+8i)^2-14(-7+8i)-113$
+
+$\implies (-49+16i^2)-(-98+112i)-113$
+
+$\implies (-49-16)-(-98+112i)-113$
+
+$\implies -49-16+98-112i-113$
+
+$\implies -80-112i$
+
+Vì $-80-112i$ không phải là một trong hai nghiệm gốc, nên phương trình D không phải là phương trình vừa.
+
+#### Kết luận
+
+Sau khi kiểm tra tất cả các phương trình, chúng ta thấy rằng chưa có phương trình nào được cho là vừa với hai số phức $z=-7+8i$ và $-7-8i$. 
+
+Vì vậy, không có đáp án nào trong các phương trình A, B, C, D là đúng.",
+2778,Số nguyên,C,C,True,1178,False,"Để tìm phương trình nhận hai số phức $z=2-7i$ và $2+7i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức kiểm tra xem một số phức nào đó là nghiệm của phương trình số $az^2+bz+c=0$ hay không là:
+
+$$
+\begin{aligned}
+&amp;\text{Nếu } z_1 = a + bi \text{ là nghiệm, thì }\\
+&amp; (a+bi)^2 + b(a+bi) + c = 0 \iff\\
+&amp; (a^2 - b^2 + ab) + i(2ab - b^2) + c = 0.
+\end{aligned}
+$$
+
+Vì $z=2-7i$ và $z=2+7i$ đều là nghiệm, chúng ta có thể thay thế vào công thức trên để kiểm tra xem phương trình nào là đúng.
+
+Bắt đầu với $z=2-7i$, ta có:
+$$
+\begin{aligned}
+&amp;(2-7i)^2 + (2-7i)(2-7i) + c = 0\\
+&amp;\iff (4 - 28i + 49i^2) + (4 - 14i -14i + 49i^2) + c = 0\\
+&amp;\iff (4 - 28i - 49) + (4 - 28i - 49) + c = 0\\
+&amp;\iff (-45 - 56i) + c = 0\\
+&amp;\iff c = 45 + 56i.
+\end{aligned}
+$$
+
+Tiếp đến với $z=2+7i$, ta có:
+$$
+\begin{aligned}
+&amp;(2+7i)^2 + (2+7i)(2+7i) + c = 0\\
+&amp;\iff (4 + 28i + 49i^2) + (4 + 14i + 14i + 49i^2) + c = 0\\
+&amp;\iff (4 + 28i - 49) + (18 + 28i - 49) + c = 0\\
+&amp;\iff (-54 + 56i) + c = 0\\
+&amp;\iff c = 54 - 56i.
+\end{aligned}
+$$
+
+Như vậy, ta thấy rằng cả hai phương trình $(2-7i)$ và $(2+7i)$ không phải là nghiệm của cùng một phương trình. Tuy nhiên, ta nhận thấy rằng trong hai phương trình trên, $c$ không giống nhau, nhưng chúng ta không cần phải tìm $c$ để xác định phương trình có nhận $z=2-7i$ và $z=2+7i$ là nghiệm hay không. Thay vào phương trình số mà không cần tìm $c$ đã cho ta kết luận được.
+
+Từ công thức trên, ta nhận thấy rằng nếu phương trình số chứa $z=2-7i$ là nghiệm thì $c$ phải là một số thực. Còn nếu phương trình số chứa $z=2+7i$ là nghiệm thì $c$ phải là một số thực. Vậy, chúng ta sẽ thử kiểm tra các phương trình số từ A đến D để xem có đáp án nào thỏa mãn yêu cầu này hay không.
+
+Phương trình số A là: $$z^2+4z+53=0.$$ 
+
+Chúng ta có:
+$$
+\begin{aligned}
+&amp;(2-7i)^2 + 4(2-7i) + 53 = 0\\
+&amp;\iff (-45 - 56i) + 8 - 28i + 53 = 0\\
+&amp;\iff 16 - 84i \neq 0.
+\end{aligned}
+$$
+
+Phương trình số B là: $$z^2-4z-53=0.$$ 
+
+Chúng ta có:
+$$
+\begin{aligned}
+&amp;(2-7i)^2 - 4(2-7i) - 53 = 0\\
+&amp;\iff (-45 - 56i) - 8 + 28i - 53 = 0\\
+&amp;\iff -108 - 28i \neq 0.
+\end{aligned}
+$$
+
+Phương trình số C là: $$z^2-4z+53=0.$$ 
+
+Chúng ta có:
+$$
+\begin{aligned}
+&amp;(2-7i)^2 - 4(2-7i) + 53 = 0\\
+&amp;\iff (-45 - 56i) - 8 + 28i + 53 = 0\\
+&amp;\iff 0 = 0.
+\end{aligned}
+$$
+
+Phương trình số D là: $$z^2+4z-53=0.$$ 
+
+Chúng ta có:
+$$
+\begin{aligned}
+&amp;(2+7i)^2 + 4(2+7i) - 53 = 0\\
+&amp;\iff (-54 + 56i) + 8 + 28i - 53 = 0\\
+&amp;\iff -99 + 84i \neq 0.
+\end{aligned}
+$$
+
+Từ những gì đã phân tích ở trên, ta thấy rằng chỉ có phương trình số C là đúng với $z=2-7i$ và $z=2+7i$ là nghiệm. 
+
+Đáp án đúng: C",
+2779,Số nguyên,D,B,False,619,False,"Để giải bài toán này, ta cần kiểm tra xem mỗi phương trình có phải là phương trình vừa với hai số phức $z=-5-5i$ và $-5+5i$ hay không.
+
+### Vấn đề
+
+Phương trình nào dưới đây nhận hai số phức $z=-5-5i$ và $-5+5i$ là nghiệm?
+
+A. $z^2-10z+50=0$
+B. $z^2+10z-50=0$
+C. $z^2-10z-50=0$
+D. $z^2+10z+50=0$
+
+### Giải
+
+#### Bước 1: Gọi $z_1 = -5-5i$ và $z_2 = -5+5i$
+
+Ta có thể sử dụng tính chất của các số phức để tìm ra giá trị của phương trình.
+
+#### Bước 2: Tìm tổng và sản phẩm của hai số phức $z_1$ và $z_2$
+
+- Tổng của hai số phức $z_1$ và $z_2$ là:
+$$
+\begin{aligned}
+z_1+z_2 &= (-5-5i)+(-5+5i) \\
+&= -10.
+\end{aligned}
+$$
+
+- Sản phẩm của hai số phức $z_1$ và $z_2$ là:
+$$
+\begin{aligned}
+z_1z_2 &= (-5-5i)(-5+5i) \\
+&= (-5)^2-(5i)^2 \\
+&= 25 + 25 \\
+&= 50.
+\end{aligned}
+$$
+
+#### Bước 3: Thay các giá trị vào phương trình
+
+Giả sử phương trình là $az^2+bz+c=0$, chúng ta có thể viết:
+
+$$
+\begin{aligned}
+az^2+bz+c &= 0 \\
+a(-10)^2 + b(-10) + c &= 0 \\
+100a - 10b + c &= 0 \\
+50a - 5b + \frac{c}{2} &= 0 \\
+10(5a-b) + \frac{c}{2} &= 0 \\
+10(5a-b) &= -\frac{c}{2} \\
+20(5a-b) &= -c \\
+\end{aligned}
+$$
+
+Vì $z_1$ và $z_2$ là hai nghiệm của phương trình, chúng ta cũng có thể viết:
+$$
+\begin{aligned}
+z^2 - 10z + c &= 0 \\
+z^2 - 10z + 50 &= 0 \\
+\end{aligned}
+$$
+
+Thay $c=50$ vào phương trình trên, ta thấy rằng phương trình $z^2 - 10z + 50 = 0$ đáp ứng được yêu cầu.
+
+#### Kết luận
+
+Đáp án đúng: B",
+2780,Số nguyên,A,D,False,508,False,"Để tìm phương trình có hai nghiệm là $z=-8-i$ và $z=-8+i$, ta thực hiện các bước sau:
+
+### Bước 1: Tìm công thức tổng quát của phương trình có hai nghiệm là $z_1$ và $z_2$
+
+Công thức tổng quát của phương trình có hai nghiệm là $z_1$ và $z_2$ được viết là $(x-z_1)(x-z_2)=0$.
+
+### Bước 2: Thay $z_1=-8-i$ và $z_2=-8+i$ vào công thức
+
+Thay $z_1=-8-i$ và $z_2=-8+i$ vào công thức, chúng ta có:
+$(x-(-8-i))(x-(-8+i))=0$
+$\Rightarrow (x+8+i)(x+8-i)=0$
+
+### Bước 3: Kíp mở rộng và phân tích phương trình
+
+Kíp mở rộng và phân tích phương trình, chúng ta có:
+$x^2 + 8x + ix + 8x + 64 -ix = 0$
+$\Rightarrow x^2 + 16x + 64 = 0$
+
+### Bước 4: So sánh với các phương trình đề bài
+
+So sánh phương trình $x^2 + 16x + 64 = 0$ với các phương trình đề bài, chúng ta thấy rằng:
+- Phương trình $z^2+16z+65=0$ không phù hợp vì không có $64$ trong phương trình.
+- Phương trình $z^2-16z-65=0$ không phù hợp vì không có $64$ trong phương trình.
+- Phương trình $z^2+16z-65=0$ không phù hợp vì không có $64$ trong phương trình.
+- Phương trình $z^2+16z+65=0$ không phù hợp vì không có $64$ trong phương trình.
+
+Tuy nhiên, thay vì so sánh từng phương trình một như trên, chúng ta có thể nhận xét rằng phương trình cần tìm phải có dạng $z^2 + 16z + c=0$ để có hai nghiệm là $z=-8-i$ và $z=-8+i$. 
+
+Nhưng $z^2+16z+64=0$ cũng có hai nghiệm là $z=-8\pm i$ nên đáp án D đúng.",
+2781,Số nguyên,A,B,False,584,False,"Để giải bài toán này, ta cần kiểm tra xem mỗi phương trình có phải là phương trình vừa với hai số phức $z=-9-2i$ và $-9+2i$ hay không.
+
+### Vấn đề
+
+Phương trình nào dưới đây nhận hai số phức $z=-9-2i$ và $-9+2i$ là nghiệm?
+
+A. $z^2+18z+85=0$
+B. $z^2-18z+85=0$
+C. $z^2+18z-85=0$
+D. $z^2-18z-85=0$
+
+### Giải
+
+#### Bước 1: Gọi $z_1 = -9-2i$ và $z_2 = -9+2i$
+
+Ta có thể sử dụng tính chất của các số phức để tìm ra giá trị của phương trình.
+
+#### Bước 2: Tìm tổng và sản phẩm của hai số phức $z_1$ và $z_2$
+
+- Tổng của hai số phức $z_1$ và $z_2$ là:
+$$
+\begin{aligned}
+z_1+z_2 &= (-9-2i)+(-9+2i) \\
+&= -18.
+\end{aligned}
+$$
+
+- Sản phẩm của hai số phức $z_1$ và $z_2$ là:
+$$
+\begin{aligned}
+z_1z_2 &= (-9-2i)(-9+2i) \\
+&= (-9)^2-(2i)^2 \\
+&= 81 + 4\\
+&= 85.
+\end{aligned}
+$$
+
+#### Bước 3: Khảo sát từng phương trình
+
+- Phương trình A: $z^2+18z+85=0$
+
+Ta có tổng của hai số phức $z_1$ và $z_2$ là $-18$, nhưng trong phương trình $z^2+18z+85=0$, tổng của hai số phức nên là $-18$. Do đó phương trình này không phải là phương trình vừa với hai số phức $z_1$ và $z_2$.
+
+- Phương trình B: $z^2-18z+85=0$
+
+Trong phương trình $z^2-18z+85=0$, tổng của hai số phức $z_1$ và $z_2$ là $-18$ và sản phẩm của hai số phức $z_1$ và $z_2$ là $85$. 
+
+Vì đáp số của phương trình $z^2-18z+85=0$ là $z_1$ và $z_2$, nên phương trình này phải đúng.
+
+#### Kết luận
+
+Đáp án đúng: B",
+2782,Số nguyên,A,D,False,723,False,"Để tìm phương trình nhận hai số phức $z=2-i$ và $2+i$ là nghiệm, ta cần kiểm tra xem chúng có thỏa mãn phương trình hay không.
+
+Ta có thể bắt đầu bằng cách thay thế mỗi số phức vào các phương trình đề bài và kiểm tra xem chúng đều thỏa mãn hay không.
+
+### Thay số phức $z=2-i$ vào các phương trình
+- **Phương trình A:** $z^2-4z+5=0$
+  - $z=2-i$
+  - $z^2=(2-i)^2 = (2-i)(2-i) = 4 - 4i + i^2 = 4 - 4i - 1 = 3 - 4i$
+  - $-4z=-4(2-i)=-8+4i$
+  - $5=5$
+  - Tổng hợp lại: $(3 - 4i) + (-8 + 4i) + 5 = -4$
+
+Vậy phương trình $z^2-4z+5=0$ không thỏa mãn với $z=2-i$.
+
+- **Phương trình B:** $z^2+4z+5=0$
+  - $z=2-i$
+  - $z^2=(2-i)^2 = (2-i)(2-i) = 4 - 4i + i^2 = 4 - 4i - 1 = 3 - 4i$
+  - $4z=4(2-i)=8-4i$
+  - $5=5$
+  - Tổng hợp lại: $(3 - 4i) + (8 - 4i) + 5 = 16 - 8i$
+
+Vậy phương trình $z^2+4z+5=0$ không thỏa mãn với $z=2-i$.
+
+- **Phương trình C:** $z^2-4z-5=0$
+  - $z=2-i$
+  - $z^2=(2-i)^2 = (2-i)(2-i) = 4 - 4i + i^2 = 4 - 4i - 1 = 3 - 4i$
+  - $-4z=-4(2-i)=-8+4i$
+  - $-5=-5$
+  - Tổng hợp lại: $(3 - 4i) + (-8 + 4i) - 5 = -10$
+
+Vậy phương trình $z^2-4z-5=0$ không thỏa mãn với $z=2-i$.
+
+- **Phương trình D:** $z^2+4z-5=0$
+  - $z=2-i$
+  - $z^2=(2-i)^2 = (2-i)(2-i) = 4 - 4i + i^2 = 4 - 4i - 1 = 3 - 4i$
+  - $4z=4(2-i)=8-4i$
+  - $-5=-5$
+  - Tổng hợp lại: $(3 - 4i) + (8 - 4i) - 5 = 6 - 8i$
+
+Vậy phương trình $z^2+4z-5=0$ thỏa mãn với $z=2-i$.
+
+### Kết luận
+Đáp án đúng: D",
+2783,Số nguyên,B,C,False,952,False,"Để tìm phương trình nhận hai số phức $z=7-3i$ và $7+3i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức kiểm tra xem một số phức nào đó là nghiệm của phương trình số $az^2+bz+c=0$ hay không là:
+
+$$
+\begin{aligned}
+&amp;\text{Nếu } z_1 = a + bi \text{ là nghiệm, thì }\\
+&amp; (a+bi)^2 + b(a+bi) + c = 0 \iff\\
+&amp; a^2 - b^2 + 2abi + ab + abi + b^2 + c = 0 \\
+&amp; \iff (a^2 + b^2) + (ab + ab + b^2)i + c = 0.
+\end{aligned}
+$$
+
+Vậy, nếu $(a^2 + b^2) + (2ab + b^2)i + c = 0$, thì $z = a + bi$ là nghiệm.
+
+Trong trường hợp này, chúng ta có thể nhận thấy rằng:
+- $a = 7$, $b = -3$
+- $c = 58$
+
+Như vậy, ta có $(a^2 + b^2) = 7^2 + (-3)^2 = 58$, $(ab + b^2) = 7(-3) + (-3)^2 = -21 + 9 = -12$ và $(a^2 + b^2) + (ab + b^2)i + c = 58 - 12i + 58 = 116 - 12i \neq 0$.
+
+Do đó, phương trình $z^2+14z+58=0$ không phải là phương trình nhận $z=7-3i$ và $7+3i$ là nghiệm.
+
+Còn lại, ta có: 
+- $a = 7$, $b = 3$
+- $c = -58$
+
+Như vậy, ta có $(a^2 + b^2) = 7^2 + 3^2 = 58$, $(ab + b^2) = 7(3) + 3^2 = 21 + 9 = 30$ và $(a^2 + b^2) + (ab + b^2)i + c = 58 + 30i - 58 = 30i \neq 0$.
+
+Do đó, phương trình $z^2-14z+58=0$ không phải là phương trình nhận $z=7-3i$ và $7+3i$ là nghiệm.
+
+Tiếp theo, ta có: 
+- $a = -7$, $b = -3$
+- $c = -58$
+
+Như vậy, ta có $(a^2 + b^2) = (-7)^2 + (-3)^2 = 58$, $(ab + b^2) = (-7)(-3) + (-3)^2 = 21 + 9 = 30$ và $(a^2 + b^2) + (ab + b^2)i + c = 58 + 30i - 58 = 30i \neq 0$.
+
+Do đó, phương trình $z^2-14z-58=0$ không phải là phương trình nhận $z=7-3i$ và $7+3i$ là nghiệm.
+
+Cuối cùng, ta có: 
+- $a = 7$, $b = -3$
+- $c = 58$
+
+Như vậy, ta có $(a^2 + b^2) = 7^2 + (-3)^2 = 58$, $(ab + b^2) = 7(-3) + (-3)^2 = -21 + 9 = -12$ và $(a^2 + b^2) + (ab + b^2)i + c = 58 - 12i + 58 = 116 - 12i \neq 0$.
+
+Do đó, phương trình $z^2+14z-58=0$ không phải là phương trình nhận $z=7-3i$ và $7+3i$ là nghiệm.
+
+Kết luận: Không có phương trình nào trong các phương trình đã cho là phương trình nhận $z=7-3i$ và $7+3i$ là nghiệm.
+
+Đáp án đúng: $\boxed{C}$",
+2784,Số nguyên,B,B,True,257,False,"Để tìm phương trình nhận hai số phức $z=7-6i$ và $7+6i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức giải quyết phương trình bậc hai với hai nghiệm là $z_1$ và $z_2$:
+
+$$
+\begin{aligned}
+z^2 - (z_1+z_2)z + z_1z_2 = 0.
+\end{aligned}
+$$
+
+Trong trường hợp này, ta có $z_1=7-6i$, $z_2=7+6i$.
+
+Thay $z_1$ và $z_2$ vào công thức trên, ta có:
+
+$$
+\begin{aligned}
+z^2-(z_1+z_2)z+z_1z_2&=0\\
+z^2-(7-6i+7+6i)z+(7-6i)(7+6i)&=0\\
+z^2-14z+(49+36)&=0\\
+z^2-14z+85&=0
+\end{aligned}
+$$
+
+Vậy đáp án đúng là: $\boxed{B}$",
+2785,Số nguyên,C,D,False,257,False,"Để tìm phương trình nhận hai số phức $z=9-7i$ và $9+7i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức giải quyết phương trình bậc hai với hai nghiệm là $z_1$ và $z_2$:
+
+$$
+z^2 - (z_1+z_2)z + z_1z_2 = 0.
+$$
+
+Trước tiên, chúng ta sẽ tính $z_1+z_2$ và $z_1z_2$ bằng cách thực hiện phép cộng và nhân hai số phức $z_1=9-7i$ và $z_2=9+7i$:
+
+$$
+\begin{aligned}
+z_1+z_2&=(9-7i)+(9+7i)=18\\
+z_1z_2&=(9-7i)(9+7i)=81-49i^2=81+49=130.
+\end{aligned}
+$$
+
+Vậy phương trình có thể viết dưới dạng:
+
+$$
+z^2-(18)z+(130)=0
+$$
+
+Vậy phương trình phù hợp với đáp án $\boxed{D}$.",
+2786,Số nguyên,B,D,False,973,False,"Để tìm phương trình nhận hai số phức $z=4+5i$ và $4-5i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức kiểm tra xem một số phức nào đó là nghiệm của phương trình số phức $az^2+bz+c=0$ hay không:
+
+$$
+\begin{aligned}
+&amp;\text{Nếu } z_1 = a + bi \text{ là nghiệm, thì }\\
+&amp; (a+bi)^2 + b(a+bi) + c = 0 \iff (a^2 - b^2 + ab) + (ab + b^2)i + c = 0.
+\end{aligned}
+$$
+
+Vậy để $z=4+5i$ và $z=4-5i$ là nghiệm, chúng phải thỏa mãn
+
+$$
+\begin{aligned}
+&(4+5i)^2 + 8(4+5i) -41 = 0\\
+&\iff (16-25+40i) + 32+40i -41 = 0\\
+&\iff (-9+40i) + 32+40i -41 = 0\\
+&\iff -9 + 32 -41 + 80i = 0\\
+&\iff -19 + 80i = 0.
+\end{aligned}
+$$
+
+Nhưng $-19 + 80i \neq 0$, vì số thực và số ảo không thể bằng 0 cùng một lúc. 
+
+Vậy $z=4+5i$ và $z=4-5i$ không phải là nghiệm của phương trình $z^2+8z+41=0$. 
+
+Vì vậy, đáp án A không đúng. 
+
+Tiếp theo, ta xét phương trình $z^2-8z+41=0$:
+
+$$
+\begin{aligned}
+&(4+5i)^2 - 8(4+5i) + 41 = 0\\
+&\iff (16-25+40i) - 32-40i + 41 = 0\\
+&\iff -9 - 40i + 41 = 0\\
+&\iff -9 + 41 - 40i = 0\\
+&\iff 32 - 40i = 0.
+\end{aligned}
+$$
+
+Như đã thấy ở trên, $32 - 40i \neq 0$, nên $z=4+5i$ và $z=4-5i$ không phải là nghiệm của phương trình $z^2-8z+41=0$. 
+
+Vậy đáp án B không đúng.
+
+Tiếp đến, ta xét phương trình $z^2-8z-41=0$:
+
+$$
+\begin{aligned}
+&(4+5i)^2 - 8(4+5i) - 41 = 0\\
+&\iff (16-25+40i) - 32-40i - 41 = 0\\
+&\iff -9 - 40i - 32 - 40i - 41 = 0\\
+&\iff -82 - 80i = 0.
+\end{aligned}
+$$
+
+Như đã thấy ở trên, $-82 - 80i \neq 0$, nên $z=4+5i$ và $z=4-5i$ không phải là nghiệm của phương trình $z^2-8z-41=0$. 
+
+Vậy đáp án C không đúng.
+
+Cuối cùng, ta xét phương trình $z^2+8z-41=0$:
+
+$$
+\begin{aligned}
+&(4+5i)^2 + 8(4+5i) - 41 = 0\\
+&\iff (16-25+40i) + 32+40i - 41 = 0\\
+&\iff -9 + 32 + 40i + 40i - 41 = 0\\
+&\iff -17 + 80i = 0.
+\end{aligned}
+$$
+
+Như đã thấy ở trên, $-17 + 80i \neq 0$, nên $z=4+5i$ và $z=4-5i$ không phải là nghiệm của phương trình $z^2+8z-41=0$. 
+
+Vậy đáp án D không đúng.
+
+Vậy cả bốn phương trình đều không đúng.
+
+Đáp án đúng: $\boxed{\text{Không có}}$",
+2787,Số nguyên,C,,False,411,False,"Để tìm phương trình nhận hai số phức $z=8+8i$ và $8-8i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức $(x+y)^2 = x^2 + 2xy + y^2$, khi áp dụng cho số phức chúng ta sẽ có:
+
+$(a+bi)^2=a^2- b^2+2abi$
+
+Vậy ta có
+
+$(8+8i)^2 = 64 - 64 + 128i$
+$\implies (8+8i)^2=128i$
+
+Và
+
+$(8-8i)^2 = 64 - 64 - 128i$
+$\implies (8-8i)^2=-128i$
+
+Bây giờ, để tìm phương trình nhận hai số phức $z=8+8i$ và $8-8i$ là nghiệm, ta cần tìm phương trình nhận hai số phức là $z_1$ và $z_2$.
+
+Ta có công thức $(z-z_1)(z-z_2)=0$
+
+Vì $z_1 = 8 + 8i$ và $z_2 = 8 - 8i$ nên phương trình sẽ là:
+
+$(z-(8+8i))(z-(8-8i))=0$
+
+Khi đó, ta có:
+
+$(z-8-8i)(z-8+8i)=0$
+
+Sử dụng công thức $(a-b)(a+b) = a^2 - b^2$ ta có:
+
+$(z-8)^2 - (8i)^2=0$
+
+Simplify, ta có:
+
+$z^2 - 16z + 64 + 64 = 0$
+$\implies z^2 - 16z + 128 = 0$
+
+Vậy phương trình nhận hai số phức $z=8+8i$ và $8-8i$ là nghiệm là C.",
+2788,Số nguyên,B,B,True,1965,False,"Để giải bài toán này, ta cần kiểm tra xem mỗi phương trình có phải là phương trình vừa với hai số phức $z=-6+3i$ và $-6-3i$ hay không.
+
+### Vấn đề
+
+Phương trình nào dưới đây nhận hai số phức $z=-6+3i$ và $-6-3i$ là nghiệm?
+
+A. $z^2-12z+45=0$
+B. $z^2+12z+45=0$
+C. $z^2+12z-45=0$
+D. $z^2-12z-45=0$
+
+### Giải
+
+#### Bước 1: Gọi $z = -6 + 3i$
+
+Ta sẽ thay thế $z = -6 + 3i$ vào từng phương trình để kiểm tra xem phương trình đó nhận $z$ hay không.
+
+### A. $z^2-12z+45=0$
+
+Thay $z = -6 + 3i$ vào phương trình:
+$$
+\begin{aligned}
+(-6+3i)^2 - 12(-6 + 3i) + 45 &= 0\\
+36 - 36i + 9i^2 - 72 + 36i + 45 &= 0\\
+36 - 36i - 9 + 36i + 72 + 45 &= 0\\
+114 &= 0.
+\end{aligned}
+$$
+
+Vì $114 \neq 0$, nên phương trình $z^2-12z+45=0$ không nhận $z = -6 + 3i$.
+
+### B. $z^2+12z+45=0$
+
+Thay $z = -6 + 3i$ vào phương trình:
+$$
+\begin{aligned}
+(-6+3i)^2 + 12(-6 + 3i) + 45 &= 0\\
+36 - 36i + 9i^2 - 72 + 36i + 45 &= 0\\
+36 - 36i - 9 + 36i + 72 - 36i + 45 &= 0\\
+114 &= 0.
+\end{aligned}
+$$
+
+Vì $114 \neq 0$, nên phương trình $z^2+12z+45=0$ không nhận $z = -6 + 3i$.
+
+### C. $z^2+12z-45=0$
+
+Thay $z = -6 + 3i$ vào phương trình:
+$$
+\begin{aligned}
+(-6+3i)^2 + 12(-6 + 3i) - 45 &= 0\\
+36 - 36i + 9i^2 - 72 + 36i - 45 &= 0\\
+36 - 36i - 9 - 72 + 36i - 45 &= 0\\
+-78 &= 0.
+\end{aligned}
+$$
+
+Vì $-78 \neq 0$, nên phương trình $z^2+12z-45=0$ không nhận $z = -6 + 3i$.
+
+### D. $z^2-12z-45=0$
+
+Thay $z = -6 + 3i$ vào phương trình:
+$$
+\begin{aligned}
+(-6+3i)^2 - 12(-6 + 3i) - 45 &= 0\\
+36 - 36i + 9i^2 + 72 - 36i - 45 &= 0\\
+36 - 36i - 9 - 72 - 36i - 45 &= 0\\
+-78 - 72i &= 0.
+\end{aligned}
+$$
+
+Vì $-78 - 72i \neq 0$, nên phương trình $z^2-12z-45=0$ không nhận $z = -6 + 3i$.
+
+### Kết luận
+
+Mặc dù trong quá trình phân tích trên ta đã thấy rằng tất cả các phương trình đều không nhận $z = -6 + 3i$, nhưng chúng ta cần kiểm tra lại việc này một lần nữa. Để làm điều này, hãy thử thay $z = -6 - 3i$ vào các phương trình.
+
+### A. $z^2-12z+45=0$
+
+Thay $z = -6 - 3i$ vào phương trình:
+$$
+\begin{aligned}
+(-6-3i)^2 - 12(-6 - 3i) + 45 &= 0\\
+36 + 36i + 9i^2 + 72 + 36i + 45 &= 0\\
+36 + 36i - 9 + 72 + 36i + 45 &= 0\\
+114 + 72i &= 0.
+\end{aligned}
+$$
+
+Vì $114 + 72i \neq 0$, nên phương trình $z^2-12z+45=0$ không nhận $z = -6 - 3i$.
+
+### B. $z^2+12z+45=0$
+
+Thay $z = -6 - 3i$ vào phương trình:
+$$
+\begin{aligned}
+(-6-3i)^2 + 12(-6 - 3i) + 45 &= 0\\
+36 + 36i + 9i^2 - 72 - 36i + 45 &= 0\\
+36 + 36i - 9 - 72 - 36i + 45 &= 0\\
+114 &= 0.
+\end{aligned}
+$$
+
+Vì $114 \neq 0$, nên phương trình $z^2+12z+45=0$ không nhận $z = -6 - 3i$.
+
+### C. $z^2+12z-45=0$
+
+Thay $z = -6 - 3i$ vào phương trình:
+$$
+\begin{aligned}
+(-6-3i)^2 + 12(-6 - 3i) - 45 &= 0\\
+36 + 36i + 9i^2 - 72 - 36i - 45 &= 0\\
+36 + 36i - 9 - 72 - 36i - 45 &= 0\\
+-78 &= 0.
+\end{aligned}
+$$
+
+Vì $-78 \neq 0$, nên phương trình $z^2+12z-45=0$ không nhận $z = -6 - 3i$.
+
+### D. $z^2-12z-45=0$
+
+Thay $z = -6 - 3i$ vào phương trình:
+$$
+\begin{aligned}
+(-6-3i)^2 - 12(-6 - 3i) - 45 &= 0\\
+36 + 36i + 9i^2 + 72 + 36i - 45 &= 0\\
+36 + 36i - 9 + 72 + 36i - 45 &= 0\\
+-78 + 72i &= 0.
+\end{aligned}
+$$
+
+Vì $-78 + 72i \neq 0$, nên phương trình $z^2-12z-45=0$ không nhận $z = -6 - 3i$.
+
+### Kết luận
+
+Mặc dù trong quá trình phân tích trên ta đã thấy rằng tất cả các phương trình đều không nhận $z = -6 + 3i$ và $z = -6 - 3i$, thì thực ra chúng ta đã bỏ sót một phương trình duy nhất còn lại. Hãy thử kiểm tra lại phương trình $z^2+12z+45=0$ bằng cách sử dụng phương pháp tính nghiệm của Vieta.
+
+Tính chất đầu tiên của Vieta cho biết tổng của các nghiệm của một phương trình bậc hai là $\frac{-b}{a}$. Trong trường hợp này, tổng của các nghiệm của phương trình $z^2+12z+45=0$ là $-\frac{12}{1} = -12$. 
+
+Suy ra, nếu $z_1$ và $z_2$ là hai nghiệm của phương trình này, ta có:
+
+$$
+\begin{aligned}
+z_1 + z_2 &= -12\\
+z_1 &= -12 - z_2.
+\end{aligned}
+$$
+
+Giả sử $z_1 = -6 + 3i$, ta có:
+
+$$
+\begin{aligned}
+z_2 &= -12 - (-6 + 3i)\\
+&= -12 + 6 - 3i\\
+&= -6 - 3i.
+\end{aligned}
+$$
+
+Vậy, $z_2$ cũng là nghiệm của phương trình $z^2+12z+45=0$.
+
+### Kết luận
+
+Do đó, phương trình $z^2+12z+45=0$ nhận hai số phức $z=-6+3i$ và $-6-3i$. Do đó, đáp án đúng là $\boxed{B}$",
+2789,Số nguyên,A,D,False,1193,False,"Để tìm phương trình nhận hai số phức $z=9-8i$ và $9+8i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức cơ bản về số phức: 
+
+$$
+(z - a)(z - b) = z^2 - (a + b)z + ab.
+$$
+
+Vì $z=9-8i$ và $z=9+8i$, ta có:
+
+$$
+\begin{aligned}
+z^2-(9-8i)+(9+8i)&=(9-8i)^2+(9+8i)\\
+&=81-144i^2+18i\\
+&=81+144+18i\\
+&=225+18i.
+\end{aligned}
+$$
+
+Và:
+$$
+\begin{aligned}
+z^2-(9+8i)+(9-8i)&=(9+8i)^2+(9-8i)\\
+&=81-144i^2+18i\\
+&=81+144-18i\\
+&=225-18i.
+\end{aligned}
+$$
+
+Suy ra $z^2-18z+145=0$ không phải là phương trình nhận $z=9-8i$ và $z=9+8i$ là nghiệm. 
+
+Thay vào $z=9-8i$ vào phương trình $z^2+18z-145=0$, ta có:
+
+$$
+\begin{aligned}
+(9-8i)^2+18(9-8i)-145&=0\\
+81-144i^2+162-144i-145&=0\\
+81+144-144i-145&=0\\
+0-144i&=0
+\end{aligned}
+$$
+
+Vậy phương trình $z^2+18z-145=0$ không phải là phương trình nhận $z=9-8i$ là nghiệm.
+
+Thay vào $z=9+8i$ vào phương trình $z^2+18z-145=0$, ta có:
+
+$$
+\begin{aligned}
+(9+8i)^2+18(9+8i)-145&=0\\
+81+144i^2+162+144i-145&=0\\
+81-144+162+144i-145&=0\\
+98+144i&=0
+\end{aligned}
+$$
+
+Vậy phương trình $z^2+18z-145=0$ không phải là phương trình nhận $z=9+8i$ là nghiệm.
+
+Thay vào $z=9-8i$ vào phương trình $z^2-18z+145=0$, ta có:
+
+$$
+\begin{aligned}
+(9-8i)^2-18(9-8i)+145&=0\\
+81-144i^2-162+144i+145&=0\\
+81+144-162+144i+145&=0\\
+58+144i&=0
+\end{aligned}
+$$
+
+Vậy phương trình $z^2-18z+145=0$ không phải là phương trình nhận $z=9-8i$ là nghiệm.
+
+Thay vào $z=9+8i$ vào phương trình $z^2-18z+145=0$, ta có:
+
+$$
+\begin{aligned}
+(9+8i)^2-18(9+8i)+145&=0\\
+81+144i^2+162+144i+145&=0\\
+81-144+162+144i+145&=0\\
+104+144i&=0
+\end{aligned}
+$$
+
+Vậy phương trình $z^2-18z+145=0$ không phải là phương trình nhận $z=9+8i$ là nghiệm.
+
+Như vậy, chúng ta chỉ còn lại phương trình $z^2+18z+145=0$ để kiểm tra.
+
+Thay vào $z=9-8i$ vào phương trình $z^2+18z+145=0$, ta có:
+
+$$
+\begin{aligned}
+(9-8i)^2+18(9-8i)+145&=0\\
+81-144i^2+162-144i+145&=0\\
+81+144+162-144i&=0\\
+287-144i&=0
+\end{aligned}
+$$
+
+Vậy phương trình $z^2+18z+145=0$ không phải là phương trình nhận $z=9-8i$ là nghiệm.
+
+Thay vào $z=9+8i$ vào phương trình $z^2+18z+145=0$, ta có:
+
+$$
+\begin{aligned}
+(9+8i)^2+18(9+8i)+145&=0\\
+81+144i^2+162+144i+145&=0\\
+81-144+162+144i&=0\\
+99+144i&=0
+\end{aligned}
+$$
+
+Vậy phương trình $z^2+18z+145=0$ không phải là phương trình nhận $z=9+8i$ là nghiệm.
+
+Như vậy, phương trình $z^2+18z+145=0$ không phải là phương trình nhận cả $z=9-8i$ và $z=9+8i$ là nghiệm.
+
+Vậy đáp án đúng là $\boxed{D}$",
+2790,Số nguyên,C,,False,1528,False,"Để giải bài toán này, ta cần kiểm tra xem mỗi phương trình có chấp nhận cả hai số phức $z=-5+3i$ và $-5-3i$ là nghiệm hay không.
+
+**Phương trình A: $z^2-10z+34=0$**
+
+Để kiểm tra xem phương trình này có chấp nhận cả hai số phức $z=-5+3i$ và $-5-3i$ là nghiệm hay không, ta hãy thử đặt cả hai giá trị vào phương trình và kiểm tra xem có thỏa mãn không.
+
+*   Đặt $z=-5+3i$ vào phương trình:
+    \begin{align*}
+(-5+3i)^2-10(-5+3i)+34&amp;=0\\
+\Rightarrow\qquad (-25+6i)-10(-5+3i)+34 &amp;= 0 \\
+\Rightarrow\qquad -25+6i+50-30i+34 &amp;= 0\\
+\Rightarrow\qquad 59-24i &amp;\neq 0
+\end{align*} 
+Vì $59-24i \neq 0$, nên phương trình $z^2-10z+34=0$ không chấp nhận số phức $z=-5+3i$ là nghiệm.
+*   Đặt $z=-5-3i$ vào phương trình:
+    \begin{align*}
+(-5-3i)^2-10(-5-3i)+34&amp;=0\\
+\Rightarrow\qquad (-25-6i)-10(-5-3i)+34 &amp;= 0 \\
+\Rightarrow\qquad -25-6i+50+30i+34 &amp;= 0\\
+\Rightarrow\qquad 59+24i &amp;\neq 0
+\end{align*} 
+Vì $59+24i \neq 0$, nên phương trình $z^2-10z+34=0$ không chấp nhận số phức $z=-5-3i$ là nghiệm.
+
+**Phương trình B: $z^2+10z-34=0$**
+
+*   Đặt $z=-5+3i$ vào phương trình:
+    \begin{align*}
+(-5+3i)^2+10(-5+3i)-34&amp;=0\\
+\Rightarrow\qquad (-25+6i)+(-50+30i)-34 &amp;= 0 \\
+\Rightarrow\qquad -25+6i-50+30i-34 &amp;= 0\\
+\Rightarrow\qquad -109+36i &amp;\neq 0
+\end{align*} 
+Vì $-109+36i \neq 0$, nên phương trình $z^2+10z-34=0$ không chấp nhận số phức $z=-5+3i$ là nghiệm.
+*   Đặt $z=-5-3i$ vào phương trình:
+    \begin{align*}
+(-5-3i)^2+10(-5-3i)-34&amp;=0\\
+\Rightarrow\qquad (-25-6i)+(-50-30i)-34 &amp;= 0 \\
+\Rightarrow\qquad -25-6i-50-30i-34 &amp;= 0\\
+\Rightarrow\qquad -109-36i &amp;\neq 0
+\end{align*} 
+Vì $-109-36i \neq 0$, nên phương trình $z^2+10z-34=0$ không chấp nhận số phức $z=-5-3i$ là nghiệm.
+
+**Phương trình C: $z^2+10z+34=0$**
+
+*   Đặt $z=-5+3i$ vào phương trình:
+    \begin{align*}
+(-5+3i)^2+10(-5+3i)+34&amp;=0\\
+\Rightarrow\qquad (-25+6i)+(-50+30i)+34 &amp;= 0 \\
+\Rightarrow\qquad -25+6i-50+30i+34 &amp;= 0\\
+\Rightarrow\qquad -41+36i &amp;= 0
+\end{align*} 
+Vì $-41+36i \neq 0$, nên phương trình $z^2+10z+34=0$ không chấp nhận số phức $z=-5+3i$ là nghiệm.
+*   Đặt $z=-5-3i$ vào phương trình:
+    \begin{align*}
+(-5-3i)^2+10(-5-3i)+34&amp;=0\\
+\Rightarrow\qquad (-25-6i)+(-50-30i)+34 &amp;= 0 \\
+\Rightarrow\qquad -25-6i-50-30i+34 &amp;= 0\\
+\Rightarrow\qquad -41-36i &amp;= 0
+\end{align*} 
+Vì $-41-36i \neq 0$, nên phương trình $z^2+10z+34=0$ không chấp nhận số phức $z=-5-3i$ là nghiệm.
+
+**Phương trình D: $z^2-10z-34=0$**
+
+*   Đặt $z=-5+3i$ vào phương trình:
+    \begin{align*}
+(-5+3i)^2-10(-5+3i)-34&amp;=0\\
+\Rightarrow\qquad (-25+6i)+50-30i-34 &amp;= 0 \\
+\Rightarrow\qquad -25+6i+50-30i-34 &amp;= 0\\
+\Rightarrow\qquad -9-24i &amp;= 0
+\end{align*} 
+Vì $-9-24i \neq 0$, nên phương trình $z^2-10z-34=0$ không chấp nhận số phức $z=-5+3i$ là nghiệm.
+*   Đặt $z=-5-3i$ vào phương trình:
+    \begin{align*}
+(-5-3i)^2-10(-5-3i)-34&amp;=0\\
+\Rightarrow\qquad (-25-6i)+50+30i-34 &amp;= 0 \\
+\Rightarrow\qquad -25-6i+50+30i-34 &amp;= 0\\
+\Rightarrow\qquad -9+24i &amp;= 0
+\end{align*} 
+Vì $-9+24i \neq 0$, nên phương trình $z^2-10z-34=0$ không chấp nhận số phức $z=-5-3i$ là nghiệm.
+
+Kết luận: Không có phương trình nào trong các phương trình trên chấp nhận cả hai số phức $z=-5+3i$ và $-5-3i$ là nghiệm.",
+2791,Số hữu tỉ,D,C,False,795,False,"Để tìm phương trình có hai số phức $z=\dfrac{3}{2}+\dfrac{32}{5}i$ và $\dfrac{3}{2}-\dfrac{32}{5}i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức cơ bản về phương trình bậc hai với các số phức:
+
+$$az^2+bz+c=0$$
+
+Trong đó: a, b, c là các số thực và z là số phức.
+
+Ta có hai số phức $z_1=\dfrac{3}{2}+\dfrac{32}{5}i$ và $z_2=\dfrac{3}{2}-\dfrac{32}{5}i$
+
+Để tìm phương trình có hai số phức $z_1$ và $z_2$ là nghiệm, ta cần tìm phương trình bậc hai thỏa mãn các yêu cầu sau:
+
+- Tính chất 1: $a+bi+c=0$
+- Tính chất 2: $(a-b)i + (c-a)j=0$
+
+Với $z_1=\dfrac{3}{2}+\dfrac{32}{5}i$, ta có:
+$a = \dfrac{3}{2}$, $b = \dfrac{32}{5}$
+
+Và $z_2=\dfrac{3}{2}-\dfrac{32}{5}i$, ta có:
+$a = \dfrac{3}{2}$, $b = -\dfrac{32}{5}$
+
+Ta sẽ chọn phương trình có dạng $az^2+bz+c=0$ và đảm bảo cả hai số phức $z_1$ và $z_2$ đều là nghiệm của phương trình đó.
+
+Ta có công thức tổng quát để tìm phương trình bậc hai với các số phức $z_1$ và $z_2$ là:
+
+$$z^2-(z_1+z_2)z+(z_1z_2)=0$$
+
+Thay giá trị của $z_1$ và $z_2$ vào công thức trên, ta có:
+
+$$z^2-\left(\dfrac{3}{2}+\dfrac{32}{5}i+\dfrac{3}{2}-\dfrac{32}{5}i\right)z+\left(\dfrac{3}{2}+\dfrac{32}{5}i\right)\left(\dfrac{3}{2}-\dfrac{32}{5}i\right)=0$$
+
+Simplifying và viết dưới dạng phân tử, ta có:
+
+$$z^2-\left(\dfrac{3}{2}+\dfrac{3}{2}\right)z+\left(\dfrac{9}{4}+\dfrac{1024}{25}-\dfrac{96}{25}i^2\right)=0$$
+
+Gọi $i^2=-1$, ta có:
+
+$$z^2-\left(3\right)z+\left(\dfrac{9}{4}+\dfrac{1024}{25}+\dfrac{96}{25}\right)=0$$
+
+Simplifying, ta có:
+
+$$z^2-3z+\dfrac{9}{4}+\dfrac{1120}{25}=0$$
+
+Chuyển tất cả các phần tử sang một bên, ta có:
+
+$$z^2-3z+\dfrac{225+1120}{100}=0$$
+
+Gọi $z^2-3z+\dfrac{1345}{100}=0$, ta có:
+
+$$z^2-3z+\dfrac{1345}{100}=0$$
+
+Do đó, đáp án đúng là:
+
+Đáp án đúng: C",
+2792,Số hữu tỉ,A,C,False,667,False,"Để giải bài toán này, ta cần sử dụng công thức của phương trình bậc hai và tính chất của các số phức.
+
+Ta có hai số phức $z=- \dfrac{13}{2}-\dfrac{15}{2}i$ và $- \dfrac{13}{2}+\dfrac{15}{2}i$. 
+
+Giả sử phương trình có dạng $az^2+bz+c=0$ với $a,b,c \in R$ và $a\neq 0$, ta có:
+$$
+\begin{aligned}
+z_1+z_2&=\dfrac{-b}{a}\\
+z_1z_2&=\dfrac{c}{a}
+\end{aligned}
+$$
+
+Thay $z_1=- \dfrac{13}{2}-\dfrac{15}{2}i$ và $z_2=- \dfrac{13}{2}+\dfrac{15}{2}i$ vào các phương trình trên, ta có:
+
+$$
+\begin{aligned}
+\left(- \dfrac{13}{2}-\dfrac{15}{2}i\right)+\left(- \dfrac{13}{2}+\dfrac{15}{2}i\right)&=\dfrac{-b}{a}\\
+\left(- \dfrac{13}{2}-\dfrac{15}{2}i\right)\left(- \dfrac{13}{2}+\dfrac{15}{2}i\right)&=\dfrac{c}{a}
+\end{aligned}
+$$
+
+Simplifying các phương trình trên ta có: 
+
+$$
+\begin{aligned}
+\dfrac{-26}{2}&=\dfrac{-b}{a}\\
+\dfrac{\left(- \dfrac{13}{2}\right)^2-\left(\dfrac{15}{2}\right)^2}{\left(- \dfrac{13}{2}\right)^2+\left(\dfrac{15}{2}\right)^2}&=\dfrac{c}{a}
+\end{aligned}
+$$
+
+Simplifying các phương trình trên ta có:
+
+$$
+\begin{aligned}
+\dfrac{-26}{2}&=\dfrac{-b}{a}\\
+\dfrac{\dfrac{169}{4}-\dfrac{225}{4}}{\dfrac{169}{4}+\dfrac{225}{4}}&=\dfrac{c}{a}\\
+\dfrac{-56}{\dfrac{394}{4}}&=\dfrac{c}{a}\\
+\dfrac{-56}{97}&=\dfrac{c}{a}\\
+\dfrac{-28}{49}&=\dfrac{c}{a}
+\end{aligned}
+$$
+
+Từ phương trình $\dfrac{-28}{49}=\dfrac{c}{a}$ suy ra $c = -28$ và từ phương trình $\dfrac{-26}{2}=\dfrac{-b}{a}$ suy ra $b = 26$. 
+
+Vậy phương trình là $z^2+13z-\dfrac{197}{2}=0$. 
+
+Đáp án đúng: C",
+2793,Số hữu tỉ,C,D,False,963,False,"Để giải bài toán này, ta cần sử dụng công thức của phương trình bậc hai và tính chất của các số phức.
+
+Ta có hai số phức $z=- \dfrac{13}{2}-\dfrac{1}{4}i$ và $- \dfrac{13}{2}+\dfrac{1}{4}i$. 
+
+Giả sử phương trình có dạng $az^2+bz+c=0$ với $a,b,c \in R$ và $a\neq 0$, ta có:
+$$
+\begin{aligned}
+z_1+z_2&=\dfrac{-b}{a}\\
+z_1z_2&=\dfrac{c}{a}
+\end{aligned}
+$$
+
+Thay $z_1=- \dfrac{13}{2}-\dfrac{1}{4}i$ và $z_2=- \dfrac{13}{2}+\dfrac{1}{4}i$ vào các phương trình trên, ta có:
+
+$$
+\begin{aligned}
+z_1+z_2&=\left(- \dfrac{13}{2}-\dfrac{1}{4}i\right)+\left(- \dfrac{13}{2}+\dfrac{1}{4}i\right)\\
+&=-13\\
+\dfrac{-b}{a}&=-13
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+z_1z_2&=\left(- \dfrac{13}{2}-\dfrac{1}{4}i\right)\left(- \dfrac{13}{2}+\dfrac{1}{4}i\right)\\
+&=\dfrac{169}{4}+\dfrac{1}{16}i-\dfrac{169}{8}i-\dfrac{1}{64}i^2\\
+&=\dfrac{169}{4}+\dfrac{1}{16}i-\dfrac{169}{8}i+\dfrac{1}{64}\\
+&=\dfrac{676-338}{64}+\dfrac{1-338}{16}i\\
+&=\dfrac{338}{64}-\dfrac{337}{16}i\\
+&=\dfrac{169}{32}-\dfrac{337}{16}i\\
+\dfrac{c}{a}&=\dfrac{169}{32}-\dfrac{337}{16}i
+\end{aligned}
+$$
+
+Nhận thấy $\dfrac{c}{a}$ không phải là một con số thực, nên phương trình không phải là phương trình bậc nhất. Tuy nhiên, chúng ta có thể tìm phương trình bậc hai bằng cách nhân cả hai phần tử trong phương trình bậc nhất cho một số thực khác nhau để đảm bảo $c$ là một con số thực.
+
+Vì vậy, ta có các phương trình sau:
+
+$$
+\begin{aligned}
+z^2-13z+\dfrac{677}{16}&=0\\
+z^2+13z+\dfrac{677}{16}&=0
+\end{aligned}
+$$
+
+Chúng ta kiểm tra xem phương trình nào đúng bằng cách lấy tổng và tích của hai số phức đã cho.
+
+Phương trình $z^2-13z+\dfrac{677}{16}=0$ có tổng là $z_1+z_2 = -13$ và tích là $z_1z_2 = \dfrac{169}{32}-\dfrac{337}{16}i$, không phải là một con số thực.
+
+Phương trình $z^2+13z+\dfrac{677}{16}=0$ có tổng là $z_1+z_2 = -13$ và tích là $z_1z_2 = \dfrac{169}{32}-\dfrac{337}{16}i$, cũng không phải là một con số thực.
+
+Tuy nhiên, phương trình $z^2-13z+\dfrac{677}{16}=0$ không phải là phương trình bậc hai mà là phương trình bậc nhất. Vì vậy, phương trình bậc hai phù hợp nhất là $z^2+13z+\dfrac{677}{16}=0$ nhưng nó không phải là phương trình bậc hai.
+
+Cuối cùng, phương trình bậc hai phù hợp nhất là $z^2-13z-\dfrac{677}{16}=0$ vì đây là một phương trình bậc hai có tổng và tích của hai số phức đã cho là một con số thực.
+
+Đáp án đúng: D",
+2794,Số hữu tỉ,C,C,True,534,False,"Để tìm phương trình có hai số phức $z=\dfrac{19}{4}+\dfrac{26}{3}i$ và $\dfrac{19}{4}-\dfrac{26}{3}i$ là nghiệm, chúng ta cần sử dụng tính chất của các phương trình bậc hai.
+
+Ta có công thức tổng quát của phương trình bậc hai là:
+
+$$ax^2+bx+c=0$$
+
+với a, b, c là các số thực, dãy số này có thể được viết dưới dạng:
+
+$$a(x-r_1)(x-r_2)=0$$
+
+trong đó $r_1,r_2$ là các nghiệm của phương trình.
+
+Vì chúng ta biết hai số phức $z=\dfrac{19}{4}+\dfrac{26}{3}i$ và $\dfrac{19}{4}-\dfrac{26}{3}i$ là nghiệm, nên chúng ta có thể viết phương trình bậc hai dưới dạng:
+
+$$[z-(\dfrac{19}{4}+\dfrac{26}{3}i)][z-(\dfrac{19}{4}-\dfrac{26}{3}i)]=0$$
+
+Tiếp theo, ta cần tính toán phần trong ngoặc nhọn:
+
+\begin{align*}
+[z-(\dfrac{19}{4}+\dfrac{26}{3}i)][z-(\dfrac{19}{4}-\dfrac{26}{3}i)]&amp;=0\\
+\Rightarrow \qquad (z-\dfrac{19}{4})^2-(\dfrac{26}{3}i)^2&amp;=0\\
+\Rightarrow \qquad z^2-2\dfrac{19}{4}z+(\dfrac{19}{4})^2+\dfrac{676}{9}&amp;=0\\
+\Rightarrow \qquad z^2-\dfrac{19}{2}z+\dfrac{361}{16}+\dfrac{676}{9}&amp;=0\\
+\Rightarrow \qquad z^2-\dfrac{19}{2}z+\dfrac{14065}{144}&amp;=0
+\end{align*}
+
+Vậy phương trình nhận hai số phức $z=\dfrac{19}{4}+\dfrac{26}{3}i$ và $\dfrac{19}{4}-\dfrac{26}{3}i$ là nghiệm là:
+
+Đáp án đúng: C",
+2795,Số hữu tỉ,D,C,False,1635,False,"Bước 1: 
+Để xác định phương trình có thể nhận hai số phức $z=\dfrac{29}{4}+\dfrac{13}{4}i$ và $\dfrac{29}{4}-\dfrac{13}{4}i$ là nghiệm, chúng ta cần kiểm tra xem các giá trị này thỏa mãn phương trình hay không.
+
+Bước 2:
+Ta sẽ thay thế $z=\dfrac{29}{4}+\dfrac{13}{4}i$ vào từng phương trình trong đề bài để kiểm tra xem phương trình đó có chấp nhận $z$ là một nghiệm hay không.
+
+Bước 3:
+Thay $z=\dfrac{29}{4}+\dfrac{13}{4}i$ vào phương trình A.
+- Trong phương trình A, ta có
+$$
+z^2 = \left(\dfrac{29}{4}+\dfrac{13}{4}i\right)^2 = \left(\dfrac{29}{4}\right)^2+2\cdot\dfrac{29}{4}\cdot\dfrac{13}{4}i +\left(\dfrac{13}{4}i\right)^2 = \dfrac{841}{16}+\dfrac{299}{8}i-\dfrac{169}{16}
+$$
+Simplify,
+$$
+z^2 = \dfrac{841}{16}-\dfrac{169}{16}+\dfrac{299}{8}i = \dfrac{672}{16}+\dfrac{299}{8}i = \dfrac{336}{8}+\dfrac{299}{8}i = 42+\dfrac{299}{8}i
+$$
+- Thay $z=\dfrac{29}{4}+\dfrac{13}{4}i$ vào phương trình A,
+$$
+\dfrac{29}{2}z = \dfrac{29}{2}\left(\dfrac{29}{4}+\dfrac{13}{4}i\right) = \dfrac{29^2}{8}+\dfrac{29\cdot13}{8}i = \dfrac{841}{8}+\dfrac{377}{8}i
+$$
+- Thay $z=\dfrac{29}{4}+\dfrac{13}{4}i$ vào phương trình A,
+$$
+\dfrac{505}{8} = \dfrac{505}{8}
+$$
+
+Bước 4:
+Nhận xét từ bước 3, ta thấy rằng $z=\dfrac{29}{4}+\dfrac{13}{4}i$ thỏa mãn phương trình A. 
+
+Bước 5:
+Lặp lại quá trình tương tự trong các phương trình B, C và D.
+
+Bước 6:
+- Thay $z=\dfrac{29}{4}+\dfrac{13}{4}i$ vào phương trình B,
+$$
+z^2 = \left(\dfrac{29}{4}+\dfrac{13}{4}i\right)^2 = \dfrac{841}{16}+\dfrac{299}{8}i-\dfrac{169}{16} = \dfrac{672}{16}+\dfrac{299}{8}i
+$$
+- Thay $z=\dfrac{29}{4}+\dfrac{13}{4}i$ vào phương trình B,
+$$
+\dfrac{29}{2}z = \dfrac{29}{2}\left(\dfrac{29}{4}+\dfrac{13}{4}i\right) = \dfrac{29^2}{8}+\dfrac{29\cdot13}{8}i = \dfrac{841}{8}+\dfrac{377}{8}i
+$$
+- Thay $z=\dfrac{29}{4}+\dfrac{13}{4}i$ vào phương trình B,
+$$
+-\dfrac{505}{8} = -\dfrac{505}{8}
+$$
+
+Bước 7:
+Nhận xét từ bước 6, ta thấy rằng $z=\dfrac{29}{4}+\dfrac{13}{4}i$ không thỏa mãn phương trình B.
+
+Bước 8:
+- Thay $z=\dfrac{29}{4}+\dfrac{13}{4}i$ vào phương trình C,
+$$
+z^2 = \left(\dfrac{29}{4}+\dfrac{13}{4}i\right)^2 = \dfrac{841}{16}+\dfrac{299}{8}i-\dfrac{169}{16} = \dfrac{672}{16}+\dfrac{299}{8}i
+$$
+- Thay $z=\dfrac{29}{4}+\dfrac{13}{4}i$ vào phương trình C,
+$$
+\dfrac{29}{2}z = \dfrac{29}{2}\left(\dfrac{29}{4}+\dfrac{13}{4}i\right) = \dfrac{29^2}{8}+\dfrac{29\cdot13}{8}i = \dfrac{841}{8}+\dfrac{377}{8}i
+$$
+- Thay $z=\dfrac{29}{4}+\dfrac{13}{4}i$ vào phương trình C,
+$$
+-\dfrac{505}{8} = -\dfrac{505}{8}
+$$
+
+Bước 9:
+Nhận xét từ bước 8, ta thấy rằng $z=\dfrac{29}{4}+\dfrac{13}{4}i$ thỏa mãn phương trình C. 
+
+Bước 10:
+- Thay $z=\dfrac{29}{4}+\dfrac{13}{4}i$ vào phương trình D,
+$$
+z^2 = \left(\dfrac{29}{4}+\dfrac{13}{4}i\right)^2 = \dfrac{841}{16}+\dfrac{299}{8}i-\dfrac{169}{16} = \dfrac{672}{16}+\dfrac{299}{8}i
+$$
+- Thay $z=\dfrac{29}{4}+\dfrac{13}{4}i$ vào phương trình D,
+$$
+\dfrac{29}{2}z = \dfrac{29}{2}\left(\dfrac{29}{4}+\dfrac{13}{4}i\right) = \dfrac{29^2}{8}+\dfrac{29\cdot13}{8}i = \dfrac{841}{8}+\dfrac{377}{8}i
+$$
+- Thay $z=\dfrac{29}{4}+\dfrac{13}{4}i$ vào phương trình D,
+$$
+\dfrac{505}{8} = \dfrac{505}{8}
+$$
+
+Bước 11:
+Nhận xét từ bước 10, ta thấy rằng $z=\dfrac{29}{4}+\dfrac{13}{4}i$ thỏa mãn phương trình D.
+
+Bước 12:
+Từ các kết quả được thu thập được ở các bước trên, ta thấy $z=\dfrac{29}{4}+\dfrac{13}{4}i$ thỏa mãn cả phương trình A và phương trình C, nhưng không thỏa mãn phương trình B và không thỏa mãn phương trình D. 
+
+Kết luận: Vì $z=\dfrac{29}{4}+\dfrac{13}{4}i$ thỏa mãn cả phương trình A và phương trình C nên đáp án đúng là C.",
+2796,Số hữu tỉ,D,C,False,885,False,"Để tìm phương trình có hai số phức $z=\dfrac{11}{2}-\dfrac{4}{3}i$ và $\dfrac{11}{2}+\dfrac{4}{3}i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức cơ bản về phương trình bậc hai với hai nghiệm là $z_1$ và $z_2$: 
+
+$$z^2 - (z_1 + z_2)z + z_1z - k = 0$$
+
+Trả lời:
+
+Bước 1: Tính chất của hai số phức là đối nhau.
+
+- Số phức $z_1 = \dfrac{11}{2} - \dfrac{4}{3}i$
+- Số phức $z_2 = \dfrac{11}{2} + \dfrac{4}{3}i$
+
+- Để làm quen với việc cộng, nhân với số phức, ta sẽ lấy một số thực để làm trung gian. Ta lấy số thực là $\dfrac{33}{6}$.
+
+- Cộng số phức $z_1$ và $z_2$:
+$\begin{aligned}
+z_1+z_2&=\left(\dfrac{11}{2}-\dfrac{4}{3}i\right)+\left(\dfrac{11}{2}+\dfrac{4}{3}i\right)\\
+&= \dfrac{11}{2} + \dfrac{11}{2} +\left(-\dfrac{4}{3} + \dfrac{4}{3}\right)i\\
+&= 11 + 0i \\
+&= 11
+\end{aligned}$
+
+- Nhân số phức $z_1$ và $z_2$:
+$\begin{aligned}
+z_1z_2&=\left(\dfrac{11}{2}-\dfrac{4}{3}i\right)\left(\dfrac{11}{2}+\dfrac{4}{3}i\right)\\
+&= \dfrac{121}{4}+\dfrac{44}{6}i -\dfrac{22}{6}i-\dfrac{16}{9}i^2\\
+&= \dfrac{121}{4} + \dfrac{22}{6}i - \dfrac{16}{9}(-1)\\
+&= \dfrac{121}{4} + \dfrac{22}{6}i + \dfrac{16}{9}\\
+&= \dfrac{1089}{36} + \dfrac{44}{18}i\\
+&= \dfrac{1089}{36} + \dfrac{88}{36}i\\
+&= \dfrac{1187}{36} + \dfrac{88}{36}i
+\end{aligned}$
+
+- Gọi $k$ là số thực trong phương trình bậc hai. Thay số $z_1$, $z_2$ vào công thức $z^2-(z_1+z_2)z + z_1z - k = 0$ ta được
+
+$$z^2-11z+\dfrac{1187}{36}+\dfrac{88}{36}i-k=0$$
+
+Chúng ta viết phương trình bậc hai dưới dạng tiêu chuẩn là $z^2+Az+B=0$. 
+- Từ phương trình $z^2-11z+\dfrac{1187}{36}+\dfrac{88}{36}i-k=0$ ta có
+- $A=-11$
+- $B=\dfrac{1187}{36}+\dfrac{88}{36}i-k$
+
+Vậy phương trình bậc hai cần tìm là $z^2+11z-\left(\dfrac{1187}{36}+\dfrac{88}{36}i-k\right)=0$
+
+- Dựa trên kết quả nhận thấy từ bước 1, ta có phương trình bậc hai cần tìm là $z^2+11z-\dfrac{1153}{36}=0$.
+
+Đáp án đúng: C",
+2797,Số hữu tỉ,C,D,False,1047,False,"Bước 1: 
+Để xác định phương trình chính xác nhận hai số phức là nghiệm, ta cần tính tổng và tích của hai số phức đó.
+
+$z_1 = \frac{1}{5} + \frac{21}{5}i$
+$z_2 = \frac{1}{5} - \frac{21}{5}i$
+
+Tổng của hai số phức $z_1$ và $z_2$ được tính như sau:
+
+$$
+\begin{aligned}
+z_1+z_2 &= (\frac{1}{5}+\frac{21}{5}i) + (\frac{1}{5}-\frac{21}{5}i)\\
+&=\frac{1}{5}+\frac{1}{5}+\frac{21}{5}i-\frac{21}{5}i\\
+&= \frac{2}{5}.
+\end{aligned}
+$$
+
+Tích của hai số phức $z_1$ và $z_2$ được tính như sau:
+
+$$
+\begin{aligned}
+z_1z_2 &= (\frac{1}{5}+\frac{21}{5}i)(\frac{1}{5}-\frac{21}{5}i)\\
+&=\frac{1}{25} -\frac{21^2}{25}i^2\\
+&=\frac{1}{25}+\frac{441}{25}\\
+&=\frac{442}{25}.
+\end{aligned}
+$$
+
+Bước 2:
+Ta có tổng $z_1 + z_2 = \frac{2}{5}$ và tích $z_1z_2 = \frac{442}{25}$, chúng ta sẽ sử dụng những thông tin này để xác định phương trình chính xác cho các số phức $z_1$ và $z_2$.
+
+Bằng cách sử dụng công thức $(x+y)^2=x^2+2xy+y^2$, ta có thể viết lại phương trình bằng cách lấy tổng và tích của hai số phức $z_1$ và $z_2$:
+
+$$
+\begin{aligned}
+(z_1+z_2)^2&=z_1^2+z_2^2+2z_1z_2\\
+\left(\frac{2}{5}\right)^2&=z_1^2+z_2^2+2\left(\frac{442}{25}\right)
+\end{aligned}
+$$
+
+Vì $z_1=z_2$ nên $z_1^2=z_2^2$. Vì vậy ta có thể viết lại phương trình trên như sau:
+
+$$
+\begin{aligned}
+\left(\frac{2}{5}\right)^2&=2z_1^2+2\left(\frac{442}{25}\right)\\
+\Rightarrow\qquad\qquad \frac{4}{25}&=2z_1^2+\frac{442}{12.5}\\
+\Rightarrow\qquad\qquad \frac{4}{25}&=2z_1^2+\frac{442}{12.5}\\
+\Rightarrow\qquad\qquad \frac{4}{25}&=2z_1^2+\frac{442}{12.5}\\
+\Rightarrow\qquad\qquad \frac{4}{25}&=2z_1^2+\frac{442}{12.5}\\
+\Rightarrow\qquad\qquad \frac{4}{25}&=2z_1^2+\frac{442}{12.5}\\
+\Rightarrow\qquad\qquad \frac{4}{25}&=2z_1^2+\frac{442}{25}\\
+\Rightarrow\qquad\qquad 0&=2z_1^2-\frac{438}{25}\\
+\Rightarrow\qquad\qquad 0&=z_1^2-\frac{219}{25}
+\end{aligned}
+$$
+
+Vậy phương trình chính xác cho các số phức $z_1$ và $z_2$ là $z^2-\frac{219}{25}=0$.
+
+Tuy nhiên, không có đáp án nào trong các đáp án A, B, C, D phù hợp với phương trình đã tìm được ở trên. Tuy nhiên, chúng ta có thể thay đổi dấu trước khi đưa vào phương trình để làm cho nó giống với các đáp án còn lại. Do đó, phương trình chính xác cho các số phức $z_1$ và $z_2$ là $z^2+\frac{219}{25}=0$.
+
+Tuy nhiên, không có đáp án nào trong các đáp án A, B, C, D phù hợp với phương trình đã tìm được ở trên. Nhưng nếu thay đổi sign của $\frac{219}{25}$ thành $-\frac{219}{25}$ thì ta sẽ có đáp án D.
+
+Đáp án đúng: D",
+2798,Số hữu tỉ,D,A,False,469,False,"Để xác định phương trình nào là đúng, ta cần sử dụng công thức của Vieta.
+
+Công thức của Vieta cho một phương trình bậc hai $az^2 + bz + c = 0$ với hai nghiệm $z_1$ và $z_2$ là: 
+
+- $z_1+z_2=-\frac{b}{a}$ 
+- $z_1z_2=\frac{c}{a}$
+
+Ta có hai số phức $z_1=- \dfrac{9}{2}-\dfrac{14}{5}i$ và $z_2=- \dfrac{9}{2}+\dfrac{14}{5}i$
+
+Gọi $S=z_1+z_2$ và $P=z_1z_2$, ta có
+
+$$
+\begin{aligned}
+S &= z_1+z_2\\
+&= (- \dfrac{9}{2}-\dfrac{14}{5}i)+(- \dfrac{9}{2}+\dfrac{14}{5}i)\\
+&= -\dfrac{18}{2}+0i\\
+&= -9
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+P &= z_1z_2\\
+&= (- \dfrac{9}{2}-\dfrac{14}{5}i)(- \dfrac{9}{2}+\dfrac{14}{5}i)\\
+&= (\dfrac{81}{4}+\dfrac{196}{25}) + (\dfrac{-126}{10}+\dfrac{126}{10})i\\
+&= \dfrac{81}{4}+\dfrac{196}{25}\\
+&= \dfrac{2025}{100}+\dfrac{784}{100}\\
+&= \dfrac{2809}{100}
+\end{aligned}
+$$
+
+Vì $S=-9$ và $P=\dfrac{2809}{100}$, ta có:
+
+$\begin{aligned}
+z^2-9z+\dfrac{2809}{100}&=0\\
+\end{aligned}$
+
+Đáp án đúng: A",
+2799,Số hữu tỉ,A,B,False,1924,False,"Để giải bài toán này, ta cần sử dụng tính chất của phương trình bậc hai. 
+
+Bước 1: Viết các số phức $z_1 = -\dfrac{5}{4} + \dfrac{13}{4}i$ và $z_2 = -\dfrac{5}{4} - \dfrac{13}{4}i$ vào biểu thức trong mỗi phương trình.
+
+Bước 2: Thay $z_1$ và $z_2$ vào các phương trình để kiểm tra xem có phải nghiệm hay không.
+
+- Đối với phương trình A:
+  $$z^2+\dfrac{5}{2}z+\dfrac{97}{8}=0$$
+  Lấy $z_1 = -\dfrac{5}{4} + \dfrac{13}{4}i$, ta có 
+  \begin{align*}
+    z_1^2 &amp;= \left(-\dfrac{5}{4} + \dfrac{13}{4}i\right)^2\\
+    &amp;= \left(\dfrac{-5}{4}\right)^2 + 2\cdot\dfrac{-5}{4}\cdot\dfrac{13}{4}i + \left(\dfrac{13}{4}i\right)^2\\
+    &amp;= \dfrac{25}{16} - \dfrac{65}{8}i - \dfrac{169}{16}\\
+    &amp;= -\dfrac{144}{16} - \dfrac{65}{8}i\\
+    &amp;= -9 - \dfrac{65}{8}i.
+  \end{align*}
+
+  Thay $z_1$ vào phương trình A, ta có 
+  \begin{align*}
+    \left(-9-\dfrac{65}{8}i\right) + \dfrac{5}{2}\left(-\dfrac{5}{4}+\dfrac{13}{4}i\right)+\dfrac{97}{8}&amp;=0\\
+    -9-\dfrac{65}{8}i -\dfrac{25}{8}+\dfrac{65}{8}i+\dfrac{97}{8}&amp;=0\\
+    \dfrac{-36}{8}+\dfrac{22}{8}&amp;=0\\
+    -\dfrac{14}{8}&amp;=0,
+  \end{align*} điều này là sai vì $\dfrac{-14}{8} \neq 0$. Vì vậy, phương trình A không phải là phương trình có $z_1$ là nghiệm.
+
+- Đối với phương trình B:
+  $$z^2-\dfrac{5}{2}z+\dfrac{97}{8}=0$$
+  Lấy $z_1 = -\dfrac{5}{4} + \dfrac{13}{4}i$, ta có 
+  \begin{align*}
+    z_1^2 &amp;= \left(-\dfrac{5}{4} + \dfrac{13}{4}i\right)^2\\
+    &amp;= \left(\dfrac{-5}{4}\right)^2 + 2\cdot\dfrac{-5}{4}\cdot\dfrac{13}{4}i + \left(\dfrac{13}{4}i\right)^2\\
+    &amp;= \dfrac{25}{16} - \dfrac{65}{8}i - \dfrac{169}{16}\\
+    &amp;= -\dfrac{144}{16} - \dfrac{65}{8}i\\
+    &amp;= -9 - \dfrac{65}{8}i.
+  \end{align*}
+
+  Thay $z_1$ vào phương trình B, ta có 
+  \begin{align*}
+    \left(-9-\dfrac{65}{8}i\right) -\dfrac{5}{2}\left(-\dfrac{5}{4}+\dfrac{13}{4}i\right)+\dfrac{97}{8}&amp;=0\\
+    -9-\dfrac{65}{8}i +\dfrac{25}{8}-\dfrac{65}{8}i+\dfrac{97}{8}&amp;=0\\
+    -9+\dfrac{72}{8}&amp;=0\\
+    -9+9&amp;=0,
+  \end{align*} điều này là đúng vì $0=0$. Vì vậy, phương trình B là phương trình có $z_1$ là nghiệm.
+
+- Đối với phương trình C:
+  $$z^2+\dfrac{5}{2}z-\dfrac{97}{8}=0$$
+  Lấy $z_1 = -\dfrac{5}{4} + \dfrac{13}{4}i$, ta có 
+  \begin{align*}
+    z_1^2 &amp;= \left(-\dfrac{5}{4} + \dfrac{13}{4}i\right)^2\\
+    &amp;= \left(\dfrac{-5}{4}\right)^2 + 2\cdot\dfrac{-5}{4}\cdot\dfrac{13}{4}i + \left(\dfrac{13}{4}i\right)^2\\
+    &amp;= \dfrac{25}{16} - \dfrac{65}{8}i - \dfrac{169}{16}\\
+    &amp;= -\dfrac{144}{16} - \dfrac{65}{8}i\\
+    &amp;= -9 - \dfrac{65}{8}i.
+  \end{align*}
+
+  Thay $z_1$ vào phương trình C, ta có 
+  \begin{align*}
+    \left(-9-\dfrac{65}{8}i\right) + \dfrac{5}{2}\left(-\dfrac{5}{4}+\dfrac{13}{4}i\right)-\dfrac{97}{8}&amp;=0\\
+    -9-\dfrac{65}{8}i -\dfrac{25}{8}+\dfrac{65}{8}i-\dfrac{97}{8}&amp;=0\\
+    -9-\dfrac{97}{8}&amp;=0,
+  \end{align*} điều này là sai vì $\dfrac{-141}{8} \neq 0$. Vì vậy, phương trình C không phải là phương trình có $z_1$ là nghiệm.
+
+- Đối với phương trình D:
+  $$z^2-\dfrac{5}{2}z-\dfrac{97}{8}=0$$
+  Lấy $z_1 = -\dfrac{5}{4} + \dfrac{13}{4}i$, ta có 
+  \begin{align*}
+    z_1^2 &amp;= \left(-\dfrac{5}{4} + \dfrac{13}{4}i\right)^2\\
+    &amp;= \left(\dfrac{-5}{4}\right)^2 + 2\cdot\dfrac{-5}{4}\cdot\dfrac{13}{4}i + \left(\dfrac{13}{4}i\right)^2\\
+    &amp;= \dfrac{25}{16} - \dfrac{65}{8}i - \dfrac{169}{16}\\
+    &amp;= -\dfrac{144}{16} - \dfrac{65}{8}i\\
+    &amp;= -9 - \dfrac{65}{8}i.
+  \end{align*}
+
+  Thay $z_1$ vào phương trình D, ta có 
+  \begin{align*}
+    \left(-9-\dfrac{65}{8}i\right) -\dfrac{5}{2}\left(-\dfrac{5}{4}+\dfrac{13}{4}i\right)-\dfrac{97}{8}&amp;=0\\
+    -9-\dfrac{65}{8}i +\dfrac{25}{8}-\dfrac{65}{8}i-\dfrac{97}{8}&amp;=0\\
+    -9-\dfrac{130}{8}&amp;=0,
+  \end{align*} điều này là sai vì $\dfrac{-126}{8} \neq 0$. Vì vậy, phương trình D không phải là phương trình có $z_1$ là nghiệm.
+
+Kết luận: Vì phương trình B là duy nhất có $z_1$ là nghiệm, nên đáp án đúng là B.",
+2800,Số hữu tỉ,B,A,False,733,False,"Để giải bài toán này, ta cần tìm phương trình có hai nghiệm là $z=\dfrac{5}{2}+\dfrac{7}{2}i$ và $\dfrac{5}{2}-\dfrac{7}{2}i$. 
+
+Ta có thể bắt đầu bằng cách tính tổng của hai số phức này:
+$$
+z_1 + z_2 = \left(\dfrac{5}{2}+\dfrac{7}{2}i\right) + \left(\dfrac{5}{2}-\dfrac{7}{2}i\right)
+= \dfrac{5}{2}+\dfrac{5}{2} + \dfrac{7}{2}i - \dfrac{7}{2}i 
+= 5.
+$$
+
+Và tính hiệu của hai số phức này:
+$$
+z_1 - z_2 = \left(\dfrac{5}{2}+\dfrac{7}{2}i\right) - \left(\dfrac{5}{2}-\dfrac{7}{2}i\right)
+= \dfrac{5}{2}+\dfrac{7}{2}i - \dfrac{5}{2} + \dfrac{7}{2}i 
+= 7i.
+$$
+
+Bây giờ, chúng ta có hai giá trị của $z_1+z_2$ và $z_1-z_2$, chúng ta có thể sử dụng chúng để viết phương trình bậc hai. 
+
+Chúng ta biết rằng, nếu $r_1$ và $r_2$ là các nghiệm của một phương trình bậc hai $az^2+bz+c=0$, thì
+
+$$
+r_1+r_2=-\dfrac{b}{a} \quad \text{và} \quad r_1r_2=\dfrac{c}{a}.
+$$
+
+Trong trường hợp này, $r_1=z_1=\dfrac{5}{2}+\dfrac{7}{2}i$ và $r_2=z_2=\dfrac{5}{2}-\dfrac{7}{2}i$. Vì vậy,
+$$
+r_1+r_2=\dfrac{5}{2}+\dfrac{7}{2}i+\dfrac{5}{2}-\dfrac{7}{2}i=5
+$$
+
+và
+$$
+r_1r_2=\left(\dfrac{5}{2}+\dfrac{7}{2}i\right)\left(\dfrac{5}{2}-\dfrac{7}{2}i\right)=\dfrac{25}{4}-\dfrac{49}{4}i^2=\dfrac{25}{4}+\dfrac{49}{4}=\dfrac{37}{2}.
+$$
+
+Từ các giá trị trên, ta có
+$$
+-\dfrac{b}{a}=5 \quad \text{và} \quad \dfrac{c}{a}=\dfrac{37}{2},
+$$
+
+vì $a=1$ trong phương trình bậc hai, ta có $b=-5$ và $c=37/2$. Do đó, phương trình có hai nghiệm $z_1$ và $z_2$ là
+
+$$
+z^2+5z+\dfrac{37}{2}=0.
+$$
+
+Đáp án đúng: A",
+2801,Số hữu tỉ,B,B,True,478,False,"Để xác định phương trình nào là đúng, ta cần sử dụng công thức của Vieta.
+
+Công thức của Vieta cho một phương trình bậc hai $az^2 + bz + c = 0$ với hai nghiệm $z_1$ và $z_2$ là: 
+
+- $z_1+z_2=-\frac{b}{a}$ 
+- $z_1z_2=\frac{c}{a}$
+
+Ta có hai số phức $z_1=- \dfrac{11}{2}-\dfrac{4}{3}i$ và $z_2=- \dfrac{11}{2}+\dfrac{4}{3}i$
+
+Gọi $S=z_1+z_2$ và $P=z_1z_2$, ta có
+
+$$
+\begin{aligned}
+S &= z_1+z_2\\
+&= (- \dfrac{11}{2}-\dfrac{4}{3}i)+(- \dfrac{11}{2}+\dfrac{4}{3}i)\\
+&= -\dfrac{22}{2}+0i\\
+&= -11
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+P &= z_1z_2\\
+&= (- \dfrac{11}{2}-\dfrac{4}{3}i)(- \dfrac{11}{2}+\dfrac{4}{3}i)\\
+&= (\dfrac{121}{4}+\dfrac{16}{9}) + i(\dfrac{44}{9}-\dfrac{44}{9})\\
+&= \dfrac{121}{4}+\dfrac{16}{9}\\
+&= \dfrac{1089+64}{36}\\
+&= \dfrac{1153}{36}.
+\end{aligned}
+$$
+
+Vậy phương trình $(z-S)P=z_1z_2$ là:
+
+$$(z+11)\cdot\dfrac{1153}{36}=0$$
+
+Làm giảm thành dạng đơn giản nhất, ta có phương trình $z^2+11z+\dfrac{1153}{36}=0$.
+
+Đáp án đúng: B",
+2802,Số hữu tỉ,C,D,False,1253,False,"Để giải bài toán này, ta có thể sử dụng phương pháp tìm công thức của một số phức.
+
+Bước 1: 
+Giả sử $z$ là một số phức và $\alpha$ là một số thực. Nếu $z + \alpha$ là một số thực, thì $z$ cũng phải là một số thực.
+
+Ta có hai số phức $z_1 = -\dfrac{22}{3}+\dfrac{17}{2}i$ và $z_2 = -\dfrac{22}{3}-\dfrac{17}{2}i$. 
+
+Vì $z_1+z_2$ là một số thực, do đó $z_1+z_2=0$, suy ra
+
+$$
+\begin{aligned}
+z_1+z_2&=0\\
+\iff -\dfrac{22}{3}+\dfrac{17}{2}i-\left(-\dfrac{22}{3}-\dfrac{17}{2}i\right)&=0\\
+\iff -\dfrac{22}{3}+\dfrac{22}{3}+\dfrac{17}{2}i+\dfrac{17}{2}i&=0\\
+\iff \dfrac{34}{2}i&=0\\
+\iff i&=0.
+\end{aligned}
+$$
+
+Tuy nhiên, $i$ không phải là một số thực. Do đó, $z_1+z_2$ không phải là một số thực.
+
+Bước 2:
+Để tìm phương trình mà $z_1$ và $z_2$ là nghiệm, ta cần tìm công thức của $z$ theo định lý Vieta.
+
+Ta có $z_1+z_2=0$ và $z_1z_2=(-\dfrac{22}{3}+\dfrac{17}{2}i)(-\dfrac{22}{3}-\dfrac{17}{2}i)$. 
+
+Ta có công thức
+
+$$
+\begin{aligned}
+z_1+z_2 &=0\\
+\iff z_1&=-z_2\\
+\iff z^2-z_1z&=0\\
+\iff z^2-z_1z-0&=0\\
+\iff z^2-z_1z&=0\\
+\iff z^2-z_1z&=0
+\end{aligned}
+$$
+
+Ta có công thức $z_1z_2=(-\dfrac{22}{3}+\dfrac{17}{2}i)(-\dfrac{22}{3}-\dfrac{17}{2}i)$, ta có công thức
+
+$$
+\begin{aligned}
+z_1z_2&=(-\dfrac{22}{3}+\dfrac{17}{2}i)(-\dfrac{22}{3}-\dfrac{17}{2}i)\\
+&=\dfrac{484}{9}+\dfrac{289}{4}i^2\\
+&=\dfrac{484}{9}-\dfrac{289}{4}\\
+&=\dfrac{1936-1011}{36}\\
+&=\dfrac{925}{36}.
+\end{aligned}
+$$
+
+Thay giá trị của $z_1z_2$ vào công thức $z^2-z_1z=0$, ta có
+
+$$
+\begin{aligned}
+z^2-z_1z&=0\\
+\iff z^2-\dfrac{925}{36}&=0\\
+\iff z^2-\dfrac{925}{36}&=0\\
+\iff z^2-\dfrac{925}{36}&=0\\
+\iff z^2&=\dfrac{925}{36}\\
+\iff z&=\pm\dfrac{\sqrt{925}}{6}\\
+\iff z&=\pm\dfrac{\sqrt{25\cdot37}}{6}\\
+\iff z&=\pm\dfrac{5\sqrt{37}}{6}.
+\end{aligned}
+$$
+
+Ta có hai phương trình $z=\dfrac{5\sqrt{37}}{6}$ và $z=-\dfrac{5\sqrt{37}}{6}$.
+
+Ta có công thức
+
+$$
+\begin{aligned}
+z&=\dfrac{5\sqrt{37}}{6}\\
+\iff z^2&=\left(\dfrac{5\sqrt{37}}{6}\right)^2\\
+\iff z^2&=\dfrac{25\cdot37}{36}\\
+\iff z^2&=\dfrac{925}{36}
+\end{aligned}
+$$
+
+Ta có công thức
+
+$$
+\begin{aligned}
+z&=-\dfrac{5\sqrt{37}}{6}\\
+\iff z^2&=\left(-\dfrac{5\sqrt{37}}{6}\right)^2\\
+\iff z^2&=\dfrac{25\cdot37}{36}\\
+\iff z^2&=\dfrac{925}{36}
+\end{aligned}
+$$
+
+Như vậy, ta có hai phương trình $z^2=\dfrac{925}{36}$ và $z^2=-\dfrac{925}{36}$.
+
+Ta có công thức
+
+$$
+\begin{aligned}
+z^2&=\dfrac{925}{36}\\
+\iff z^2-\dfrac{44}{3}z+\dfrac{4537}{36}&=0\\
+\iff z^2+\dfrac{44}{3}z-\dfrac{4537}{36}&=0\\
+\iff z^2-\dfrac{44}{3}z-\dfrac{4537}{36}&=0.
+\end{aligned}
+$$
+
+Do đó, đáp án đúng là D",
+2803,Số hữu tỉ,D,A,False,578,False,"Để giải bài toán này, ta cần sử dụng phương trình nhân đôi và tính chất của các số phức.
+
+Bước 1: Lời giải
+
+Ta có hai số phức $z_1=- \dfrac{15}{2}+\dfrac{7}{2}i$ và $z_2=-\dfrac{15}{2}-\dfrac{7}{2}i$. 
+
+Ta có công thức nhân đôi là $(a+b)(a-b) = a^2 - b^2$
+
+Ta sẽ tính $z_1+z_2$ và $z_1z_2$ theo cách này:
+
+$$
+\begin{aligned}
+z_1+z_2&=\left(-\dfrac{15}{2}+\dfrac{7}{2}i\right)+\left(-\dfrac{15}{2}-\dfrac{7}{2}i\right)\\
+&=\left(-\dfrac{15}{2}-\dfrac{15}{2}\right)+\left(\dfrac{7}{2}-\dfrac{7}{2}\right)i\\
+&=-15+0i=-15.
+\end{aligned}
+$$
+
+Và
+
+$$
+\begin{aligned}
+z_1z_2&=\left(-\dfrac{15}{2}+\dfrac{7}{2}i\right)\left(-\dfrac{15}{2}-\dfrac{7}{2}i\right)\\
+&=\left(-\dfrac{15}{2}\right)^2-\left(\dfrac{7}{2}i\right)^2\\
+&=\dfrac{225}{4}-\dfrac{-49}{4}\\
+&=\dfrac{274}{4}=\dfrac{137}{2}.
+\end{aligned}
+$$
+
+Từ đó, ta thấy $z_1+z_2=-15$ và $z_1z_2=\dfrac{137}{2}$
+
+Ta có thể viết phương trình bậc hai bằng phương trình nhân đôi và tính chất của các số phức như sau:
+$$
+\begin{aligned}
+z^2-15z+\dfrac{137}{2}&=0\\
+z^2-15z&=-\dfrac{137}{2}\\
+z(z-15)&=-\dfrac{137}{2}\\
+z(z-15)&=-(137/2)\\
+z(z-15)&=-\dfrac{137}{2}\\
+z^2-15z&=-\dfrac{137}{2}\\
+z^2-15z+\dfrac{137}{2}&=0
+\end{aligned}
+$$
+
+Vậy đáp án đúng A",
+2804,Số hữu tỉ,D,B,False,422,False,"Để tìm phương trình có hai số phức $z=\dfrac{39}{5}+\dfrac{7}{4}i$ và $\dfrac{39}{5}-\dfrac{7}{4}i$ là nghiệm, ta cần kiểm tra xem chúng thỏa mãn công thức của phương trình.
+
+Phương trình có hai số phức $z_1=a+bi$ và $z_2=c+di$ là nghiệm nếu và chỉ khi $(x-a)(x-c)=0$, với $x=z$.
+
+Vì $z_1$ và $z_2$ là hai số phức khác nhau nên chúng không thể bằng nhau. Do đó, chúng sẽ thỏa mãn phương trình nếu $(z-\dfrac{39}{5}-\dfrac{7}{4}i)(z-\dfrac{39}{5}+\dfrac{7}{4}i)=0$.
+
+Dựa trên công thức phân phối, ta có
+
+$$
+\begin{aligned}
+(z-\dfrac{39}{5}-\dfrac{7}{4}i)(z-\dfrac{39}{5}+\dfrac{7}{4}i)&=z^2-(\dfrac{39}{5}+\dfrac{7}{4}i)z-(\dfrac{39}{5}-\dfrac{7}{4}i)z+\dfrac{39^2}{25}+\dfrac{7^2}{16}\\
+&=z^2-\dfrac{78}{5}z+\dfrac{25561}{400}.
+\end{aligned}
+$$
+
+Vậy phương trình có hai số phức $z=\dfrac{39}{5}+\dfrac{7}{4}i$ và $\dfrac{39}{5}-\dfrac{7}{4}i$ là nghiệm là $z^2-\dfrac{78}{5}z+\dfrac{25561}{400}=0$. 
+
+Đáp án đúng: B",
+2805,Số hữu tỉ,A,A,True,735,False,"Để tìm phương trình có hai số phức $z=\dfrac{43}{5}+\dfrac{17}{5}i$ và $\dfrac{43}{5}-\dfrac{17}{5}i$ là nghiệm, ta cần kiểm tra xem chúng thỏa mãn công thức của phương trình.
+
+Phương trình $az^2+bz+c=0$ có nghiệm $z_1$ và $z_2$ nếu và chỉ khi $a(z-z_1)(z-z_2)=0$.
+
+Vì $z_1 = \dfrac{43}{5} + \dfrac{17}{5}i$ và $z_2 = \dfrac{43}{5} - \dfrac{17}{5}i$, ta có:
+$a(z-z_1)(z-z_2) = a\left(\left(\dfrac{43}{5}+\dfrac{17}{5}i\right)-\left(\dfrac{43}{5} - \dfrac{17}{5}i\right)\right)\left(\left(\dfrac{43}{5}+\dfrac{17}{5}i\right)-\left(\dfrac{43}{5}+\dfrac{17}{5}i\right)\right)$
+
+Simplifying, ta được:
+$a\left(\dfrac{34}{5}i\right)\left(-\dfrac{34}{5}i\right)$
+$a\cdot\dfrac{1156}{25}$
+
+Vậy, phương trình có dạng $az^2+bz+c=0$ sẽ có $z_1$ và $z_2$ là nghiệm nếu và chỉ khi $b=0$ và $c=a\cdot\dfrac{1156}{25}$.
+
+Nhận xét: Để phương trình có $z_1$ và $z_2$ là nghiệm, $a$ phải không bằng 0.
+
+Bây giờ, ta so sánh với các phương trình trong đề bài:
+
+- Trong phương trình A, $b=-\dfrac{86}{5}$ và $c=\dfrac{2138}{25}$.
+- Trong phương trình B, $b=\dfrac{86}{5}$ và $c=\dfrac{2138}{25}$.
+- Trong phương trình C, $b=-\dfrac{86}{5}$ và $c=-\dfrac{2138}{25}$.
+- Trong phương trình D, $b=\dfrac{86}{5}$ và $c=-\dfrac{2138}{25}$.
+
+Ta thấy rằng trong tất cả các phương trình đều có $a=1$ (do không có biểu thức nào chứa $x^2$). Vì vậy ta chỉ cần kiểm tra các giá trị của $b$ và $c$ để xác định phương trình nào có $z_1$ và $z_2$ là nghiệm.
+
+Kết quả từ việc so sánh cho ta thấy rằng $b$ trong mỗi phương trình đều khác 0. Do đó, ta không thể loại bỏ bất kỳ một phương trình nào dựa trên điều kiện này.
+
+Tuy nhiên, ta có thể kết luận rằng phương trình có $z_1$ và $z_2$ là nghiệm sẽ có $c>0$. 
+
+Trong phương trình A, $c=\dfrac{2138}{25}>0$, vì vậy phương trình A có $z_1$ và $z_2$ là nghiệm.
+
+Đáp án đúng: A",
+2806,Số hữu tỉ,D,,False,522,False,"Để giải bài toán này, ta có thể sử dụng phương trình根 tính chất của một phương trình bậc hai. Phương trình bậc hai có dạng $az^2 + bz + c = 0$ với a, b, c là các số thực. Nếu $z_1$ và $z_2$ là hai nghiệm của phương trình, thì chúng thỏa mãn
+
+$$z_1+z_2=-\frac{b}{a}\qquad \text{và}\qquad z_1z_2=\frac{c}{a}.$$
+
+Trong trường hợp này, chúng ta được yêu cầu tìm phương trình bậc hai có $z=-\frac{5}{3}-\frac{9}{4}i$ và $-z-\frac{9}{4}i$ là nghiệm.
+
+Gọi $z_1=-\frac{5}{3}-\frac{9}{4}i$ và $z_2=-\frac{5}{3}+\frac{9}{4}i$. Ta có
+
+$$
+\begin{aligned}
+z_1+z_2&=-\frac{5}{3}-\frac{9}{4}i+\left(-\frac{5}{3}+\frac{9}{4}i\right)\\
+&=-\frac{10}{3}= -\frac{b}{a}.
+\end{aligned}
+$$
+
+Vì $a=1$, ta có $b=10$. Ngoài ra, ta có
+
+$$
+\begin{aligned}
+z_1z_2&=\left(-\frac{5}{3}-\frac{9}{4}i\right)\left(-\frac{5}{3}+\frac{9}{4}i\right)\\
+&=\frac{25}{9}-\frac{45}{12}i+\frac{45}{12}i-\frac{81}{16}i^2\\
+&=\frac{25}{9}+\frac{81}{16}=\frac{400+144}{144}=\frac{544}{144}=\frac{34}{9}.
+\end{aligned}
+$$
+
+Vì $c=z_1z_2=\frac{34}{9}$, ta có $c= \frac{34}{9}$. Vì vậy, phương trình bậc hai có $z_1$ và $z_2$ là nghiệm là
+
+$$z^2+10z+\frac{34}{9}=0.$$",
+2807,Số hữu tỉ,A,D,False,1481,False,"Để tìm phương trình có hai số phức $z=- \dfrac{7}{3}+\dfrac{18}{5}i$ và $- \dfrac{7}{3}-\dfrac{18}{5}i$ là nghiệm, ta cần xây dựng phương trình theo dạng $az^2+bz+c=0$ với $a$, $b$ và $c$ là các số thực.
+
+Ta có công thức
+
+$$
+z_1+z_2 = -\dfrac{b}{a}\tag{1}
+$$
+
+và
+
+$$
+z_1z_2 = c.\tag{2}
+$$
+
+Từ $(1)$, ta có
+
+$$
+-\dfrac{7}{3}-\dfrac{18}{5}+(-\dfrac{7}{3}+\dfrac{18}{5}) = -\dfrac{b}{a}\tag{3}
+$$
+
+Simplifying $(3)$ ta có
+
+$$
+\dfrac{-14}{3}+\dfrac{36}{5} = -\dfrac{b}{a}\tag{4}
+$$
+
+Vậy $-\dfrac{b}{a}=\dfrac{-14}{3}+\dfrac{36}{5}$
+
+Simplify $(4)$ ta có
+
+$$
+\dfrac{-70}{15}+\dfrac{108}{15} = -\dfrac{b}{a}\tag{5}
+$$
+
+$$
+\dfrac{38}{15} = -\dfrac{b}{a}\tag{6}
+$$
+
+Từ $(2)$, ta có
+
+$$
+\dfrac{49}{9}-\dfrac{324}{25} = c\tag{7}
+$$
+
+Simplifying $(7)$ ta có
+
+$$
+\dfrac{1225}{225} - \dfrac{972}{225} = c\tag{8}
+$$
+
+$$
+\dfrac{253}{225} = c\tag{9}
+$$
+
+Vậy phương trình có hai số phức $z=- \dfrac{7}{3}+\dfrac{18}{5}i$ và $- \dfrac{7}{3}-\dfrac{18}{5}i$ là nghiệm là:
+
+$$
+z^2-\dfrac{38}{15}z+\dfrac{253}{225}=0\tag{10}
+$$
+
+Tuy nhiên, không có đáp án nào trong các đáp án A, B, C hay D là phương trình $z^2-\dfrac{38}{15}z+\dfrac{253}{225}=0$. 
+
+Nhưng chúng ta có
+
+$$
+\dfrac{38}{15} = \dfrac{14}{3}+\dfrac{24}{15} = \dfrac{70}{15} + \dfrac{24}{15} = \dfrac{94}{15}
+$$
+
+Do đó, phương trình có hai số phức $z=- \dfrac{7}{3}+\dfrac{18}{5}i$ và $- \dfrac{7}{3}-\dfrac{18}{5}i$ là nghiệm là:
+
+$$
+z^2-\dfrac{94}{15}z+\dfrac{253}{225}=0\tag{11}
+$$
+
+Nhưng không có đáp án nào trong các đáp án A, B, C hay D là phương trình $z^2-\dfrac{94}{15}z+\dfrac{253}{225}=0$. 
+
+Nếu thay $z_1$ bằng $- \dfrac{7}{3}+\dfrac{18}{5}i$, ta có
+
+$$
+z_1^2 = (- \dfrac{7}{3}+\dfrac{18}{5}i)^2 = \dfrac{49}{9}-\dfrac{324}{25}+\dfrac{126}{15}i = \dfrac{1225}{225}-\dfrac{972}{225}+\dfrac{126}{15}i = \dfrac{253}{225}+\dfrac{126}{15}i 
+$$
+
+Vậy $z_1^2 = \dfrac{253}{225}+\dfrac{126}{15}i$
+
+Thay $z_1$ bằng $- \dfrac{7}{3}-\dfrac{18}{5}i$ vào $z_1^2$, ta có
+
+$$
+z_1^2 = (- \dfrac{7}{3}-\dfrac{18}{5}i)^2 = \dfrac{49}{9}-\dfrac{324}{25}-\dfrac{126}{15}i = \dfrac{1225}{225}-\dfrac{972}{225}-\dfrac{126}{15}i = \dfrac{253}{225}-\dfrac{126}{15}i 
+$$
+
+Vậy $z_1^2 = \dfrac{253}{225}-\dfrac{126}{15}i$
+
+Tương tự như trên, ta có
+
+$$
+z_1z_2 = (- \dfrac{7}{3}+\dfrac{18}{5}i)(- \dfrac{7}{3}-\dfrac{18}{5}i) = \dfrac{49}{9}-\dfrac{324}{25}+\dfrac{126}{15}i = \dfrac{1225}{225}-\dfrac{972}{225}+\dfrac{126}{15}i = \dfrac{253}{225}+\dfrac{126}{15}i
+$$
+
+Vậy $z_1z_2 = \dfrac{253}{225}+\dfrac{126}{15}i$
+
+Như vậy, ta có hệ phương trình
+
+$$
+\begin{aligned}
+z^2 - \dfrac{94}{15}z + \dfrac{253}{225} &= 0\\
+z^2 - (\dfrac{14}{3}+\dfrac{80}{15})z + \dfrac{253}{225} &= 0\\
+z^2 - (\dfrac{70}{15}+\dfrac{80}{15})z + \dfrac{253}{225} &= 0\\
+z^2 - \dfrac{150}{15}z + \dfrac{253}{225} &= 0\\
+z^2 - 10z + \dfrac{253}{225} &= 0
+\end{aligned}
+$$
+
+Vậy phương trình có hai số phức $z=- \dfrac{7}{3}+\dfrac{18}{5}i$ và $- \dfrac{7}{3}-\dfrac{18}{5}i$ là nghiệm là:
+
+$$
+z^2-10z+\dfrac{253}{225}=0.\tag{12}
+$$
+
+Đáp án đúng: D",
+2808,Số hữu tỉ,C,,False,521,False,"Để giải bài toán này, ta cần sử dụng tính chất của phương trình bậc hai. 
+
+Bước 1: Viết các số phức $z_1 = -\dfrac{11}{4}-\dfrac{7}{2}i$ và $z_2=- \dfrac{11}{4}+\dfrac{7}{2}i$ vào phương trình bậc hai.
+
+Bước 2: Theo tính chất của phương trình bậc hai, nếu hai số phức $z_1$ và $z_2$ là nghiệm của phương trình, thì $(x-z_1)(x-z_2)=0$ phải bằng với phương trình. Do đó, ta có:
+
+$$
+\begin{aligned}
+(x-\left(-\dfrac{11}{4}-\dfrac{7}{2}i\right)\left(x- \left(-\dfrac{11}{4}+\dfrac{7}{2}i\right)\right)&=0\\
+\iff (x+\dfrac{11}{4}+\dfrac{7}{2}i)\left(x+\dfrac{11}{4}-\dfrac{7}{2}i\right)&=0\\
+\iff x^2+\dfrac{11}{4}x+\dfrac{121}{16}+x\dfrac{11}{4}-\dfrac{49}{4}i-\dfrac{77}{8}i +\dfrac{49}{16}&=0\\
+\iff x^2+\dfrac{33}{4}x+\dfrac{170}{16}-\dfrac{49}{4}i-\dfrac{77}{8}i&=0\\
+\iff x^2+\dfrac{33}{4}x+\dfrac{85}{8}-\dfrac{98}{8}i&=0\\
+\iff x^2+\dfrac{33}{4}x+\dfrac{85}{8}-\dfrac{49}{4}i&=0.
+\end{aligned}
+$$
+
+Bước 3: So sánh phương trình vừa được viết với các phương trình trong đề bài để tìm phương trình đúng.
+
+Nhận thấy, không có dấu hiệu nào cho biết số phức $\dfrac{49}{4}i$ xuất hiện trong bất kỳ một trong các phương trình A, B, C, D. 
+
+Vậy, đáp án đúng là: $\boxed{\text{B}}$",
+2809,Số hữu tỉ,D,D,True,453,False,"Bước 1: 
+Để xác định phương trình chính xác nhận hai số phức là nghiệm, ta cần tính tổng và tích của hai số phức đó.
+
+$z_1 = \frac{13}{3} + \frac{8}{3}i$
+$z_2 = \frac{13}{3} - \frac{8}{3}i$
+
+Tổng của hai số phức $z_1$ và $z_2$ được tính như sau:
+
+$$
+\begin{aligned}
+z_1+z_2 &= (\frac{13}{3}+\frac{8}{3}i) + (\frac{13}{3}-\frac{8}{3}i)\\
+&=\frac{26}{3}.\end{aligned}
+$$
+
+Tích của hai số phức $z_1$ và $z_2$ được tính như sau:
+
+$$
+\begin{aligned}
+z_1 \cdot z_2 &= (\frac{13}{3} + \frac{8}{3}i)(\frac{13}{3} - \frac{8}{3}i)\\
+&= \frac{169}{9} - \frac{64}{9}i^2\\
+&= \frac{169}{9}+\frac{64}{9}\\
+&=\frac{233}{9}.\end{aligned}
+$$
+
+Bước 2: 
+Tiếp theo, ta sử dụng công thức của phương trình bậc hai để xác định phương trình chính xác nào nhận hai số phức đó là nghiệm. Công thức của phương trình bậc hai là:
+$$
+az^2+bz+c=0
+$$
+
+Ta có tổng và tích của hai số phức $z_1$ và $z_2$. Vậy phương trình bậc hai có thể viết dưới dạng:
+
+$$
+z^2-(z_1+z_2)z+z_1z_2=0
+$$
+
+Thay giá trị đã tính ở bước 1 vào phương trình bậc hai trên ta có:
+
+$$
+z^2-\frac{26}{3}z+\frac{233}{9}=0.
+$$
+
+Vậy đáp án đúng là D",
+2810,Số hữu tỉ,C,C,True,559,False,"Để giải bài toán này, ta có thể sử dụng phương pháp tìm công thức của một số phức.
+
+Bước 1: 
+Ta có hai số phức $z_1 = - \dfrac{41}{5}+\dfrac{25}{3}i$ và $z_2 = - \dfrac{41}{5}-\dfrac{25}{3}i$. 
+
+Bước 2:
+Ta cần tìm phương trình根 nhân với $z_1$ và $z_2$ bằng 0. 
+
+Bước 3: 
+Vì chúng ta biết công thức của phương trình bậc hai là $(x - z_1)(x - z_2) = 0$, ta có thể viết:
+
+$(x - (- \dfrac{41}{5}+\dfrac{25}{3}i))(x - (- \dfrac{41}{5}-\dfrac{25}{3}i))=0$
+
+Bước 4: 
+Simplify biểu thức trong ngoặc vuông
+
+$x^2 + (\dfrac{41}{5}+\dfrac{25}{3})x + (\dfrac{41}{5}*\dfrac{41}{5}+(\dfrac{25}{3}*\dfrac{25}{3})i^2)=0$
+
+Bước 5:
+Tính chất $i^2=-1$, thay vào biểu thức trên ta có
+
+$x^2 + (\dfrac{41}{5}+\dfrac{25}{3})x + (\dfrac{41}{5}*\dfrac{41}{5}-(\dfrac{25}{3}*\dfrac{25}{3}))=0$
+
+Bước 6:
+Simplify biểu thức trong ngoặc vuông
+
+$x^2 + (\dfrac{41}{5}+\dfrac{25}{3})x + \dfrac{1681}{25}-\dfrac{625}{9}=0$
+
+Bước 7:
+Gộp các phần tử giống nhau trong số
+
+$x^2 + (\dfrac{123}{15}+\dfrac{125}{15})x + \dfrac{15076-625}{45}=0$
+
+Bước 8:
+Simplify biểu thức trong ngoặc vuông
+
+$x^2 + \dfrac{248}{15}x + \dfrac{15051}{45}=0$
+
+Bước 9:
+Gộp các số có cùng cựu
+
+$x^2 + \dfrac{82}{5}x + \dfrac{30754}{225}=0$
+
+Bước 10:
+So sánh với các đáp án đã cho ta thấy đáp án đúng là C.
+
+Đáp án đúng: C",
+2811,Số hữu tỉ,A,C,False,376,False,"Để tìm phương trình có hai số phức $z=\dfrac{13}{3}+\dfrac{17}{2}i$ và $\dfrac{13}{3}-\dfrac{17}{2}i$ là nghiệm, ta cần kiểm tra xem chúng thỏa mãn công thức của phương trình.
+
+Phương trình $az^2+bz+c=0$ có nghiệm $z_1$ và $z_2$ nếu và chỉ khi $a(z-z_1)(z-z_2)=0$.
+
+Ta được
+$$
+\begin{aligned}
+z^2-\dfrac{26}{3}z+\dfrac{3277}{36}&=(z-\left(\dfrac{13}{3}+\dfrac{17}{2}i\right))(z-\left(\dfrac{13}{3}-\dfrac{17}{2}i\right))\\
+&=(z-\dfrac{13}{3})^2-(\dfrac{17}{2}i)^2\\
+&=z^2-26z+169/9+289/4\\
+&=z^2-\dfrac{26}{3}z+\dfrac{3277}{36}.
+\end{aligned}
+$$
+
+Vì $z^2-\dfrac{26}{3}z+\dfrac{3277}{36}$ thỏa mãn công thức, do đó phương trình $z^2-\dfrac{26}{3}z+\dfrac{3277}{36}=0$ nhận hai số phức $z=\dfrac{13}{3}+\dfrac{17}{2}i$ và $\dfrac{13}{3}-\dfrac{17}{2}i$ là nghiệm.
+
+Đáp án đúng: C",
+2812,Số hữu tỉ,B,D,False,721,False,"Bước 1: 
+Để xác định phương trình chính xác nhận hai số phức là nghiệm, ta cần tính tổng và tích của hai số phức đó.
+
+$z_1 = \frac{17}{5} + \frac{36}{5}i$
+$z_2 = \frac{17}{5} - \frac{36}{5}i$
+
+Tổng của hai số phức $z_1$ và $z_2$ được tính như sau:
+
+$$
+\begin{aligned}
+z_1+z_2 &= (\frac{17}{5}+\frac{36}{5}i) + (\frac{17}{5}-\frac{36}{5}i)\\
+&=\frac{17}{5}+\frac{17}{5}+(\frac{36}{5}-\frac{36}{5})i\\
+&= \frac{34}{5}+0i\\
+&= \frac{34}{5}
+\end{aligned}
+$$
+
+Tiếp theo, ta tính tích của hai số phức $z_1$ và $z_2$ được tính như sau:
+
+$$
+\begin{aligned}
+z_1 \cdot z_2 &= (\frac{17}{5}+\frac{36}{5}i)(\frac{17}{5}-\frac{36}{5}i)\\
+&=\frac{289}{25}+\frac{612}{25}i-\frac{612}{25}i-\frac{1296}{25}(-1)\\
+&=\frac{289-612i+1296}{25}\\
+&=\frac{1585}{25}-\frac{612}{25}i\\
+&=\frac{317}{5}-\frac{122.4}{5}i.
+\end{aligned}
+$$
+
+Bước 2: 
+Tiếp theo, ta so sánh tổng và tích của hai số phức với các phương trình trong đề bài để xác định phương trình chính xác nhận hai số phức là nghiệm.
+
+Ta có tổng $z_1 + z_2 = \frac{34}{5}$, và tích $z_1 \cdot z_2 = \frac{317}{5}-\frac{122.4}{5}i$. 
+
+Nhận thấy rằng, $\frac{317}{5}$ trong tích không phải là tổng, nên phương trình không đúng với đáp án A và B. 
+
+Sự khác biệt giữa tổng và tích là dấu hiệu của một phương trình bậc hai với dạng $az^2+bz+c=0$, trong đó $b$ và $c$ có dấu khác nhau (tương ứng với tổng và tích). Vì vậy, ta sẽ tìm phương trình bậc hai phù hợp với tổng và tích của hai số phức $z_1$ và $z_2$.
+
+Vì tổng là dương, phương trình phải có $b<0$ hoặc $c>0$. Ta nhận thấy tích có phần thực là dương, vì vậy, phương trình phải có $a>0$ và $b<0$.
+
+Với điều kiện trên, phương trình phù hợp nhất là:
+
+$$
+\begin{aligned}
+z^2+\dfrac{34}{5}z-\dfrac{317}{5}=0
+\end{aligned}
+$$
+
+Vậy đáp án D là phương trình phù hợp với hai số phức $z_1$ và $z_2$ là nghiệm.
+
+Đáp án đúng: D",
+2813,Số hữu tỉ,A,D,False,495,False,"Để giải bài toán này, ta có thể sử dụng phương trình根 tính chất của một phương trình bậc hai. Phương trình bậc hai có dạng $az^2+bz+c=0$ với $a$, $b$ và $c$ là các số thực.
+
+Ta được hai nghiệm $z_1=-\frac{19}{3}-\frac{11}{4}i$ và $z_2=-\frac{19}{3}+\frac{11}{4}i$.
+
+Sử dụng phương trình Vieta, ta có:
+
+$$
+\begin{aligned}
+z_1+z_2&=\frac{-b}{a}\\
+\Rightarrow\qquad \left(-\frac{19}{3}-\frac{11}{4}i\right)+\left(-\frac{19}{3}+\frac{11}{4}i\right)&=\frac{-b}{a}\\
+\Rightarrow\qquad -\frac{38}{3}&=\frac{-b}{a}\\
+\end{aligned}
+$$
+
+Vì $a=b$, do đó $-38= -b$ và $b=38$. 
+
+Tiếp theo, ta có:
+
+$$
+\begin{aligned}
+z_1z_2&=\frac{c}{a}\\
+\Rightarrow\qquad \left(-\frac{19}{3}-\frac{11}{4}i\right)\left(-\frac{19}{3}+\frac{11}{4}i\right)&=\frac{c}{a}\\
+\Rightarrow\qquad \frac{361}{9}-\frac{121}{16}i^2&=\frac{c}{a}\\
+\Rightarrow\qquad \frac{361}{9}+\frac{121}{16}&=\frac{c}{a}\\
+\Rightarrow\qquad \frac{1528+363}{144}&=\frac{c}{a}\\
+\Rightarrow\qquad \frac{1891}{144}&=\frac{c}{a}\\
+\end{aligned}
+$$
+
+Vì $a=c$, do đó $1891= c$ và $c= 1891$. 
+
+Vậy phương trình bậc hai phù hợp với đề bài là $z^2-\frac{38}{3}z-1891=0$. Do đó đáp án đúng là D.",
+2814,Số hữu tỉ,C,,False,304,False,"Để xác định phương trình nào là đúng, ta cần sử dụng công thức của Vieta.
+
+Công thức của Vieta cho một phương trình bậc hai $az^2+bz+c=0$ với hai nghiệm $r_1,r_2$ là:
+
+$r_1+r_2=-\dfrac{b}{a}, r_1r_2=\dfrac{c}{a}$
+
+Trong trường hợp này chúng ta có 2 số phức $z_1=- \dfrac{24}{5}-\dfrac{32}{5}i,z_2=- \dfrac{24}{5}+\dfrac{32}{5}i$
+
+Vậy:
+- $(z_1+z_2)=(- \dfrac{24}{5}-\dfrac{32}{5}i)+(- \dfrac{24}{5}+\dfrac{32}{5}i)=-\dfrac{48}{5}$
+- $(z_1z_2)=(- \dfrac{24}{5}-\dfrac{32}{5}i)(- \dfrac{24}{5}+\dfrac{32}{5}i)=64$
+
+Ta có: $z_1+z_2=-\dfrac{48}{5}$ và $z_1z_2=64$. 
+
+Vậy phương trình đúng là: $z^2-\dfrac{48}{5}z+64=0$.",
+2815,Số hữu tỉ,D,D,True,2296,False,"Để giải bài toán này, ta cần thực hiện các bước sau:
+
+### Bước 1: Tìm công bội của hai số phức
+
+Công bội của hai số phức $z_1=a+bi$ và $z_2=c+di$ được tính theo công thức:
+
+$$
+\begin{aligned}
+(z_1+z_2)(z_1-z_2)&=z_1^2-z_2^2\\
+&=(a+bi+c+di)((a+bi)-(c-di))\\
+&=(a+c)+(b+d)i(a-c)+(-b+d)bi\\
+&=(a+c)+(ab-bd)+(ad+bc)i.
+\end{aligned}
+$$
+
+Vì $z=\dfrac{1}{2}+\dfrac{43}{5}i$ và $z=\dfrac{1}{2}-\dfrac{43}{5}i$, ta có:
+
+- $a=\dfrac{1}{2}$, $b=\dfrac{43}{5}$, $c=\dfrac{1}{2}$, $d=-\dfrac{43}{5}$
+
+Gọi phương trình là $P(x)=x^2+x-\dfrac{7421}{100}=0$
+
+Ta có:
+$$
+\begin{aligned}
+z_1+z_2 &=\left(\dfrac{1}{2}+\dfrac{43}{5}\right)+\left(\dfrac{1}{2}-\dfrac{43}{5}\right)i\\
+&=\left(\dfrac{1}{2}+\dfrac{1}{2}\right)+\left(\dfrac{43}{5}-\dfrac{43}{5}\right)i\\
+&=1+0i\\
+z_1-z_2 &=\left(\dfrac{1}{2}+\dfrac{43}{5}\right)-\left(\dfrac{1}{2}-\dfrac{43}{5}\right)i\\
+&=\left(\dfrac{1}{2}-\dfrac{1}{2}\right)+\left(\dfrac{43}{5}+\dfrac{43}{5}\right)i\\
+&=0+86i.
+\end{aligned}
+$$
+
+Như vậy, ta có:
+$$
+\begin{aligned}
+(z_1+z_2)(z_1-z_2)&=z_1^2-z_2^2\\
+(1+0i)(0+86i)&=\left(\dfrac{1}{2}+\dfrac{43}{5}i\right)^2-\left(\dfrac{1}{2}-\dfrac{43}{5}i\right)^2\\
+0+86i&=\left(\dfrac{1}{4}+\dfrac{86}{5}i+\dfrac{1849}{25}-\dfrac{86}{5}i\right)-\left(\dfrac{1}{4}-\dfrac{86}{5}i+\dfrac{1849}{25}+\dfrac{86}{5}i\right)\\
+0+86i&=\dfrac{3679}{25}.
+\end{aligned}
+$$
+
+Tuy nhiên, điều này không đúng vì $0+86i\ne\dfrac{3679}{25}$.
+
+Vậy phương trình $z^2+z-\dfrac{7421}{100}=0$ không phải là phương trình nhận hai số phức $z=\dfrac{1}{2}+\dfrac{43}{5}i$ và $z=\dfrac{1}{2}-\dfrac{43}{5}i$ là nghiệm.
+
+### Bước 2: Kiểm tra phương trình $z^2+z+\dfrac{7421}{100}=0$
+
+Ta có:
+$$
+\begin{aligned}
+z_1+z_2 &=\left(\dfrac{1}{2}+\dfrac{43}{5}\right)+\left(\dfrac{1}{2}-\dfrac{43}{5}\right)i\\
+&=\left(\dfrac{1}{2}+\dfrac{1}{2}\right)+\left(\dfrac{43}{5}-\dfrac{43}{5}\right)i\\
+&=1+0i\\
+z_1-z_2 &=\left(\dfrac{1}{2}+\dfrac{43}{5}\right)-\left(\dfrac{1}{2}-\dfrac{43}{5}\right)i\\
+&=\left(\dfrac{1}{2}-\dfrac{1}{2}\right)+\left(\dfrac{43}{5}+\dfrac{43}{5}\right)i\\
+&=0+86i.
+\end{aligned}
+$$
+
+Như vậy, ta có:
+$$
+\begin{aligned}
+(z_1+z_2)(z_1-z_2)&=z_1^2-z_2^2\\
+(1+0i)(0+86i)&=\left(\dfrac{1}{2}+\dfrac{43}{5}i\right)^2-\left(\dfrac{1}{2}-\dfrac{43}{5}i\right)^2\\
+0+86i&=\left(\dfrac{1}{4}+\dfrac{86}{5}i+\dfrac{1849}{25}-\dfrac{86}{5}i\right)-\left(\dfrac{1}{4}-\dfrac{86}{5}i+\dfrac{1849}{25}-\dfrac{86}{5}i\right)\\
+0+86i&=\dfrac{3679}{25}.
+\end{aligned}
+$$
+
+Tuy nhiên, điều này không đúng vì $0+86i\ne\dfrac{3679}{25}$.
+
+### Bước 3: Kiểm tra phương trình $z^2-z+\dfrac{7421}{100}=0$
+
+Ta có:
+$$
+\begin{aligned}
+z_1+z_2 &=\left(\dfrac{1}{2}+\dfrac{43}{5}\right)+\left(\dfrac{1}{2}-\dfrac{43}{5}\right)i\\
+&=\left(\dfrac{1}{2}+\dfrac{1}{2}\right)+\left(\dfrac{43}{5}-\dfrac{43}{5}\right)i\\
+&=1+0i\\
+z_1-z_2 &=\left(\dfrac{1}{2}+\dfrac{43}{5}\right)-\left(\dfrac{1}{2}-\dfrac{43}{5}\right)i\\
+&=\left(\dfrac{1}{2}-\dfrac{1}{2}\right)+\left(\dfrac{43}{5}+\dfrac{43}{5}\right)i\\
+&=0+86i.
+\end{aligned}
+$$
+
+Như vậy, ta có:
+$$
+\begin{aligned}
+(z_1+z_2)(z_1-z_2)&=z_1^2-z_2^2\\
+(1+0i)(0+86i)&=\left(\dfrac{1}{2}+\dfrac{43}{5}i\right)^2-\left(\dfrac{1}{2}-\dfrac{43}{5}i\right)^2\\
+0+86i&=\left(\dfrac{1}{4}+\dfrac{86}{5}i+\dfrac{1849}{25}-\dfrac{86}{5}i\right)-\left(\dfrac{1}{4}-\dfrac{86}{5}i+\dfrac{1849}{25}-\dfrac{86}{5}i\right)\\
+0+86i&=\dfrac{3679}{25}.
+\end{aligned}
+$$
+
+Tuy nhiên, điều này không đúng vì $0+86i\ne\dfrac{3679}{25}$.
+
+### Bước 4: Kiểm tra phương trình $z^2-z-\dfrac{7421}{100}=0$
+
+Ta có:
+$$
+\begin{aligned}
+z_1+z_2 &=\left(\dfrac{1}{2}+\dfrac{43}{5}\right)+\left(\dfrac{1}{2}-\dfrac{43}{5}\right)i\\
+&=\left(\dfrac{1}{2}+\dfrac{1}{2}\right)+\left(\dfrac{43}{5}-\dfrac{43}{5}\right)i\\
+&=1+0i\\
+z_1-z_2 &=\left(\dfrac{1}{2}+\dfrac{43}{5}\right)-\left(\dfrac{1}{2}-\dfrac{43}{5}\right)i\\
+&=\left(\dfrac{1}{2}-\dfrac{1}{2}\right)+\left(\dfrac{43}{5}+\dfrac{43}{5}\right)i\\
+&=0+86i.
+\end{aligned}
+$$
+
+Như vậy, ta có:
+$$
+\begin{aligned}
+(z_1+z_2)(z_1-z_2)&=z_1^2-z_2^2\\
+(1+0i)(0+86i)&=\left(\dfrac{1}{2}+\dfrac{43}{5}i\right)^2-\left(\dfrac{1}{2}-\dfrac{43}{5}i\right)^2\\
+0+86i&=\left(\dfrac{1}{4}+\dfrac{86}{5}i+\dfrac{1849}{25}-\dfrac{86}{5}i\right)-\left(\dfrac{1}{4}-\dfrac{86}{5}i+\dfrac{1849}{25}-\dfrac{86}{5}i\right)\\
+0+86i&=\dfrac{3679}{25}.
+\end{aligned}
+$$
+
+Tuy nhiên, điều này không đúng vì $0+86i\ne\dfrac{3679}{25}$.
+
+### Kết luận
+
+Từ các bước trên, ta thấy rằng trong 4 phương trình đã kiểm tra thì không có phương trình nào nhận hai số phức $z=\dfrac{1}{2}+\dfrac{43}{5}i$ và $z=\dfrac{1}{2}-\dfrac{43}{5}i$ là nghiệm. 
+
+Đáp án đúng: $\boxed{D}$",
+2816,Số hữu tỉ,C,C,True,620,False,"Để tìm phương trình có hai số phức $z=\dfrac{33}{5}+\dfrac{5}{4}i$ và $\dfrac{33}{5}-\dfrac{5}{4}i$ là nghiệm, ta cần kiểm tra xem chúng thỏa mãn công thức của phương trình.
+
+Phương trình có dạng $az^2 + bz + c = 0$, với $a, b, c$ là các số thực. Nếu $z_1$ và $z_2$ là hai nghiệm, thì chúng thỏa mãn công thức
+
+$$z^2 - z_1z_2 + z_1z_2 = 0.$$ 
+
+Ta được yêu cầu kiểm tra xem phương trình nào trong các phương trình đã cho thỏa mãn công thức này.
+
+Giả sử phương trình $az^2 + bz + c = 0$ thỏa mãn công thức, ta có:
+
+$$z^2 - \left(\frac{33}{5}+\frac{5}{4}i\right)\left(\frac{33}{5}-\frac{5}{4}i\right) + \left(\frac{33}{5}+\frac{5}{4}i\right)\left(\frac{33}{5}-\frac{5}{4}i\right) = 0.$$
+
+Simplifying và phân tích biểu thức trên ta nhận thấy:
+$$z^2 - \left(\frac{33}{5}+\frac{5}{4}i\right)\left(\frac{33}{5}-\frac{5}{4}i\right) + \left(\frac{33}{5}+\frac{5}{4}i\right)\left(\frac{33}{5}-\frac{5}{4}i\right) = z^2 - \left(\frac{33^2}{5^2}+\frac{25}{16}\right) + \left(\frac{33}{5}\right)^2 + \left(\frac{5}{4}\right)^2 = z^2 - \frac{1089}{25} + \frac{1089}{25} + \frac{25}{16}.$$
+
+Vậy $z^2 - \frac{1089}{25} + \frac{25}{16} = 0$. Do đó phương trình $az^2 + bz + c = 0$ thỏa mãn công thức.
+
+Chúng ta sẽ chuyển đổi biểu thức $z^2 - \frac{1089}{25} + \frac{25}{16} = 0$ thành dạng $az^2 + bz + c = 0$ bằng cách nhân cả hai bên với 400, ta được $400z^2 - 1728 + 25 = 0$.
+
+Vậy phương trình $400z^2 - 1733 = 0$ thỏa mãn công thức. 
+
+Do đó, đáp án đúng là C",
+2817,Số hữu tỉ,C,C,True,714,False,"Để giải bài toán này, ta cần sử dụng tính chất của phương trình bậc hai. 
+
+Bước 1: Viết các số phức $z_1 = -\dfrac{31}{4} + \dfrac{15}{4}i$ và $z_2 = -\dfrac{31}{4} - \dfrac{15}{4}i$ vào biểu thức $(x - z_1)(x - z_2)$.
+
+$$
+(x-z_1)(x-z_2) = x^2-(z_1+z_2)x+z_1z_2.
+$$
+
+Bước 2: Tính chất của phép nhân cộng với hai số phức được áp dụng như sau:
+
+$$
+\begin{aligned}
+z_1+z_2 &= \left(-\dfrac{31}{4}+\dfrac{15}{4}i\right)+\left(-\dfrac{31}{4}-\dfrac{15}{4}i\right)\\
+&= -\dfrac{31}{4}-\dfrac{15}{4}i-\dfrac{31}{4}+\dfrac{15}{4}i\\
+&=-\dfrac{62}{4}\\
+&=-\dfrac{31}{2},
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+z_1z_2 &= \left(-\dfrac{31}{4}+\dfrac{15}{4}i\right)\left(-\dfrac{31}{4}-\dfrac{15}{4}i\right)\\
+&=\left(-\dfrac{31}{4}\right)^2 + \left(\dfrac{15}{4}\right)^2 i^2 + 2\cdot\left(-\dfrac{31}{4}\right)\cdot\left(-\dfrac{15}{4}\right)i\\
+&=\dfrac{961}{16}-\dfrac{225}{16}i^2+ \dfrac{930}{16}i\\
+&=\dfrac{961}{16}+\dfrac{225}{16}+\dfrac{930}{16}i\\
+&=\dfrac{1186}{16}+\dfrac{930}{16}i\\
+&=\dfrac{593}{8}+\dfrac{465}{8}i,
+\end{aligned}
+$$
+
+Bước 3: Thay giá trị đã tính được vào biểu thức trong bước 1 để nhận dạng chính xác phương trình bậc hai có nghiệm là $z_1$ và $z_2$.
+
+$$
+\begin{aligned}
+(x-z_1)(x-z_2) &= x^2-(z_1+z_2)x+z_1z_2\\
+&=x^2-\left(-\dfrac{31}{2}\right)x+\left(\dfrac{593}{8}+\dfrac{465}{8}i\right)\\
+&=x^2+\dfrac{31}{2}x+\dfrac{593}{8}+\dfrac{465}{8}i
+\end{aligned}
+$$
+
+Như vậy, phương trình bậc hai đúng là $z^2+\dfrac{31}{2}z+\dfrac{593}{8}=0$. 
+
+Đáp án đúng: C",
+2818,Số hữu tỉ,A,D,False,688,False,"Để giải bài toán này, ta cần tìm phương trình có hai nghiệm là $z=\dfrac{3}{2}+\dfrac{11}{2}i$ và $\dfrac{3}{2}-\dfrac{11}{2}i$. 
+
+Ta có thể nhận thấy rằng hai số phức $z_1 = \dfrac{3}{2}+\dfrac{11}{2}i$ và $z_2 = \dfrac{3}{2}-\dfrac{11}{2}i$ là hai gốc của một hình tròn với bán kính $\sqrt{\left(\dfrac{11}{2}\right)^2 + \left(\dfrac{3}{2}\right)^2} = 5$ và tâm tại $(0,0)$.
+
+Giả sử phương trình có dạng $az^2+bz+c=0$, chúng ta có thể viết:
+$$
+\begin{aligned}
+az^2+bz+c&=0\\
+a\left(z-\left(\dfrac{3}{2}-\dfrac{11}{2}i\right)\right)\left(z-\left(\dfrac{3}{2}+\dfrac{11}{2}i\right)\right)&=0\\
+a\left(z^2-\left(\dfrac{3}{2}+\dfrac{11}{2}i\right)z-\left(\dfrac{3}{2}-\dfrac{11}{2}i\right)z+\left(\dfrac{9}{4}+\dfrac{121}{4}\right)\right)&=0\\
+a\left(z^2-\left(\dfrac{6}{2}+\dfrac{22}{2}i\right)z+\dfrac{130}{4}\right)&=0\\
+a\left(z^2-\left(3+11i\right)z+\dfrac{65}{2}\right)&=0\\
+az^2-(3+11i)a z+\dfrac{65a}{2}&=0
+\end{aligned}
+$$
+
+Như vậy, ta có $b=-(3+11i)$ và $c=\dfrac{65a}{2}$.
+
+Để phương trình có hai nghiệm là $z_1$ và $z_2$, ta cần $b^2-4ac=-\left((3+11i)^2\right)-4\cdot a\cdot \dfrac{65a}{2}=0$. 
+
+Simplifying, ta có:
+$$
+\begin{aligned}
+-\left((3+11i)^2\right)-2\cdot 65a^2&=0\\
+-(9+66i-121)&-130a^2=0\\
+-112-66i&=130a^2\\
+a^2&=\dfrac{-112-66i}{130}\\
+a^2&=\dfrac{-56-33i}{65}\\
+\end{aligned}
+$$
+
+Vì $a^2$ phải là thực, nên $a^2=\dfrac{-56-33i}{65}$ không hợp lệ. Do đó phương trình không tồn tại.
+
+Đáp án đúng: $\boxed{D}$",
+2819,Số hữu tỉ,B,,False,572,False,"Để giải bài toán này, ta cần tìm phương trình có hai nghiệm là $z=\dfrac{15}{2}-\dfrac{3}{2}i$ và $\dfrac{15}{2}+\dfrac{3}{2}i$. 
+
+Ta có thể bắt đầu bằng cách tính tổng của hai số phức này:
+$$
+z_1 + z_2 = \left(\dfrac{15}{2}-\dfrac{3}{2}i\right) + \left(\dfrac{15}{2}+\dfrac{3}{2}i\right)
+= \dfrac{15}{2}+\dfrac{15}{2}
+= 15.
+$$
+
+Và sản phẩm của hai số phức này:
+$$
+z_1z_2 = \left(\dfrac{15}{2}-\dfrac{3}{2}i\right)\left(\dfrac{15}{2}+\dfrac{3}{2}i\right)
+= \dfrac{225}{4} - \dfrac{9}{4}i^2
+= \dfrac{225}{4} - \dfrac{9}{4}(-1)
+= \dfrac{225+9}{4}
+= \dfrac{234}{4}
+= \dfrac{117}{2}.
+$$
+
+Giả sử phương trình là $az^2+bz+c=0$, thì chúng ta có:
+$a=z_1+z_2$ và $c=z_1z_2$
+
+Vì $a=z_1+z_2=15$ và $c=z_1z_2=\dfrac{117}{2}$, ta có phương trình là: 
+$$
+az^2+bz+c=0
+$$
+
+Bỏ $a$ trong phương trình trên, ta được phương trình:
+$$
+z^2+\dfrac{b}{a}z+\dfrac{c}{a}=0
+$$
+
+Thay giá trị của $a$, $c$ vào phương trình trên, ta được:
+$$
+z^2+\dfrac{b}{15}z+\dfrac{117}{30}=0
+$$
+
+Nhận thấy $b$ chưa được xác định, nên để phương trình có hai nghiệm là $z_1$ và $z_2$, ta cần $b=0$.
+
+Vậy phương trình cần tìm là:
+$$
+z^2+\dfrac{117}{30}=0
+$$
+
+Lưu ý rằng, phương trình không phải là một trong các phương trình đã đề ra trong đề bài. Vì vậy, đáp án không đúng với các lựa chọn đã cho.
+
+Đáp án đúng: Không có trong các lựa chọn.",
+2820,Số hữu tỉ,C,C,True,527,False,"Để tìm phương trình có hai số phức $z=\dfrac{9}{2}-\dfrac{17}{5}i$ và $\dfrac{9}{2}+\dfrac{17}{5}i$ là nghiệm, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức cơ bản về phương trình bậc hai với hai nghiệm là $z_1$ và $z_2$: 
+
+$$z^2 - (z_1 + z_2)z + z_1z_2 = 0.$$ 
+
+Vì $z=\dfrac{9}{2}-\dfrac{17}{5}i$ và $z=\dfrac{9}{2}+\dfrac{17}{5}i$ là hai nghiệm, ta có: 
+- $z_1 + z_2 = \left(\dfrac{9}{2}-\dfrac{17}{5}i\right)+\left(\dfrac{9}{2}+\dfrac{17}{5}i\right)=\dfrac{18}{2}=9$
+- $z_1z_2 = \left(\dfrac{9}{2}-\dfrac{17}{5}i\right)\left(\dfrac{9}{2}+\dfrac{17}{5}i\right)$
+= $\left(\dfrac{81}{4}+\dfrac{289}{25}\right)+\left(-\dfrac{153}{10}i-\dfrac{153}{10}i\right)$
+= $\dfrac{2025}{100}-\dfrac{306}{10}i$
+= $\dfrac{2025}{100}-\dfrac{153}{5}i$
+= $\dfrac{2025}{100}-\dfrac{3060}{100}i$
+
+Như vậy, phương trình có hai số phức $z=\dfrac{9}{2}-\dfrac{17}{5}i$ và $z=\dfrac{9}{2}+\dfrac{17}{5}i$ là nghiệm là:
+$$z^2 - 9z + \dfrac{2025}{100}-\dfrac{3060}{100}i=0.$$
+
+Suy ra phương trình đó có dạng như sau:
+$$z^2 - 9z + \dfrac{3181}{100}-\dfrac{3060}{100}i=0$$
+
+Đáp án đúng: C",
+2821,Số vô tỉ,A,A,True,599,False,"Bước 1: 
+Để xác định phương trình nhận hai số phức $z=- 3 \sqrt{3}+8i$ và $- 3 \sqrt{3}-8i$ là nghiệm, ta cần sử dụng tính chất của phương trình根 của một phương trình.
+
+Bước 2: 
+Nếu hai số phức $z_1$ và $z_2$ là hai nghiệm của phương trình $az^2+bz+c=0$, thì
+
+$$
+\begin{aligned}
+z_1+z_2 & = -\frac{b}{a},\\
+z_1z_2 &= \frac{c}{a}.
+\end{aligned}
+$$
+
+Bước 3: 
+Sử dụng tính chất trên, ta có
+
+$$
+\begin{aligned}
+z_1+z_2& = (- 3 \sqrt{3}+8i)+(- 3 \sqrt{3}-8i) \\
+& = -6\sqrt{3},\\
+z_1z_2& = (- 3 \sqrt{3}+8i)(- 3 \sqrt{3}-8i)\\
+& = (9*3 + 64) + i(0)\\
+& = 109.
+\end{aligned}
+$$
+
+Bước 4: 
+Ta được hệ thức sau:
+
+$$
+\begin{aligned}
+z_1+z_2& = -\frac{b}{a} = -6\sqrt{3},\\
+z_1z_2 &= \frac{c}{a} = 109.
+\end{aligned}
+$$
+
+Bước 5: 
+Thay giá trị $z_1+z_2$ vào phương trình để tìm $b$ và $c$:
+$$
+\begin{aligned}
+-\frac{b}{a} &= -6\sqrt{3}\\
+b&=6\sqrt{3}a\\
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\frac{c}{a} &= 109\\
+c&=109a
+\end{aligned}
+$$
+
+Bước 6: 
+Thay giá trị $b$ và $c$ vào phương trình $az^2+bz+c=0$ để tìm $a$:
+$$
+\begin{aligned}
+a(z^2 + 6\sqrt{3}z + 109) &= 0\\
+a(z^2+6\sqrt{3}z+91)&=0
+\end{aligned}
+$$
+
+Bước 7: 
+Kết luận phương trình nhận hai số phức $z=- 3 \sqrt{3}+8i$ và $- 3 \sqrt{3}-8i$ là $z^2+6 \sqrt{3}z+91=0$.
+
+Đáp án đúng: A",
+2822,Số vô tỉ,D,B,False,804,False,"Bước 1: 
+Để xác định phương trình có hai số phức $z=4 \sqrt{7}-2 \sqrt{6}i$ và $4 \sqrt{7}+2 \sqrt{6}i$ là nghiệm, ta cần sử dụng tính chất của các根 của phương trình. 
+
+Bước 2:
+Viết tổng quát phương trình có hai nghiệm là $z_1$ và $z_2$, ta được $z^2 - (z_1 + z_2)z + z_1z_2 = 0$. 
+
+Bước 3:
+Suy ra $(4 \sqrt{7}-2 \sqrt{6}i)^2 + (4 \sqrt{7}+2 \sqrt{6}i)^2 - [(4 \sqrt{7}-2 \sqrt{6}i)+(4 \sqrt{7}+2 \sqrt{6}i)]z + (4 \sqrt{7}-2 \sqrt{6}i)(4 \sqrt{7}+2 \sqrt{6}i)=0$
+
+Bước 4:
+Simplify công thức trên bằng cách tính từng phần trong ngoặc vuông
+
+- $(4 \sqrt{7}-2 \sqrt{6}i)^2 = 112 - 48i\sqrt{21} + 24i\sqrt{21}$
+
+- $(4 \sqrt{7}+2 \sqrt{6}i)^2 = 112 + 48i\sqrt{21} - 24i\sqrt{21}$
+
+- $(4 \sqrt{7}-2 \sqrt{6}i)+(4 \sqrt{7}+2 \sqrt{6}i) = 8 \sqrt{7}$
+
+- $(4 \sqrt{7}-2 \sqrt{6}i)(4 \sqrt{7}+2 \sqrt{6}i) = 112 + 84 = 196$
+
+Bước 5:
+Tiếp tục simplify công thức trên
+
+$112 - 48i\sqrt{21} + 24i\sqrt{21} + 112 + 48i\sqrt{21} - 24i\sqrt{21} - 8 \sqrt{7}z + 196 = 0$
+
+$224 - 8 \sqrt{7}z + 0 = 0$
+
+Bước 6:
+Làm tròn lại công thức trên
+$224 = 8 \sqrt{7}z$
+
+$28 = \sqrt{7}z$
+
+$\sqrt{7}z = 28$
+
+$z = \frac{28}{\sqrt{7}}$
+
+$z = 4\sqrt{7}$
+
+Bước 7:
+Đặt $z$ vào trong phương trình đã chọn để kiểm tra xem đáp số chính xác hay không.
+
+- Chọn A: $z^2+8 \sqrt{7}z+136=0$
+- Chọn B: $z^2-8 \sqrt{7}z-136=0$
+- Chọn C: $z^2+8 \sqrt{7}z-136=0$
+- Chọn D: $z^2-8 \sqrt{7}z+136=0$
+
+Bước 8:
+Gọi $f(z) = z^2 + 8 \sqrt{7}z + 136$
+
+$f(4\sqrt{7}) = (4\sqrt{7})^2 + 8 \sqrt{7}(4\sqrt{7}) + 136 = 112 + 112 + 136 = 360 \neq 0$
+
+Vậy $z = 4 \sqrt{7}$ không phải là một nghiệm của phương trình $z^2+8 \sqrt{7}z+136=0$
+
+Chọn B
+
+Đáp án đúng: B",
+2823,Số vô tỉ,A,,False,371,False,"Để tìm phương trình nhận hai số phức $z=4+3 \sqrt{11}i$ và $4-3 \sqrt{11}i$, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức tính giá trị của một số phức là: $(a + bi)^2 = (a^2 - b^2) + 2abi$
+
+Ta sẽ tính giá trị của $(4 + 3 \sqrt{11}i)^2$ và $(4 - 3 \sqrt{11}i)^2$
+
+$(4 + 3 \sqrt{11}i)^2 = 4^2 + 2*4*3\sqrt{11}i + (3\sqrt{11})^2 i^2$
+$\implies (4 + 3 \sqrt{11}i)^2 = 16 + 24\sqrt{11}i - 33$
+$\implies (4 + 3 \sqrt{11}i)^2 = -17 + 24\sqrt{11}i$
+
+$(4 - 3 \sqrt{11}i)^2 = 4^2 - 2*4*3\sqrt{11}i + (3\sqrt{11})^2 i^2$
+$\implies (4 - 3 \sqrt{11}i)^2 = 16 - 24\sqrt{11}i - 33$
+$\implies (4 - 3 \sqrt{11}i)^2 = -17 - 24\sqrt{11}i$
+
+Ta có $(4 + 3 \sqrt{11}i)$ và $(4 - 3 \sqrt{11}i)$ là hai nghiệm của phương trình $z^2+8z-115=0$",
+2824,Số vô tỉ,D,B,False,610,False,"Để giải bài toán này, ta sẽ thực hiện theo các bước sau:
+
+### Bước 1: Viết biểu thức phức
+Biểu thức phức $z$ được viết dưới dạng $a+bi$, nơi $a$ và $b$ là số thực và $i$ là số ảo.
+
+Trong trường hợp này, $z=-3 \sqrt{7}-4 \sqrt{5}i$ và $-3 \sqrt{7}+4 \sqrt{5}i$.
+
+### Bước 2: Tìm tổng của hai số phức
+Ta có
+
+$$z_1+z_2=(-3 \sqrt{7}-4 \sqrt{5}i)+(-3 \sqrt{7}+4 \sqrt{5}i)=-6\sqrt{7}.$$
+
+Vì $z_1+z_2=-6\sqrt{7}$ nên $-6\sqrt{7}$ phải là nghiệm của phương trình.
+
+### Bước 3: Tìm sản phẩm của hai số phức
+Ta có
+
+$$z_1z_2=(-3 \sqrt{7}-4 \sqrt{5}i)(-3 \sqrt{7}+4 \sqrt{5}i)=9\cdot7+16\cdot5=97.$$
+
+Vì $z_1z_2=97$ nên $97$ cũng phải là nghiệm của phương trình.
+
+### Bước 4: Xác định phương trình có đúng
+Ta cần tìm phương trình có $-6\sqrt{7}$ và $97$ là nghiệm. 
+
+Phương trình có dạng $az^2+bz+c=0$, với $a,b,c$ là các số thực, có thể được viết dưới dạng
+
+$$az^2+bz+c=a(z^2+\frac{b}{a}z+\frac{c}{a}).$$
+
+Do đó, ta có
+
+$$az^2+bz+c=a(z_1+z_2)+z_1z_2.$$ 
+
+Thay $a=1$, $b=-6\sqrt{7}$ và $c=97$, ta có
+
+$$1z^2-6\sqrt{7}z+97=z_1+z_2+z_1z_2.$$ 
+
+Như vậy, phương trình có dạng $z^2-6\sqrt{7}z+97=0$ không phù hợp với yêu cầu đề bài.
+
+Tuy nhiên, nếu thay $a=1$, $b=6\sqrt{7}$ và $c=-143$, ta có
+
+$$1z^2+6\sqrt{7}z-143=z_1+z_2+z_1z_2.$$ 
+
+Như vậy, phương trình có dạng $z^2+6\sqrt{7}z-143=0$ phù hợp với yêu cầu đề bài.
+
+Kết luận: 
+Đáp án đúng: B",
+2825,Số vô tỉ,B,C,False,675,False,"Để giải bài toán này, ta cần tìm phương trình có hai số phức $z=4 \sqrt{5}-5i$ và $4 \sqrt{5}+5i$ là nghiệm.
+
+Bước 1: Lấy tổng của hai số phức
+Tổng của hai số phức $z_1 = a + bi$ và $z_2 = c + di$ là $(a+c) + (b+d)i$. Trong trường hợp này, ta có
+
+$$
+\begin{aligned}
+    z_1+z_2 &= (4 \sqrt{5}-5i) + (4 \sqrt{5}+5i) \\
+    &= (4 \sqrt{5} - 5i + 4 \sqrt{5} + 5i) \\
+    &= 8 \sqrt{5}.
+\end{aligned}
+$$
+
+Bước 2: Lấy hiệu của hai số phức
+Hiệu của hai số phức $z_1 = a + bi$ và $z_2 = c + di$ là $(a-c) + (b-d)i$. Trong trường hợp này, ta có
+
+$$
+\begin{aligned}
+    z_1-z_2 &= (4 \sqrt{5}-5i) - (4 \sqrt{5}+5i) \\
+    &= (4 \sqrt{5} - 5i - 4 \sqrt{5} - 5i) \\
+    &= -10i.
+\end{aligned}
+$$
+
+Bước 3: Tìm công thức của phương trình
+Ta có hai số phức $z_1 = 8 \sqrt{5}$ và $z_2 = -10i$, ta có công thức $z^2 - z_1z_2 + z_2^2 = 0$.
+Vậy phương trình có hai số phức $z=4 \sqrt{5}-5i$ và $4 \sqrt{5}+5i$ là nghiệm là
+
+$$
+\begin{aligned}
+    z^2 - z_1z_2 + z_2^2 &= 0\\
+    z^2 - (8 \sqrt{5})(-10i) + (-10i)^2 &= 0\\
+    z^2 + 80 \sqrt{5}i + 100i^2 &= 0\\
+    z^2 + 80 \sqrt{5}i - 100 &= 0\\
+    z^2 - 100 + 80 \sqrt{5}i &= 0\\
+    z^2 - 100 + 80 \sqrt{5}i &= 0\\
+    z^2 - 100 + (80 \sqrt{5})i &= 0\\
+    z^2 - 100 + 80 \sqrt{5}i &= 0\\
+    z^2 - 100 + (80 \sqrt{5})i &= 0\\
+    z^2 - 100 + 80 \sqrt{5}i &= 0\\
+    z^2 + 8 \sqrt{5}z - 105 &= 0
+\end{aligned}
+$$
+
+Đáp án đúng: C",
+2826,Số vô tỉ,A,D,False,572,False,"Bước 1: 
+Để xác định phương trình có hai số phức $z=4 \sqrt{3}+2 \sqrt{6}i$ và $4 \sqrt{3}-2 \sqrt{6}i$ là nghiệm, ta cần sử dụng tính chất của các phương trình. 
+
+Bước 2: 
+Giả sử phương trình có dạng $az^2+bz+c=0$, trong đó a, b, c là các số thực, và $z_1,z_2$ là hai nghiệm của phương trình.
+
+Bước 3: 
+Theo tính chất của phương trình, chúng ta có:
+- $a(z-z_1)(z-z_2)=0$
+- $az_1z_2=-c$
+
+Bước 4: 
+Để tìm công thức chính xác cho $z_1z_2$, ta có thể sử dụng tính chất $(z_1+z_2)^2=z_1^2+z_2^2+2z_1z_2$. 
+
+Bước 5: 
+Ta có
+\begin{align*}
+z_1+z_2 &amp;= (4 \sqrt{3}+2 \sqrt{6}i)+(4 \sqrt{3}-2 \sqrt{6}i)\\
+&amp;=8\sqrt{3}.
+\end{align*}
+
+Và
+
+\begin{align*}
+z_1z_2 &amp;= (4 \sqrt{3}+2 \sqrt{6}i)(4 \sqrt{3}-2 \sqrt{6}i)\\
+&amp;=(4 \sqrt{3})^2-(2 \sqrt{6}i)^2\\
+&amp;=48+24\\
+&amp;=72.
+\end{align*}
+
+Bước 6: 
+Sử dụng kết quả trên, ta có
+\begin{align*}
+z_1z_2&amp;=-\frac{c}{a}\\
+\iff 72&amp;=-\frac{c}{a}\\
+\iff c&amp;=-72a.
+\end{align*} 
+
+Bước 7: 
+Như vậy, phương trình có dạng $az^2+bz+c=0$ sẽ là $z^2+8 \sqrt{3}z-72=0$ nếu $a=1$.
+
+Bước 8: 
+Kết luận rằng phương trình $z^2+8 \sqrt{3}z-72=0$ là phương trình có hai số phức $z=4 \sqrt{3}+2 \sqrt{6}i$ và $4 \sqrt{3}-2 \sqrt{6}i$ là nghiệm.
+
+Đáp án đúng: D",
+2827,Số vô tỉ,A,C,False,381,False,"Để giải bài toán này, ta sẽ thực hiện theo các bước sau:
+
+### Bước 1: Viết biểu thức phức
+Biểu thức phức $z$ được viết dưới dạng $a+bi$, nơi $a$ và $b$ là số thực và $i$ là số ảo.
+
+Trong trường hợp này, $z=-4 \sqrt{6}-2 \sqrt{7}i$ và $-4 \sqrt{6}+2 \sqrt{7}i$.
+
+### Bước 2: Tìm công thức phương trình
+Công thức phương trình có thể được viết dưới dạng $(x-a)(x-b)=0$, nơi $a$ và $b$ là các nghiệm của phương trình.
+
+Vì chúng ta có hai nghiệm $z_1 = -4 \sqrt{6}-2 \sqrt{7}i$ và $z_2 = -4 \sqrt{6}+2 \sqrt{7}i$, nên chúng ta có thể viết phương trình dưới dạng
+
+$$\left(z + 4 \sqrt{6} + 2 \sqrt{7}i \right)\left(z + 4 \sqrt{6} - 2 \sqrt{7}i \right) = 0.$$
+
+### Bước 3: Ký hiệu và phân tích
+Khi mở rộng sản phẩm trong phương trình trên, ta nhận được:
+$$z^2 + 8\sqrt{6}z + 24\cdot 6 + (2\sqrt{7})^2 = 0,$$
+$$z^2 + 8\sqrt{6}z + 96 + 28 = 0,$$
+$$z^2 + 8\sqrt{6}z + 124 = 0.$$
+
+### Kết luận
+Đáp án đúng: C",
+2828,Số vô tỉ,B,D,False,769,False,"Để tìm phương trình nhận hai số phức $z=5-3 \sqrt{3}i$ và $5+3 \sqrt{3}i$, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức tính giá trị của một số phức là: $(a + bi)^2 = a^2 - b^2 + 2abi$
+
+Số phức $z_1 = 5 - 3 \sqrt{3}i$ và $z_2 = 5 + 3 \sqrt{3}i$
+
+Ta có công thức tính giá trị của một số phức là: $(a + bi)^2 = a^2 - b^2 + 2abi$
+
+Vì chúng ta có hai số phức $z_1 = 5 - 3 \sqrt{3}i$ và $z_2 = 5 + 3 \sqrt{3}i$ nên chúng ta sẽ giải phương trình $z^2 + 10z -52 =0$ bằng cách thay thế $z$ bằng $z_1$ hoặc $z_2$ để xem phương trình có phải đúng hay không
+
+Với $z_1 = 5 - 3 \sqrt{3}i$
+
+$z_1^2 = (5 - 3 \sqrt{3}i)^2 = 5^2 - (3 \sqrt{3})^2 + 2\cdot5\cdot (-3 \sqrt{3}i) = 25 - 27 -30 \sqrt{3}i$
+$z_1^2 = -2 -30 \sqrt{3}i$
+
+Thay $z$ trong phương trình $z^2 + 10z -52 =0$ bằng $z_1$
+
+$z_1^2 + 10z_1 -52 = (-2 -30 \sqrt{3}i) + 10(5 - 3 \sqrt{3}i) -52$
+$= -2 -30 \sqrt{3}i + 50 - 30 \sqrt{3}i -52$
+$= -4 -60 \sqrt{3}i$
+
+Lại với $z_2 = 5 + 3 \sqrt{3}i$
+
+$z_2^2 = (5 + 3 \sqrt{3}i)^2 = 5^2 - (3 \sqrt{3})^2 + 2\cdot5\cdot 3 \sqrt{3}i = 25 - 27 + 30 \sqrt{3}i$
+$z_2^2 = -2 + 30 \sqrt{3}i$
+
+Thay $z$ trong phương trình $z^2 + 10z -52 =0$ bằng $z_2$
+
+$z_2^2 + 10z_2 -52 = (-2 + 30 \sqrt{3}i) + 10(5 + 3 \sqrt{3}i) -52$
+$= -2 + 30 \sqrt{3}i + 50 + 30 \sqrt{3}i -52$
+$= -4 + 60 \sqrt{3}i$
+
+Vì $z_1^2 + 10z_1 -52 \neq 0$ và $z_2^2 + 10z_2 -52 \neq 0$ nên phương trình $z^2 + 10z -52 =0$ không nhận được hai số phức $z=5-3 \sqrt{3}i$ và $5+3 \sqrt{3}i$
+
+Đáp án đúng: D",
+2829,Số vô tỉ,A,,False,682,False,"Để tìm phương trình nhận hai số phức $z=8+3 \sqrt{7}i$ và $8-3 \sqrt{7}i$, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức tính giá trị của một số phức là: $(a + bi)^2 = a^2 - b^2 + 2abi$
+
+Số phức $z_1 = 8 + 3 \sqrt{7}i$ và $z_2 = 8 - 3 \sqrt{7}i$
+
+Ta có công thức tính giá trị của một số phức là: $(a + bi)^2 = a^2 - b^2 + 2abi$
+
+Vậy, $(8 + 3 \sqrt{7}i)^2 = 8^2 - (3 \sqrt{7})^2 + 2(8)(3\sqrt{7}i) = 64 - 63 + 48\sqrt{7}i = 1 + 48\sqrt{7}i$
+
+Và, $(8 - 3 \sqrt{7}i)^2 = 8^2 - (-3 \sqrt{7})^2 + 2(8)(-3 \sqrt{7}i) = 64 - 63 - 48\sqrt{7}i = 1 - 48\sqrt{7}i$
+
+Lời giải:
+
+Ta có phương trình $(x-y)^2 + 16(x+y) - 127 = 0$
+
+Gọi x = z và y = i√7
+
+Thay vào phương trình trên ta được: $(z-i\sqrt{7})^2 + 16(z+i\sqrt{7}) - 127 = 0$
+
+Phương trình trên có thể viết thành: $z^2 - 2iz\sqrt{7} + i^2 7 + 16z + 16i\sqrt{7} - 127 = 0$
+
+Simplify phương trình trên ta được: $z^2 + 16z - 120 + 18i\sqrt{7}z = 0$
+
+Vì $z = 8 + 3 \sqrt{7}i$ và $z = 8 - 3 \sqrt{7}i$ nên phương trình trên có thể viết thành: 
+
+$(z-(8+3\sqrt{7}i))(z-(8-3\sqrt{7}i))=0$
+
+Simplify phương trình trên ta được: $(z-8-3\sqrt{7}i)(z-8+3\sqrt{7}i)=0$
+
+Simplify phương trình trên ta được: $(z-8)^2 - (3\sqrt{7}i)^2 = 0$
+
+Simplify phương trình trên ta được: $z^2 - 16z + 64 + 63 = 0$
+
+Simplify phương trình trên ta được: $z^2 - 16z + 127 = 0$
+
+Vậy phương trình nhận hai số phức $z=8+3 \sqrt{7}i$ và $8-3 \sqrt{7}i$ là $z^2 - 16z + 127 = 0$.",
+2830,Số vô tỉ,D,C,False,567,False,"Bước 1: 
+Để xác định phương trình có hai số phức $z=2 \sqrt{7}-4 \sqrt{7}i$ và $2 \sqrt{7}+4 \sqrt{7}i$ là nghiệm, ta cần sử dụng tính chất của các phương trình. 
+
+Bước 2: 
+Giả sử phương trình có dạng $az^2+bz+c=0$, trong đó a, b, c là các số thực, và $z_1,z_2$ là hai nghiệm của phương trình.
+
+Bước 3: 
+Theo tính chất của phương trình, chúng ta có:
+- $a(z-z_1)(z-z_2)=0$
+- $az_1z_2=-c$
+
+Bước 4: 
+Để tìm phương trình có $z=2 \sqrt{7}-4 \sqrt{7}i$ và $2 \sqrt{7}+4 \sqrt{7}i$ là nghiệm, ta cần phải tính $z_1z_2$ và $z_1+z_2$.
+
+Bước 5: 
+Tính $z_1z_2$: 
+
+$$
+\begin{aligned}
+z_1z_2 &= (2\sqrt{7}-4\sqrt{7}i)(2\sqrt{7}+4\sqrt{7}i)\\
+&=(2\sqrt{7})^2-(4\sqrt{7}i)^2\\
+&=28-(-56)\\
+&=84.
+\end{aligned}
+$$
+
+Bước 6: 
+Tính $z_1+z_2$: 
+
+$$
+\begin{aligned}
+z_1+z_2 &= (2\sqrt{7}-4\sqrt{7}i)+(2\sqrt{7}+4\sqrt{7}i)\\
+&=4\sqrt{7}.
+\end{aligned}
+$$
+
+Bước 7: 
+Ta có $az_1z_2=-c$ nên $a(84)=-c$, do đó $c=-84$.
+
+Bước 8: 
+Vì $z_1+z_2=4\sqrt{7}$ nên $b=z_1+z_2=4\sqrt{7}$.
+
+Bước 9: 
+Ta có thể viết phương trình dưới dạng $az^2+bz+c=0$ với $a=1,b=4\sqrt{7},c=-84$. Vì vậy phương trình cần tìm là:
+
+$$
+\begin{aligned}
+z^2+4\sqrt{7}z-84=0.
+\end{aligned}
+$$
+
+Bước 10: 
+Đáp án đúng: C",
+2831,Số vô tỉ,A,,False,537,False,"Để giải bài toán này, ta sẽ thực hiện các bước sau:
+
+Bước 1: Viết hai số phức $z=- 4 \sqrt{5}+3 \sqrt{2}i$ và $- 4 \sqrt{5}-3 \sqrt{2}i$ vào phương trình.
+
+Bước 2: Thay $z=- 4 \sqrt{5}+3 \sqrt{2}i$ vào phương trình, ta được:
+\begin{align*}
+(- 4 \sqrt{5}+3 \sqrt{2}i)^2+8 \sqrt{5}(- 4 \sqrt{5}+3 \sqrt{2}i)+98&amp;=0\\
+16(5-6\sqrt{10})+(3\sqrt{2}i)^2-64\cdot5+24\sqrt{10}i+98&amp;=0\\
+80-96\sqrt{10}+18i^2-320+24\sqrt{10}i+98&amp;=0\\
+-118-18+24\sqrt{10}i-96\sqrt{10}&amp;=0\\
+-136-96\sqrt{10}i&amp;=0\\
+\end{align*}
+
+Bước 3: Thay $z=- 4 \sqrt{5}-3 \sqrt{2}i$ vào phương trình, ta được:
+\begin{align*}
+(- 4 \sqrt{5}-3 \sqrt{2}i)^2+8 \sqrt{5}(- 4 \sqrt{5}-3 \sqrt{2}i)+98&amp;=0\\
+16(5+6\sqrt{10})+(3\sqrt{2}i)^2-64\cdot5-24\sqrt{10}i+98&amp;=0\\
+80+96\sqrt{10}+(3\sqrt{2}i)^2-320-24\sqrt{10}i+98&amp;=0\\
+80+96\sqrt{10}-18i^2-240-24\sqrt{10}i+98&amp;=0\\
+62+96\sqrt{10}+24\sqrt{10}i&amp;=0\\
+\end{align*}
+
+Bước 4: Lời giải không phù hợp với bất kỳ phương trình nào trong các phương trình đã đề ra. 
+
+Kết luận: 
+Đáp án đúng: $\boxed{\text{Không có đáp án đúng}}$",
+2832,Số vô tỉ,B,A,False,937,False,"Để tìm phương trình nhận hai số phức $z=1+3 \sqrt{3}i$ và $1-3 \sqrt{3}i$, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức tính giá trị của một số phức là: $(a + bi)^2 = (a^2 - b^2) + 2abi$
+
+Ta có thể viết hai số phức đã cho như sau:
+
+$$
+\begin{aligned}
+z_1 &= 1+3 \sqrt{3}i \\
+z_2 &= 1-3 \sqrt{3}i 
+\end{aligned}
+$$
+
+Bây giờ, chúng ta sẽ thử giải phương trình mỗi một trong các phương trình A, B, C, D.
+
+### Phương trình A
+Phương trình $z^2+2z+28=0$ có thể được viết dưới dạng $(z-z_1)(z-z_2)=0$ với $z_1,z_2$ là các nghiệm. 
+
+Ta có công thức tính giá trị của một số phức là: $(a + bi)^2 = (a^2 - b^2) + 2abi$
+
+Ta có thể viết $z_1$ và $z_2$ như sau:
+
+$$
+\begin{aligned}
+z_1 &= 1+3 \sqrt{3}i \\
+z_2 &= 1-3 \sqrt{3}i 
+\end{aligned}
+$$
+
+Vậy $(z-z_1)(z-z_2)$ sẽ bằng:
+
+$$
+\begin{aligned}
+(z-z_1)(z-z_2) &= z^2-(z_1+z_2)+z_1z_2\\
+&=(z_1+z_2)+z_1z_2
+\end{aligned}
+$$
+
+Ta có công thức tính giá trị của một số phức là: $(a + bi)^2 = (a^2 - b^2) + 2abi$
+
+Ta có thể viết $z_1$ và $z_2$ như sau:
+
+$$
+\begin{aligned}
+z_1 &= 1+3 \sqrt{3}i \\
+z_2 &= 1-3 \sqrt{3}i 
+\end{aligned}
+$$
+
+Vậy $(z_1+z_2)$ sẽ bằng:
+
+$$
+\begin{aligned}
+z_1+z_2 &= (1+3 \sqrt{3}i)+(1-3 \sqrt{3}i)\\
+&= 2
+\end{aligned}
+$$
+
+Vậy $(z_1+z_2)$ bằng 2.
+
+Ta có công thức tính giá trị của một số phức là: $(a + bi)^2 = (a^2 - b^2) + 2abi$
+
+Ta có thể viết $z_1$ và $z_2$ như sau:
+
+$$
+\begin{aligned}
+z_1 &= 1+3 \sqrt{3}i \\
+z_2 &= 1-3 \sqrt{3}i 
+\end{aligned}
+$$
+
+Vậy $(z_1z_2)$ sẽ bằng:
+
+$$
+\begin{aligned}
+z_1z_2 &= (1+3 \sqrt{3}i)(1-3 \sqrt{3}i)\\
+&=(1-\frac{(3 \sqrt{3})^2}{1})\\
+&= 1-27=-26.
+\end{aligned}
+$$
+
+Vậy $(z_1z_2)$ bằng -26.
+
+Vậy $(z-z_1)(z-z_2)$ sẽ bằng:
+
+$$
+\begin{aligned}
+(z-z_1)(z-z_2) &= z^2-(z_1+z_2)+z_1z_2\\
+&=(z_1+z_2)+z_1z_2\\
+&= 2-26\\
+&=-24
+\end{aligned}
+$$
+
+Vậy $(z-z_1)(z-z_2)$ bằng -24.
+
+Thay vào phương trình A, ta có:
+
+$$
+\begin{aligned}
+z^2+2z+28 &= 0\\
+z^2+2z-24 &= 0\\
+z^2+2z-24 &= 0
+\end{aligned}
+$$
+
+Vậy phương trình A đúng.
+
+Kết luận: Đáp án đúng: A",
+2833,Số vô tỉ,A,A,True,391,False,"Để tìm phương trình nhận hai số phức $z=3+3 \sqrt{6}i$ và $3-3 \sqrt{6}i$, ta cần sử dụng tính chất của các số phức.
+
+Ta có công thức tính giá trị của một số phức là: $(a + bi)^2 = (a^2 - b^2) + 2abi$
+
+Ta có thể viết $z=3+3 \sqrt{6}i$ và $z=3-3 \sqrt{6}i$ dưới dạng $z=a+bi$. 
+
+Vậy, $a=3$, $b=\pm 3\sqrt{6}$
+
+Ta sẽ thử nghiệm cả hai phương trình A và B để xem có đúng không. 
+
+Với phương trình A: $z^2-6z+63=0$
+
+$$(3+3 \sqrt{6}i)^2-6(3+3 \sqrt{6}i)+63=0$$
+$$\Rightarrow (9-54+18\sqrt{6}i)-(18+18\sqrt{6}i)+63=0$$
+$$\Rightarrow -42+0i=0$$
+
+Với phương trình B: $z^2+6z+63=0$
+
+$$(3+3 \sqrt{6}i)^2+6(3+3 \sqrt{6}i)+63=0$$
+$$\Rightarrow (9-54+18\sqrt{6}i)+(18+18\sqrt{6}i)+63=0$$
+$$\Rightarrow 36+36\sqrt{6}i\neq 0$$
+
+Như vậy phương trình A nhận được hai số phức $z=3+3 \sqrt{6}i$ và $z=3-3 \sqrt{6}i$
+
+Đáp án đúng: A",
+2834,Số vô tỉ,A,C,False,493,False,"Bước 1: 
+Để xác định phương trình chính xác nhận hai số phức $z=4 \sqrt{3}-4 \sqrt{7}i$ và $4 \sqrt{3}+4 \sqrt{7}i$ là nghiệm, ta cần tìm phương trình mà chúng được giải quyết.
+
+Bước 2: 
+Hãy tính $(z - (4 \sqrt{3}-4 \sqrt{7}i))(z-(4 \sqrt{3}+4 \sqrt{7}i))$
+
+$= z^2-8\sqrt{3}z+(16*7)-16\sqrt{3}(-4\sqrt{7})i^2$
+$= z^2-8\sqrt{3}z+112+112\sqrt{3}\cdot 4$
+$= z^2-8\sqrt{3}z+112+448\sqrt{3}$
+$= z^2-8\sqrt{3}z+160+448\sqrt{3}$
+$= z^2-8\sqrt{3}z+160+8(56)\sqrt{3}$
+$= z^2-8\sqrt{3}z+160+8\sqrt{3}(8)$
+$= z^2-8\sqrt{3}z+160+8\cdot 8\sqrt{3}$
+$= z^2-8\sqrt{3}z+160+64\sqrt{3}$
+$= z^2-8\sqrt{3}z+160+8\sqrt{3}\cdot 8$
+$= z^2-8\sqrt{3}z+160+8\cdot 8\sqrt{3}$
+$= z^2-8\sqrt{3}z+160+8\cdot 8\sqrt{3}$
+$= z^2-8\sqrt{3}z+160+64\sqrt{3}$
+$= z^2-8\sqrt{3}z+160+8\cdot 8\sqrt{3}$
+$= z^2-8\sqrt{3}z+160+8\cdot 8\sqrt{3}$
+
+Bằng cách so sánh với các phương trình đã đề bài ta thấy đáp án đúng là C.",
+2835,Số vô tỉ,A,D,False,459,False,"Bước 1: 
+Để xác định phương trình có hai số phức $z=-2\sqrt{7}+\sqrt{5}i$ và $-2\sqrt{7}-\sqrt{5}i$ là nghiệm, chúng ta cần sử dụng tính chất của các nghiệm根 của phương trình. Theo tính chất này, tổng của hai nghiệm phải bằng -b/a trong phương trình ax^2+bx+c=0.
+
+Bước 2:
+Tổng của hai số phức $-2\sqrt{7}+\sqrt{5}i$ và $-2\sqrt{7}-\sqrt{5}i$ là:
+$$
+\begin{aligned}
+&(-2\sqrt{7}+\sqrt{5}i)+(-2\sqrt{7}-\sqrt{5}i)\\
+=&-4\sqrt{7}
+\end{aligned}
+$$
+
+Bước 3:
+Trong phương trình $az^2+bz+c=0$, tổng của hai nghiệm là $-\frac{b}{a}$. Ở đây, b = $4\sqrt{7}$, a = 1 nên tổng của hai nghiệm sẽ là $-\frac{4\sqrt{7}}{1}$ = $-4\sqrt{7}$.
+
+Bước 4:
+Như vậy, với phương trình $az^2+bz+c=0$ thì tổng của hai nghiệm sẽ luôn bằng $-\frac{b}{a}$, đồng thời cũng chính là giá trị của c trong phương trình đó. Bằng chứng như sau:
+
+$$
+\begin{aligned}
+z_1+z_2 &= -\frac{b}{a}\\
+z_1 &= \frac{-b}{a} - z_2 \\
+z_1 + z_2 &= \frac{-b}{a} - z_2 + z_2\\
+&=\frac{-b}{a}
+\end{aligned}
+$$
+
+Bước 5:
+Như vậy, tổng của hai nghiệm là $-4\sqrt{7}$, từ đó ta có được phương trình là $z^2-4\sqrt{7}z-33=0$
+
+Kết luận:
+Đáp án đúng: D",
+2836,Số vô tỉ,A,A,True,439,False,"Để giải quyết bài toán này, ta cần sử dụng tính chất của phương trình bậc hai và tính chất của các số phức.
+
+Giả sử phương trình có dạng $az^2 + bz + c = 0$ với $a$, $b$ và $c$ là các số thực. 
+
+Tính chất của phương trình bậc hai cho rằng:
+
+- Nếu $z_1$ và $z_2$ là hai nghiệm của phương trình, thì
+
+$$
+z^2 - z_1z - z_2 = 0 \implies (z - z_1)(z - z_2) = 0
+$$
+
+Vì $z_1 = -4\sqrt{6} - 3\sqrt{11}i$ và $z_2 = -4\sqrt{6} + 3\sqrt{11}i$ là hai nghiệm của phương trình, chúng ta có:
+
+$$
+\begin{aligned}
+(z - z_1)(z - z_2) &= (z - (-4\sqrt{6} - 3\sqrt{11}i))(z - (-4\sqrt{6} + 3\sqrt{11}i))\\
+&= (z + 4\sqrt{6} + 3\sqrt{11}i)(z + 4\sqrt{6} - 3\sqrt{11}i)\\
+&= (z + 4\sqrt{6})^2 - (3\sqrt{11}i)^2\\
+&= z^2 + 8\sqrt{6}z + 96 - 99i^2\\
+&= z^2 + 8\sqrt{6}z + 96 + 99\\
+&= z^2 + 8\sqrt{6}z + 195.
+\end{aligned}
+$$
+
+Từ biểu thức trên, ta thấy phương trình có dạng $z^2 + 8\sqrt{6}z + 195 = 0$. 
+
+Kết luận: 
+
+Đáp án đúng: A",
+2837,Số vô tỉ,A,A,True,497,False,"Để giải bài toán này, ta cần thực hiện các bước sau:
+
+### Bước 1: Tìm công thức của phương trình
+Phương trình cần tìm là phương trình bậc hai, có dạng $az^2+bz+c=0$.
+
+### Bước 2: Viết số phức vào phương trình
+Chúng ta được hai số phức là $z=-8-2\sqrt{11}i$ và $z=-8+2\sqrt{11}i$. Để kiểm tra xem chúng có phải nghiệm của phương trình hay không, chúng ta cần thay thế chúng vào phương trình bậc hai.
+
+### Bước 3: Thay số phức vào phương trình
+Thay số phức $z=-8-2\sqrt{11}i$ vào phương trình bậc hai:
+$$
+(-8-2\sqrt{11}i)^2 +16(-8-2\sqrt{11}i)+108 = 0
+$$
+
+Simplifying và phân phối:
+$$
+64 + 32\sqrt{11}i - 64\sqrt{11}i - 4(11) - 128 - 32\sqrt{11}i + 108 = 0
+$$
+
+Gộp các phần thực và ảo cùng nhau:
+$$
+64 - 64\sqrt{11}i - 4(11) - 128 + 108 + 32\sqrt{11}i = 0
+$$
+
+Tính chất cộng của số phức cho phép chúng ta kết hợp các phần ảo:
+$$
+64 - 4(11) + (32\sqrt{11}i - 64\sqrt{11}i) + 108 = 0
+$$
+
+Và cuối cùng là:
+$$
+-44 + (-32\sqrt{11}i) + 108 = 0
+$$
+
+Lưu ý rằng trong khi tính chất cộng với các số phức sẽ làm giảm phần ảo, nên chúng ta chỉ còn phần thực. 
+
+### Bước 4: Xác định đáp án đúng
+Như vậy, phương trình $z^2 + 16z + 108 = 0$ là phương trình bậc hai có thể chứa cả hai số phức $z=-8-2\sqrt{11}i$ và $z=-8+2\sqrt{11}i$.
+
+Đáp án đúng: A",
+2838,Số vô tỉ,A,,False,442,False,"Bước 1: 
+Để xác định phương trình có hai số phức $z=-4\sqrt{11}+\sqrt{3}i$ và $-4\sqrt{11}-\sqrt{3}i$ là nghiệm, chúng ta cần sử dụng tính chất của các nghiệm根 của phương trình. Theo tính chất này, tổng của hai nghiệm phải bằng -b/a trong phương trình ax^2+bx+c=0.
+
+Bước 2:
+Tổng của hai số phức $-4\sqrt{11}+\sqrt{3}i$ và $-4\sqrt{11}-\sqrt{3}i$ sẽ được tính như sau:
+
+$(-4\sqrt{11}+\sqrt{3}i)+(-4\sqrt{11}-\sqrt{3}i) = (-4\sqrt{11}-4\sqrt{11})+(\sqrt{3}i-\sqrt{3}i)$
+
+= $-8\sqrt{11}$
+
+Như vậy tổng của hai số phức là -8$\sqrt{11}$
+
+Bước 3:
+Tiếp theo, ta cần tính sản phẩm của hai số phức $-4\sqrt{11}+\sqrt{3}i$ và $-4\sqrt{11}-\sqrt{3}i$ sẽ được tính như sau:
+
+$(-4\sqrt{11}+\sqrt{3}i)(-4\sqrt{11}-\sqrt{3}i)$
+
+= $(4*4\sqrt{11}*11-(\sqrt{3}i*\sqrt{3}i))$
+
+= $(176-3i^2)$
+
+= $(176-3*(-1))$
+
+= $(176+3)$
+
+= 179
+
+Như vậy sản phẩm của hai số phức là 179
+
+Bước 4:
+Ta có b=a*c (tổng của hai số phức là -8$\sqrt{11}$ và sản phẩm của hai số phức là 179)
+
+Bước 5:
+Từ đó suy ra phương trình có dạng $z^2 + 8 \sqrt{11} z + 179 = 0$",
+2839,Số vô tỉ,C,C,True,181,False,"Để giải bài toán này, ta sẽ bắt đầu bằng cách tìm công thức của phương trình.
+
+Ta có hai số phức $z=4 \sqrt{11}+3i$ và $z=4 \sqrt{11}-3i$. Để nhận được một trong những phương trình trên, chúng ta cần phải nhân hai số phức đó lại với nhau. 
+
+$$
+\begin{aligned}
+z_1z_2 &= (4 \sqrt{11}+3i)(4 \sqrt{11}-3i)\\
+&=(4 \sqrt{11})^2-(3i)^2\\
+&=16(11)+9\\
+&=185.
+\end{aligned}
+$$
+
+Vậy, công thức của phương trình là $z^2-8 \sqrt{11}z+185=0$. 
+
+Đáp án đúng: C",
+2840,Số vô tỉ,B,D,False,1370,False,"Để giải quyết bài toán này, ta cần tìm phương trình có hai số phức $z=4-\sqrt{2}i$ và $4+\sqrt{2}i$ là nghiệm.
+
+Bước 1: Viết các số phức vào phương trình
+
+Ta có hai số phức là $z_1=4-\sqrt{2}i$ và $z_2=4+\sqrt{2}i$. Để kiểm tra xem chúng là nghiệm của phương trình nào, ta cần viết cả hai số phức vào từng phương trình và kiểm tra xem phương trình đó có đúng không.
+
+Bước 2: Kiểm tra phương trình A
+Ta sẽ thử viết $z_1$ và $z_2$ vào phương trình A:
+
+$$z^2+8z+18=0.$$
+
+Thay $z=4-\sqrt{2}i$ vào phương trình trên, ta có:
+
+\begin{align*}
+(4-\sqrt{2}i)^2 + 8(4-\sqrt{2}i) + 18 &amp;= 0 \\
+16-8\sqrt{2}i - 2i^2 + 32 - 8\sqrt{2}i + 18 &amp;= 0\\
+16-8\sqrt{2}i + 2 + 32 - 8\sqrt{2}i + 18 &amp;= 0\\
+46 - 16\sqrt{2}i &amp;\neq 0.
+\end{align*}
+
+Vì $46-16\sqrt{2}i \neq 0$, nên phương trình A không phải là phương trình có $z_1$ và $z_2$ là nghiệm.
+
+Bước 3: Kiểm tra phương trình B
+Tiếp theo, ta sẽ thử viết $z_1$ và $z_2$ vào phương trình B:
+
+$$z^2-8z+18=0.$$
+
+Thay $z=4-\sqrt{2}i$ vào phương trình trên, ta có:
+
+\begin{align*}
+(4-\sqrt{2}i)^2 - 8(4-\sqrt{2}i) + 18 &amp;= 0 \\
+16-8\sqrt{2}i - 2i^2 - 32 + 8\sqrt{2}i + 18 &amp;= 0\\
+16-8\sqrt{2}i + 2 + 32 - 8\sqrt{2}i + 18 &amp;= 0\\
+48 - 16\sqrt{2}i &amp;\neq 0.
+\end{align*}
+
+Vì $48-16\sqrt{2}i \neq 0$, nên phương trình B không phải là phương trình có $z_1$ và $z_2$ là nghiệm.
+
+Bước 4: Kiểm tra phương trình C
+Tiếp theo, ta sẽ thử viết $z_1$ và $z_2$ vào phương trình C:
+
+$$z^2-8z-18=0.$$
+
+Thay $z=4-\sqrt{2}i$ vào phương trình trên, ta có:
+
+\begin{align*}
+(4-\sqrt{2}i)^2 - 8(4-\sqrt{2}i) - 18 &amp;= 0 \\
+16-8\sqrt{2}i - 2i^2 - 32 + 8\sqrt{2}i - 18 &amp;= 0\\
+16-8\sqrt{2}i + 2 + 32 - 8\sqrt{2}i - 18 &amp;= 0\\
+30 - 16\sqrt{2}i &amp;= 0\\
+30 &amp;= 16\sqrt{2}i\\
+\frac{30}{16\sqrt{2}} &amp;= i\\
+\frac{15}{8\sqrt{2}} &amp;= i\\
+\frac{15\sqrt{2}}{16} &amp;= i\\
+\left(\frac{15\sqrt{2}}{16}\right)^2 &amp;= i^2\\
+\frac{225\cdot2}{256} &amp;= -1\\
+\frac{450}{256} &amp;= -1\\
+-450 &amp;= -256\\
+450 &amp;\neq 256.
+\end{align*}
+
+Vì $\frac{450}{256} \neq -1$, nên phương trình C không phải là phương trình có $z_1$ và $z_2$ là nghiệm.
+
+Bước 5: Kiểm tra phương trình D
+Cuối cùng, ta sẽ thử viết $z_1$ và $z_2$ vào phương trình D:
+
+$$z^2+8z-18=0.$$
+
+Thay $z=4-\sqrt{2}i$ vào phương trình trên, ta có:
+
+\begin{align*}
+(4-\sqrt{2}i)^2 + 8(4-\sqrt{2}i) - 18 &amp;= 0 \\
+16-8\sqrt{2}i - 2i^2 + 32 - 8\sqrt{2}i - 18 &amp;= 0\\
+16-8\sqrt{2}i + 2 + 32 - 8\sqrt{2}i - 18 &amp;= 0\\
+30 - 16\sqrt{2}i &amp;= 0\\
+30 &amp;= 16\sqrt{2}i\\
+\frac{30}{16\sqrt{2}} &amp;= i\\
+\frac{15\sqrt{2}}{8} &amp;= i\\
+\left(\frac{15\sqrt{2}}{8}\right)^2 &amp;= i^2\\
+\frac{225\cdot2}{64} &amp;= -1\\
+\frac{450}{64} &amp;= -1\\
+-450 &amp;= -64\\
+450 &amp;= 64.
+\end{align*}
+
+Vì $450 = 64$, nên phương trình D phải là phương trình có $z_1$ và $z_2$ là nghiệm.
+
+Kết luận:
+Đáp án đúng: D",
+2841,Số vô tỉ,D,C,False,1011,False,"Bước 1: 
+Để xác định phương trình chính xác nhận hai số phức $z=4 \sqrt{6}-4 \sqrt{11}i$ và $4 \sqrt{6}+4 \sqrt{11}i$ là nghiệm, ta cần tìm phương trình mà chúng được giải quyết.
+
+Bước 2: 
+Hãy tính $(z - (4 \sqrt{6}-4 \sqrt{11}i))(z-(4 \sqrt{6}+4 \sqrt{11}i))$
+
+$= z^2-8\sqrt{6}z-4\sqrt{11}iz+16\cdot 6+16\cdot 11i^2$
+
+$= z^2-8\sqrt{6}z-4\sqrt{11}iz-80-16\sqrt{11}i$
+
+Vậy $(z - (4 \sqrt{6}-4 \sqrt{11}i))(z-(4 \sqrt{6}+4 \sqrt{11}i)$
+
+$= z^2-8\sqrt{6}z-4\sqrt{11}iz-80-16\sqrt{11}i$
+
+Bổ sung thêm $16\sqrt{11}i$ vào đúng đắn
+
+$= z^2-8\sqrt{6}z-4\sqrt{11}iz-80-16\sqrt{11}i+16\sqrt{11}i$
+
+$= z^2-8\sqrt{6}z-4\sqrt{11}iz-80$
+
+Tương tự như trên, ta có $(z - (4 \sqrt{6}+4 \sqrt{11}i))(z-(4 \sqrt{6}-4 \sqrt{11}i)$
+
+$= z^2-8\sqrt{6}z+4\sqrt{11}iz-80+16\sqrt{11}i$
+
+Vậy $(z - (4 \sqrt{6}+4 \sqrt{11}i))(z-(4 \sqrt{6}-4 \sqrt{11}i)$
+
+$= z^2-8\sqrt{6}z+4\sqrt{11}iz-80+16\sqrt{11}i$
+
+Bổ sung thêm $-16\sqrt{11}i$ vào đúng đắn
+
+$= z^2-8\sqrt{6}z+4\sqrt{11}iz-80+16\sqrt{11}i-16\sqrt{11}i$
+
+$= z^2-8\sqrt{6}z+4\sqrt{11}iz-80$
+
+Ta có $(z - (4 \sqrt{6}-4 \sqrt{11}i))(z-(4 \sqrt{6}+4 \sqrt{11}i)=z^2-8\sqrt{6}z-4\sqrt{11}iz-80$ và $(z - (4 \sqrt{6}+4 \sqrt{11}i))(z-(4 \sqrt{6}-4 \sqrt{11}i)=z^2-8\sqrt{6}z+4\sqrt{11}iz-80$. 
+
+Thay $z=4 \sqrt{6}-4 \sqrt{11}i$ vào $(z - (4 \sqrt{6}-4 \sqrt{11}i))(z-(4 \sqrt{6}+4 \sqrt{11}i)=z^2-8\sqrt{6}z-4\sqrt{11}iz-80$
+
+$= ((4 \sqrt{6}-4 \sqrt{11}i)-(4 \sqrt{6}-4 \sqrt{11}i))((4 \sqrt{6}-4 \sqrt{11}i)-(4 \sqrt{6}+4 \sqrt{11}i))$
+
+$= (0)(-8\sqrt{11}i)$
+
+$= 0$
+
+Thay $z=4 \sqrt{6}-4 \sqrt{11}i$ vào $(z - (4 \sqrt{6}+4 \sqrt{11}i))(z-(4 \sqrt{6}-4 \sqrt{11}i)=z^2-8\sqrt{6}z+4\sqrt{11}iz-80$
+
+$= ((4 \sqrt{6}-4 \sqrt{11}i)-(4 \sqrt{6}+4 \sqrt{11}i))((4 \sqrt{6}-4 \sqrt{11}i)-(4 \sqrt{6}-4 \sqrt{11}i))$
+
+$= (0)(8\sqrt{11}i)$
+
+$= 0$
+
+Vậy cả hai phương trình đều bằng 0 nên đáp án đúng là C.",
+2842,Số vô tỉ,A,C,False,463,False,"Để giải bài toán này, ta sẽ thực hiện theo các bước sau:
+
+### Bước 1: Viết biểu thức phức
+Biểu thức phức $z$ được viết dưới dạng $a+bi$, nơi $a$ và $b$ là số thực và $i$ là số ảo.
+
+Trong trường hợp này, $z=-3 \sqrt{5}-3 \sqrt{10}i$ có thể được viết dưới dạng $-3\sqrt{5}-3\sqrt{10}i$.
+
+### Bước 2: Tìm công bội của $z$
+Công bội của một phương trình bậc hai là phép nhân của hai số phức khác nhau. Trong trường hợp này, công bội của $z$ là $(z-z_0)$, trong đó $z_0$ là một số phức bất kỳ.
+
+Vì $z_0 = -3 \sqrt{5}+3 \sqrt{10}i$, công bội của $z$ là $(z-z_0) = (-3 \sqrt{5}-3 \sqrt{10}i)-(-3 \sqrt{5}+3 \sqrt{10}i) = -6\sqrt{10}i$
+
+### Bước 3: Viết phương trình bậc hai bằng công bội và đáy
+Phương trình bậc hai với công bội $(z-z_0)$ và đáy $d$ có thể được viết dưới dạng:
+
+$$z^2-dz+z_0=0$$
+
+Thay vào công bội và đáy đã tìm thấy, chúng ta có:
+
+$$z^2-(-6 \sqrt{10}i)z-3 \sqrt{5}-3 \sqrt{10}i=0$$
+
+### Bước 4: So sánh phương trình với các phương trình trong đề bài
+So sánh phương trình vừa viết với các phương trình trong đề bài, chúng ta thấy rằng:
+
+$$z^2-(-6 \sqrt{10}i)z-3 \sqrt{5}-3 \sqrt{10}i=z^2+6 \sqrt{5}z-135$$
+
+Do đó, đáp án đúng là:
+
+Đáp án đúng: C",
+2843,Số vô tỉ,C,C,True,683,False,"Để giải bài toán này, ta cần tìm phương trình có hai số phức $z=3 \sqrt{3}-4i$ và $3 \sqrt{3}+4i$ là nghiệm.
+
+Bước 1: Lấy tổng của hai số phức
+Ta có:
+$$z_1+z_2=(3\sqrt{3}-4i)+(3\sqrt{3}+4i)=6\sqrt{3}.$$
+
+
+Bước 2: Lấy tích của hai số phức
+Ta có:
+$$z_1z_2=(3\sqrt{3}-4i)(3\sqrt{3}+4i)=(3\sqrt{3})^2-(4i)^2=27+16=43.$$
+
+Bây giờ, chúng ta sẽ tìm phương trình có $z_1$ và $z_2$ là nghiệm. 
+
+Bước 3: Viết phương trình có $z_1$ và $z_2$ là nghiệm
+Phương trình có $z_1$ và $z_2$ là nghiệm sẽ là phương trình có tổng bằng $z_1+z_2$ và tích bằng $z_1z_2$, tức là phương trình $(x-z_1)(x-z_2)=0$ hoặc $(x-z_1)(x-z_2)-z_1z_2=0$. 
+
+Vậy phương trình có $z_1$ và $z_2$ là nghiệm là $$(x-3\sqrt{3}+4i)(x-3\sqrt{3}-4i)=0$$
+
+Tiếp mở rộng phương trình trên ta được:
+
+$$x^2-3\sqrt{3}x-4ix-3\sqrt{3}x+9(3)+16=0$$
+
+Gộp các term tương tự lại ta được:
+$$x^2-6\sqrt{3}x+25=0$$
+
+Như vậy phương trình có $z_1$ và $z_2$ là nghiệm là $z^2-6\sqrt{3}z+25=0$ nhưng không phải là một trong các phương trình đã cho trong đề bài. Vì vậy chúng ta cần chuyển đổi phương trình này sang dạng có $z^2-6\sqrt{3}z+43=0$ để so sánh với các phương trình đã cho trong đề bài.
+
+Để làm điều này, ta nhân cả hai bên của phương trình $z^2-6\sqrt{3}z+25=0$ với $-1$ để chuyển dấu của $25$ sang trước:
+
+$$-z^2+6\sqrt{3}z-25=0$$
+
+Tiếp theo, ta cộng $68$ vào cả hai bên của phương trình $-z^2+6\sqrt{3}z-25=0$ để làm cho công bội của $z^2$ là $1$:
+
+$$-z^2+6\sqrt{3}z+43=0$$
+
+Như vậy phương trình có $z_1$ và $z_2$ là nghiệm là $z^2-6\sqrt{3}z+43=0$.
+
+Kết luận: Đáp án đúng C.",
+2844,Số vô tỉ,C,,False,400,False,"Để giải bài toán này, ta cần thực hiện các bước sau:
+
+### Bước 1: Tìm công thức của phương trình
+Phương trình cần tìm là phương trình bậc hai, có dạng $az^2+bz+c=0$, với $a,b,c$ là các số thực. 
+
+### Bước 2: Thay giá trị của z vào phương trình
+Thay $z=-9-4 \sqrt{10}i$ và $z=-9+4 \sqrt{10}i$ vào phương trình bậc hai sẽ cho
+
+$$(-9-4\sqrt{10}i)^2+18(-9-4\sqrt{10}i)+241=0,$$
+
+$$(-9+4\sqrt{10}i)^2+18(-9+4\sqrt{10}i)+241=0.$$
+
+### Bước 3: Nhận xét về tính chất của phương trình bậc hai
+Nếu phương trình bậc hai có hai nghiệm khác nhau, thì nó phải có dấu hiệu khác nhau. Vì hai phương trình trên đều có cùng giá trị, nên chúng không thể có hai nghiệm khác nhau.
+
+### Bước 4: Kết luận
+Do đó, không có phương trình nào trong các phương trình trên nhận hai số phức $z=-9-4 \sqrt{10}i$ và $-9+4 \sqrt{10}i$ là nghiệm. Tuy nhiên, để làm rõ hơn, ta có thể thử thay $z = -9 \pm 4 \sqrt{10}i$ vào các phương trình bậc hai đã đề ra để kiểm tra xem chúng có phải là nghiệm hay không.
+
+Vì không có phương trình nào nhận hai số phức $z=-9-4 \sqrt{10}i$ và $-9+4 \sqrt{10}i$ là nghiệm, nên đáp án đúng là $\boxed{\text{Không có đáp án nào}}$",
+2845,Số vô tỉ,D,B,False,696,False,"Để tìm phương trình có hai nghiệm là $z=3 \sqrt{6}-i$ và $3 \sqrt{6}+i$, ta thực hiện các bước sau:
+
+1.  **Lời giải**
+
+    Ta cần kiểm tra xem cả hai số phức đều nằm trong một đường thẳng hoặc cùng nằm trên một đường tròn.
+    - Để kiểm tra xem cả hai số phức $z_1=3 \sqrt{6}-i$ và $z_2=3 \sqrt{6}+i$ nằm trên cùng một đường thẳng, chúng ta tính giá trị của công thức $$\frac{z_1}{z_2}.$$ Nếu kết quả là một con số thực thì chúng ta có thể nói rằng cả hai số phức nằm trên cùng một đường thẳng.
+
+    $$\frac{z_1}{z_2}=\frac{3 \sqrt{6}-i}{3 \sqrt{6}+i}$$
+
+    Để phân tích $\frac{z_1}{z_2}$, ta thực hiện phép nhân với $\overline{z_2}$ để loại bỏ phần mạo. Ta có: $$\overline{z_2}=3 \sqrt{6}-i.$$ Do đó:
+
+    $$\frac{z_1}{z_2}=\frac{(3 \sqrt{6}-i)(3 \sqrt{6}-i)}{(3 \sqrt{6}+i)(3 \sqrt{6}-i)}=\frac{9 \cdot 6-2 i^2}{(3 \sqrt{6})^2-i^2}=\frac{54+2}{54+1}=\frac{56}{55}.$$ 
+
+    Như vậy, $\frac{z_1}{z_2}=\frac{56}{55}$ là một con số thực nên $z_1$ và $z_2$ nằm trên cùng một đường thẳng. 
+
+    Vì $z_1$ và $z_2$ không cùng nằm trên một đường tròn nên chúng phải thỏa mãn phương trình bậc hai. 
+
+    Để tìm phương trình bậc hai có $z_1$ và $z_2$ là nghiệm, ta viết phương trình bậc hai dưới dạng $(x-z_1)(x-z_2)=0$ và mở rộng nó ra thành $(x-(3 \sqrt{6}-i))(x-(3 \sqrt{6}+i))=0$. Sau đó ta mở rộng và thu gọn phương trình vừa viết thành dạng $ax^2+bx+c=0$ để so sánh với các phương trình đã cho trong đề bài.
+
+    $(x-(3 \sqrt{6}-i))(x-(3 \sqrt{6}+i))=0$
+
+    $x^2-(3 \sqrt{6}+i)x-(3 \sqrt{6}-i)x+(3 \sqrt{6}-i)(3 \sqrt{6}+i)=0$
+
+    $x^2-6 \sqrt{6}x+36+1=0$
+
+    $x^2-6 \sqrt{6}x+37=0$
+
+    Vậy phương trình có $z_1$ và $z_2$ là nghiệm là $x^2-6 \sqrt{6}x+37=0$. 
+
+    Đáp án đúng: B",
+2846,Số vô tỉ,A,C,False,1528,False,"Để giải bài toán này, ta cần thực hiện các bước sau:
+
+### Bước 1: Tìm công thức của phương trình
+Phương trình cần tìm là phương trình bậc hai, có dạng $az^2+bz+c=0$.
+
+### Bước 2: Viết số phức vào phương trình
+Chúng ta được hai số phức là $z=-7+2\sqrt{3}i$ và $-7-2\sqrt{3}i$. Ta sẽ sử dụng chúng để kiểm tra xem phương trình nào nhận hai số này là nghiệm.
+
+### Bước 3: Thử nghiệm với mỗi phương trình
+
+#### 3.1: Phương trình $z^2+14z+61=0$
+Để kiểm tra xem phương trình này nhận hai số phức hay không, ta cần tính giá trị của $z^2+14z+61$ cho cả hai số phức $z=-7+2\sqrt{3}i$ và $-7-2\sqrt{3}i$.
+
+Ta có:
+$$
+\begin{aligned}
+& z^2+14z+61 = (-7+2\sqrt{3}i)^2 + 14(-7+2\sqrt{3}i) + 61 \\
+& = (49 - 12 + 4 \cdot 3)i^2 + (-98 + 28\sqrt{3}i) + 61\\
+& = (37 - 12)i^2 + (-98 + 28\sqrt{3}i) + 61\\
+& = 25 - 98 + 28\sqrt{3}i + 61\\
+& = -12 + 28\sqrt{3}i.
+\end{aligned}
+$$
+
+Vì $z^2+14z+61 \neq 0$, phương trình $z^2+14z+61=0$ không nhận hai số phức $z=-7+2\sqrt{3}i$ và $-7-2\sqrt{3}i$.
+
+#### 3.2: Phương trình $z^2-14z+61=0$
+Ta có:
+$$
+\begin{aligned}
+& z^2-14z+61 = (-7+2\sqrt{3}i)^2 - 14(-7+2\sqrt{3}i) + 61 \\
+& = (49 - 12 + 4 \cdot 3)i^2 - (-98 + 28\sqrt{3}i) + 61\\
+& = (37 - 12)i^2 + (98 - 28\sqrt{3}i) + 61\\
+& = 25 + 98 - 28\sqrt{3}i + 61\\
+& = 184 - 28\sqrt{3}i.
+\end{aligned}
+$$
+
+Vì $z^2-14z+61 \neq 0$, phương trình $z^2-14z+61=0$ không nhận hai số phức $z=-7+2\sqrt{3}i$ và $-7-2\sqrt{3}i$.
+
+#### 3.3: Phương trình $z^2+14z-61=0$
+Ta có:
+$$
+\begin{aligned}
+& z^2+14z-61 = (-7+2\sqrt{3}i)^2 + 14(-7+2\sqrt{3}i) - 61 \\
+& = (49 - 12 + 4 \cdot 3)i^2 + (-98 + 28\sqrt{3}i) - 61\\
+& = (37 - 12)i^2 + (-98 + 28\sqrt{3}i) - 61\\
+& = 25 - 98 + 28\sqrt{3}i - 61\\
+& = -134 + 28\sqrt{3}i.
+\end{aligned}
+$$
+
+Vì $z^2+14z-61 \neq 0$, phương trình $z^2+14z-61=0$ không nhận hai số phức $z=-7+2\sqrt{3}i$ và $-7-2\sqrt{3}i$.
+
+#### 3.4: Phương trình $z^2-14z-61=0$
+Ta có:
+$$
+\begin{aligned}
+& z^2-14z-61 = (-7+2\sqrt{3}i)^2 - 14(-7+2\sqrt{3}i) - 61 \\
+& = (49 - 12 + 4 \cdot 3)i^2 - (-98 + 28\sqrt{3}i) - 61\\
+& = (37 - 12)i^2 + (98 - 28\sqrt{3}i) - 61\\
+& = 25 + 98 - 28\sqrt{3}i - 61\\
+& = 62 - 28\sqrt{3}i.
+\end{aligned}
+$$
+
+Vì $z^2-14z-61 \neq 0$, phương trình $z^2-14z-61=0$ không nhận hai số phức $z=-7+2\sqrt{3}i$ và $-7-2\sqrt{3}i$.
+
+Tuy nhiên, ta nhận thấy rằng trong tất cả các phương trình trên, chỉ có phương trình $z^2-14z+61=0$ không phải là lựa chọn đúng vì nó đã được kiểm tra trước đó và cũng không nhận hai số phức $z=-7+2\sqrt{3}i$ và $-7-2\sqrt{3}i$.
+
+Nhưng khi kiểm tra lại công thức, ta nhận thấy sai lầm khi bỏ qua một phương trình. Để xác định phương trình phù hợp, ta cần kiểm tra lại từng bước.
+
+Khi đó, ta nhận thấy:
+$$
+\begin{aligned}
+& z^2-14z+61 = (-7+2\sqrt{3}i)^2 - 14(-7+2\sqrt{3}i) + 61 \\
+& = (49 - 12 + 4 \cdot 3)i^2 - (-98 + 28\sqrt{3}i) + 61\\
+& = (37 - 12)i^2 + (98 - 28\sqrt{3}i) + 61\\
+& = 25 + 98 - 28\sqrt{3}i + 61\\
+& = 184 - 28\sqrt{3}i.
+\end{aligned}
+$$
+
+Vậy phương trình $z^2-14z+61=0$ không phải là đáp án, nhưng phương trình $z^2-14z-61=0$ không phải là đáp án. 
+
+Khi đó, ta nhận thấy sai lầm khi bỏ qua phương trình $z^2+14z-61=0$ ở bước 3.2.
+
+Vậy phương trình $z^2+14z-61=0$ là đáp án đúng.
+
+Đáp án đúng: C",
+2847,Số vô tỉ,D,,False,1655,False,"Bước 1: 
+Để xác định phương trình nhận hai số phức $z=- 4 \sqrt{3}-4i$ và $- 4 \sqrt{3}+4i$ là nghiệm, ta cần phải kiểm tra xem chúng có thỏa mãn phương trình hay không.
+
+Bước 2:
+Ta sẽ thử giải phương trình từng một cách cụ thể:
+
+Bước 3:
+Chọn phương trình A: $z^2-8 \sqrt{3}z+64=0$
+Đặt $z = - 4 \sqrt{3}-4i$, ta thay vào phương trình
+$$(- 4 \sqrt{3}-4i)^2-8 \sqrt{3}(- 4 \sqrt{3}-4i)+64=0.$$
+
+Bước 4:
+Simplifying phương trình trong bước 3 bằng cách sử dụng công thức $(a+b)^2=a^2+2ab+b^2$
+$$(- 4 \sqrt{3})^2+2(- 4 \sqrt{3})(-4i)+(-4i)^2-8 \sqrt{3}(- 4 \sqrt{3}-4i)+64=0$$
+
+$$16\cdot 3+32i+16i^2+48\sqrt{3}+32\sqrt{3}i+64=0$$
+
+$$48+32i+16(-1)+80\sqrt{3}+32\sqrt{3}i+64=0$$
+
+$$112+32i+80\sqrt{3}+32\sqrt{3}i=0$$
+
+$$112+112i+80\sqrt{3}+32\sqrt{3}i=0$$
+
+$$112+80\sqrt{3}+(32\sqrt{3}+112)i=0$$
+
+$$112+80\sqrt{3}\neq 0$$
+$$32\sqrt{3}+112\neq 0$$
+
+Do đó phương trình $z^2-8 \sqrt{3}z+64=0$ không nhận được hai số phức $z=- 4 \sqrt{3}-4i$ và $- 4 \sqrt{3}+4i$ là nghiệm.
+
+
+
+Bước 5:
+Chọn phương trình B: $z^2+8 \sqrt{3}z-64=0$
+Đặt $z = - 4 \sqrt{3}-4i$, ta thay vào phương trình
+$$(- 4 \sqrt{3}-4i)^2+8 \sqrt{3}(- 4 \sqrt{3}-4i)-64=0.$$
+
+$$(- 4 \sqrt{3})^2+2(- 4 \sqrt{3})(-4i)+(-4i)^2+8 \sqrt{3}(- 4 \sqrt{3})+8 \sqrt{3}(-4i)-64=0$$
+
+$$16\cdot 3+32i+16i^2-48\sqrt{3}-32\sqrt{3}i-64=0$$
+
+$$48+32i+16(-1)-48\sqrt{3}-32\sqrt{3}i-64=0$$
+
+$$32+32i-48\sqrt{3}-32\sqrt{3}i-64=0$$
+
+$$32-16\sqrt{3}+(32-32\sqrt{3})i=0$$
+
+$$32-16\sqrt{3}\neq 0$$
+$$32-32\sqrt{3}\neq 0$$
+
+Do đó phương trình $z^2+8 \sqrt{3}z-64=0$ không nhận được hai số phức $z=- 4 \sqrt{3}-4i$ và $- 4 \sqrt{3}+4i$ là nghiệm.
+
+
+
+Bước 6:
+Chọn phương trình C: $z^2-8 \sqrt{3}z-64=0$
+Đặt $z = - 4 \sqrt{3}-4i$, ta thay vào phương trình
+$$(- 4 \sqrt{3}-4i)^2-8 \sqrt{3}(- 4 \sqrt{3}-4i)-64=0.$$
+
+$$(- 4 \sqrt{3})^2+2(- 4 \sqrt{3})(-4i)+(-4i)^2-8 \sqrt{3}(- 4 \sqrt{3})-8 \sqrt{3}(-4i)-64=0$$
+
+$$16\cdot 3+32i+16i^2+48\sqrt{3}+32\sqrt{3}i+64=0$$
+
+$$48+32i+16(-1)+48\sqrt{3}+32\sqrt{3}i+64=0$$
+
+$$32+32i+48\sqrt{3}+32\sqrt{3}i=0$$
+
+$$32+32i+32\sqrt{3}+32\sqrt{3}i=0$$
+
+$$32(1+\sqrt{3}+i+i)=0$$
+
+$$32(1+\sqrt{3})+32i(1+i)=0$$
+
+$$32(1+\sqrt{3})+32i(1+i)=0$$
+
+$$32(1+\sqrt{3})+32i+32i^2=0$$
+
+$$32(1+\sqrt{3})+32i-32=0$$
+
+$$32(\sqrt{3}+1)+32i=0$$
+
+$$32(\sqrt{3}+1)\neq 0$$
+$$32i\neq 0$$
+
+Do đó phương trình $z^2-8 \sqrt{3}z-64=0$ không nhận được hai số phức $z=- 4 \sqrt{3}-4i$ và $- 4 \sqrt{3}+4i$ là nghiệm.
+
+
+
+Bước 7:
+Chọn phương trình D: $z^2+8 \sqrt{3}z+64=0$
+Đặt $z = - 4 \sqrt{3}-4i$, ta thay vào phương trình
+$$(- 4 \sqrt{3}-4i)^2+8 \sqrt{3}(- 4 \sqrt{3}-4i)+64=0.$$
+
+$$(- 4 \sqrt{3})^2+2(- 4 \sqrt{3})(-4i)+(-4i)^2+8 \sqrt{3}(- 4 \sqrt{3})+8 \sqrt{3}(-4i)+64=0$$
+
+$$16\cdot 3+32i+16i^2-48\sqrt{3}-32\sqrt{3}i+64=0$$
+
+$$48+32i+16(-1)-48\sqrt{3}-32\sqrt{3}i+64=0$$
+
+$$32+32i-48\sqrt{3}-32\sqrt{3}i=0$$
+
+$$32(1-i\sqrt{3})=0$$
+
+$$32\neq 0$$
+$$1-i\sqrt{3}\neq 0$$
+
+Do đó phương trình $z^2+8 \sqrt{3}z+64=0$ nhận được hai số phức $z=- 4 \sqrt{3}-4i$ và $- 4 \sqrt{3}+4i$ là nghiệm.
+
+
+
+Kết luận:
+Phương trình $z^2+8 \sqrt{3}z+64=0$ là phương trình nhận được hai số phức $z=- 4 \sqrt{3}-4i$ và $- 4 \sqrt{3}+4i$ là nghiệm.",
+2848,Số vô tỉ,B,C,False,276,False,"Để giải bài toán này, ta có thể thực hiện theo các bước sau:
+
+### Bước 1: Xác định hai số phức
+Đầu tiên, chúng ta cần xác định hai số phức $z=\sqrt{11}+9i$ và $\sqrt{11}-9i$.
+
+### Bước 2: Tìm công thức của phương trình
+Tiếp theo, ta cần tìm công thức của phương trình. 
+
+Theo cách phân tích phương trình sẽ là $(x - a)^2 + (y - b)^2 = r^2$.
+Vậy phương trình sẽ là $z^2-2 \sqrt{11}z+92=0$
+
+### Bước 3: Viết phương trình trong dạng tổng quát
+Ta viết phương trình trong dạng tổng quát $az^2 + bz + c = 0$, trong đó $a=1$, $b=-2\sqrt{11}$ và $c=92$. 
+
+### Bước 4: So sánh với các đáp án
+Cuối cùng, ta so sánh phương trình với các đáp án để chọn đáp án đúng.
+
+Nhận xét: Theo cách phân tích trên, phương trình $z^2-2 \sqrt{11}z+92=0$ chính là đáp án $C$.
+
+Đáp án đúng: C",
+2849,Số vô tỉ,A,D,False,621,False,"Bước 1: 
+Để xác định phương trình nhận hai số phức $z=- 3 \sqrt{10}+4i$ và $- 3 \sqrt{10}-4i$ là nghiệm, ta cần phải kiểm tra xem chúng có thỏa mãn phương trình hay không.
+
+Bước 2:
+Ta sẽ thử giải phương trình trong từng lựa chọn để tìm phương trình phù hợp với hai số phức đã cho.
+
+Bước 3:
+Lựa chọn A: $z^2+6 \sqrt{10}z+106=0$
+
+Ta được công thức $z^2+6 \sqrt{10}z+106=(z+3\sqrt{10}+7i)(z+3\sqrt{10}-7i)$.
+
+Vì $-3\sqrt{10}+4i = 3\sqrt{10} - 7i$, do đó $z=- 3 \sqrt{10}+4i$ sẽ là một nghiệm của phương trình.
+
+Bước 4:
+Lựa chọn B: $z^2-6 \sqrt{10}z+106=0$
+
+Ta được công thức $z^2-6 \sqrt{10}z+106=(z+3\sqrt{10}+7i)(z+3\sqrt{10}-7i)$. 
+
+Tuy nhiên, vì $-3\sqrt{10}-4i = -(3\sqrt{10} - 7i)$, do đó $z=- 3 \sqrt{10}-4i$ sẽ không phải là nghiệm của phương trình này.
+
+Bước 5:
+Lựa chọn C: $z^2+6 \sqrt{10}z-106=0$
+
+Ta được công thức $z^2+6 \sqrt{10}z-106=(z+3\sqrt{10}+7i)(z+3\sqrt{10}-7i)$. 
+
+Nhưng $-3\sqrt{10}-4i \neq 3\sqrt{10} - 7i$, nên $z=- 3 \sqrt{10}-4i$ không phải là nghiệm của phương trình này.
+
+Bước 6:
+Lựa chọn D: $z^2-6 \sqrt{10}z-106=0$
+
+Ta được công thức $z^2-6 \sqrt{10}z-106=(z+3\sqrt{10}+7i)(z+3\sqrt{10}-7i)$. 
+
+Vì $-3\sqrt{10}-4i = -(3\sqrt{10} + 7i)$, do đó $z=- 3 \sqrt{10}-4i$ sẽ là một nghiệm của phương trình.
+
+Kết luận:
+Cả các lựa chọn A và D đều đáp ứng yêu cầu đề bài. Tuy nhiên, chỉ có một phương trình duy nhất thỏa mãn yêu cầu đề bài là phương trình chứa cả hai số phức.
+
+Đáp án đúng: D",
+2850,Số vô tỉ,B,C,False,309,False,"Để tìm phương trình có $z=\sqrt{10}+4 \sqrt{3}i$ và $\sqrt{10}-4 \sqrt{3}i$ là nghiệm, ta cần kiểm tra xem chúng thỏa mãn phương trình hay không.
+
+Ta có công thức của phương trình đa thức với hai nghiệm $z_1$ và $z_2$ là
+
+$$z^2 - (z_1+z_2)z + z_1z_2 = 0.$$ 
+
+Vậy trong trường hợp này, $z_1 = \sqrt{10}+4 \sqrt{3}i$ và $z_2 = \sqrt{10}-4 \sqrt{3}i$, ta có
+
+- $(z_1+z_2) = (\sqrt{10}+4 \sqrt{3}i)+(\sqrt{10}-4 \sqrt{3}i)=2\sqrt{10}$.
+
+- $z_1z_2=(\sqrt{10}+4 \sqrt{3}i)(\sqrt{10}-4 \sqrt{3}i)=(10-(12)(3)i^2)=10+12=22$
+
+Vậy phương trình có $z=\sqrt{10}+4 \sqrt{3}i$ và $\sqrt{10}-4 \sqrt{3}i$ là nghiệm là $z^2-2 \sqrt{10}z+22=0$.
+
+Đáp án đúng: C",
