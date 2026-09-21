@@ -27,5 +27,8 @@ là kết quả khảo sát 65 câu gốc trên GPT-4o, Gemini-2.5-Flash và Qwe
 cùng cột `*_ket_qua` (C/I/U) tổng hợp — khớp đúng số liệu Bảng 4 của bài báo
 (GPT-4o 56/9/0, Gemini-2.5-Flash 65/0/0, Qwen3-4B 62/2/1).
 
-**Chưa có trong repo (có thể bổ sung thêm nếu cần):** kết quả thiết lập "có
-hướng dẫn giải" của Qwen3-4B trên 9 dạng khó nhất (Thí nghiệm 2).
+File [`810cau_zero_shot_vs_huong_dan_giai_Qwen3-4B.csv`](results/810cau_zero_shot_vs_huong_dan_giai_Qwen3-4B.csv)
+là kết quả Qwen3-4B trên 810 câu thuộc 9 dạng khó nhất (Thí nghiệm 2), đối
+chiếu thiết lập cơ sở (`baseline_*`) với thiết lập có hướng dẫn giải
+(`guided_*`, kèm lời giải đầy đủ) — khớp đúng Bảng 5 của bài báo (thiết lập
+cơ sở 234/21/555, có hướng dẫn giải 665/11/134).
