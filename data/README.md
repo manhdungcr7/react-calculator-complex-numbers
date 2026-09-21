@@ -21,6 +21,11 @@ tố `DeepSeek-R1-Distill-Qwen-1.5B` hoặc `Llama-3.2-3B-Instruct`). Mỗi file
 gồm 90 câu (1 dạng), có cột đáp án model chọn, kết quả Đúng/Sai/KXĐ, và lời
 giải đầy đủ do model sinh ra.
 
+File [`65cau_khao_sat_GPT4o_Gemini_Qwen3-4B.csv`](results/65cau_khao_sat_GPT4o_Gemini_Qwen3-4B.csv)
+là kết quả khảo sát 65 câu gốc trên GPT-4o, Gemini-2.5-Flash và Qwen3-4B
+(Thí nghiệm 1), gồm đề bài, đáp án đúng, lời giải và nhận xét của từng model,
+cùng cột `*_ket_qua` (C/I/U) tổng hợp — khớp đúng số liệu Bảng 4 của bài báo
+(GPT-4o 56/9/0, Gemini-2.5-Flash 65/0/0, Qwen3-4B 62/2/1).
+
 **Chưa có trong repo (có thể bổ sung thêm nếu cần):** kết quả thiết lập "có
-hướng dẫn giải" của Qwen3-4B trên 9 dạng khó nhất (Thí nghiệm 2), và kết quả
-khảo sát 65 câu gốc trên GPT-4o / Gemini-2.5-Flash (Thí nghiệm 1).
+hướng dẫn giải" của Qwen3-4B trên 9 dạng khó nhất (Thí nghiệm 2).
