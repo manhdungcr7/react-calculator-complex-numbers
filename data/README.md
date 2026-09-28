@@ -19,6 +19,30 @@ type, containing one source question and 90 variants, was removed when the
 study scope was finalized. The original D55 type was therefore renamed D54 in
 the paper and in this exported dataset.
 
+### Exponential and Logarithm topic (not part of the paper)
+
+[`questions/mu_logarit_extraction/`](questions/mu_logarit_extraction/)
+contains a second topic (Exponential and Logarithm equations/inequalities)
+extracted from the same source document, produced with
+[`../scripts/pdf_to_markdown/20_extract_mu_logarit.py`](../scripts/pdf_to_markdown/20_extract_mu_logarit.py).
+This is early-stage data for a broader undergraduate thesis and is not used in
+the SoICT paper above; it has not yet been grouped into problem types or
+expanded into evaluation variants.
+
+- `candidates_all.jsonl`, `review.csv`, `selected_no_visual.jsonl`,
+  `summary.json`: output of the extraction script, recording which candidate
+  questions were kept, which needed a figure/graph and were excluded, and
+  which turned out to belong to a different topic.
+- `Mu_Logarit_123_cau_goc.jsonl` / `.csv` / `.xlsx`: the 123 selected
+  questions, manually transcribed from the rendered page images with their
+  original question, four answer choices, correct answer, and solution.
+  Seven questions required a correction relative to the source document
+  (a wrong answer key or a printing error in an intermediate step); each
+  correction is recorded in the `ghi_chu_sua` field / "Ghi chú sửa" column,
+  and `doi_chieu_anh` / "Đối chiếu ảnh" states what the source document
+  actually shows. The rendered page images used for transcription are not
+  included in this repository.
+
 ## Results
 
 | Directory | Experiment | Contents |

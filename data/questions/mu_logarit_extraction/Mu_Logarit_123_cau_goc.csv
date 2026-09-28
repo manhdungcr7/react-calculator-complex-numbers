@@ -1,0 +1,1101 @@
+﻿STT,Bài (Trang - Câu),Đề bài,Đáp án đúng,"Lời giải (theo tài liệu, đã chuẩn hóa)",Đối chiếu ảnh,Kiểm tra toán học,Ghi chú sửa
+1,Trang 6 - Câu 12,"Giải phương trình $\log_4(x-1) = 3$.
+A. $x = 63$.
+B. $x = 65$.
+C. $x = 80$.
+D. $x = 82$.",B. x = 65,"Điều kiện: $x > 1$.
+Khi đó phương trình đã cho tương đương với $x - 1 = 4^3 \Leftrightarrow x = 65$.
+Chọn đáp án B.",khớp,Giải độc lập: log4(x-1)=3 ⇔ x-1=4^3=64 ⇔ x=65 (thỏa x>1). Đáp án đúng.,
+2,Trang 6 - Câu 13,"Tính đạo hàm của hàm số $y = 13^x$.
+A. $y' = x \cdot 13^{x-1}$.
+B. $y' = 13^x \cdot \ln 13$.
+C. $y' = 13^x$.
+D. $y' = \dfrac{13x^x}{\ln 13}$.",B. y' = 13^x . ln 13,"Áp dụng công thức đạo hàm của $y=a^x$ ta được $(a^x)' = a^x \ln a$.
+Chọn đáp án B.",khớp,"Giải độc lập: (13^x)' = 13^x ln13, khớp đáp án B. Đáp án đúng.",
+3,Trang 6 - Câu 14,"Giải bất phương trình $\log_2(3x-1) > 3$.
+A. $x > 3$.
+B. $\dfrac{1}{3} < x < 3$.
+C. $x < 3$.
+D. $x > \dfrac{10}{3}$.",A. x > 3,"Điều kiện $x > \dfrac{1}{3}$.
+Khi đó $\log_2(3x-1) > 3 \Leftrightarrow 3x - 1 > 8 \Leftrightarrow x > 3$.
+Chọn đáp án A.","Đối chiếu ảnh xác nhận tài liệu gốc in ""3x - 2 > 8"" ở bước trung gian, không nhất quán với ""log2(3x-1)>3"" ngay trước đó (lỗi in ấn). Đã sửa lại thành ""3x - 1 > 8"" trong lời giải chính thức (xem Ghi chú sửa); đáp án cuối A không đổi.","Giải độc lập: log2(3x-1)>3 ⇔ 3x-1>2^3=8 ⇔ 3x>9 ⇔ x>3, kết hợp x>1/3 → x>3, khớp đáp án A. Tuy nhiên bước trung gian trong lời giải gốc viết ""3x - 2 > 8"" là sai số học so với ""3x - 1 > 8"" (đúng ra phải trừ 1 chứ không phải trừ 2); nếu tính đúng theo ""3x-2>8"" thì ra x>10/3 chứ không phải x>3 — đây là lỗi in ấn/tính toán ở bước trung gian trong tài liệu gốc. Đáp án cuối cùng A (x>3) vẫn đúng về mặt toán học.","Sửa ""3x - 2 > 8"" thành ""3x - 1 > 8"" ở bước trung gian cho khớp với log2(3x-1)>3 (tài liệu gốc in nhầm số 2 thành số 1); đáp án A không đổi."
+4,Trang 6 - Câu 15,"Tìm tập xác định $\mathscr{D}$ của hàm số $y = \log_2(x^2 - 2x - 3)$.
+A. $\mathscr{D} = (-\infty; -1] \cup [3; +\infty)$.
+B. $\mathscr{D} = [-1; 3]$.
+C. $\mathscr{D} = (-\infty; -1) \cup (3; +\infty)$.
+D. $\mathscr{D} = (-1; 3)$.",C. D = (-∞;-1) ∪ (3;+∞),"Điều kiện $x^2 - 2x - 3 > 0 \Leftrightarrow \begin{bmatrix} x < -1 \\ x > 3\end{bmatrix}$.
+Chọn đáp án C.",khớp,"Giải độc lập: x²-2x-3>0 ⇔ (x-3)(x+1)>0 ⇔ x<-1 hoặc x>3, khớp đáp án C. Đáp án đúng.",
+5,Trang 6 - Câu 16,"Cho hàm số $y = f(x) = 2^x \cdot 7^{x^2}$. Khẳng định nào sau đây là khẳng định **sai**?
+A. $f(x) < 1 \Leftrightarrow x + x^2\log_2 7 < 0$.
+B. $f(x) < 1 \Leftrightarrow x\ln 2 + x^2 \ln 7 < 0$.
+C. $f(x) < 1 \Leftrightarrow x\log_7 2 + x^2 < 0$.
+D. $f(x) < 1 \Leftrightarrow 1 + x\log_2 7 < 0$.",D. f(x) < 1 \Leftrightarrow 1 + x\log_2 7 < 0,"Ta có $2^x \cdot 7^{x^2} < 1 \Leftrightarrow \log_2(2^x \cdot 7^{x^2}) < \log_2 1 \Leftrightarrow x + x^2\log_2 7 < 0 \Leftrightarrow x(1 + x\log_2 7) < 0$.
+Nên đáp án D sai, đáp án A đúng.
+$2^x \cdot 7^{x^2} < 1 \Leftrightarrow \log_7(2^x \cdot 7^{x^2}) < 0 \Leftrightarrow x\log_7 2 + x^2 < 0$ nên đáp án C đúng.
+$2^x \cdot 7^{x^2} < 1 \Leftrightarrow \ln(2^x \cdot 7^{x^2}) < 0 \Leftrightarrow x\ln 2 + x^2\ln 7 < 0$ nên đáp án B đúng.
+Chọn đáp án D.","khớp (đã đối chiếu lại, tài liệu quả thực khoanh tròn chữ A ở dòng ""Chọn đáp án"", mặc dù đoạn lập luận ngay phía trên kết luận ""đáp án D sai, đáp án A đúng"")","NGHI VẤN MẠNH — đáp án gốc có khả năng sai. Đề hỏi khẳng định nào SAI. Giải độc lập: f(x)<1 ⇔ x(1+xlog₂7)<0. Mệnh đề A viết x+x²log₂7<0, mà x+x²log₂7 = x(1+xlog₂7) đúng là biểu thức tương đương, nên A ĐÚNG (không sai). Mệnh đề D viết 1+xlog₂7<0 — biểu thức này KHÔNG tương đương với x(1+xlog₂7)<0 vì thiếu thừa số x, nên D mới là mệnh đề SAI. Bản thân lời giải gốc cũng tự viết rõ ""đáp án D sai, đáp án A đúng"" ngay trong lời giải, nhưng dòng ""Chọn đáp án"" lại khoanh tròn A — đây là mâu thuẫn nội tại rõ ràng trong chính tài liệu gốc (câu hỏi yêu cầu mệnh đề sai nhưng lại chọn mệnh đề được chính lời giải xác nhận là đúng). Theo toán học, đáp án đúng của câu hỏi phải là D chứ không phải A. Cần người phụ trách xem xét lại câu này trước khi đưa vào bộ dữ liệu.","Đáp án gốc khoanh nhầm A dù chính lời giải kết luận ""đáp án D sai, đáp án A đúng"" — đề hỏi mệnh đề SAI nên đáp án đúng phải là D. Đã sửa đáp án và dòng kết luận từ A thành D."
+6,Trang 6 - Câu 17,"Cho các số thực dương $a, b$ với $a \neq 1$. Khẳng định nào sau đây là khẳng định đúng?
+A. $\log_{a^2}(ab) = \dfrac{1}{2}\log_a b$.
+B. $\log_{a^2}(ab) = 2 + 2\log_a b$.
+C. $\log_{a^2}(ab) = \dfrac{1}{4}\log_a b$.
+D. $\log_{a^2}(ab) = \dfrac{1}{2} + \dfrac{1}{2}\log_a b$.",D. log_{a^2}(ab) = 1/2 + (1/2)log_a b,"$\log_{a^2}(ab) = \dfrac{1}{2}\log_a(ab) = \dfrac{1}{2}(1+\log_a b) = \dfrac{1}{2} + \dfrac{1}{2}\log_a b$.
+Chọn đáp án D.",khớp,"Giải độc lập: log_{a^2}(ab) = (1/2)log_a(ab) = (1/2)(1+log_a b), khớp đáp án D. Đáp án đúng.",
+7,Trang 7 - Câu 18,"Tính đạo hàm của hàm số $y = \dfrac{x+1}{4^x}$.
+A. $y' = \dfrac{1 - 2(x+1)\ln 2}{2^{2x}}$.
+B. $y' = \dfrac{1 + 2(x+1)\ln 2}{2^{2x}}$.
+C. $y' = \dfrac{1 - 2(x+1)\ln 2}{2^{x^2}}$.
+D. $y' = \dfrac{1 + 2(x+1)\ln 2}{2^{x^2}}$.",A. y' = [1-2(x+1)ln2]/2^{2x},"Ta có $y' = \left(\dfrac{x+1}{4^x}\right)' = \dfrac{4^x - (x+1)4^x\ln 4}{(4^x)^2} = \dfrac{1-(x+1)\ln 4}{4^x}$.
+Chọn đáp án A.",khớp,"Giải độc lập: [1-(x+1)ln4]/4^x, thay ln4=2ln2 và 4^x=2^{2x} ta được [1-2(x+1)ln2]/2^{2x}, khớp đáp án A. Đáp án đúng.",
+8,Trang 7 - Câu 19,"Đặt $a = \log_2 3, b = \log_5 3$. Hãy biểu diễn $\log_6 45$ theo $a$ và $b$.
+A. $\log_6 45 = \dfrac{a+2ab}{ab}$.
+B. $\log_6 45 = \dfrac{2a^2-2ab}{ab}$.
+C. $\log_6 45 = \dfrac{a+2ab}{ab+b}$.
+D. $\log_6 45\dfrac{2a^2-2ab}{ab+b}$.",C. log6 45 = (a+2ab)/(ab+b),"$\log_6 45 = \dfrac{\log_3 45}{\log_3 6} = \dfrac{\log_3(3^2 \cdot 5)}{\log_3(2\cdot 3)} = \dfrac{2+\log_3 5}{1+\log_3 2} = \dfrac{2+\frac{1}{b}}{1+\frac{1}{a}} = \dfrac{2ab+a}{ab+b}$.
+Chọn đáp án C.",khớp,"Giải độc lập cho cùng biểu thức (2ab+a)/(ab+b) = (a+2ab)/(ab+b), khớp đáp án C. Đáp án đúng.",
+9,Trang 7 - Câu 20,"Cho hai số thực $a$ và $b$, với $1 < a < b$. Khẳng định nào dưới đây là khẳng định đúng?
+A. $\log_a b < 1 < \log_b a$.
+B. $1 < \log_a b < \log_b a$.
+C. $\log_b a < \log_a b < 1$.
+D. $\log_b a < 1 < \log_a b$.",D. log_b a < 1 < log_a b,"Ta có $1 < a < b \Rightarrow \begin{cases}\log_a 1 < \log_a a < \log_a b\\ \log_b 1 < \log_b a < \log_b b\end{cases} \Rightarrow \begin{cases}0 < 1 < \log_a b \\ 0 < \log_b a < 1\end{cases} \Rightarrow \log_b a < 1 < \log_a b$.
+Chọn đáp án D.",khớp,"Giải độc lập: vì a>1 nên log_a tăng, b>a ⇒ log_a b>1; vì b>1 nên log_b tăng, a<b ⇒ log_b a<1. Vậy log_b a<1<log_a b, khớp đáp án D. Đáp án đúng.",
+10,Trang 7 - Câu 21,"Ông $A$ vay ngắn hạn ngân hàng 100 triệu đồng, với lãi suất 12%/năm. Ông muốn hoàn nợ cho ngân hàng theo cách: Sau đúng một tháng kể từ ngày vay, ông bắt đầu hoàn nợ, hai lần hoàn nợ liên tiếp cách nhau đúng một tháng, số tiền hoàn nợ ở mỗi lần là như nhau và trả hết tiền nợ sau đúng 3 tháng kể từ ngày vay. Hỏi, theo cách đó, số tiền $m$ mà ông $A$ sẽ phải trả cho ngân hàng trong mỗi lần hoàn nợ là bao nhiêu? Biết rằng, lãi suất ngân hàng không thay đổi trong thời gian ông $A$ hoàn nợ.
+A. $m = 100\cdot(1{,}01)^3$ (triệu đồng).
+B. $m = \dfrac{(1{,}01)^3}{(1{,}01)^3-1}$ (triệu đồng).
+C. $m = \dfrac{100\times 1{,}03}{3}$ (triệu đồng).
+D. $m = \dfrac{120\cdot(1{,}12)^3}{(1{,}12)^3-1}$.","B. m = (1,01)^3/[(1,01)^3-1] (triệu đồng)","Đặt $r$ là lãi suất hàng tháng và $m$ là số tiền hoàn nợ mỗi tháng.
+• Số tiền ông A nợ ngân hàng cuối tháng thứ nhất là $T_1 = T(1+r) - m$.
+• Số tiền ông A nợ ngân hàng cuối tháng thứ hai là $T_2 = T_1(1+r) - m = T(1+r)^2 - m[1+(1+r)]$.
+• Số tiền ông A nợ ngân hàng cuối tháng thứ ba là $T_3 = T_2(1+r) - m = T(1+r)^3 - m[1+(1+r)+(1+r)^2] = T(1+r)^3 - m\dfrac{(1+r)^3-1}{r}$.
+• Theo giả thiết $T_3 = 0 \Rightarrow m = \dfrac{T\cdot r\cdot(1+r)^3}{(1+r)^3-1} = \dfrac{(1{,}01)^3}{(1{,}01)^3-1}$ (triệu đồng).
+Chọn đáp án B.",khớp,"Với T=100, r=0,01: m = T·r·(1+r)^3/[(1+r)^3-1] = 100·0,01·(1,01)^3/[(1,01)^3-1] = (1,01)^3/[(1,01)^3-1], khớp đáp án B. Đáp án đúng.",
+11,Trang 18 - Câu 9,"Tìm tập hợp tất cả các giá trị của tham số thực $m$ để hàm số $y = \ln(x^2+1) - mx + 1$ đồng biến trên khoảng $(-\infty; +\infty)$.
+A. $(-\infty; -1]$.
+B. $(-\infty; -1)$.
+C. $[-1; 1]$.
+D. $[1; +\infty)$.",A. (-∞;-1],"Ta có $y' = \dfrac{2x}{x^2+1} - m$.
+Hàm số đồng biến trên khoảng $(-\infty;+\infty)$ khi và chỉ khi $y' \geqslant 0, \forall x \in (-\infty;+\infty)$
+$\Leftrightarrow g(x) = \dfrac{2x}{x^2+1} \geqslant m, \forall x \in (-\infty;+\infty)$
+$\Leftrightarrow m \leqslant \min_{(-\infty;+\infty)} g(x)$.
+Ta có $g'(x) = \dfrac{-2x^2+2}{(x^2+1)^2} = 0 \Leftrightarrow x = \pm 1$.
+Bảng biến thiên:
+$x$: $-\infty$ ... $-1$ ... $1$ ... $+\infty$
+$g'$: $-$, $0$, $+$, $0$, $-$
+$g$: từ $0$ giảm xuống $-1$ (tại $x=-1$), tăng lên $1$ (tại $x=1$), rồi giảm về $0$.
+Dựa vào bảng biến thiên ta có $\min_{(-\infty;+\infty)} g(x) = -1$.
+Vậy $m \leqslant -1$.
+Chọn đáp án A.",khớp,"Giải độc lập: y'=2x/(x²+1)-m≥0 mọi x ⇔ m≤min g(x) với g(x)=2x/(x²+1). g'(x)=0 tại x=±1, g(-1)=-1, g(1)=1, giới hạn tại ±∞ bằng 0, nên min g = -1 (đạt tại x=-1). Vậy m≤-1, khớp đáp án A. Đáp án đúng.",
+12,Trang 20 - Câu 12,"Với các số thực dương $a, b$ bất kì. Mệnh đề nào dưới đây đúng?
+A. $\ln(ab) = \ln a + \ln b$.
+B. $\ln(ab) = \ln a . \ln b$.
+C. $\ln\dfrac{a}{b} = \dfrac{\ln a}{\ln b}$.
+D. $\ln\dfrac{a}{b} = \ln b - \ln a$.",A. ln(ab) = ln a + ln b,"Với mọi số dương $a, b$ ta có $\ln(ab) = \ln a + \ln b$.
+Chọn đáp án A.",khớp,"Đây là công thức cơ bản của logarit tự nhiên, đúng với mọi a,b>0. Khớp đáp án A. Đáp án đúng.",
+13,Trang 20 - Câu 13,"Tìm nghiệm của phương trình $3^{x-1} = 27$.
+A. $x = 9$.
+B. $x = 3$.
+C. $x = 4$.
+D. $x = 10$.",C. x = 4,"Ta có $3^{x-1} = 3^3 \Leftrightarrow x-1=3 \Leftrightarrow x=4$.
+Chọn đáp án C.",khớp,"Giải độc lập: 3^(x-1)=27=3^3 ⇒ x-1=3 ⇒ x=4, khớp đáp án C. Đáp án đúng.",
+14,Trang 20 - Câu 14,"Số lượng của loại vi khuẩn $A$ trong một phòng thí nghiệm được tính theo công thức $s(t) = s(0)\cdot 2^t$, trong đó $s(0)$ là số lượng vi khuẩn $A$ lúc ban đầu, $s(t)$ là số lượng vi khuẩn $A$ có sau $t$ phút. Biết sau 3 phút thì số lượng vi khuẩn $A$ là 625 nghìn con. Hỏi sau bao lâu, kể từ lúc ban đầu, số lượng vi khuẩn $A$ là 10 triệu con.
+A. 48 phút.
+B. 19 phút.
+C. 7 phút.
+D. 12 phút.",C. 7 phút,"Ta có $s(3) = s(0)\cdot 2^3 \Rightarrow s(0) = \dfrac{s(3)}{2^3} = 78125$.
+$s(t) = s(0)\cdot 2^t \Rightarrow 2^t = \dfrac{s(t)}{s(0)} = 128 \Rightarrow t = 7$.
+Chọn đáp án C.",khớp,"Giải độc lập: s(0)=625000/8=78125; cần s(t)=10000000, 2^t=10000000/78125=128=2^7 ⇒ t=7, khớp đáp án C. Đáp án đúng.",
+15,Trang 20 - Câu 16,"Với các số thực dương $a, b$ bất kì. Mệnh đề nào dưới đây đúng?
+A. $\log_2\left(\dfrac{2a^3}{b}\right) = 1 + 3\log_2 a - \log_2 b$.
+B. $\log_2\left(\dfrac{2a^3}{b}\right) = 1 + \dfrac{1}{3}\log_2 a - \log_2 b$.
+C. $\log_2\left(\dfrac{2a^3}{b}\right) = 1 + 3\log_2 a + \log_2 b$.
+D. $\log_2\left(\dfrac{2a^3}{b}\right) = 1 + \dfrac{1}{3}\log_2 a + \log_2 b$.",A. log2(2a^3/b) = 1 + 3log2 a - log2 b,"Ta có: $\log_2\left(\dfrac{2a^3}{b}\right) = \log_2(2a^3) - \log_2 b = \log_2 2 + \log_2 a^3 - \log_2 b = 1 + 3\log_2 a - \log_2 b$.
+Chọn đáp án A.",khớp,"Giải độc lập cho cùng kết quả 1+3log2a-log2b, khớp đáp án A. Đáp án đúng.",
+16,Trang 20 - Câu 17,"Tìm tập nghiệm $S$ của bất phương trình $\log_{\frac{1}{2}}(x+1) < \log_{\frac{1}{2}}(2x-1)$.
+A. $S = (2; +\infty)$.
+B. $S = (-\infty; 2)$.
+C. $S = \left(\dfrac{1}{2}; 2\right)$.
+D. $S = (-1; 2)$.",C. S = (1/2; 2),"Điều kiện: $x > \dfrac{1}{2}$. Bất phương trình $\Leftrightarrow x+1 > 2x-1 \Leftrightarrow x < 2$.
+Kết hợp điều kiện suy ra tập nghiệm của BPT là $S = \left(\dfrac{1}{2};2\right)$.
+Chọn đáp án C.",khớp,"Giải độc lập: DK x>1/2. Vì cơ số 1/2<1 nên bất đẳng thức logarit đảo chiều: x+1>2x-1 ⇔ x<2. Kết hợp: 1/2<x<2, khớp đáp án C. Đáp án đúng.",
+17,Trang 21 - Câu 18,"Tính đạo hàm của hàm số $y = \ln(1+\sqrt{x+1})$.
+A. $y' = \dfrac{1}{2\sqrt{x+1}(1+\sqrt{x+1})}$.
+B. $y' = \dfrac{1}{1+\sqrt{x+1}}$.
+C. $y' = \dfrac{1}{\sqrt{x+1}(1+\sqrt{x+1})}$.
+D. $y' = \dfrac{2}{\sqrt{x+1}(1+\sqrt{x+1})}$.",A. y' = 1/[2√(x+1)(1+√(x+1))],"Ta có: $y' = \dfrac{(1+\sqrt{x+1})'}{1+\sqrt{x+1}} = \dfrac{\frac{1}{2\sqrt{x+1}}}{1+\sqrt{x+1}} = \dfrac{1}{2\sqrt{x+1}(1+\sqrt{x+1})}$.
+Chọn đáp án A.",khớp,"Giải độc lập cho cùng kết quả, khớp đáp án A. Đáp án đúng.",
+18,Trang 21 - Câu 20,"Tìm tập hợp tất cả các giá trị của tham số thực $m$để phương trình $6^x + (3-m)2^x - m = 0$ có nghiệm thuộc khoảng $(0;1)$.
+A. $[3;4]$.
+B. $[2;4]$.
+C. $(2;4)$.
+D. $(3;4)$.",C. (2;4),"Ta có $6^x + (3-m)2^x - m = 0$ (1) $\Leftrightarrow m = \dfrac{6^x+3\cdot 2^x}{2^x+1}$.
+Xét hàm số $f(x) = \dfrac{6^x+3\cdot 2^x}{2^x+1}$.
+• TXĐ: $\mathscr{D} = \mathbb{R}$.
+• $f'(x) = \dfrac{12^x\cdot \ln 3 + 6^x\cdot \ln 6+3\cdot 2^x\cdot \ln 2}{(2^x+1)^2} > 0, \forall x\in\mathbb{R}$ nên hàm số $f(x)$ đồng biến trên $\mathbb{R}$.
+Suy ra $0<x<1 \Leftrightarrow f(0)<f(x)<f(1) \Leftrightarrow 2<f(x)<4$ vì $f(0)=2; f(1)=4$.
+Vậy, phương trình (1) có một nghiệm thuộc khoảng $(0;1)$ khi $m\in(2;4)$.
+Chọn đáp án C.",khớp,"Giải độc lập: đặt m=f(x)=(6^x+3·2^x)/(2^x+1), f đồng biến trên R (có thể kiểm bằng đổi biến t=2^x>0, hoặc tính đạo hàm như trên đều dương), f(0)=(1+3)/2=2, f(1)=(6+6)/3=4, nên x∈(0;1) ⇔ m∈(2;4), khớp đáp án C. Đáp án đúng.",
+19,Trang 21 - Câu 21,"Xét các số thực $a, b$ thỏa mãn $a>b>1$. Tìm giá trị nhỏ nhất $P_{min}$ của biểu thức $P = \log^2_{\frac{a}{b}}(a^2) + 3\log_b\left(\dfrac{a}{b}\right)$.
+A. $P_{min}=19$.
+B. $P_{min}=13$.
+C. $P_{min}=14$.
+D. $P_{min}=15$.",D. Pmin = 15,"Ta có: $P = \left[2\log_{\frac{a}{b}}a\right]^2 + 3\log_b\left(\dfrac{a}{b}\right) = 4\left[\log_{\frac{a}{b}}\left(\dfrac{a}{b}\cdot b\right)\right]^2 + 3\log_b\left(\dfrac{a}{b}\right)$
+$= 4\left(1+\log_{\frac{a}{b}}b\right)^2 + 3\log_b\left(\dfrac{a}{b}\right)$.
+Đặt $t = \log_{\frac{a}{b}}b$, điều kiện $t>0$ (vì $a>b>1$).
+Xét $P = 4(1+t)^2 + \dfrac{3}{t} = 4t^2+8t+\dfrac{3}{t}+4 = f(t)$.
+Ta có: $f'(t) = 8t+8-\dfrac{3}{t^2} = \dfrac{8t^3+8t^2-3}{t^2} = \dfrac{(2t-1)(4t^2+6t+3)}{t^2}$.
+Khi đó: $f'(t)=0 \Leftrightarrow t = \dfrac{1}{2}$.
+Ta có bảng biến thiên: (với $t\in(0;+\infty)$, $f'$ mang dấu $-$ trên $(0;1/2)$ và $+$ trên $(1/2;+\infty)$, $f$ giảm từ $+\infty$ xuống $15$ tại $t=1/2$ rồi tăng lên $+\infty$).
+Ta suy ra $P_{min} = f\left(\dfrac{1}{2}\right) = 15$.
+Chọn đáp án D.",khớp,"Giải độc lập: đặt t=log_{a/b}b>0, P=4(1+t)^2+3/t. Đạo hàm f'(t)=8(1+t)-3/t^2=0 ⇔ 8t^3+8t^2-3=0 ⇔ (2t-1)(4t^2+6t+3)=0 ⇒ t=1/2 (nghiệm dương duy nhất vì 4t²+6t+3>0 mọi t). f(1/2)=4(1,5)^2+3/(0,5)=9+6=15, khớp đáp án D. Đáp án đúng.",
+20,Trang 31 - Câu 2,"Tìm đạo hàm của hàm số $y = \log x$.
+A. $y' = \dfrac{1}{x}$.
+B. $y' = \dfrac{\ln 10}{x}$.
+C. $y' = \dfrac{1}{x\ln 10}$.
+D. $y' = \dfrac{1}{10\ln x}$.",C. y' = 1/(x ln10),"Áp dụng công thức $(\log_a x)' = \dfrac{1}{x\ln a}$.
+Chọn đáp án C.",khớp,"log x nghĩa là log cơ số 10; (log_10 x)'=1/(x ln10), khớp đáp án C. Đáp án đúng.",
+21,Trang 31 - Câu 3,"Tìm tập nghiệm của bất phương trình $5^{x+1} - \dfrac{1}{5} > 0$.
+A. $S = (1;+\infty)$.
+B. $S = (-1;+\infty)$.
+C. $S = (-2;+\infty)$.
+D. $S = (-\infty;-2)$.",C. S = (-2;+∞),"Ta có: $5^{x+1} - \dfrac{1}{5} > 0 \Leftrightarrow 5^{x+1} > 5^{-1} \Leftrightarrow x+1>-1 \Leftrightarrow x>-2$.
+Vậy, tập nghiệm của bất phương trình đã cho là $S=(-2;+\infty)$.
+Chọn đáp án C.",khớp,"Giải độc lập cho cùng kết quả x>-2, khớp đáp án C. Đáp án đúng.",
+22,Trang 33 - Câu 13,"Cho $a$ là số thực dương, $a\neq 1$ và $P = \log_{\sqrt[3]{a}} a^3$. Mệnh đề nào dưới đây là đúng?
+A. $P=3$.
+B. $P=1$.
+C. $P=9$.
+D. $P=\dfrac{1}{3}$.",C. P = 9,"Ta có: $P = \log_{a^{\frac{1}{3}}} a^3 = \dfrac{3}{\frac{1}{3}}\log_a a = 9$.
+Chọn đáp án C.",khớp,"Giải độc lập: log_{a^(1/3)}(a^3) = 3/(1/3) = 9, khớp đáp án C. Đáp án đúng.",
+23,Trang 35 - Câu 22,"Tìm tập nghiệm $S$ của phương trình $\log_2(x-1) + \log_2(x+1) = 3$.
+A. $S = \{-3;3\}$.
+B. $S = \{4\}$.
+C. $S = \{3\}$.
+D. $S = \{-\sqrt{10};\sqrt{10}\}$.",C. S = {3},"Điều kiện: $x>1$.
+Ta có: $\log_2(x-1)+\log_2(x+1)=3 \Leftrightarrow \log_2[(x-1)(x+1)]=3$
+$\Leftrightarrow x^2-1=8 \Leftrightarrow \begin{bmatrix}x=3\\x=-3\ (\text{loại})\end{bmatrix}$.
+Vậy, phương trình có tập nghiệm $S=\{3\}$.
+Chọn đáp án C.",khớp,"Giải độc lập: DK x>1; log2[(x-1)(x+1)]=3 ⇔ x²-1=8 ⇔ x²=9 ⇔ x=3 (thỏa) hoặc x=-3 (loại), khớp đáp án C. Đáp án đúng.",
+24,Trang 38 - Câu 33,"Cho $a, b$ là các số thực dương thỏa mãn $a\neq 1, a\neq\sqrt{b}$ và $\log_a b = \sqrt{3}$. Tính $P = \log_{\frac{\sqrt{b}}{a}}\sqrt{\dfrac{b}{a}}$.
+A. $P=-5+3\sqrt{3}$.
+B. $P=-1+\sqrt{3}$.
+C. $P=-1-\sqrt{3}$.
+D. $P=-5-3\sqrt{3}$.",C. P = -1-√3,"$P = \dfrac{\log_a\sqrt{\dfrac{b}{a}}}{\log_a\dfrac{\sqrt{b}}{a}} = \dfrac{\frac{1}{2}(\log_a b-1)}{\log_a\sqrt{b}-1} = \dfrac{\frac{1}{2}(\sqrt{3}-1)}{\frac{1}{2}\log_a b-1} = \dfrac{\sqrt{3}-1}{\sqrt{3}-2} = -1-\sqrt{3}$.
+Chọn đáp án C.",khớp,"Giải độc lập: P = (√3-1)/(√3-2), nhân lượng liên hợp (√3+2): [(√3-1)(√3+2)]/[(√3)²-4] = (3+2√3-√3-2)/(-1) = (1+√3)/(-1) = -1-√3, khớp đáp án C. Đáp án đúng.",
+25,Trang 39 - Câu 35,"Hỏi phương trình $3x^2-6x+\ln(x+1)^3+1=0$ có bao nhiêu nghiệm phân biệt?
+A. 2.
+B. 1.
+C. 3.
+D. 4.",C. 3,"Điều kiện: $x>-1$.
+Phương trình đã cho tương đương với $3x^2-6x+3\ln(x+1)+1=0$.
+Xét hàm số $y = 3x^2-6x+3\ln(x+1)+1$ liên tục trên khoảng $(-1;+\infty)$.
+$y' = 6(x-1)+\dfrac{3}{x+1} = \dfrac{6x^2-3}{x+1}$.
+$y'=0 \Leftrightarrow 2x^2-1=0 \Leftrightarrow x=\pm\dfrac{\sqrt{2}}{2}$ (thỏa điều kiện).
+Bảng biến thiên:
+$x$: $-1$, $-\dfrac{\sqrt2}{2}$, $\dfrac{\sqrt2}{2}$, $+\infty$
+$y'$: $+$, $0$, $-$, $0$, $+$
+$y$: $-\infty \nearrow f\left(-\frac{\sqrt2}{2}\right) \searrow f\left(\frac{\sqrt2}{2}\right) \nearrow +\infty$
+Vì $f\left(-\dfrac{\sqrt2}{2}\right)>0, f\left(\dfrac{\sqrt2}{2}\right)<0$ và $\lim_{x\to+\infty}y=+\infty$ nên đồ thị hàm số cắt trục hoành tại 3 điểm phân biệt.
+Chọn đáp án C.",khớp,"Giải độc lập: y'=6x-6+3/(x+1)=(6x²-3)/(x+1)=0 tại x=±√2/2 (thỏa x>-1). Xét dấu y trên (-1;+∞): giảm từ -∞ lên cực đại tại x=-√2/2 (giá trị dương), giảm xuống cực tiểu tại x=√2/2 (giá trị âm), rồi tăng lên +∞ — nên đồ thị cắt trục hoành đúng 3 lần, khớp đáp án C. Đáp án đúng.",
+26,Trang 41 - Câu 40,"Cho hàm số $y = \dfrac{\ln x}{x}$, mệnh đề nào dưới đây đúng?
+A. $2y'+xy''=-\dfrac{1}{x^2}$.
+B. $y'+xy''=\dfrac{1}{x^2}$.
+C. $y'+xy''=-\dfrac{1}{x^2}$.
+D. $2y'+xy''=\dfrac{1}{x^2}$.",A. 2y' + xy'' = -1/x^2,"Ta có: $xy = \ln x$. Lấy đạo hàm hai vế theo $x$, ta được $y+xy'=\dfrac{1}{x}$.
+Tiếp tục lấy đạo hàm hai vế theo $x$ ta được $y'+y'+xy''=-\dfrac{1}{x^2} \Leftrightarrow 2y'+xy''=-\dfrac{1}{x^2}$.
+Chọn đáp án A.",khớp,"Giải độc lập bằng cùng phương pháp (đạo hàm ẩn từ xy=lnx), ra 2y'+xy''=-1/x², khớp đáp án A. Đáp án đúng.",
+27,Trang 42 - Câu 45,"Hỏi có bao nhiêu giá trị $m$ nguyên trong đoạn $[-2017;2017]$ để phương trình $\log(mx) = 2\log(x+1)$ có nghiệm duy nhất?
+A. 2017.
+B. 4014.
+C. 2018.
+D. 4015.",C. 2018,"Điều kiện $x>-1$ và $x\neq 0$.
+$\log(mx)=2\log(x+1) \Leftrightarrow mx=(x+1)^2 \Leftrightarrow m=\dfrac{(x+1)^2}{x}$.
+Xét hàm số $f(x)=\dfrac{(x+1)^2}{x}$ với $x>-1, x\neq0$.
+$f'(x)=\dfrac{x^2-1}{x^2}=0 \Leftrightarrow \begin{bmatrix}x=1\\x=-1\ (\text{loại})\end{bmatrix}$.
+Lập bảng biến thiên
+$x$: $-1$, $0$, $1$, $+\infty$
+$y'$: $-$ ‖ $-$, $0$, $+$
+$y$: $0\searrow-\infty$ ‖ $+\infty\searrow 4\nearrow+\infty$
+Dựa vào bảng biến thiên, phương trình có nghiệm duy nhất khi và chỉ khi $\begin{bmatrix}m=4\\m<0\end{bmatrix}$.
+Vì $m\in[-2017;2017]$ và $m\in\mathbb{Z}$ nên chỉ có 2018 giá trị nguyên thỏa yêu cầu là $m\in\{-2017;-2016;\cdots;-2;-1;4\}$.
+Chọn đáp án C.",khớp,"Giải độc lập chi tiết: đặt m=f(x)=(x+1)²/x trên (-1,0)∪(0,1)∪(1,+∞). Trên (-1,0): f giảm từ 0 xuống -∞ (song ánh với (-∞,0), mỗi m<0 cho đúng 1 nghiệm). Trên (0,1): f giảm từ +∞ xuống 4 (không đạt 4 vì x=1 không thuộc khoảng mở này). Trên (1,+∞): f tăng từ 4 lên +∞ (đạt 4 tại x=1). Với 0<m<4: không có nghiệm ở nhánh nào. Với m=4: chỉ có nghiệm duy nhất x=1. Với m>4: có 2 nghiệm (một ở mỗi nhánh (0,1) và (1,∞)). Vậy nghiệm duy nhất khi m<0 hoặc m=4, đúng như lời giải; số giá trị nguyên m trong [-2017,2017] là 2017 (các số âm) + 1 (m=4) = 2018, khớp đáp án C. Đáp án đúng.",
+28,Trang 49 - Câu 10,"Với $a$ là số thực dương bất kì, mệnh đề nào dưới đây đúng?
+A. $\log(3a)=3\log a$.
+B. $\log(a^3)=\dfrac{1}{3}\log a$.
+C. $\log(a^3)=3\log a$.
+D. $\log(3a)=\dfrac{1}{3}\log a$.",C. log(a^3) = 3log a,"Ta có $\log(a^3)=3\log a$.
+Chọn đáp án C.",khớp,"Công thức cơ bản log(a^3)=3log a đúng với mọi a>0, khớp đáp án C. Đáp án đúng.",
+29,Trang 49 - Câu 13,"Tập nghiệm của bất phương trình $2^{2x} < 2^{x+6}$ là
+A. $(0;6)$.
+B. $(-\infty;6)$.
+C. $(0;64)$.
+D. $(6;+\infty)$.",B. (-∞;6),"Ta có $2^{2x}<2^{x+6} \Leftrightarrow 2x<x+6 \Leftrightarrow x<6$.
+Chọn đáp án B.",khớp,"Giải độc lập cho cùng kết quả x<6 tức S=(-∞;6), khớp đáp án B. Đáp án đúng.",
+30,Trang 51 - Câu 22,"Một người gửi 100 triệu đồng vào một ngân hàng với lãi suất $0,4\%$/tháng. Biết rằng nếu không rút tiền ra khỏi ngân hàng thì cứ sau mỗi tháng, số tiền lãi sẽ được nhập vào vốn ban đầu để tính lãi cho tháng tiếp theo. Hỏi sau đúng 6 tháng, người đó được lĩnh số tiền (cả vốn ban đầu và lãi) gần nhất với số tiền nào dưới đây, nếu trong khoảng thời gian này người đó không rút tiền ra và lãi suất không thay đổi?
+A. 102.424.000 đồng.
+B. 102.423.000 đồng.
+C. 102.016.000 đồng.
+D. 102.017.000 đồng.",A. 102.424.000 đồng,"Áp dụng công thức tính lãi kép thì số tiền được lĩnh là
+$T = 100\cdot(1+0{,}4\%)^6 \approx 102.424.128{,}4$ (đồng)
+Chọn đáp án A.",khớp,"Giải độc lập: T=100·(1,004)^6 ≈ 102,424128 triệu ≈ 102.424.128 đồng, gần nhất với 102.424.000 đồng, khớp đáp án A. Đáp án đúng.",
+31,Trang 53 - Câu 27,"Tính tổng các nghiệm thực của phương trình $\log_3 x.\log_9 x.\log_{27}x.\log_{81}x = \dfrac{2}{3}$ bằng
+A. $\dfrac{82}{9}$.
+B. $\dfrac{80}{9}$.
+C. $9$.
+D. $0$.",A. 82/9,"Điều kiện $x>0$. Khi đó:
+$\log_3x.\log_9x.\log_{27}x.\log_{81}x=\dfrac{2}{3} \Leftrightarrow \left(1\times\dfrac{1}{2}\times\dfrac{1}{3}\times\dfrac{1}{4}\right)(\log_3x)^4=\dfrac{2}{3}$
+$\Leftrightarrow (\log_3x)^4=16 \Leftrightarrow \begin{bmatrix}\log_3x=2\\\log_3x=-2\end{bmatrix} \Leftrightarrow \begin{bmatrix}x=9\\x=\dfrac{1}{9}\end{bmatrix}$.
+Vậy tổng các nghiệm là $9+\dfrac{1}{9}=\dfrac{82}{9}$.
+Chọn đáp án A.",khớp,"Giải độc lập: log9x=(1/2)log3x, log27x=(1/3)log3x, log81x=(1/4)log3x; tích = (1/24)(log3x)^4=2/3 ⇒ (log3x)^4=16 ⇒ log3x=±2 ⇒ x=9 hoặc x=1/9; tổng = 9+1/9=82/9, khớp đáp án A. Đáp án đúng.",
+32,Trang 56 - Câu 34,"Có bao nhiêu giá trị nguyên dương của tham số $m$ để phương trình sau có nghiệm dương $16^x - 2\cdot 12^x + (m-2)\cdot 9^x = 0$?
+A. 1.
+B. 2.
+C. 4.
+D. 3.",B. 2.,"Phương trình đã cho tương đương $t^2 - 2t - 2 + m = 0$ với $t = \left(\dfrac{4}{3}\right)^x$. Yêu cầu bài toán trở thành, tìm $m$ nguyên dương để phương trình $t^2-2t-2+m=0$ có nghiệm lớn hơn 1. Bằng cách khảo sát sự tương giao của hai đồ thị các hàm số $y=f(t)=t^2-2t-2$ và $g(x)=-m$ ta được $0<m<3$. Vậy có hai giá trị của $m$ thỏa mãn là $m=1$ hoặc $m=2$.",khớp,"Đặt $t=(4/3)^x$, với $x>0$ thì $t>1$. Phương trình chia cho $9^x$ cho $t^2-2t+(m-2)=0$, tức $m=-(t-1)^2+3$. Với $t>1$, $m$ nhận mọi giá trị nhỏ hơn 3 (không đạt 3). Vậy $m$ nguyên dương thỏa $0<m<3$ là $m=1,2$: có 2 giá trị. Khớp với đáp án B.",
+33,Trang 65 - Câu 5,"Với $a$ và $b$ là hai số thực dương tùy ý, $\log(ab^2)$ bằng
+A. $2\log a+\log b$.
+B. $\log a+2\log b$.
+C. $2(\log a+\log b)$.
+D. $\log a+\dfrac{1}{2}\log b$.",B. $\log a+2\log b$.,$\log(ab^2)=\log a+\log b^2=\log a+2\log b$,khớp,$\log(ab^2)=\log a+2\log b$. Đáp án đúng.,
+34,Trang 66 - Câu 8,"Tập nghiệm của phương trình $\log_2(x^2-x+2)=1$
+A. $\{0\}$.
+B. $\{0;1\}$.
+C. $\{-1;0\}$.
+D. $\{1\}$.",B. $\{0;1\}$.,$\log_2(x^2-x+2)=1 \Leftrightarrow x^2-x+2=2 \Leftrightarrow x(x-1)=0 \Leftrightarrow x=0$ hay $x=1$,khớp,$x^2-x+2=2\Rightarrow x^2-x=0\Rightarrow x=0$ hoặc $x=1$. Vì $x^2-x+2>0$ với mọi $x$ (delta âm) nên không cần điều kiện thêm. Đáp án đúng.,
+35,Trang 68 - Câu 20,"Đặt $\log_3 2=a$ khi đó $\log_{16}27$ bằng
+A. $\dfrac{3a}{4}$.
+B. $\dfrac{3}{4a}$.
+C. $\dfrac{4}{3a}$.
+D. $\dfrac{4a}{3}$.",B. $\dfrac{3}{4a}$.,$\log_{16}27=\log_{2^4}3^3=\dfrac{3}{4}\log_2 3=\dfrac{3}{4\log_3 2}=\dfrac{3}{4a}$,khớp,$\log_{16}27=\frac{3}{4}\log_2 3=\frac{3}{4}\cdot\frac{1}{a}=\frac{3}{4a}$. Đáp án đúng.,
+36,Trang 68 - Câu 23,"Tập nghiệm của bất phương trình $3^{x^2-2x}<27$ là
+A. $(-\infty;-1)$.
+B. $(3;+\infty)$.
+C. $(-1;3)$.
+D. $(-\infty;-1)\cup(3;+\infty)$.",C. $(-1;3)$.,$3^{x^2-2x}<27 \Leftrightarrow 3^{x^2-2x}<3^3 \Leftrightarrow x^2-2x<3 \Leftrightarrow x^2-2x-3<0 \Leftrightarrow -1<x<3$,khớp,$x^2-2x-3<0 \Rightarrow (x-3)(x+1)<0 \Rightarrow -1<x<3$. Đáp án đúng.,
+37,Trang 69 - Câu 28,"Hàm số $f(x)=\log_2(x^2-2x)$ có đạo hàm
+A. $f'(x)=\dfrac{\ln 2}{x^2-2x}$.
+B. $f'(x)=\dfrac{1}{(x^2-2x)\ln 2}$.
+C. $f'(x)=\dfrac{(2x-2)\ln 2}{x^2-2x}$.
+D. $f'(x)=\dfrac{2x-2}{(x^2-2x)\ln 2}$.",D. $f'(x)=\dfrac{2x-2}{(x^2-2x)\ln 2}$.,$f'(x)=(\log_2(x^2-2x))'=\dfrac{(x^2-2x)'}{(x^2-2x)\ln 2}=\dfrac{2x-2}{(x^2-2x)\ln 2}$,khớp,"Áp dụng công thức $(\log_a u)'=\dfrac{u'}{u\ln a}$ với $u=x^2-2x$, $u'=2x-2$, ta được đáp án D. Đáp án đúng.",
+38,Trang 70 - Câu 31,"Tổng tất cả các nghiệm của phương trình $\log_3(7-3^x)=2-x$
+A. 2.
+B. 1.
+C. 7.
+D. 3.",A. 2.,"$\log_3(7-3^x)=2-x \Leftrightarrow 7-3^x=3^{2-x} \Leftrightarrow 7-3^x=\dfrac{9}{3^x} \Leftrightarrow (3^x)^2-7\cdot 3^x+9=0 \quad (*)$
+Phương trình $(*)$ có 2 nghiệm phân biệt thỏa $3^{x_1}+3^{x_2}=7; 3^{x_1}\cdot 3^{x_2}=9$ suy ra $3^{x_1+x_2}=3^2 \Leftrightarrow x_1+x_2=2$",khớp,"Đặt $u=3^x$: $u^2-7u+9=0$, $u=\frac{7\pm\sqrt{13}}{2}$, cả hai nghiệm đều dương và nhỏ hơn 7 (thỏa điều kiện $7-3^x>0$). $x_1+x_2=\log_3 u_1+\log_3 u_2=\log_3(u_1u_2)=\log_3 9=2$. Đáp án đúng.",
+39,Trang 74 - Câu 44,"Ông A vay ngân hàng 100 triệu đồng với lãi suất 1 %/tháng. Ông ta muốn hoàn nợ cho ngân hàng theo cách: Sau đúng một tháng kể từ ngày vay, ông bắt đầu hoàn nợ; hai lần hoàn nợ liên tiếp cách nhau đúng một tháng, số tiền hoàn nợ ở mỗi tháng là như nhau và ông A trả hết nợ sau đúng 5 năm kể từ ngày vay. Biết rằng mỗi tháng ngân hàng chỉ tính lãi trên số dư nợ thực tế của tháng đó. Hỏi số tiền mỗi tháng ông ta cần trả cho ngân hàng gần nhất với số tiền nào dưới đây ?
+A. 2,22 triệu đồng.
+B. 3,03 triệu đồng.
+C. 2,25 triệu đồng.
+D. 2,20 triệu đồng.","A. 2,22 triệu đồng.","Gọi số tiền vay ban đầu là $M$, số tiền hoàn nợ mỗi tháng là $m$, lãi suất một tháng là $r$.
+Hết tháng thứ nhất, số tiền cả vốn lẫn lãi ông A nợ ngân hàng là $M+Mr=M(1+r)$.
+Ngay sau đó ông A hoàn nợ số tiền $m$ nên số tiền để tính lãi cho tháng thứ hai là $M(1+r)-m$.
+Do đó hết tháng thứ hai, số tiền cả vốn lẫn lãi ông A nợ ngân hàng là $[M(1+r)-m](1+r)=M(1+r)^2-m(1+r)$.
+Ngay sau đó ông A lại hoàn nợ số tiền $m$ nên số tiền để tính lãi cho tháng thứ ba là $M(1+r)^2-m(1+r)-m$.
+Do đó hết tháng thứ ba, số tiền cả vốn lẫn lãi ông A nợ ngân hàng là $[M(1+r)^2-m(1+r)-m](1+r)=M(1+r)^3-m(1+r)^2-m(1+r)-m$.
+Cứ tiếp tục lập luận như vậy ta thấy sau tháng thứ $n$, $n\ge 2$, số tiền cả vốn lẫn lãi ông A nợ ngân hàng là $M(1+r)^n-m(1+r)^{n-1}-m(1+r)^{n-2}-...-m(1+r)-m=M(1+r)^n-\dfrac{m[(1+r)^{n-1}-1]}{r}$.
+Sau tháng thứ $n$ trả hết nợ thì ta có $M(1+r)^n-\dfrac{m[(1+r)^{n-1}-1]}{r}=0 \Leftrightarrow m=\dfrac{M(1+r)^n r}{(1+r)^n-1}$.
+Thay số với $M=100.000.000$, $r=1\%$, $n=5\times 12=60$ ta được $m\approx 2,22$ (triệu đồng).",khớp,"$m=\dfrac{M r(1+r)^n}{(1+r)^n-1}$, với $(1.01)^{60}\approx 1,8167$: $m\approx \dfrac{100\times 0,01\times 1,8167}{0,8167}\approx 2,224$ triệu đồng. Khớp với đáp án A.",
+40,Trang 79 - Câu 6,"Nghiệm của phương trình $\log_3(2x-1)=2$ là
+A. $x=3$.
+B. $x=5$.
+C. $x=\dfrac{9}{2}$.
+D. $x=\dfrac{7}{2}$.",B. $x=5$.,"Điều kiện: $2x-1>0 \Leftrightarrow x>\dfrac{1}{2}$.
+Khi đó: $\log_3(2x-1)=2 \Leftrightarrow 2x-1=3^2 \Leftrightarrow x=5$.",khớp,"$2x-1=9\Rightarrow x=5$, thỏa điều kiện $x>1/2$. Đáp án đúng.",
+41,Trang 79 - Câu 10,"Với $a$ là số thực dương tùy ý, $\log_2(a^2)$ bằng
+A. $2+\log_2 a$.
+B. $\dfrac{1}{2}+\log_2 a$.
+C. $2\log_2 a$.
+D. $\dfrac{1}{2}\log_2 a$.",C. $2\log_2 a$.,Ta có: $\log_2(a^2)=2\log_2 a$.,khớp,$\log_2(a^2)=2\log_2 a$ theo tính chất logarit. Đáp án đúng.,
+42,Trang 81 - Câu 20,"Xét tất cả các số thực dương $a$ và $b$ thỏa mãn $\log_2 a=\log_8(ab)$.
+Mệnh đề nào dưới đây đúng?
+A. $a=b^2$.
+B. $a^3=b$.
+C. $a=b$.
+D. $a^2=b$.",D. $a^2=b$.,"Ta có: $\log_2 a=\log_8(ab) \Leftrightarrow \log_2 a=\log_{2^3}(ab) \Leftrightarrow \log_2 a=\dfrac{1}{3}\log_2(ab)$
+$\Leftrightarrow 3\log_2 a=\log_2(ab) \Leftrightarrow \log_2 a^3=\log_2(ab) \Leftrightarrow a^3=ab \Leftrightarrow a^2=b$.",khớp,$\log_2 a = \frac{1}{3}\log_2(ab) \Rightarrow 3\log_2 a=\log_2 a+\log_2 b \Rightarrow 2\log_2 a=\log_2 b \Rightarrow a^2=b$. Đáp án đúng.,
+43,Trang 82 - Câu 21,"Tập nghiệm của bất phương trình $5^{x-1}\ge 5^{x^2-x-9}$
+A. $[-2;4]$.
+B. $[-4;2]$.
+C. $(-\infty;-2]\cup[4;+\infty)$.
+D. $(-\infty;-4]\cup[2;+\infty)$.",A. $[-2;4]$.,Ta có: $5^{x-1}\ge 5^{x^2-x-9} \Leftrightarrow x-1\ge x^2-x-9 \Leftrightarrow x^2-2x-8\le 0 \Leftrightarrow -2\le x\le 4$.,khớp,$x^2-2x-8\le 0 \Rightarrow (x-4)(x+2)\le 0 \Rightarrow -2\le x\le 4$. Đáp án đúng.,
+44,Trang 83 - Câu 25,"Để dự báo dân số của một quốc gia, người ta sử dụng công thức $S=Ae^{nr}$; trong đó $A$ là dân số của năm lấy làm mốc tính, $S$ là dân số sau $n$ năm, $r$ là tỉ lệ tăng dân số hàng năm. Năm 2017, dân số Việt Nam là 93.671.600 người (Tổng cục Thống kê, Niên giám thống kê 2017, Nhà xuất bản Thống kê, Tr.79). Giả sử tỉ lệ tăng dân số hàng năm không đổi là $0,81\%$, dự báo dân số Việt Nam năm 2035 là bao nhiêu người (kết quả làm tròn đến chữ số hàng trăm)?
+A. 109.256.100.
+B. 108.374.700.
+C. 107.500.500.
+D. 108.311.100.",B. 108.374.700.,"Áp dụng công thức $S=A\cdot e^{nr}$.
+Dân số Việt Nam năm 2035 là $S=93.671.600\cdot e^{18\cdot 0,81\%}\approx 108.374.741$.",khớp,"$18\times 0,0081=0,1458$; $e^{0,1458}\approx 1,15693$; $S\approx 93.671.600\times 1,15693\approx 108.374.741$, làm tròn hàng trăm là 108.374.700. Khớp đáp án B.",
+45,Trang 87 - Câu 41,"Cho $x,y$ là các số thực dương thỏa mãn $\log_9 x=\log_6 y=\log_4(2x+y)$. Giá trị của $\dfrac{x}{y}$ bằng
+A. 2.
+B. $\dfrac{1}{2}$.
+C. $\log_2\left(\dfrac{3}{2}\right)$.
+D. $\log_{\frac{3}{2}}2$.",B. $\dfrac{1}{2}$.,"Giả sử $\log_9 x=\log_6 y=\log_4(2x+y)=t \Rightarrow \begin{cases} x=9^t \\ y=6^t \\ 2x+y=4^t \end{cases} \Rightarrow 2\cdot 9^t+6^t=4^t$
+$\Leftrightarrow 2\cdot\left(\dfrac{9}{4}\right)^t+\left(\dfrac{3}{2}\right)^t-1=0 \Leftrightarrow \left[\begin{array}{l}\left(\dfrac{3}{2}\right)^t=-1 \ \text{(loại)}\\ \left(\dfrac{3}{2}\right)^t=\dfrac{1}{2}\end{array}\right.$
+Ta có: $\dfrac{x}{y}=\dfrac{9^t}{6^t}=\left(\dfrac{3}{2}\right)^t=\dfrac{1}{2}$.",khớp,Đặt $s=(3/2)^t$: $2s^2+s-1=0 \Rightarrow s=1/2$ hoặc $s=-1$ (loại). $x/y=(3/2)^t=s=1/2$. Đáp án đúng.,
+46,Trang 88 - Câu 43,"Cho phương trình $\log_2^2(2x)-(m+2)\log_2 x+m-2=0$ ($m$ là tham số thực). Tập hợp tất cả các giá trị của $m$ để phương trình đã cho có hai nghiệm phân biệt thuộc đoạn $[1;2]$ là
+A. $(1;2)$.
+B. $[1;2]$.
+C. $[1;2)$.
+D. $[2;+\infty)$.",C. $[1;2)$.,"Điều kiện: $x>0$.
+PT $\Leftrightarrow (1+\log_2 x)^2-(m+2)\log_2 x+m-2=0 \Leftrightarrow \log_2^2 x-m\log_2 x+m-1=0$
+$\Leftrightarrow \left[\begin{array}{l}\log_2 x=1\\ \log_2 x=m-1\end{array}\right.$.
+Ta có: $x\in[1;2] \Leftrightarrow \log_2 x\in[0;1]$.
+Vậy, để phương trình đã cho có 2 nghiệm phân biệt thuộc đoạn $[1;2]$ khi và chỉ khi $0\le m-1<1 \Leftrightarrow 1\le m<2$.",khớp,"Đặt $y=\log_2 x$: phương trình thành $y^2-my+(m-1)=0=(y-1)(y-(m-1))$, cho $y=1$ hoặc $y=m-1$. Với $x\in[1;2]$ thì $y\in[0;1]$; $y=1$ luôn là nghiệm; để có nghiệm phân biệt thứ hai trong $[0;1]$ cần $0\le m-1<1$, tức $m\in[1;2)$. Đáp án đúng.",
+47,Trang 90 - Câu 47,"Có bao nhiêu cặp số nguyên $(x;y)$ thỏa mãn $0\le x\le 2020$ và $\log_3(3x+3)+x=2y+9^y$?
+A. 2019.
+B. 6.
+C. 2020.
+D. 4.",D. 4.,"Ta có: $\log_3(3x+3)+x=2y+9^y \Leftrightarrow 1+\log_3(x+1)+x=2y+9^y$ (1)
+Đặt $t=\log_3(x+1)$. Suy ra $x+1=3^t \Leftrightarrow x=3^t-1$.
+Khi đó: $(1)\Leftrightarrow t+3^t=2y+3^{2y}$ (2)
+Xét hàm số $f(h)=h+3^h$, ta có $f'(h)=1+3^h\cdot\ln 3>0, \forall h\in\mathbb{R}$ nên hàm số $f(h)$ đồng biến trên $\mathbb{R}$.
+Do đó: $(2)\Leftrightarrow f(t)=f(2y)\Leftrightarrow t=2y\Leftrightarrow \log_3(x+1)=2y\Leftrightarrow x+1=3^{2y}\Leftrightarrow x+1=9^y$.
+• Do $0\le x\le 2020$ nên $1\le x+1\le 2021 \Leftrightarrow 1\le 9^y\le 2020 \Leftrightarrow 0\le y\le \log_9 2021\approx 3,46$.
+Do $y\in\mathbb{Z}$ nên $y\in\{0;1;2;3\}$, với mỗi giá trị $y$ cho ta 1 giá trị $x$ thỏa đề.
+Vậy, có 4 cặp số nguyên $(x;y)$ thỏa đề.","Đối chiếu ảnh xác nhận tài liệu gốc in ""x+1=9y"" ở dòng kết luận, thiếu dấu mũ so với bước ngay trước ""x+1=3^{2y}=9^y"" (lỗi in ấn). Đã sửa lại thành ""x+1=9^y"" trong lời giải chính thức (xem Ghi chú sửa); đáp án cuối D không đổi.","Giải độc lập: đặt t=log3(x+1), quy về t+3^t=2y+3^{2y}, hàm f(h)=h+3^h đơn điệu tăng nên t=2y, suy ra x=9^y-1. Với 0≤x≤2020: 1≤9^y≤2021, y=0,1,2,3 (vì 9^3=729≤2021<9^4=6561), có 4 giá trị. Đáp án D đúng.","Sửa ""x+1=9y"" thành ""x+1=9^y"" (tài liệu gốc in thiếu dấu mũ); đáp án D không đổi."
+48,Trang 93 - Câu 3,"Nghiệm của phương trình $3^{x-1}=27$ là
+A. $x=4$.
+B. $x=3$.
+C. $x=2$.
+D. $x=1$.",A. $x=4$.,"Ta có $3^{x-1}=27 \Leftrightarrow 3^{x-1}=3^3 \Leftrightarrow x-1=3 \Leftrightarrow x=4$.
+Vậy nghiệm của phương trình là $x=4$.
+MTBT: Bấm $3^{X-1}-27$ CALC $X$ với các giá trị ở các đáp án. Được kết quả 0 là đáp án đúng.",khớp,$x-1=3\Rightarrow x=4$. Đáp án đúng.,
+49,Trang 93 - Câu 5,"Tập xác định của hàm số $y=\log_2 x$ là
+A. $[0;+\infty)$.
+B. $(-\infty;+\infty)$.
+C. $(0;+\infty)$.
+D. $[2;+\infty)$.",C. $(0;+\infty)$.,"Điều kiện xác định của hàm số $y=\log_2 x$ là $x>0$.
+Vậy tập xác định của hàm số $y=\log_2 x$ là $D=(0;+\infty)$.",khớp,"Hàm logarit xác định khi biến số dương, $D=(0;+\infty)$. Đáp án đúng.",
+50,Trang 94 - Câu 11,"Với $a$ là hai số thực dương tùy ý, $\log_2(a^3)$ bằng
+A. $\dfrac{3}{2}\log_2 a$.
+B. $\dfrac{1}{3}\log_2 a$.
+C. $3+\log_2 a$.
+D. $3\log_2 a$.",D. $3\log_2 a$.,Ta có: $\log_2(a^3)=3\log_2 a$.,khớp,$\log_2(a^3)=3\log_2 a$. Đáp án đúng.,
+51,Trang 95 - Câu 16,"Tập nghiệm của bất phương trình $\log x\ge 1$ là
+A. $(10;+\infty)$.
+B. $(0;+\infty)$.
+C. $[10;+\infty)$.
+D. $(-\infty;10)$.",C. $[10;+\infty)$.,"$\log x\ge 1 \Leftrightarrow \begin{cases} x>0 \\ x\ge 10 \end{cases} \Leftrightarrow x\ge 10$.
+Vậy bất phương trình đã cho có tập nghiệm là $[10;+\infty)$.",khớp,"$\log x\ge 1 \Rightarrow x\ge 10^1=10$, kết hợp $x>0$ ta có $x\ge 10$. Đáp án đúng.",
+52,Trang 98 - Câu 29,"Xét số thực $a$ và $b$ thỏa mãn $\log_3(3^a\cdot 9^b)=\log_9 3$. Mệnh đề nào dưới đây đúng
+A. $a+2b=2$.
+B. $4a+2b=1$.
+C. $4ab=1$.
+D. $2a+4b=1$.",D. $2a+4b=1$.,"Ta có: $\log_3(3^a\cdot 9^b)=\log_9 3 \Leftrightarrow \log_3(3^a\cdot 3^{2b})=\log_{3^2}3 \Leftrightarrow \log_3 3^{a+2b}=\log_3 3^{\frac{1}{2}} \Leftrightarrow a+2b=\dfrac{1}{2}$
+$\Leftrightarrow 2a+4b=1$",khớp,$\log_3(3^a\cdot 9^b)=a+2b$; $\log_9 3=1/2$. Vậy $a+2b=1/2 \Rightarrow 2a+4b=1$. Đáp án đúng.,
+53,Trang 99 - Câu 31,"Tập nghiệm của bất phương trình $9^x+2\cdot 3^x-3>0$ là
+A. $[0;+\infty)$.
+B. $(0;+\infty)$.
+C. $(1;+\infty)$.
+D. $[1;+\infty)$.",B. $(0;+\infty)$.,"$9^x+2\cdot 3^x-3>0 \Leftrightarrow (3^x-1)(3^x+3)>0 \Leftrightarrow 3^x>1$ (vì $3^x>0, \forall x\in\mathbb{R}$) $\Leftrightarrow x>0$.
+Vậy tập nghiệm của bất phương trình đã cho là $(0;+\infty)$.",khớp,Đặt $u=3^x>0$: $u^2+2u-3>0 \Rightarrow (u-1)(u+3)>0 \Rightarrow u>1$ (vì $u+3>0$) $\Rightarrow x>0$. Đáp án đúng.,
+54,Trang 102 - Câu 42,"Để quảng bá cho sản phẩm A, một công ty dự định tổ chức quảng cáo theo hình thức quảng cáo trên truyền hình. Nghiên cứu của công ty cho thấy: nếu sau $n$ lần quảng cáo được phát thì tỉ lệ người xem quảng cáo đó mua sản phẩm A tuân theo công thức $P(n)=\dfrac{1}{1+49e^{-0,015n}}$.
+Hỏi cần phát ít nhất bao nhiêu lần quảng cáo để tỉ lệ người xem mua sản phẩm đạt trên 30%?
+A. 202.
+B. 203.
+C. 206.
+D. 207.",B. 203.,"Theo bài toán, ta có $\dfrac{1}{1+49e^{-0,015n}}>0,3 \Leftrightarrow 1+49e^{-0,015n}<\dfrac{10}{3} \Leftrightarrow e^{-0,015n}<\dfrac{7}{147}$
+$\Leftrightarrow -0,015n<\ln\dfrac{7}{147} \Leftrightarrow n>-\dfrac{1}{0,015}\ln\dfrac{7}{147}\approx 202,97$.
+Vậy cần ít nhất 203 lần quảng cáo.",khớp,"$e^{-0,015n}<1/21 \Rightarrow n>\ln21/0,015\approx 202,97 \Rightarrow n\ge 203$. Đáp án đúng.",
+55,Trang 105 - Câu 47,"Xét các số thực dương $a,b,x,y$ thỏa mãn $a>1,b>1$ và $a^x=b^y=\sqrt{ab}$. Giá trị nhỏ nhất của biểu thức $P=x+2y$ thuộc tập nào dưới đây?
+A. $(1;2)$.
+B. $\left[2;\dfrac{5}{2}\right)$.
+C. $[3;4)$.
+D. $\left[\dfrac{5}{2};3\right)$.",D. $\left[\dfrac{5}{2};3\right)$.,"Đặt $t=\log_a b$. Vì $a,b>1$ nên $t>0$.
+Ta có $a^x=\sqrt{ab} \Rightarrow x=\log_a\sqrt{ab}=\dfrac{1}{2}(1+\log_a b)=\dfrac{1}{2}(1+t)$.
+$b^y=\sqrt{ab} \Rightarrow y=\log_b\sqrt{ab}=\dfrac{1}{2}(1+\log_b a)=\dfrac{1}{2}\left(1+\dfrac{1}{t}\right)$.
+Vậy $P=x+2y=\dfrac{1}{2}(1+t)+1+\dfrac{1}{t}=\dfrac{3}{2}+\dfrac{t}{2}+\dfrac{1}{t}\ge \dfrac{3}{2}+\sqrt{2}$.
+Dấu đẳng thức xảy ra khi và chỉ khi $\dfrac{t}{2}=\dfrac{1}{t} \Leftrightarrow b=a^{\sqrt{2}}$.
+Giá trị nhỏ nhất của biểu thức $P=x+2y$ bằng $\dfrac{3}{2}+\sqrt{2}$ thuộc nửa khoảng $\left[\dfrac{5}{2};3\right)$.",khớp,"$P_{\min}=3/2+\sqrt2\approx 2,914$, nằm trong $[5/2;3)$. Đáp án đúng.",
+56,Trang 106 - Câu 50,"Có bao nhiêu số nguyên $x$ sao cho tồn tại số thực $y$ thỏa mãn $\log_3(x+y)=\log_4(x^2+y^2)$?
+A. 3.
+B. 2.
+C. 1.
+D. Vô số.",B. 2.,"Cách 1:
+Đặt $t=\log_3(x+y)=\log_4(x^2+y^2) \Rightarrow \begin{cases} x+y=3^t \\ x^2+y^2=4^t \end{cases}$ (1).
+Áp dụng bất đẳng thức Cauchy, ta có $9^t=(x+y)^2\le 2(x^2+y^2)=2\cdot 4^t \Rightarrow \dfrac{9^t}{4^t}\le 2 \Rightarrow t\le \log_{\frac{9}{4}}2$.
+Như vậy, $x^2+y^2=4^t \Rightarrow x^2\le 4^t\le 4^{\log_{\frac{9}{4}}2}\approx 1,89 \Rightarrow x\in\{-1;0;1\}$.
+• Trường hợp 1: $x=0 \Rightarrow \begin{cases} y=3^t \\ y^2=4^t \end{cases} \Rightarrow \begin{cases} t=0 \\ y=1 \end{cases}$.
+• Trường hợp 2: $x=1 \Rightarrow \begin{cases} y=3^t-1 \\ y^2=4^t-1 \end{cases} \Rightarrow \begin{cases} t=0 \\ y=0 \end{cases}$.
+• Trường hợp 3: $x=-1 \Rightarrow \begin{cases} y=3^t+1 \\ y^2+1=4^t\ge 1 \end{cases} \Rightarrow \begin{cases} t\ge 0 \\ y=3^t+1\ge 2 \end{cases} \Rightarrow x^2+y^2\ge 5$ mâu thuẫn với $x^2+y^2\le 4^{\log_{\frac{3}{2}}\sqrt{2}}$. Suy ra loại $x=-1$.
+Vậy có hai giá trị $x\in\{0;1\}$.
+Cách 2:
+Đặt $t=\log_3(x+y)=\log_4(x^2+y^2) \Rightarrow \begin{cases} x+y=3^t \\ x^2+y^2=4^t \end{cases}$ (1).
+Suy ra $x,y$ là tọa độ của điểm $M$ với $M$ thuộc đường thẳng $d: x+y=3^t$ và đường tròn $(C): x^2+y^2=4^t$.
+Để tồn tại $y$ tức tồn tại $M$ nên $d,(C)$ có điểm chung, suy ra $d(O,d)\le R$, trong đó $O(0;0)$, $R=2^t$ nên $\dfrac{|-3^t|}{\sqrt2}\le 2^t \Leftrightarrow t\le \log_{\frac{3}{2}}\sqrt2$.
+Khi đó (1) $\Rightarrow \begin{cases} 0<x+y<3^{\log_{\frac{3}{2}}\sqrt2} \\ x^2+y^2\le 4^{\log_{\frac{3}{2}}\sqrt2} \end{cases}$.
+Minh họa quỹ tích điểm $M$ như hình vẽ sau
+Ta thấy có 3 giá trị $x\in\mathbb{Z}$ có thể thỏa mãn là $x=-1, x=0, x=1$.
+Thử lại:
+• Trường hợp 1: $x=0 \Rightarrow \begin{cases} y=3^t \\ y^2=4^t \end{cases} \Rightarrow \begin{cases} t=0 \\ y=1 \end{cases}$.
+• Trường hợp 2: $x=1 \Rightarrow \begin{cases} y=3^t-1 \\ y^2=4^t-1 \end{cases} \Rightarrow \begin{cases} t=0 \\ y=0 \end{cases}$.
+• Trường hợp 3: $x=-1 \Rightarrow \begin{cases} y=3^t+1 \\ y^2+1=4^t\ge 1 \end{cases} \Rightarrow \begin{cases} t\ge 0 \\ y=3^t+1\ge 2 \end{cases} \Rightarrow x^2+y^2\ge 5$ mâu thuẫn với $x^2+y^2\le 4^{\log_{\frac{3}{2}}\sqrt2}$ suy ra loại $x=-1$.",khớp,"Với $x=0$: chọn $y=1$ thì $\log_3 1=0$ và $\log_4 1=0$, thỏa mãn. Với $x=1$: chọn $y=0$ thì $\log_3 1=0=\log_4 1$, thỏa mãn. Với $x=-1$ không tồn tại $y$ thỏa (theo lập luận mâu thuẫn ở lời giải). Vậy có 2 giá trị nguyên $x$, khớp đáp án B.",
+57,Trang 109 - Câu 7,"Nếu $\displaystyle\int_2^5 f(x)dx=3$ và $\displaystyle\int_2^5 g(x)dx=-2$ thì $\displaystyle\int_2^5 [f(x)+g(x)]dx$ bằng
+A. 5.
+B. -5.
+C. 1.
+D. 3.",C. 1.,"Ta có $\displaystyle\int_2^5[f(x)+g(x)]\,dx=\displaystyle\int_2^5 f(x)\,dx+\displaystyle\int_2^5 g(x)\,dx=3+(-2)=1$.",khớp,$3+(-2)=1$. Đáp án đúng.,
+58,Trang 109 - Câu 10,"Nghiệm của phương trình $\log_2(x+4)=3$ là
+A. $x=5$.
+B. $x=4$.
+C. $x=2$.
+D. $x=12$.",B. $x=4$.,"Ta có $\log_2(x+4)=3 \Leftrightarrow \begin{cases} x+4>0 \\ x+4=2^3 \end{cases} \Leftrightarrow \begin{cases} x>-4 \\ x=4 \end{cases} \Leftrightarrow x=4$.
+Vậy $x=4$ là nghiệm của phương trình.",khớp,"$x+4=8\Rightarrow x=4$, thỏa $x>-4$. Đáp án đúng.",
+59,Trang 110 - Câu 17,"Với mọi số thực $a$ dương, $\log_2\dfrac{a}{2}$ bằng
+A. $\dfrac{1}{2}\log_2 a$.
+B. $\log_2 a+1$.
+C. $\log_2 a-1$.
+D. $\log_2 a-2$.",C. $\log_2 a-1$.,Ta có $\log_2\dfrac{a}{2}=\log_2 a-\log_2 2=\log_2 a-1$.,khớp,$\log_2(a/2)=\log_2 a-\log_2 2=\log_2 a-1$. Đáp án đúng.,
+60,Trang 111 - Câu 22,"Trên khoảng $(0;+\infty)$, đạo hàm của hàm số $y=\log_2 x$ là
+A. $y'=\dfrac{1}{x\ln 2}$.
+B. $y'=\dfrac{\ln 2}{x}$.
+C. $y'=\dfrac{1}{x}$.
+D. $y'=\dfrac{1}{2x}$.",A. $y'=\dfrac{1}{x\ln 2}$.,Đạo hàm của hàm số $y=\log_2 x$ trên khoảng $(0;+\infty)$ là $y'=\dfrac{1}{x\ln 2}$.,khớp,Công thức chuẩn $(\log_a x)'=\dfrac{1}{x\ln a}$. Đáp án đúng.,
+61,Trang 113 - Câu 31,"Với mọi $a,b$ thỏa mãn $\log_2 a-3\log_2 b=2$, khẳng định nào dưới đây đúng?
+A. $a=4b^3$.
+B. $a=3b+4$.
+C. $a=3b+2$.
+D. $a=\dfrac{4}{b^3}$.",A. $a=4b^3$.,Ta có $\log_2 a-3\log_2 b=2 \Leftrightarrow \log_2\dfrac{a}{b^3}=2 \Leftrightarrow \dfrac{a}{b^3}=2^2 \Leftrightarrow a=4b^3$.,khớp,$\log_2(a/b^3)=2\Rightarrow a/b^3=4\Rightarrow a=4b^3$. Đáp án đúng.,
+62,Trang 115 - Câu 39,"Có bao nhiêu số nguyên $x$ thỏa mãn $(4^x-5.2^{x+2}+64)\sqrt{2-\log(4x)}\ge 0$?
+A. 22.
+B. 25.
+C. 23.
+D. 24.",D. 24.,"Điều kiện xác định: $\begin{cases} 4x>0 \\ 2-\log(4x)\ge 0 \end{cases} \Leftrightarrow \begin{cases} x>0 \\ \log_{10}(4x)\le 2 \end{cases} \Leftrightarrow \begin{cases} x>0 \\ 4x\le 100 \end{cases} \Leftrightarrow \begin{cases} x>0 \\ x\le 25 \end{cases} \Leftrightarrow 0<x\le 25$.
+Vì $\sqrt{2-\log(4x)}\ge 0$ nên bất phương trình đề bài đã cho tương đương với
+$4^x-5\cdot 2^{x+2}+64\ge 0 \Leftrightarrow 4^x-20\cdot 2^x+64\ge 0 \Leftrightarrow \left[\begin{array}{l}2^x\le 4\\ 2^x\ge 16\end{array}\right. \Leftrightarrow \left[\begin{array}{l}x\le 2\\ x\ge 4\end{array}\right.$
+So lại với điều kiện xác định, ta có tập nghiệm của bất phương trình đã cho là $S=(0;2]\cup[4;25]$.
+Vậy có 24 số nguyên $x$ thỏa mãn yêu cầu bài toán.",khớp,"Điều kiện $0<x\le25$. Với $0<x<25$ căn thức dương nên cần $4^x-20\cdot2^x+64\ge0$, đặt $u=2^x$: $u^2-20u+64\ge0\Rightarrow u\le4$ hoặc $u\ge16\Rightarrow x\le2$ hoặc $x\ge4$. Tại $x=25$ căn thức bằng 0 nên bất phương trình luôn đúng (không cần xét dấu nhân tử còn lại), vẫn thuộc tập nghiệm. Tập nghiệm: $(0;2]\cup[4;25]$. Số nguyên: $\{1,2\}\cup\{4,...,25\}$ = 2+22=24 số. Khớp đáp án D.",
+63,Trang 119 - Câu 48,"Có bao nhiêu số nguyên $a$ sao cho ứng với mỗi $a$, tồn tại ít nhất bốn số nguyên $b \in (-12;12)$ thỏa mãn $4^{a^2+b} \le 3^{b-a} + 65$?
+A. 4.
+B. 6.
+C. 5.
+D. 7.",D. 7.,"Bất phương trình đã cho tương đương $\dfrac{3^b}{3^a}+65 \ge 4^{a^2}\cdot 4^b \Leftrightarrow \left(\dfrac{3}{4}\right)^b + 65\cdot 3^a\cdot\left(\dfrac{1}{4}\right)^b - 4^{a^2}\cdot 3^a \ge 0$.
+
+Hàm số $f(b) = \left(\dfrac{3}{4}\right)^b + 65\cdot 3^a\cdot\left(\dfrac{1}{4}\right)^b - 4^{a^2}\cdot 3^a$ có đạo hàm $f'(b) = \left(\dfrac{3}{4}\right)^b \ln\dfrac{3}{4} + 65\cdot 3^a\left(\dfrac{1}{4}\right)^b \ln\dfrac{1}{4} < 0$ với mọi $b$. Suy ra hàm số $y=f(b)$ nghịch biến trên $\mathbb{R}$.
+
+Lập bảng biến thiên của hàm $f(b)$, ta có $S$ chứa ít nhất 4 số nguyên $b\in(-12;12)$ khi và chỉ khi
+
+$-11;-10;-9;-8 \subset (-12;\alpha)$ $(f(\alpha)=0)$
+
+$\Leftrightarrow f(-8)\ge 0 \Leftrightarrow \left(\dfrac{4}{3}\right)^8 + 65\cdot 3^a\cdot 4^8 - 4^{a^2}\cdot 3^a \ge 0$
+
+$\Leftrightarrow a\in\{-3;-2;\ldots;3\}$ (dùng table, $-5\to5$)
+
+Chọn đáp án D.",khớp,"Đặt lại bài toán: BPT tương đương $f(b)\ge0$ với $f(b)=(3/4)^b+65\cdot3^a(1/4)^b-4^{a^2}\cdot3^a$, và $f$ nghịch biến trên $\mathbb{R}$ (đạo hàm âm mọi nơi - đúng). Do $f$ giảm, tập $b$ thỏa là $b\le\alpha$; trong 23 số nguyên $b\in\{-11,...,11\}$, điều kiện ""ít nhất 4 số"" tương đương $f(-8)\ge0$ (bốn số nhỏ nhất -11,-10,-9,-8, số kém thuận lợi nhất trong 4 số là -8). Giải: $(4/3)^8+65\cdot4^8\cdot3^a-4^{a^2}\cdot3^a\ge0$; vì $3^a>0$ và $(4/3)^8\approx9,99$ không đáng kể, cần $4^{a^2}\lesssim 65\cdot4^8=4\,259\,840$, suy ra $a^2\le\log_4(4\,259\,840)\approx11,01$, do đó $a\in\{-3,-2,-1,0,1,2,3\}$: đúng 7 giá trị. Đáp án đúng.",
+64,Trang 121 - Câu 2,"Trên khoảng $(0;+\infty)$, đạo hàm của hàm số $y=\log_3 x$ là
+A. $y'=\dfrac{1}{x}$.
+B. $y'=\dfrac{1}{x\ln3}$.
+C. $y'=\dfrac{\ln3}{x}$.
+D. $y'=-\dfrac{1}{x\ln3}$.",B. $y'=\dfrac{1}{x\ln3}$.,"Đạo hàm của hàm số $y=\log_3 x$ là
+$$y'=\dfrac{1}{x\ln3}.$$
+Chọn đáp án B.",khớp,"Công thức $(\log_a x)'=\dfrac{1}{x\ln a}$, với $a=3$: $y'=\dfrac{1}{x\ln3}$. Đáp án đúng.",
+65,Trang 121 - Câu 4,"Tập nghiệm của bất phương trình $2^{x+1}<4$ là
+A. $(-\infty;1]$.
+B. $(1;+\infty)$.
+C. $[1;+\infty)$.
+D. $(-\infty;1)$.",D. $(-\infty;1)$.,"$2^{x+1}<4 \Leftrightarrow 2^{x+1}<2^2 \Leftrightarrow x+1<2 \Leftrightarrow x<1.$
+
+Vậy tập nghiệm của bất phương trình là $(-\infty;1)$.
+Chọn đáp án D.",khớp,"$2^{x+1}<2^2\Leftrightarrow x<1$, tập nghiệm $(-\infty;1)$. Đáp án đúng.",
+66,Trang 124 - Câu 21,"Tập nghiệm của bất phương trình $\log(x-2)>0$ là
+A. $(2;3)$.
+B. $(-\infty;3)$.
+C. $(3;+\infty)$.
+D. $(12;+\infty)$.",C. $(3;+\infty)$.,"Điều kiện $x-2>0 \Leftrightarrow x>2$.
+Ta có $\log(x-2)>0 \Leftrightarrow x-2>1 \Leftrightarrow x>3$.
+Kết hợp điều kiện ta có tập nghiệm $(3;+\infty)$.
+Chọn đáp án C.",khớp,ĐK $x>2$. $\log(x-2)>0\Leftrightarrow x-2>10^0=1\Leftrightarrow x>3$. Tập nghiệm $(3;+\infty)$. Đáp án đúng.,
+67,Trang 125 - Câu 28,"Với $a$ là số thực dương tùy ý, $\ln(3a)-\ln(2a)$ bằng
+A. $\ln a$.
+B. $\ln\dfrac{2}{3}$.
+C. $\ln(6a^2)$.
+D. $\ln\dfrac{3}{2}$.",D. $\ln\dfrac{3}{2}$.,"Ta có $\ln(3a)-\ln(2a)=\ln\left(\dfrac{3a}{2a}\right)=\ln\dfrac{3}{2}$.
+Chọn đáp án D.",khớp,$\ln(3a)-\ln(2a)=\ln(3a/2a)=\ln(3/2)$. Đáp án đúng.,
+68,Trang 127 - Câu 34,"Tích tất cả các nghiệm của phương trình $\ln^2 x + 2\ln x - 3 = 0$ bằng
+A. $\dfrac{1}{e^3}$.
+B. $-2$.
+C. $-3$.
+D. $\dfrac{1}{e^2}$.",D. $\dfrac{1}{e^2}$.,"Điều kiện $x>0$.
+Ta có $\ln^2 x + 2\ln x - 3 = 0 \Leftrightarrow \begin{bmatrix}\ln x=1\\ \ln x=-3\end{bmatrix} \Leftrightarrow \begin{bmatrix}x=e\\ x=e^{-3}.\end{bmatrix}$
+
+Vậy tích các nghiệm là $e\cdot e^{-3}=\dfrac{1}{e^2}$.
+Chọn đáp án D.",khớp,"Đặt $t=\ln x$: $t^2+2t-3=0\Rightarrow t=1$ hoặc $t=-3$, suy ra $x=e$ hoặc $x=e^{-3}$; tích $=e^{-2}=1/e^2$. Đáp án đúng.",
+69,Trang 128 - Câu 39,"Có bao nhiêu số nguyên $x$ thỏa mãn $\log_3\dfrac{x^2-16}{343} < \log_7\dfrac{x^2-16}{27}$?
+A. 193.
+B. 92.
+C. 186.
+D. 184.",D. 184.,"Ta có
+$$\log_3\dfrac{x^2-16}{343} < \log_7\dfrac{x^2-16}{27}$$
+$$\Leftrightarrow \log_3(x^2-16)-\log_3 343 < \log_7(x^2-16)-\log_7 27$$
+$$\Leftrightarrow \log_3(x^2-16)-\log_7(x^2-16) < \log_3 343 - \log_7 27$$
+$$\Leftrightarrow \log_3(x^2-16)-\log_7 3\cdot\log_3(x^2-16) < \log_3 343 - \log_7 3\cdot\log_3 27$$
+$$\Leftrightarrow \log_3(x^2-16)\left[1-\log_7 3\right] < 3\dfrac{1}{\log_7 3}-3\log_7 3$$
+$$\Leftrightarrow \log_3(x^2-16) < 3\dfrac{1+\log_7 3}{\log_7 3}$$
+$$\Leftrightarrow \log_3(x^2-16) < 3\log_3 21$$
+$$\Leftrightarrow 0<x^2-16<21^3$$
+$$\Leftrightarrow \begin{bmatrix}-\sqrt{9277}<x<-4\\ 4<x<\sqrt{9277}.\end{bmatrix}$$
+
+Vậy có 184 giá trị nguyên của $x$ thỏa mãn.
+Chọn đáp án D.",khớp,"Đặt $u=x^2-16$. Biến đổi được $\log_3 u<3\log_3 21=\log_3(21^3)=\log_3 9261$, suy ra $0<u<9261$ tức $16<x^2<9277$. Số nguyên $x$ với $4<|x|<\sqrt{9277}\approx96,32$: mỗi phía $x=5,\ldots,96$ (92 giá trị), tổng $2\times92=184$. Đáp án đúng.",
+70,Trang 133 - Câu 47,"Có bao nhiêu cặp số nguyên $(x;y)$ thỏa mãn
+$$\log_3\left(x^2+y^2+x\right)+\log_2\left(x^2+y^2\right) \le \log_3 x + \log_2\left(x^2+y^2+24x\right)?$$
+A. 89.
+B. 48.
+C. 90.
+D. 49.",B. 48.,"Điều kiện $\begin{cases}x>0\\ x,y\in\mathbb{Z}.\end{cases}$
+
+Ta có
+$$\log_3\left(x^2+y^2+x\right)+\log_2\left(x^2+y^2\right) \le \log_3 x+\log_2\left(x^2+y^2+24x\right) \quad (1)$$
+$$\Leftrightarrow \log_3\left(\dfrac{x^2+y^2+x}{x}\right)\le\log_2\left(\dfrac{x^2+y^2+24x}{x^2+y^2}\right) \quad (2)$$
+$$\Leftrightarrow \log_3\left(\dfrac{x^2+y^2}{x}+1\right)\le\log_2\left(1+\dfrac{24x}{x^2+y^2}\right) \quad (3)$$
+
+Đặt $t=\dfrac{x^2+y^2}{x}$, bất phương trình trở thành
+$$\log_3(t+1)\le\log_2\left(1+\dfrac{24}{t}\right) \quad (5)$$
+
+Đặt $a=\log_3(t+1)\Rightarrow 3^a=t+1\Rightarrow t=3^a-1$, với $a>0$. Khi đó, bất phương trình trở thành
+$$a\le\log_2\left(1+\dfrac{24}{t}\right)\Leftrightarrow 2^a\le1+\dfrac{24}{3^a-1}\Leftrightarrow 3^a+2^a+23\ge23\Leftrightarrow\left(\dfrac{1}{3}\right)^a+\left(\dfrac{1}{2}\right)^a+23\left(\dfrac{1}{6}\right)^a\ge1.$$
+
+Xét hàm số $f(a)=\left(\dfrac{1}{3}\right)^a+\left(\dfrac{1}{2}\right)^a+23\left(\dfrac{1}{6}\right)^a$, với $a>0$.
+Vì $f'(a)=\left(\dfrac{1}{3}\right)^a\ln\left(\dfrac{1}{3}\right)+\left(\dfrac{1}{2}\right)^a\ln\left(\dfrac{1}{2}\right)+23\left(\dfrac{1}{6}\right)^a\ln\left(\dfrac{1}{6}\right)<0$ nên $f(a)$ nghịch biến trên $(0;+\infty)$.
+Ta có
+$$\left(\dfrac{1}{3}\right)^a+\left(\dfrac{1}{2}\right)^a+23\left(\dfrac{1}{6}\right)^a\ge1\Leftrightarrow f(a)\ge f(2)\Leftrightarrow a\le2.$$
+
+Khi đó
+$$\log_3(t+1)\le2\Leftrightarrow\dfrac{x^2+y^2}{x}+1\le9\Leftrightarrow(x-4)^2+y^2\le16.$$
+
+Suy ra $(x-4)^2\le16\Leftrightarrow0\le x\le8$. Vì $x>0,x\in\mathbb{Z}$ nên $x\in\{1;2;3;4;5;6;7;8\}$.
+
+- Với $x=1$, ta có $y\in\{-2;-1;0;1;2\}$.
+- Với $x=2$, ta có $y\in\{-3;-2;-1;0;1;2;3\}$.
+- Với $x=3$, ta có $y\in\{-3;-2;-1;0;1;2;3\}$.
+- Với $x=4$, ta có $y\in\{-4;-3;-2;-1;0;1;2;3;4\}$.
+- Với $x=5$, ta có $y\in\{-3;-2;-1;0;1;2;3\}$.
+- Với $x=6$, ta có $y\in\{-3;-2;-1;0;1;2;3\}$.
+- Với $x=7$, ta có $y\in\{-2;-1;0;1;2\}$.
+- Với $x=8$, ta có $y=0$.
+
+Vậy có 48 cặp số nguyên $(x;y)$ thỏa mãn yêu cầu bài toán.
+Chọn đáp án B.",khớp,"Kiểm tra tổng số cặp theo từng $x$: $5+7+7+9+7+7+5+1=48$, khớp với kết quả 48 đã nêu. Đáp án đúng.",
+71,Trang 137 - Câu 1,"Cho phương trình $4^x+2^{x+1}-3=0$. Khi đặt $t=2^x$, ta được phương trình nào dưới đây?
+A. $2t^2-3=0$.
+B. $t^2+t-3=0$.
+C. $4t-3=0$.
+D. $t^2+2t-3=0$.",D. $t^2+2t-3=0$.,"Ta có $4^x+2^{x+1}-3=0 \Leftrightarrow (2^x)^2+2.2^x-3=0$.
+Đặt $t=2^x$ $(t>0)$. Phương trình trở thành $t^2+2t-3=0$.
+Chọn đáp án D.",khớp,"$4^x=(2^x)^2=t^2$, $2^{x+1}=2\cdot2^x=2t$, thay vào: $t^2+2t-3=0$. Đáp án đúng.",
+72,Trang 138 - Câu 6,"Cho $a$ là số thực dương khác 1. Tính $I=\log_{\sqrt{a}}a$.
+A. $I=\dfrac{1}{2}$.
+B. $I=0$.
+C. $I=-2$.
+D. $I=2$.",D. $I=2$.,"$\log_{\sqrt{a}}a=\log_{a^{\frac{1}{2}}}a=2\log_a a=2$.
+Chọn đáp án D.",khớp,$\log_{a^{1/2}}a=\dfrac{1}{1/2}\log_a a=2$. Đáp án đúng.,
+73,Trang 139 - Câu 15,"Với $a,b$ là các số thực dương tùy ý và $a$ khác 1, đặt $P=\log_a b^3+\log_{a^2}b^6$. Mệnh đề nào dưới đây đúng?
+A. $P=9\log_a b$.
+B. $P=27\log_a b$.
+C. $P=15\log_a b$.
+D. $P=6\log_a b$.",D. $P=6\log_a b$.,"Ta có $\log_a b^3 = 3\log_a b$ và $\log_{a^2}b^6 = \dfrac{6}{2}\log_a b = 3\log_a b$.
+Do đó $P = 3\log_a b + 3\log_a b = 6\log_a b$.
+Chọn đáp án D.","Đối chiếu ảnh xác nhận tài liệu gốc in phương án D là ""$P=3\log_a b+3\log_a b==6\log_a b$"" (ký hiệu ""=="" bất thường, có vẻ lẫn bước biến đổi vào nội dung phương án). Đã chuẩn hóa lại phương án D thành ""$P=6\log_a b$"" và bổ sung lời giải chi tiết (tài liệu gốc không có bước biến đổi) — xem Ghi chú sửa; đáp án cuối D không đổi.","$\log_a b^3=3\log_a b$; $\log_{a^2}b^6=\dfrac{6}{2}\log_a b=3\log_a b$. Tổng $P=3\log_a b+3\log_a b=6\log_a b$. Kết quả đúng là $6\log_a b$, phù hợp với nội dung phương án D (dù cách viết có ký hiệu ""=="" bất thường trong bản gốc). Về mặt toán học, đáp án đúng.","Phương án D gốc in ""$P=3\log_a b+3\log_a b==6\log_a b$"" (lỗi in ấn, dấu ""=="" và trộn bước biến đổi vào nội dung phương án) — đã chuẩn hóa thành ""$P=6\log_a b$"". Lời giải gốc chỉ có dòng chọn đáp án, không có bước biến đổi; đã bổ sung lời giải chi tiết."
+74,Trang 139 - Câu 16,"Tìm tập xác định $D$ của hàm số $y=\log_5\dfrac{x-3}{x+2}$.
+A. $D=\mathbb{R}\setminus\{-2\}$.
+B. $D=(-\infty;-2)\cup[3;+\infty)$.
+C. $D=(-2;3)$.
+D. $D=(-\infty;-2)\cup(3;+\infty)$.",D. $D=(-\infty;-2)\cup(3;+\infty)$.,"ĐK: $\dfrac{x-3}{x+2}>0 \Leftrightarrow \begin{bmatrix}x<-2\\x>3.\end{bmatrix}$
+Chọn đáp án D.",khớp,$(x-3)/(x+2)>0$ khi $x<-2$ hoặc $x>3$ (tử và mẫu cùng dấu). Đáp án đúng.,
+75,Trang 139 - Câu 17,"Tìm tập nghiệm $S$ của bất phương trình $\log_2^2 x - 5\log_2 x + 4 \ge 0$.
+A. $S = (-\infty; 2] \cup [16; +\infty)$.
+B. $S = [2; 16]$.
+C. $S = (0; 2] \cup [16; +\infty)$.
+D. $S = (-\infty; 1] \cup [4; +\infty)$.",C. $S = (0; 2] \cup [16; +\infty)$.,"Điều kiện $x > 0$.
+$\log_2^2 x - 5\log_2 x + 4 \ge 0 \Leftrightarrow \begin{bmatrix}\log_2 x \le 1\\ \log_2 x \ge 4\end{bmatrix} \Leftrightarrow \begin{bmatrix}x \le 2\\ x \ge 16\end{bmatrix}$.
+Kết hợp với điều kiện $x > 0$, ta được $\begin{bmatrix}0 < x \le 2\\ x \ge 16\end{bmatrix}$.
+Chọn đáp án C.","Phát hiện ở vòng kiểm tra độc lập lần 2: bản transcribe trước đó bị lấy NHẦM nội dung của Câu 18/trang 140 (""Hình hộp chữ nhật ... mặt đối xứng"", không thuộc chủ đề Mũ - Logarit) thay vì đúng nội dung Câu 17/trang 139 (bất phương trình log₂²x - 5log₂x + 4 ≥ 0, đáp án C). Đối chiếu lại với candidates_all.jsonl (bước trích xuất gốc, không lỗi) và ảnh page_139.png xác nhận nội dung đúng, đã thay lại toàn bộ đề bài/đáp án/lời giải cho khớp đúng vị trí trang/câu.","Giải độc lập: đặt $u=\log_2 x$, $u^2-5u+4\ge0 \Leftrightarrow (u-1)(u-4)\ge0 \Leftrightarrow u\le1$ hoặc $u\ge4$, tức $x\le2$ hoặc $x\ge16$; kết hợp $x>0$: $0<x\le2$ hoặc $x\ge16$. Khớp đáp án C.","Sửa lỗi lấy nhầm nội dung câu: bản transcribe ban đầu (lô 3) đọc nhầm sang Câu 18/trang 140 (câu hình học không thuộc chủ đề, đã bị loại khỏi tập dữ liệu) thay vì đúng Câu 17/trang 139 (bất phương trình logarit). Đã thay lại đúng đề bài, đáp án (C) và lời giải theo đúng vị trí trang 139 câu 17 trong tài liệu gốc."
+76,Trang 144 - Câu 35,"Một người gửi 50 triệu đồng và một ngân hàng với lãi suất 6%/năm. Biết rằng nếu không rút tiền ra khỏi ngân hàng thì cứ sau mỗi năm số tiền lãi sẽ được nhập vào gốc để tính lãi cho năm tiếp theo. Hỏi sau ít nhất bao nhiêu năm người đó nhận được số tiền nhiều hơn 100 triệu đồng bao gồm gốc và lãi? Giả định trong suốt thời gian gửi, lãi suất không đổi và người đó không rút tiền ra.
+A. 13 năm.
+B. 14 năm.
+C. 12 năm.
+D. 11 năm.",C. 12 năm.,"Gọi $n$ là số năm một người gửi tiền vào ngân hàng.
+Số tiền cả gốc và lãi người đó thu về sau $n$ năm là $50.000.000(1+6\%)^n$.
+Theo đề cho, ta có
+$$50.000.000(1+6\%)>100.000.000 \Leftrightarrow (1,06)^n>2 \Leftrightarrow n>\log_{1,06}2\approx11,9.$$
+Vậy, sau ít nhất 12 năm người đó nhận được số tiền nhiều hơn 100 triệu đồng bao gồm cả gốc và lãi.
+Chọn đáp án C.",khớp,"$(1,06)^n>2\Rightarrow n>\log_{1,06}2=\ln2/\ln1,06\approx11,896$, số nguyên nhỏ nhất thỏa là $n=12$. Đáp án đúng.",
+77,Trang 145 - Câu 39,"Tìm giá trị thực của tham số $m$ để phương trình $\log_3^2 x-m\log_3 x+2m-7=0$ có hai nghiệm thực $x_1,x_2$ thỏa mãn $x_1x_2=81$.
+A. $m=-4$.
+B. $m=4$.
+C. $m=81$.
+D. $m=44$.",B. $m=4$.,"ĐK: $x>0$.
+$$x_1x_2=81\Leftrightarrow\log_3(x_1x_2)=\log_3 81\Leftrightarrow\log_3x_1+\log_3x_2=4\Leftrightarrow t_1+t_2=4.$$
+Đặt $t=\log_3x$. Phương trình trở thành: $t^2-mt+2m-7=0$ (*)
+YCBT $\Leftrightarrow$ PT (*) có 2 nghiệm thực $t_1,t_2$ thỏa $t_1+t_2=4$
+$$\Leftrightarrow\begin{cases}\Delta=(-m)^2-4(2m-7)>0\\ m=4\end{cases}\Leftrightarrow m=4.$$
+Chọn đáp án B.",khớp,"Theo Viet, $t_1+t_2=m$ (hệ số của $t$ là $-m$). Yêu cầu $t_1+t_2=4\Rightarrow m=4$. Kiểm tra $\Delta=m^2-4(2m-7)=16-4=12>0$, thỏa. Đáp án đúng.",
+78,Trang 146 - Câu 42,"Cho $\log_a x=3$, $\log_b x=4$ với $a,b$ là các số thực lớn hơn 1. Tính $P=\log_{ab}x$.
+A. $P=\dfrac{7}{2}$.
+B. $P=\dfrac{1}{12}$.
+C. $P=12$.
+D. $P=\dfrac{12}{7}$.",D. $P=\dfrac{12}{7}$.,"$\log_a x=3\Rightarrow\log_x a=\dfrac{1}{3}$; $\log_b x=4\Rightarrow\log_x b=\dfrac{1}{4}$. $P=\log_{ab}x=\dfrac{1}{\log_x (ab)}=\dfrac{1}{\log_x a+\log_x b}=\dfrac{12}{7}$.
+Chọn đáp án D.",khớp,"$\log_x a=1/3,\log_x b=1/4$, tổng $=7/12$, $P=1/(7/12)=12/7$. Đáp án đúng.",
+79,Trang 148 - Câu 47,"Xét các số thực dương $x,y$ thỏa mãn $\log_3\dfrac{1-xy}{x+2y}=3xy+x+2y-4$. Tìm giá trị nhỏ nhất $P_{\min}$ của $P=x+y$.
+A. $P_{\min}=\dfrac{9\sqrt{11}-19}{9}$.
+B. $P_{\min}=\dfrac{9\sqrt{11}+19}{9}$.
+C. $P_{\min}=\dfrac{18\sqrt{11}-29}{21}$.
+D. $P_{\min}=\dfrac{2\sqrt{11}-3}{3}$.",D. $P_{\min}=\dfrac{2\sqrt{11}-3}{3}$.,"Xét hàm số $f(t)=\log_3 t+t$ $(t>0)$;
+$$f'(t)=\dfrac{1}{t.\ln3}+1>0,\forall t\in(0;+\infty);$$
+Suy ra hàm số $f$ đồng biến trên $(0;+\infty)$.
+$$\log_3\dfrac{1-xy}{x+2y}=3xy+x+2y-4 \Leftrightarrow \log_3(1-xy)-\log_3(x+2y)=3(xy-1)+x+2y-1$$
+$$\Leftrightarrow \log_3 3(1-xy)+3(1-xy)=\log_3(x+2y)+x+2y$$
+$$\Leftrightarrow f(3(1-xy))=f(x+2y)\Leftrightarrow 3(1-xy)=x+2y\Leftrightarrow y=\dfrac{3-x}{3x+2}$$
+Mà $y>0$ nên $\dfrac{3-x}{3x+2}>0\Leftrightarrow0<x<3$.
+$$P=x+y=x+\dfrac{3-x}{3x+2}\ \forall x\in(0;3).$$
+$$P'=1-\dfrac{11}{(3x+2)^2}$$
+$$P'=0\Leftrightarrow\begin{bmatrix}x=\dfrac{\sqrt{11}-2}{3}\in(0;3)\\ x=\dfrac{-\sqrt{11}-2}{3}\notin(0;3).\end{bmatrix}$$
+
+Bảng biến thiên: tại $x=0$, $P=1,5$; tại $x=\dfrac{\sqrt{11}-2}{3}$, $P=\dfrac{2\sqrt{11}-3}{3}$ (giá trị nhỏ nhất); tại $x=3$, $P=3$.
+
+Vậy $P_{\min}=\dfrac{2\sqrt{11}-3}{3}$.
+Chọn đáp án D.","Đối chiếu ảnh xác nhận tài liệu gốc in ""$\log_3(x+y)$"" ở một bước biến đổi, không nhất quán với mẫu số $(x+2y)$ của đề bài và với dòng biến đổi kế tiếp (lỗi in ấn). Đã sửa lại thành ""$\log_3(x+2y)$"" trong lời giải chính thức (xem Ghi chú sửa); đáp án cuối D không đổi.","Tại $x=(\sqrt{11}-2)/3$: $3x+2=\sqrt{11}$, $y=(3-x)/\sqrt{11}=[(11-\sqrt{11})/3]/\sqrt{11}=(\sqrt{11}-1)/3$. $P=x+y=[(\sqrt{11}-2)+(\sqrt{11}-1)]/3=(2\sqrt{11}-3)/3$, khớp đáp án D. Đáp án đúng.","Sửa ""log_3(x+y)"" thành ""log_3(x+2y)"" ở bước biến đổi thứ hai cho khớp mẫu số (x+2y) trong đề và khớp dòng biến đổi kế tiếp (tài liệu gốc in thiếu hệ số 2); đáp án D không đổi."
+80,Trang 152 - Câu 3,"Tập nghiệm của phương trình $\log_2(x^2-1)=3$ là
+A. $\{-3;3\}$.
+B. $\{-3\}$.
+C. $\{3\}$.
+D. $\{-\sqrt{10};\sqrt{10}\}$.",A. $\{-3;3\}$.,"Ta có $\log_2(x^2-1)=3\Leftrightarrow x^2-1=2^3\Leftrightarrow\begin{bmatrix}x=3\\x=-3.\end{bmatrix}$
+Vậy tập nghiệm của phương trình đã cho là $\{-3;3\}$.
+Chọn đáp án A.",khớp,$x^2-1=8\Rightarrow x^2=9\Rightarrow x=\pm3$. Đáp án đúng.,
+81,Trang 154 - Câu 11,"Với $a$ là số thực dương tuỳ ý, $\log_3(3a)$ bằng
+A. $3\log_3 a$.
+B. $3+\log_3 a$.
+C. $1+\log_3 a$.
+D. $1-\log_3 a$.",C. $1+\log_3 a$.,"Ta có $\log_3(3a)=\log_3 3+\log_3 a=1+\log_3 a$.
+Chọn đáp án C.",khớp,$\log_3(3a)=\log_3 3+\log_3 a=1+\log_3 a$. Đáp án đúng.,
+82,Trang 157 - Câu 24,"Một người gửi tiết kiệm vào một ngân hàng với lãi suất 7,2%/năm. Biết rằng nếu không rút tiền ra khỏi ngân hàng thì cứ sau mỗi năm số tiền lãi sẽ được nhập vào vốn để tính lãi cho năm tiếp theo. Hỏi sau ít nhất bao nhiêu năm người đó thu được (cả số tiền gửi ban đầu và lãi) gấp đôi số tiền gửi ban đầu, giả định trong khoảng thời gian này lãi suất không thay đổi và người đó không rút tiền ra?
+A. 11 năm.
+B. 12 năm.
+C. 9 năm.
+D. 10 năm.",D. 10 năm.,"Giả sử người ấy gửi số tiền $M_0$ vào ngân hàng. Khi đó, sau $n$ năm số tiền của người ấy được tính bằng công thức $M=M_0(1+7,2\%)^n=M_0\cdot1,072^n$.
+Theo đề bài, ta tìm $n$ thỏa mãn $M\ge2M_0\Leftrightarrow M_0\cdot1,072^n\ge2M_0\Leftrightarrow n\ge\log_{1,072}2\approx9,969602105$.
+Vậy sau ít nhất 10 năm người ấy mới thu được số tiền nhiều gấp đôi số tiền vốn ban đầu.
+Chọn đáp án D.",khớp,"$n\ge\log_{1,072}2=\ln2/\ln1,072\approx9,9696$, số nguyên nhỏ nhất là $n=10$. Đáp án đúng.",
+83,Trang 161 - Câu 35,"Gọi $S$ là tập hợp tất cả các giá trị nguyên của tham số $m$ sao cho phương trình $25^x-m\cdot5^{x+1}+7m^2-7=0$ có hai nghiệm phân biệt. Hỏi $S$ có bao nhiêu phần tử?
+A. 7.
+B. 1.
+C. 2.
+D. 3.",C. 2.,"Đặt $t=5^x$, điều kiện $t>0$. Phương trình trở thành $t^2-5mt+7m^2-7=0$ (*).
+Yêu cầu bài toán trở thành: tìm $m$ để phương trình (*) có hai nghiệm dương phân biệt
+$$\Leftrightarrow\begin{cases}\Delta=-3m^2+28>0\\ 5m>0\\ 7m^2-7>0\end{cases}\Leftrightarrow\begin{cases}-\sqrt{\dfrac{28}{3}}<m<\sqrt{\dfrac{28}{3}}\\ m>0\\ \begin{bmatrix}m>1\\m<-1\end{bmatrix}\end{cases}\Leftrightarrow1<m<\sqrt{\dfrac{28}{3}}.$$
+Suy ra $S=\{2;3\}$. Vậy có 2 giá trị tham số $m$ thỏa mãn yêu cầu bài toán.
+Chọn đáp án C.",khớp,"$\sqrt{28/3}\approx3,055$. Với $1<m<3,055$ và $m$ nguyên: $m\in\{2,3\}$, có 2 phần tử. Đáp án đúng.",
+84,Trang 161 - Câu 37,"Cho $a>0,b>0$ thỏa mãn
+$$\log_{10a+3b+1}(25a^2+b^2+1)+\log_{10ab+1}(10a+3b+1)=2.$$
+Giá trị của $a+2b$ bằng
+A. $\dfrac{5}{2}$.
+B. 6.
+C. 22.
+D. $\dfrac{11}{2}$.",D. $\dfrac{11}{2}$.,"Từ giả thuyết bài toán, ta suy ra $25a^2+b^2+1>1$, $10a+3b+1>1$ và $10ab+1>1$.
+Áp dụng bất đẳng thức Cô-si, ta có $25a^2+b^2+1\ge2\sqrt{25a^2b^2}+1=10ab+1$.
+Khi đó,
+$$\log_{10a+3b+1}(25a^2+b^2+1)+\log_{10ab+1}(10a+3b+1)$$
+$$\ge\log_{10a+3b+1}(10ab+1)+\log_{10ab+1}(10a+3b+1)$$
+$$\ge2\sqrt{\log_{10a+3b+1}(10ab+1)\cdot\log_{10ab+1}(10a+3b+1)}=2.$$
+Dấu ""="" xảy ra khi chỉ khi
+$$\begin{cases}5a=b\\ \log_{10a+3b+1}(10ab+1)=\log_{10ab+1}(10a+3b+1)=1\end{cases}\Leftrightarrow\begin{cases}b=5a\\ 10ab+1=10a+3b+1\end{cases}$$
+$$\Leftrightarrow\begin{cases}b=5a\\50a^2-25a=0\end{cases}\Leftrightarrow\begin{cases}b=5a\\\begin{bmatrix}a=0\ (\text{loại})\\a=\dfrac{1}{2}\ (\text{nhận})\end{bmatrix}\end{cases}\Leftrightarrow\begin{cases}b=\dfrac{5}{2}\\a=\dfrac{1}{2}.\end{cases}$$
+$$\Rightarrow a+2b=\dfrac{11}{2}.$$
+Chọn đáp án D.",khớp,"Với $a=1/2,b=5/2$: $a+2b=1/2+5=11/2$. Kiểm tra dấu bằng: $25a^2+b^2+1=25/4+25/4+1=13,5$; $10ab+1=10\cdot(1/2)(5/2)+1=13,5$ (bằng nhau, thỏa Cô-si dấu bằng); $10a+3b+1=5+7,5+1=13,5$ cũng bằng, nên mỗi log cơ số 13,5 của 13,5 bằng 1, tổng $=2$, thỏa phương trình gốc. Đáp án đúng.",
+85,Trang 166 - Câu 45,"Cho phương trình $3^x+m=\log_3(x-m)$ với $m$ là tham số. Có bao nhiêu giá trị nguyên của $m\in(-15;15)$ để phương trình đã cho có nghiệm?
+A. 16.
+B. 9.
+C. 14.
+D. 15.",C. 14.,"Ta có $3^x+m=\log_3(x-m)\Leftrightarrow3^x+x=\log_3(x-m)+x-m$ (*).
+Xét hàm số $f(t)=3^t+t$ với $t\in\mathbb{R}$, ta có $f'(t)=3^t\ln3+1>0,\forall t\in\mathbb{R}$ nên hàm số $f(t)$ đồng biến trên tập xác định. Mặt khác, phương trình (*) có dạng $f(x)=f(\log_3(x-m))$. Do đó,
+$$f(x)=f(\log_3(x-m))\Leftrightarrow x=\log_3(x-m)\Leftrightarrow3^x=x-m\Leftrightarrow3^x-x=-m\ (**)$$
+Xét hàm số $g(x)=3^x-x$ với $x\in\mathbb{R}$, ta có $g'(x)=3^x\ln3-1$, $g'(x)=0\Leftrightarrow x=\log_3\left(\dfrac{1}{\ln3}\right)=a$.
+Bảng biến thiên (hàm $g(x)$ có cực tiểu $g(a)$ tại $x=a$, $g(x)\to+\infty$ khi $x\to\pm\infty$).
+
+Từ bảng biến thiên, ta suy ra phương trình (**) có nghiệm khi chỉ khi $m\in(-\infty;-g(a))$.
+Mặt khác, $m\in\mathbb{Z}\cap(-15;15)$ nên $m\in\{-14;-13;-12;\ldots;-1\}$ (vì $-g(a)\approx-0,9958452485$).
+Do đó, có 14 giá trị nguyên của $m$ thỏa mãn yêu cầu bài toán.
+Chọn đáp án C.",khớp,"Điều kiện có nghiệm là $m<-g(a)\approx-0,9958$, với $m$ nguyên trong $(-15;15)$: $m\in\{-14,\ldots,-1\}$, đếm được 14 giá trị. Đáp án đúng.",
+86,Trang 171 - Câu 5,"Với $a$ là số thực dương tùy ý, $\log_5 a^3$ bằng
+A. $\dfrac{1}{3}\log_5 a$.
+B. $\dfrac{1}{3}+\log_5 a$.
+C. $3+\log_5 a$.
+D. $3\log_5 a$.",D. $3\log_5 a$.,"$\log_5 a^3=3\log_5 a$.
+Chọn đáp án D.",khớp,$\log_5(a^3)=3\log_5 a$ theo tính chất logarit. Đáp án đúng.,
+87,Trang 172 - Câu 13,"Nghiệm của phương trình $3^{2x+1}=27$ là
+A. 2.
+B. 1.
+C. 5.
+D. 4.",B. 1.,"Ta có $3^{2x+1}=27\Leftrightarrow3^{2x+1}=3^3\Leftrightarrow2x+1=3\Leftrightarrow x=1$.
+Chọn đáp án B.",khớp,$2x+1=3\Rightarrow x=1$. Đáp án đúng.,
+88,Trang 173 - Câu 16,"Nghiệm của phương trình $\log_2(x+1)=1+\log_2(x-1)$ là
+A. $x=1$.
+B. $x=-2$.
+C. $x=3$.
+D. $x=2$.",C. $x=3$.,"Điều kiện: $\begin{cases}x>-1\\x>1\end{cases}\Leftrightarrow x>1$.
+Phương trình đã cho tương đương với
+$$\log_2(x+1)=1+\log_2(x-1)\Leftrightarrow\log_2(x+1)=\log_2\left[2\cdot(x-1)\right]\Leftrightarrow x+1=2x-2\Leftrightarrow x=3.$$
+Chọn đáp án C.",khớp,ĐK $x>1$; $x+1=2(x-1)\Rightarrow x+1=2x-2\Rightarrow x=3$ (thỏa ĐK). Đáp án đúng.,
+89,Trang 176 - Câu 25,"Cho $a$ và $b$ là hai số thực dương thỏa mãn $a^3b^2=32$. Giá trị của $3\log_2a+2\log_2b$ bằng
+A. 5.
+B. 2.
+C. 32.
+D. 4.",A. 5.,"Ta có: $\log_2a^3b^2=\log_232\Leftrightarrow3\log_2a+2\log_2b=5$.
+Chọn đáp án A.",khớp,$\log_2(a^3b^2)=\log_2 32=5=3\log_2a+2\log_2b$. Đáp án đúng.,
+90,Trang 176 - Câu 26,"Hàm số $y=3^{x^2-3x}$ có đạo hàm là
+A. $(2x-3)\cdot3^{x^2-3x}$.
+B. $3^{x^2-3x}\cdot\ln3$.
+C. $(x^2-3x)\cdot3^{x^2-3x-1}$.
+D. $(2x-3)\cdot3^{x^2-3x}\cdot\ln3$.",D. $(2x-3)\cdot3^{x^2-3x}\cdot\ln3$.,"Ta có: $y'=\left(3^{x^2-3x}\right)'=(2x-3)\cdot3^{x^2-3x}\cdot\ln3$.
+Chọn đáp án D.",khớp,"Đạo hàm hàm hợp $3^{u(x)}$: $y'=u'(x)\cdot3^{u(x)}\ln3$ với $u=x^2-3x,u'=2x-3$. Đáp án đúng.",
+91,Trang 179 - Câu 37,"Cho phương trình $\log_9x^2-\log_3(6x-1)=-\log_3m$ ($m$ là tham số thực). Có tất cả bao nhiêu giá trị nguyên của $m$ để phương trình đã cho có nghiệm?
+A. 6.
+B. 5.
+C. Vô số.
+D. 7.",B. 5.,"Xét phương trình $\log_9x^2-\log_3(6x-1)=-\log_3m$.
+Điều kiện: $\begin{cases}x>\dfrac{1}{6}\\ m>0.\end{cases}$
+
+$$\log_9x^2-\log_3(6x-1)=-\log_3m$$
+$$\Leftrightarrow\log_3x+\log_3m=\log_3(6x-1)$$
+$$\Leftrightarrow mx=6x-1\Leftrightarrow x(6-m)=1\quad (1)$$
+
+- Với $m=6$, phương trình (1) trở thành $0=1$ (vô lý).
+- Với $m\ne6$, phương trình (1) có nghiệm $x=\dfrac{1}{6-m}$ nên
+$$\dfrac{1}{6-m}>\dfrac{1}{6}\Leftrightarrow\dfrac{1}{6-m}-\dfrac{1}{6}>0\Leftrightarrow\dfrac{m}{6-m}>0\Leftrightarrow0<m<6\ (\text{thỏa mãn}).$$
+
+Mà $m\in\mathbb{Z}\Rightarrow m\in\{1;2;3;4;5\}$.
+
+Vậy có 5 giá trị nguyên của $m$ thỏa mãn.
+Chọn đáp án B.",khớp,"ĐK $x>1/6$. Biến đổi $\log_9x^2=\log_3x$ (do $x>0$), phương trình thành $\log_3x+\log_3m=\log_3(6x-1)\Rightarrow mx=6x-1\Rightarrow x=1/(6-m)$ (với $m\ne6$). Cần $x>1/6$: giải ra $0<m<6$, với $m$ nguyên: $\{1,2,3,4,5\}$, 5 giá trị. Đáp án đúng.",
+92,Trang 186 - Câu 47,"Cho phương trình $\left(2\log_2^2x-3\log_2x-2\right)\sqrt{3^x-m}=0$ ($m$ là tham số thực). Có tất cả bao nhiêu giá trị nguyên dương của $m$ để phương trình đã cho có đúng hai nghiệm phân biệt?
+A. 79.
+B. 80.
+C. Vô số.
+D. 81.",A. 79.,"Điều kiện $\begin{cases}x>0\\3^x-m\ge0\end{cases}\Leftrightarrow\begin{cases}x>0\\3^x\ge m\end{cases}\Leftrightarrow\begin{cases}x>0\\x\ge\log_3m.\end{cases}$
+
+- TH1: Với $m=1$, phương trình trở thành
+$$\left(2\log_2^2x-3\log_2x-2\right)\sqrt{3^x-1}=0\Leftrightarrow\begin{bmatrix}2\log_2^2x-3\log_2x-2=0\\3^x-1=0\end{bmatrix}$$
+$$\Leftrightarrow\begin{bmatrix}\log_2x=2\\\log_2x=-\dfrac{1}{2}\\3^x=1\end{bmatrix}\Leftrightarrow\begin{bmatrix}x=4\\x=\dfrac{1}{\sqrt2}\\x=0\end{bmatrix}\Leftrightarrow\begin{bmatrix}x=4\\x=\dfrac{1}{\sqrt2}.\end{bmatrix}$$
+Vậy nhận giá trị $m=1$.
+
+- TH2: Với $m>1$, phương trình trở thành
+$$\left(2\log_2^2x-3\log_2x-2\right)\sqrt{3^x-m}=0\Leftrightarrow\begin{bmatrix}2\log_2^2x-3\log_2x-2=0\\3^x-m=0\end{bmatrix}$$
+$$\Leftrightarrow\begin{bmatrix}\log_2x=2\\\log_2x=-\dfrac{1}{2}\\3^x=m\end{bmatrix}\Leftrightarrow\begin{bmatrix}x=4\\x=\dfrac{1}{\sqrt2}\\x=\log_3m.\end{bmatrix}$$
+
+Phương trình có hai nghiệm phân biệt khi $\dfrac{1}{\sqrt2}\le\log_3m<4\Leftrightarrow3^{\frac{1}{\sqrt2}}\le m<3^4$.
+Mà $m>1$ nên ta có $m\in\{3,4,\ldots,80\}$, có 78 giá trị của $m$.
+
+Vậy có 79 giá trị nguyên dương của $m$ để phương trình có đúng hai nghiệm phân biệt.
+Chọn đáp án A.",khớp,"Với $m=1$: nghiệm $\{4,1/\sqrt2\}$ (loại $x=0$ vì $\log_2 0$ không xác định) - đúng 2 nghiệm, nhận. Với $m>1$: ba nghiệm ứng viên $\{4,1/\sqrt2,\log_3m\}$, mỗi nghiệm $x$ hợp lệ khi $3^x\ge m$ tức $x\ge\log_3m$. Khi $3^{1/\sqrt2}\le m<3^4=81$: $x=1/\sqrt2$ không còn hợp lệ (vì $\log_3m\ge1/\sqrt2$), chỉ còn $\{4,\log_3m\}$ là 2 nghiệm phân biệt (miễn $m\ne81$). Với $m$ nguyên, $m\in\{3,\ldots,80\}$ (78 giá trị, vì $3^{1/\sqrt2}\approx2,1656$ nên số nguyên nhỏ nhất là 3). Cộng thêm $m=1$: tổng 79. Đáp án đúng.",
+93,Trang 191 - Câu 8,"Nghiệm của phương trình $\log_2(x-1)=3$ là
+A. $x=10$.
+B. $x=8$.
+C. $x=9$.
+D. $x=7$.",C. $x=9$.,"Điều kiện: $x>1$. Ta có: $\log_2(x-1)=3\Leftrightarrow x-1=2^3\Leftrightarrow x=9$.
+Chọn đáp án C.",khớp,$x-1=8\Rightarrow x=9$ (thỏa $x>1$). Đáp án đúng.,
+94,Trang 191 - Câu 12,"Với $a, b$ là các số thực dương tuỳ ý và $a \neq 1$, $\log_{a^2} b$ bằng
+A. $\dfrac{1}{2} + \log_a b$.
+B. $\dfrac{1}{2}\log_a b$.
+C. $2 + \log_a b$.
+D. $2\log_a b$.",B. $\dfrac{1}{2}\log_a b$,"Ta có $\log_{a^2} b = \dfrac{1}{2}\log_a b$.
+Chọn đáp án B.",khớp,"Áp dụng tính chất $\log_{a^n} b=\dfrac1n\log_a b$ với $n=2$, ta có $\log_{a^2}b=\dfrac12\log_a b$. Đáp án đúng.",
+95,Trang 192 - Câu 13,"Nghiệm của phương trình $3^{x-2}=9$ là
+A. $x=-3$.
+B. $x=3$.
+C. $x=4$.
+D. $x=-4$.",C. $x=4$,"Ta có $3^{x-2}=9 \Leftrightarrow 3^{x-2}=3^2 \Leftrightarrow x-2=2 \Leftrightarrow x=4$.
+Chọn đáp án C.",khớp,$3^{x-2}=9=3^2 \Rightarrow x-2=2 \Rightarrow x=4$. Đáp án đúng.,
+96,Trang 193 - Câu 25,"Tập xác định của hàm số $y=\log_6 x$ là
+A. $[0;+\infty)$.
+B. $(0;+\infty)$.
+C. $(-\infty;0)$.
+D. $(-\infty;+\infty)$.",B. $(0;+\infty)$,"Điều kiện $x>0$.
+Vậy tập xác định của hàm số đã cho là $\mathscr{D}=(0;+\infty)$.
+Chọn đáp án B.",khớp,"Hàm logarit $\log_6 x$ chỉ xác định khi $x>0$, tập xác định $(0;+\infty)$. Đáp án đúng.",
+97,Trang 195 - Câu 30,"Cho $a, b$ là hai số thực dương thỏa mãn $4^{\log_2(ab)}=3a$. Giá trị của $ab^2$ bằng
+A. 3.
+B. 6.
+C. 2.
+D. 12.",A. 3,"Ta có
+$4^{\log_2(ab)}=3a \Leftrightarrow \log_2(ab)=\log_4(3a)$
+$\Leftrightarrow \log_2(ab)=\log_2(3a)^{\frac12}$
+$\Leftrightarrow ab=(3a)^{\frac12}$
+$\Leftrightarrow (ab)^2=3a$
+$\Leftrightarrow ab^2=3$.
+Vậy $ab^2=3$.
+Chọn đáp án A.",khớp,$4^{\log_2(ab)}=(2^2)^{\log_2(ab)}=2^{2\log_2(ab)}=(ab)^2$. Do đó $(ab)^2=3a \Rightarrow ab^2=3$ (chia hai vế cho $a>0$). Đáp án đúng.,
+98,Trang 197 - Câu 37,"Tập nghiệm của bất phương trình $3^{x^2-23}<9$ là
+A. $(-5;5)$.
+B. $(-\infty;5)$.
+C. $(5;+\infty)$.
+D. $(0;5)$.",A. $(-5;5)$,"Ta có $3^{x^2-23}<9 \Leftrightarrow x^2-23<2 \Leftrightarrow x^2-25<0 \Leftrightarrow -5<x<5$.
+Chọn đáp án A.",khớp,$3^{x^2-23}<3^2 \Rightarrow x^2-23<2 \Rightarrow x^2<25 \Rightarrow -5<x<5$. Đáp án đúng.,
+99,Trang 198 - Câu 42,"Trong năm 2019, diện tích rừng trồng mới của tỉnh $A$ là 1000 ha. Giả sử diện tích rừng trồng mới của tỉnh $A$ mỗi năm tiếp theo đều tăng 6% so với diện tích rừng trồng mới của năm kề trước. Kể từ sau năm 2019, năm nào dưới đây là năm đầu tiên tỉnh $A$ có diện tích rừng trồng mới trong năm đó đạt trên 1400 ha?
+A. Năm 2043.
+B. Năm 2025.
+C. Năm 2024.
+D. Năm 2042.",B. Năm 2025,"Gọi $P_0$ là diện tích rừng trồng mới năm 2019.
+Gọi $P_n$ là diện tích rừng trồng mới sau $n$ năm.
+Gọi $r\%$ là phần trăm diện tích rừng trồng mới tăng mỗi năm.
+Sau $n$ năm, diện tích rừng trồng mới là $P_n=P_0(1+r)^n$.
+Theo giả thiết $P_0=1000, r=0,06$.
+$1000(1+0,06)^n>1400 \Leftrightarrow 1,06^n>\dfrac{7}{5} \Leftrightarrow n>\log_{1,06}\dfrac{7}{5}\approx 5,8$.
+Vậy là trong năm 2025 thì tỉnh A có diện tích rừng trồng mới trong năm đó đạt trên 1400 ha.
+Chọn đáp án B.",khớp,"$1000\cdot1,06^n>1400 \Rightarrow 1,06^n>1,4 \Rightarrow n>\ln(1,4)/\ln(1,06)\approx5,77$, nên $n=6$ là số nguyên nhỏ nhất thỏa mãn, ứng với năm $2019+6=2025$. Đáp án đúng.",
+100,Trang 203 - Câu 48,"Xét các số thực không âm $x$ và $y$ thỏa mãn $2x+y\cdot 4^{x+y-1}\ge 3$. Giá trị nhỏ nhất của biểu thức $P=x^2+y^2+6x+4y$ bằng
+A. $\dfrac{65}{8}$.
+B. $\dfrac{33}{4}$.
+C. $\dfrac{49}{8}$.
+D. $\dfrac{57}{8}$.",A. $\dfrac{65}{8}$,"Ta có $2x+y\cdot 4^{x+y-1}\ge 3 \Leftrightarrow y\cdot 4^{x+y-1}\ge 3-2x$. (1)
+Trường hợp 1: Nếu $3-2x\le 0 \Leftrightarrow x\ge \dfrac32$ thì $P=x^2+y^2+6x+4y\ge x^2+6x$ (vì $y^2+4y\ge 0,\forall y\ge 0$).
+Xét hàm số $P(x)=x^2+6x$, với $x\ge \dfrac32$.
+$P'(x)=2x+6>0,\forall x\ge \dfrac32$.
+Suy ra $\min_{[\frac32;+\infty)}P(x)=P(\dfrac32)=\dfrac{45}{4}$.
+Trường hợp 2: Nếu $3-2x>0 \Leftrightarrow x<\dfrac32$. Mà $y\cdot4^{x+y-1}\ge 3-2x>0$ nên $y>0$.
+Khi đó
+(1) $\Leftrightarrow 4^{x+y-1}\ge \dfrac{3-2x}{y}$
+$\Leftrightarrow x+y-1\ge \log_4\dfrac{3-2x}{y}$
+$\Leftrightarrow x+y-1\ge \dfrac12\log_2\dfrac{3-2x}{y}$
+$\Leftrightarrow 2x+2y-2\ge \log_2(3-2x)-\log_2 y$
+$\Leftrightarrow 2y+\log_2(2y)\ge 3-2x+\log_2(3-2x)$. (2)
+Xét hàm số $f(t)=t+\log_2 t$, với $t>0$.
+$f'(t)=1+\dfrac{1}{t\ln2}>0,\forall t>0$.
+Do đó $f(t)$ là hàm số đồng biến trên khoảng $(0;+\infty)$.
+Suy ra (2) $\Leftrightarrow f(2y)\ge f(3-2x) \Leftrightarrow 2y\ge 3-2x$.
+Suy ra $4y\ge6-4x$ và $y^2\ge \dfrac{9-12x+4x^2}{4}$.
+Ta có $P=x^2+y^2+6x+4y\ge x^2+\dfrac{9-12x+4x^2}{4}+6x+6-4x=2x^2-x+\dfrac{33}{4}=2\left(x-\dfrac14\right)^2+\dfrac{65}{8}\ge \dfrac{65}{8}$. Dấu ""="" xảy ra khi và chỉ khi $x=\dfrac14$.
+Kết hợp hai trường hợp ta được giá trị nhỏ nhất của biểu thức $P=x^2+y^2+6x+4y$ bằng $\dfrac{65}{8}$.
+Chọn đáp án A.",khớp,"Xét trường hợp đẳng thức $2y=3-2x$ (tức $y=(3-2x)/2$), thay vào $P$: $P(x)=x^2+\left(\frac{3-2x}{2}\right)^2+6x+4\cdot\frac{3-2x}{2}=2x^2-x+\frac{33}{4}$. Đạo hàm theo $x$: $4x-1=0\Rightarrow x=1/4$, $P=2(1/16)-1/4+33/4=65/8$. Trùng khớp với đáp án A đã cho.",
+101,Trang 204 - Câu 49,"Có bao nhiêu số nguyên $x$ sao cho ứng với mỗi $x$ có không quá 242 số nguyên $y$ thỏa mãn $\log_4(x^2+y)\ge \log_3(x+y)$?
+A. 55.
+B. 28.
+C. 29.
+D. 56.",D. 56,"Cách 1.
+Điều kiện $x+y>0$ và $x^2+y>0$. Khi đó
+$\log_4(x^2+y)\ge \log_3(x+y) \Leftrightarrow x^2+y\ge 4^{\log_3(x+y)}$
+$\Leftrightarrow x^2+y\ge (x+y)^{\log_3 4} \Leftrightarrow x^2-x\ge (x+y)^{\log_3 4}-(x+y)$. (7)
+Đặt $t=x+y$, do $x,y$ nguyên và $x+y>0$ nên ta có $t\ge1$.
+Bất phương trình (1) được viết lại thành $x^2-x\ge t^{\log_3 4}-t$. (2)
+Với mỗi $x$ nguyên cho trước có không quá 242 số nguyên $y$ thỏa mãn bất phương trình (1) tương đương với bất phương trình (2) có không quá 242 nghiệm $t\ge1$.
+Xét $f(t)=t^{\log_3 4}-t$ với $t\in[1;+\infty)$, ta có $f'(t)=t^{\log_3 4-1}\cdot\log_3 4-1\ge0$ với mọi $t\in[1;+\infty)$ nên hàm số $f(t)$ đồng biến trên $[1;+\infty)$.
+Do đó nếu $x^2-x\ge 243^{\log_3 4}-243=781$ thì (2) sẽ có ít nhất 243 nghiệm nguyên $t\ge1$.
+Bởi vậy yêu cầu bài toán xảy ra khi $x^2-x<781 \Leftrightarrow -27\le x\le 28$ (do $x$ nguyên).
+Vậy có tất cả $28+28=56$ số nguyên $x$ thỏa mãn yêu cầu bài toán.
+Cách 2.
+Điều kiện $\begin{cases}x^2+y>0\\x+y>0\end{cases}$.
+Đặt $k=x+y$, suy ra $k\in\mathbb{Z}^+$. Ta có $x^2\ge x,\forall x\in\mathbb{Z}$.
+Suy ra hàm số $f(y)=\log_4(x^2+y)-\log_3(x+y)$ xác định trên $\mathscr{D}=(-x;+\infty)$.
+Ta xét bất phương trình $f(y)\ge0$.
+Ta có $f'(y)=\dfrac{1}{(x^2+y)\ln4}-\dfrac{1}{(x+y)\ln3}\le0$,
+(vì $x^2\ge x\Rightarrow x^2+y\ge x+y$ hay $\dfrac{1}{x^2+y}-\dfrac{1}{x+y}\le0$ và $\ln4>\ln3>0$).
+Suy ra $f(y)$ nghịch biến trên $\mathscr{D}$.
+Xét $g(k)=f(k-x)=\log_4(x^2+k-x)-\log_3 k$ xác định trên $(0;+\infty)$.
+Do $f$ nghịch biến trên $\mathscr{D}$ nên $g$ cũng nghịch biến trên $(0;+\infty)$.
+Do đó phương trình $g(k)=0$ luôn có nghiệm duy nhất $k_0$ trên $[1;+\infty)$.
+Mặt khác số nghiệm $y$ bằng số nghiệm $k$ nên để có không quá 242 số nguyên thỏa yêu cầu thì ta phải có $k_0<243$.
+Suy ra yêu cầu bài toán tương đương với
+$g(243)\le0 \Leftrightarrow \log_4(x^2-x+728)\le\log_3 243$
+$\Leftrightarrow x^2-x+243\le4^{\log_3 243}\Leftrightarrow -27\le x\le28$ (vì $x$ nguyên).
+Vậy $x\in\{-27;-26;\ldots;28\}$.
+Khi đó có 56 giá trị $x$ thỏa mãn yêu cầu bài toán.
+Chọn đáp án D.",khớp,"Tập $x\in\{-27,\ldots,28\}$ có $28-(-27)+1=56$ số nguyên, khớp với đáp án D. Bài toán phức tạp (dùng tính đơn điệu của hàm phụ), đã kiểm tra hai cách giải trong tài liệu cho cùng kết quả 56, tự tính số phần tử tập nghiệm cũng ra 56. Đáp án đúng.",
+102,Trang 206 - Câu 4,"Tập xác định của hàm số $y=7^x$ là
+A. $\mathbb{R}\setminus\{0\}$.
+B. $[0;+\infty)$.
+C. $(0;+\infty)$.
+D. $\mathbb{R}$.",D. $\mathbb{R}$,"Tập xác định của hàm số $y=7^x$ là $\mathscr{D}=\mathbb{R}$.
+Chọn đáp án D.",khớp,"Hàm số mũ $y=a^x$ ($a>0,a\ne1$) xác định với mọi $x\in\mathbb{R}$. Đáp án đúng.",
+103,Trang 208 - Câu 17,"Cho $a>0$ và $a\neq 1$, khi đó $\log_a \sqrt[3]{a}$ bằng
+A. $-3$.
+B. $\dfrac13$.
+C. $-\dfrac13$.
+D. 3.",B. $\dfrac13$,"Ta có $\log_a\sqrt[3]{a}=\log_a a^{\frac13}=\dfrac13$.
+Chọn đáp án B.",khớp,$\log_a a^{1/3}=1/3$. Đáp án đúng.,
+104,Trang 210 - Câu 26,"Tập nghiệm của bất phương trình $2^x<5$ là
+A. $(-\infty;\log_2 5)$.
+B. $(\log_2 5;+\infty)$.
+C. $(-\infty;\log_5 2)$.
+D. $(\log_5 2;+\infty)$.",A. $(-\infty;\log_2 5)$,"Ta có $2^x<5 \Leftrightarrow x<\log_2 5 \Rightarrow S=(-\infty;\log_2 5)$.
+Chọn đáp án A.",khớp,"Hàm $2^x$ đồng biến, $2^x<5 \Leftrightarrow x<\log_2 5$. Đáp án đúng.",
+105,Trang 210 - Câu 27,"Nghiệm của phương trình $\log_5(3x)=2$ là
+A. 25.
+B. $\dfrac{32}{3}$.
+C. 32.
+D. $\dfrac{25}{3}$.",D. $\dfrac{25}{3}$,"Ta có $\log_5(3x)=2 \Leftrightarrow \begin{cases}3x>0\\3x=5^2\end{cases}\Leftrightarrow 3x=5^2 \Leftrightarrow x=\dfrac{25}{3}$.
+Chọn đáp án D.",khớp,"$3x=25 \Rightarrow x=25/3>0$, thỏa điều kiện. Đáp án đúng.",
+106,Trang 213 - Câu 38,"Với mọi $a, b$ thỏa mãn $\log_2 a^3+\log_2 b=8$, khẳng định nào sau đây là đúng?
+A. $a^3+b=64$.
+B. $a^3 b=256$.
+C. $a^3 b=64$.
+D. $a^3+b=256$.",B. $a^3 b=256$,"Ta có $\log_2 a^3+\log_2 b=8 \Leftrightarrow \log_2 a^3 b=8 \Leftrightarrow a^3 b=256$.
+Chọn đáp án B.",khớp,$\log_2(a^3 b)=8 \Rightarrow a^3 b=2^8=256$. Đáp án đúng.,
+107,Trang 213 - Câu 39,"Có bao nhiêu số nguyên $x$ thỏa mãn $\left(3^{x^2}-9^x\right)\left[\log_2(x+30)-5\right]\le 0$?
+A. 30.
+B. Vô số.
+C. 31.
+D. 29.",C. 31,"Điều kiện xác định $x>-30$.
+Đặt $f(x)=(3^{x^2}-9^x)[\log_2(x+30)-5]$.
+Xét phương trình $f(x)=0 \Leftrightarrow \begin{bmatrix}3^{x^2}=9^x\\ \log_2(x+30)=5\end{bmatrix} \Leftrightarrow \begin{bmatrix}x^2=2x\\x+30=2^5\end{bmatrix} \Leftrightarrow \begin{bmatrix}x=0\\x=2\ (\text{nghiệm kép})\end{bmatrix}$.
+Từ đó ta có bảng xét dấu:
+$x$: $-30$ | $0$ | $2$ | $+\infty$
+$f(x)$: (không xác định) $-$ $0$ $+$ $0$ $+$
+Suy ra bất phương trình $f(x)\le0$ có tập nghiệm $S=(-30;0]\cup\{2\}$.
+Với $x\in\mathbb{Z}\Rightarrow x\in\{-29;-28;\cdots;-1;0;2\}$.
+Vậy có 31 số nguyên $x$ thỏa mãn $(3^{x^2}-9^x)[\log_2(x+30)-5]\le0$.
+Chọn đáp án C.",khớp,"Tập nghiệm $(-30;0]\cup\{2\}$: số nguyên từ $-29$ đến $0$ là 30 số, cộng thêm $x=2$ là 31 số. Đáp án đúng.",
+108,Trang 216 - Câu 45,"Có bao nhiêu số nguyên $y$ tồn tại sao cho $x\in\left(\dfrac13;4\right)$ thỏa mãn $27^{3x^2+xy}=(1+xy)27^{12x}$?
+A. 14.
+B. 27.
+C. 12.
+D. 5.",A. 14,"★ Trường hợp 1: $y\le0$, vì $xy>-1$ và $x>\dfrac13$ nên ta có $y>-3$.
+Ta có thể kiểm tra trực tiếp để xem xét có nhận $y=-2,y=-1,y=0$ hay không.
+• Nếu $y=0$ phương trình trở thành $27^{3x^2-12x}=1 \Leftrightarrow 3x^2-12x=0 \Leftrightarrow \begin{bmatrix}x=0\notin\left(\dfrac13;4\right)\\x=4\notin\left(\dfrac13;4\right)\end{bmatrix}$ (loại).
+• Nếu $y=-1$ thỏa mãn.
+• Nếu $y=-2$ thỏa mãn.
+★ Trường hợp 2: Khi $y\ge1$, ta có
+$27^{3x^2+xy}=(1+xy)27^{12x} \Leftrightarrow 3x^2-12x=\log_{27}(1+xy)-xy \Leftrightarrow 3x-12-\dfrac{\log_{27}(1+xy)}{x}+y=0$
+Xét hàm số $g(x)=3x-12-\dfrac{\log_{27}(1+xy)}{x}+y$ trên $\left[\dfrac13;4\right]$.
+Ta có $g'(x)=3+\dfrac{\ln(1+xy)}{x^2\ln27}-\dfrac{y}{x(1+xy)\ln27}>3-\dfrac{1}{3x^2\ln3}\ge3-\dfrac{3}{\ln3}>0$ với mọi $x\in\left[\dfrac13;4\right]$.
+Do đó, hàm $g(x)$ đồng biến trên $\left[\dfrac13;4\right]$. Vì thế $g(x)=0$ có nghiệm trên $\left(\dfrac13;4\right) \Leftrightarrow g\left(\dfrac13\right)\cdot g(4)<0$.
+Áp dụng bất đẳng thức $\ln(1+u)<u$ với mọi $u>0$, ta có
+$g(4)=\dfrac{-\ln(1+4y)}{18\ln3}+y>\dfrac{-y}{3\ln3}+y>0$.
+Do đó $g\left(\dfrac13\right)<0 \Leftrightarrow -\log_3\left(1+\dfrac{y}{3}\right)+y-11<0 \Leftrightarrow 1\le y\le12$ (do $y$ là số nguyên dương).
+Vậy có 14 giá trị nguyên của $y$ sao cho tồn tại $x\in\left(\dfrac13;4\right)$ thỏa mãn $27^{3x^2+xy}=(1+xy)27^{12x}$.
+Chọn đáp án A.",khớp,"Kết hợp hai trường hợp: $y\in\{-2,-1\}$ (2 giá trị) và $y\in\{1,\ldots,12\}$ (12 giá trị), tổng $2+12=14$, khớp với đáp án A. Bài toán phức tạp, không giải lại từ đầu độc lập nhưng đối chiếu số học nội bộ nhất quán.",
+109,Trang 220 - Câu 4,"Tập xác định của hàm số $y=\log_3(x-4)$ là
+A. $(-\infty;4]$.
+B. $[4;+\infty)$.
+C. $(4;+\infty)$.
+D. $(-\infty;4)$.",C. $(4;+\infty)$,"Hàm số $y=\log_3(x-4)$ xác định khi và chỉ khi $x-4>0\Leftrightarrow x>4$.
+Vậy tập xác định $\mathscr{D}=(4;+\infty)$.
+Chọn đáp án C.",khớp,$x-4>0 \Rightarrow x>4$. Đáp án đúng.,
+110,Trang 221 - Câu 8,"Tập nghiệm của bất phương trình $\log_3(2x)>2$ là
+A. $(0;4)$.
+B. $\left(\dfrac92;+\infty\right)$.
+C. $\left(0;\dfrac92\right)$.
+D. $(4;+\infty)$.",B. $\left(\dfrac92;+\infty\right)$,"Ta có $\log_3(2x)>2\Leftrightarrow 2x>3^2\Leftrightarrow x>\dfrac92$.
+Vậy tập nghiệm của bất phương trình đã cho là $\left(\dfrac92;+\infty\right)$.
+Chọn đáp án B.","Đối chiếu ảnh xác nhận tài liệu gốc ghi ""$x=\dfrac92$"" (dùng dấu ""="") ở bước trung gian dù đang giải bất phương trình, và gọi nhầm là ""phương trình"" ở câu kết luận. Đã sửa lại thành ""$x>\dfrac92$"" và ""bất phương trình"" trong lời giải chính thức (xem Ghi chú sửa); đáp án cuối B không đổi.","$\log_3(2x)>2 \Leftrightarrow 2x>9 \Leftrightarrow x>9/2$, tập nghiệm $\left(\dfrac92;+\infty\right)$, khớp đáp án B. Lưu ý: lời giải gốc viết ""$\Leftrightarrow x=\dfrac92$"" (dùng dấu ""="" thay vì ""$>$"") — đây là một lỗi đánh máy nhỏ trong tài liệu gốc, không ảnh hưởng đến đáp án cuối cùng được khoanh (B) vốn đúng về mặt toán học.","Sửa ""x=9/2"" thành ""x>9/2"" (tài liệu gốc dùng nhầm dấu ""="" khi đang giải bất phương trình); sửa ""phương trình"" thành ""bất phương trình"" ở câu kết luận. Đáp án B không đổi."
+111,Trang 222 - Câu 17,"Đạo hàm của hàm số $y=4^x$ là
+A. $y'=x\cdot4^{x-1}$.
+B. $y'=4^x\ln4$.
+C. $y'=\dfrac{4^x}{\ln4}$.
+D. $y'=4^x$.",B. $y'=4^x\ln4$,"Đạo hàm của hàm số $y=4^x$ là $y'=4^x\ln4$.
+Chọn đáp án B.",khớp,Công thức $(a^x)'=a^x\ln a$ với $a=4$ cho $y'=4^x\ln4$. Đáp án đúng.,
+112,Trang 223 - Câu 21,"Với mọi số thực $a$ dương, $\log_3(3a)$ bằng
+A. $3\log_3 a$.
+B. $1-\log_3 a$.
+C. $\log_3 a$.
+D. $1+\log_3 a$.",D. $1+\log_3 a$,"Với mọi số thực $a$ dương ta có $\log_3(3a)=\log_3 3+\log_3 a=1+\log_3 a$.
+Chọn đáp án D.",khớp,$\log_3(3a)=\log_3 3+\log_3 a=1+\log_3 a$. Đáp án đúng.,
+113,Trang 223 - Câu 22,"Nghiệm của phương trình $5^x=2$ là
+A. $x=\log_2 5$.
+B. $x=\log_5 2$.
+C. $x=\dfrac25$.
+D. $x=\sqrt5$.",B. $x=\log_5 2$,"Ta có $5^x=2\Leftrightarrow x=\log_5 2$.
+Chọn đáp án B.",khớp,$5^x=2 \Rightarrow x=\log_5 2$. Đáp án đúng.,
+114,Trang 225 - Câu 31,"Với $a>0$, đặt $\log_2(2a)=b$, khi đó $\log_2(4a^3)$ bằng
+A. $3b+5$.
+B. $3b$.
+C. $3b+2$.
+D. $3b-1$.",D. $3b-1$,"Ta có $\log_2(2a)=b\Leftrightarrow 1+\log_2(a)=b\Leftrightarrow \log_2(a)=b-1$.
+Suy ra $\log_2(4a^3)=\log_2 4+3\log_2 a=2+3(b-1)=3b-1$.
+Vậy $\log_2(4a^3)=3b-1$.
+Chọn đáp án D.",khớp,$\log_2 a=b-1$; $\log_2(4a^3)=2+3\log_2 a=2+3b-3=3b-1$. Đáp án đúng.,
+115,Trang 227 - Câu 40,"Có bao nhiêu số nguyên $x$ thỏa mãn $\left[\log_3(x^2+1)-\log_3(x+21)\right](16-2^{x-1})\ge 0$?
+A. 17.
+B. 18.
+C. 16.
+D. Vô số.",B. 18,"Điều kiện $x>-21$.
+Ta có $[\log_3(x^2+1)-\log_3(x+21)](16-2^{x-1})\ge0 \Leftrightarrow$
+$\begin{cases}x>-21\\ \begin{bmatrix}\begin{cases}\log_3(x^2+1)-\log_3(x+21)\ge0\\16-2^{x-1}\ge0\end{cases}\\ \begin{cases}\log_3(x^2+1)-\log_3(x+21)\le0\\16-2^{x-1}\le0\end{cases}\end{bmatrix}\end{cases}$
+$\Leftrightarrow \begin{cases}x>-21\\ \begin{bmatrix}\begin{cases}\log_3(x^2+1)\ge\log_3(x+21)\\16\ge2^{x-1}\end{cases}\\ \begin{cases}\log_3(x^2+1)\le\log_3(x+21)\\16\le2^{x-1}\end{cases}\end{bmatrix}\end{cases}$
+$\Leftrightarrow \begin{cases}x>-21\\ \begin{bmatrix}\begin{cases}x^2+1\ge x+21\\x\le5\end{cases}\\ \begin{cases}x^2+1\le x+21\\x\ge5\end{cases}\end{bmatrix}\end{cases} \Leftrightarrow \begin{cases}x>-21\\ \begin{bmatrix}\begin{cases}\begin{bmatrix}x\ge5\\x\le-4\end{bmatrix}\\x\le5\end{cases}\\ \begin{cases}-4\le x\le5\\x\ge5\end{cases}\end{bmatrix}\end{cases}$
+$\Leftrightarrow \begin{bmatrix}x=5\\-21<x\le-4\end{bmatrix}$.
+Do $x$ nguyên nên $x\in\{-20,-19,\ldots,-4,5\}$.
+Vậy có 18 giá trị nguyên thỏa mãn.
+Chọn đáp án B.",khớp,"Số nguyên từ $-20$ đến $-4$ là $17$ số, cộng thêm $x=5$ là $18$ số, khớp đáp án B.",
+116,Trang 230 - Câu 45,"Có bao nhiêu số nguyên dương $y$ sao cho tồn tại số thực $x\in(1;5)$ thỏa mãn $4(x-1)e^x=y(e^x+xy-2x^2-3)$?
+A. 14.
+B. 12.
+C. 10.
+D. 11.",B. 12,"Phương trình đã cho tương đương $4(x-1)e^x-y(e^x+xy-2x^2-3)=0$. (1)
+Xét hàm số $f(x)=4(x-1)e^x-y(e^x+xy-2x^2-3)$, ta có
+$f'(x)=4e^x+4(x-1)e^x-y(e^x+y-4x)=4xe^x-y(e^x+y-4x)=(e^x+y)(4x-y)$.
+$f'(x)=0 \Leftrightarrow 4x-y=0 \Leftrightarrow x=\dfrac{y}{4}$ (vì $e^x+y>0,\forall x\in\mathbb{R},\forall y\in\mathbb{N}^*$).
+Trường hợp 1: $1<\dfrac{y}{4}<5 \Leftrightarrow 4<y<20$. Ta có bảng biến thiên (với $f'(y)$ đổi dấu $-,0,+$ quanh $x=1,\ y/4,\ 5$).
+Ta thấy $f(1)=-y(e+y-5)<0,\forall y\in(4;20)$ nên phương trình (1) có nghiệm khi và chỉ khi
+$f(5)>0 \Leftrightarrow 16e^5-y(e^5+5y-53)>0 \Leftrightarrow -5y^2-(e^5-53)y+16e^5>0$
+$\Leftrightarrow 5y^2+(e^5-53)y-16e^5<0 \Leftrightarrow \dfrac{53-e^5-\sqrt{(e^5-53)^2+320e^5}}{10}<y<\dfrac{53-e^5+\sqrt{(e^5-53)^2+320e^5}}{10}$
+$\left(\dfrac{53-e^5-\sqrt{(e^5-53)^2+320e^5}}{10}\approx-33,33,\ \dfrac{53-e^5+\sqrt{(e^5-53)^2+320e^5}}{10}\approx14,25\right)$.
+Do $y\in\mathbb{N}^*$ và $4<y<20$ nên nhận $y\in\{5;6;\ldots;14\}$.
+Trường hợp 2. $\dfrac{y}{4}\ge5 \Leftrightarrow y\ge20$. Ta có bảng biến thiên.
+Vì $f(1)=-y(e+y-5)<0,\forall y\in\mathbb{N}^*,y\ge20$ nên từ bảng biến thiên suy ra phương trình (1) vô nghiệm.
+Trường hợp 3. $\dfrac{y}{4}\le1 \Leftrightarrow y\le4$. Ta có bảng biến thiên.
+Vì $f(5)=16e^5-y(e^5+5y-53)=e^5(16-y)+y(53-y)>0,\forall y\le4$ nên phương trình (1) có nghiệm khi và chỉ khi
+$f(1)<0 \Leftrightarrow -y(e+y-5)<0 \Leftrightarrow e+y-5>0 \Leftrightarrow y>5-e\approx2,28$.
+Do $y\in\mathbb{N}^*$ và $y\le4$ nên nhận $y\in\{3;4\}$.
+Kết hợp các trường hợp, ta thu được $y\in\{3;4;5;6;\ldots;14\}$.
+Vậy có 12 giá trị nguyên của $y$ thỏa mãn yêu cầu bài toán.
+Chọn đáp án B.",khớp,"Tập $y\in\{3,4,\ldots,14\}$ có $14-3+1=12$ giá trị, khớp đáp án B. Bài toán phức tạp (khảo sát hàm nhiều trường hợp), không giải lại từ đầu độc lập nhưng số học nội bộ nhất quán.",
+117,Trang 236 - Câu 12,"Tập nghiệm của bất phương trình $\log_5(x+1)>2$ là
+A. $(9;+\infty)$.
+B. $(25;+\infty)$.
+C. $(31;+\infty)$.
+D. $(24;+\infty)$.",D. $(24;+\infty)$,"Ta có $\log_5(x+1)>2\Leftrightarrow x+1>5^2\Leftrightarrow x+1>25\Leftrightarrow x>24$.
+Vậy tập nghiệm của bất phương trình là $(24;+\infty)$.
+Chọn đáp án D.",khớp,$x+1>25 \Rightarrow x>24$. Đáp án đúng.,
+118,Trang 237 - Câu 16,"Tập xác định của hàm số $y=\log_3(x-4)$ là
+A. $(5;+\infty)$.
+B. $(-\infty;+\infty)$.
+C. $(4;+\infty)$.
+D. $(-\infty;4)$.",C. $(4;+\infty)$,"Điều kiện: $x-4>0\Leftrightarrow x>4$.
+Vậy tập xác định của hàm số đã cho là $D=(4;+\infty)$.
+Chọn đáp án C.",khớp,$x-4>0 \Rightarrow x>4$. Đáp án đúng.,
+119,Trang 237 - Câu 17,"Với $a$ là số thực dương tùy ý, $4\log\sqrt{a}$ bằng
+A. $-2\log a$.
+B. $2\log a$.
+C. $-4\log a$.
+D. $8\log a$.",B. $2\log a$,"Ta có $4\log\sqrt a=4\log a^{\frac12}=4\cdot\dfrac12\log a=2\log a$.
+Chọn đáp án B.",khớp,$4\log a^{1/2}=4\cdot\frac12\log a=2\log a$. Đáp án đúng.,
+120,Trang 238 - Câu 21,"Nghiệm của phương trình $3^{2x+1}=3^{2-x}$ là
+A. $x=\dfrac13$.
+B. $x=0$.
+C. $x=-1$.
+D. $x=1$.",A. $x=\dfrac13$,"Xét phương trình $3^{2x+1}=3^{2-x} \Leftrightarrow 2x+1=2-x \Leftrightarrow x=\dfrac13$.
+Chọn đáp án A.",khớp,$2x+1=2-x \Rightarrow 3x=1 \Rightarrow x=1/3$. Đáp án đúng.,
+121,Trang 240 - Câu 31,"Có bao nhiêu số nguyên thuộc tập xác định của hàm số $y=\log[(6-x)(x+2)]$?
+A. 7.
+B. 8.
+C. 9.
+D. Vô số.",A. 7,"Điều kiện $(6-x)(x+2)>0\Leftrightarrow -2<x<6\Rightarrow \mathscr{D}=(-2;6)$.
+Vậy có 7 số nguyên $x$ thuộc tập xác định của hàm số đã cho.
+Chọn đáp án A.",khớp,"Các số nguyên trong $(-2;6)$: $-1,0,1,2,3,4,5$, tổng cộng 7 số. Đáp án đúng.",
+122,Trang 242 - Câu 39,"Có bao nhiêu số nguyên dương $a$ sao cho ứng với mỗi $a$ có đúng ba số nguyên $b$ thỏa mãn $(3^b-3)(a\cdot2^b-18)<0$?
+A. 72.
+B. 73.
+C. 71.
+D. 74.",B. 73,"TH1: $3^b-3>0 \Leftrightarrow b>1$.
+Khi đó: $a\cdot2^b-18<0 \Rightarrow 2^b<\dfrac{18}{a}$.
+Suy ra, 3 giá trị nguyên $b$ có thể là $b\in\{2;3;4\}$.
+Do đó: $2^4<\dfrac{18}{a}\le2^5 \Rightarrow \dfrac{9}{16}\le a<\dfrac98 \Rightarrow a=1$.
+TH2: $3^b-3<0 \Leftrightarrow b<1$.
+Khi đó: $a\cdot2^b-18>0 \Rightarrow 2^b>\dfrac{18}{a}$.
+Suy ra, 3 giá trị nguyên $b$ có thể là $b\in\{-2;-1;0\}$.
+Do đó: $2^{-3}\le\dfrac{18}{a}<2^{-2} \Rightarrow 72<a\le144$.
+Số giá trị nguyên dương của $a$ trong trường hợp này là $144-73+1=72$.
+Vậy có tổng cộng $1+72=73$ giá trị $a$ thỏa mãn.
+Chọn đáp án B.",khớp,"$1+72=73$, khớp đáp án B. Đã đối chiếu số học nội bộ nhất quán (không giải lại toàn bộ từ đầu do độ phức tạp cao).",
+123,Trang 243 - Câu 44,"Xét tất cả các số thực $x, y$ sao cho $a^{4x-\log_5 a^2}\le 25^{40-y^2}$ với mọi số thực dương $a$. Giá trị lớn nhất của biểu thức $P=x^2+y^2+x-3y$ bằng
+A. $\dfrac{125}{2}$.
+B. 80.
+C. 60.
+D. 20.",C. 60,"Do $a$ dương nên $a^{4x-\log_5 a^2}\le 25^{40-y^2} \Leftrightarrow a^{4x-2\log_5 a}\le 5^{2(40-y^2)}$. (1)
+Đặt $\log_5 a=t$ thì $a=5^t$.
+Ta có (1) $\Leftrightarrow 5^{t(4x-2t)}\le5^{2(40-y^2)} \Leftrightarrow 2tx-t^2\le40-y^2 \Leftrightarrow t^2-2tx+40-y^2\ge0$. (2)
+(1) đúng với mọi số thực dương $a$ khi và chỉ khi (2) đúng với mọi số thực $t$.
+$\Leftrightarrow \Delta'=x^2+y^2-40\le0 \Leftrightarrow x^2+y^2\le40$.
+Theo bất đẳng thức Bunhia-Coopxki, ta có $(x-3y)^2\le10(x^2+y^2)\le10.40=400$.
+$\Rightarrow x-3y\le20$.
+Khi đó $P=x^2+y^2+x-3y\le40+20=60$.
+Dấu bằng xảy ra khi $\begin{cases}x^2+y^2=40\\x=\dfrac{y}{-3}>0\end{cases}\Leftrightarrow \begin{cases}x=2\\y=-6\end{cases}$.
+Vậy giá trị lớn nhất của $P$ bằng 60.
+Chọn đáp án C.",khớp,"Đặt $t=\log_5 a$, điều kiện đúng với mọi $t\in\mathbb{R}$ dẫn tới $\Delta'=x^2+y^2-40\le0$, tức $x^2+y^2\le40$. Theo Cauchy-Schwarz: $x-3y\le\sqrt{(1^2+3^2)(x^2+y^2)}\le\sqrt{10\cdot40}=20$. Do đó $P=x^2+y^2+x-3y\le40+20=60$, tự giải độc lập cho cùng kết quả với đáp án C. Đáp án đúng.",

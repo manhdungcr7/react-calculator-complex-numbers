@@ -23,6 +23,7 @@ Run the scripts in the order indicated by their numeric prefixes.
 | `14_build_evaluation_table.py` | Combine transcribed questions into a conversion-quality evaluation table |
 | `16_export_for_review.py`, `17_split_review_batches.py` | Export the data and split it for two independent reviewers |
 | `18_merge_review_issues.py`, `19_apply_ghichu.py` | Merge reviewer findings and apply the recorded corrections |
+| `20_extract_mu_logarit.py` | Extract candidate Exponential/Logarithm questions from the source PDF for a second, separate topic (not part of the paper); see [`../data/README.md`](../data/README.md) |
 
 The source review PDF is not included in this repository. Update the input
 paths and provide the required API credentials before running scripts that
