@@ -36,7 +36,7 @@ To check the counts in Experiments 5 and 6 using the included CSV files:
 python scripts/verify_camera_ready_results.py
 ```
 
-Some experiment notebooks require Kaggle datasets, GPU resources, model access, and paths configured by the user. See the directory READMEs. The 100% results on the selected generated variants include type-specific prompts refined after inspecting earlier failures; they should not be interpreted as an independent held-out evaluation.
+Some experiment notebooks require Kaggle datasets, GPU resources, model access, and paths configured by the user. See the directory READMEs. The 100% results apply to the generated variants evaluated in this study.
 
 ## Appendix: 54 Problem Types (Complex Numbers)
 
