@@ -4,6 +4,6 @@
 
 [`react/`](react/) contains the ReAct-Calculator notebooks; [`react/prompts/`](react/prompts/) contains the type-specific prompts. For the configuration associated with each of the 32 result files, see [`react_final_runs.csv`](../../data/results/experiment5_exponentials_logarithms/react_final_runs.csv).
 
-The notebooks use Qwen3-4B, vLLM and a SymPy-based Calculator. They require the JSON dataset and GPU/model access; input paths and group settings must be adapted to the environment. The linked [main research repository](https://github.com/manhdungcr7/slm-highschool-math-tutoring) contains the notebook builders and broader development history.
+The notebooks use Qwen3-4B, vLLM and a SymPy-based Calculator. They require the JSON dataset and GPU/model access; input paths and group settings must be adapted to the environment. Notebook builders are available under [`../../scripts/experiments/exponentials_logarithms/`](../../scripts/experiments/exponentials_logarithms/).
 
 The original notebooks also set `presence_penalty=1.2`; this parameter is not listed in the paper's Qwen3-4B parameter table. Consult the notebook configuration for the complete settings.

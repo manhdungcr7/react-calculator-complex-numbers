@@ -68,7 +68,7 @@ not duplicated here.
 - [`baseline_regraded_by_type.csv`](results/experiment5_exponentials_logarithms/baseline_regraded_by_type.csv): the 89-type regraded summary; the 32 types below were selected because at least one baseline response was not correct.
 - [`react_final/`](results/experiment5_exponentials_logarithms/react_final/): one final 90-question ReAct-Calculator output file for each selected type. [`react_final_runs.csv`](results/experiment5_exponentials_logarithms/react_final_runs.csv) records which run supplied each file.
 
-The original answer extractor missed some answers formatted with `\boxed{\text{...}}`. The [original regrading script](../scripts/experiments/exponentials_logarithms/15_regrade_zeroshot_results.py) preserves the original result columns and applies a wider extraction rule. Its paths refer to the original research-repository layout; the per-question regraded index here records the result. Before regrading, the raw baseline has 7,109 correct answers; after regrading it has 7,118. On the 32 selected types the regraded baseline has 1,988/2,880 correct.
+The original answer extractor missed some answers formatted with `\boxed{\text{...}}`. The [original regrading script](../scripts/experiments/exponentials_logarithms/15_regrade_zeroshot_results.py) preserves the original result columns and applies a wider extraction rule. The script paths may require adjustment; the per-question regraded index here records the result. Before regrading, the raw baseline has 7,109 correct answers; after regrading it has 7,118. On the 32 selected types the regraded baseline has 1,988/2,880 correct.
 
 The 32 final ReAct files contain the results reported in the paper. The [notebooks and prompts](../experiments/exponentials_logarithms/) are provided with the corresponding configurations.
 
@@ -78,4 +78,4 @@ Type codes in this topic are internal Mũ–Logarit codes and are distinct from 
 
 [`selected_77_questions_and_results.csv`](results/experiment6_internet_questions/selected_77_questions_and_results.csv) contains question IDs, topics, type codes, source URLs, correct answers, model choices, outcomes, settings and model responses for the 77 questions reported in the paper. These comprise 22 Complex Numbers and 55 Exponentials and Logarithms questions. The baseline-prompt group is 43/43 correct; the ReAct-Calculator group is 30/34 correct.
 
-The [variant-generation scripts](../scripts/generate_exponentials_logarithms/) and [notebook-builder scripts](../scripts/experiments/exponentials_logarithms/) are included for reference. They retain paths from the main research repository and may require path adjustments when run here.
+The [variant-generation scripts](../scripts/generate_exponentials_logarithms/) and [notebook-builder scripts](../scripts/experiments/exponentials_logarithms/) are included for reference. Some input and output paths may require adjustment.

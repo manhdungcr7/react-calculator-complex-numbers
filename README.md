@@ -1,6 +1,6 @@
 # ReAct-Calculator for High-School Mathematics
 
-This repository accompanies the SOICT 2026 camera-ready paper **"Improving Small Language Model Performance on High-School Mathematics Using ReAct: A Case Study on Complex Numbers."** The main research and graduation-thesis repository is [slm-highschool-math-tutoring](https://github.com/manhdungcr7/slm-highschool-math-tutoring).
+This repository accompanies the SOICT 2026 camera-ready paper **"Improving Small Language Model Performance on High-School Mathematics Using ReAct: A Case Study on Complex Numbers."**
 
 The study evaluates Qwen3-4B on known multiple-choice problem types, using manually written solution guides and ReAct examples together with a SymPy-based Calculator. The main case study is Complex Numbers; the camera-ready evaluation also includes Exponentials and Logarithms and questions collected from the Internet.
 
