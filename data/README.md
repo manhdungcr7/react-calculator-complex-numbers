@@ -78,6 +78,4 @@ Type codes in this topic are internal Mũ–Logarit codes and are distinct from 
 
 [`selected_77_questions_and_results.csv`](results/experiment6_internet_questions/selected_77_questions_and_results.csv) contains question IDs, topics, type codes, source URLs, correct answers, model choices, outcomes, settings and model responses for the 77 questions reported in the paper. These comprise 22 Complex Numbers and 55 Exponentials and Logarithms questions. The baseline-prompt group is 43/43 correct; the ReAct-Calculator group is 30/34 correct.
 
-The 77 questions are those for which the predicted problem type matched the assigned type. The reported results are conditional on this match.
-
 The [variant-generation scripts](../scripts/generate_exponentials_logarithms/) and [notebook-builder scripts](../scripts/experiments/exponentials_logarithms/) are included for reference. They retain paths from the main research repository and may require path adjustments when run here.
