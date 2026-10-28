@@ -1,68 +1,42 @@
-# ReAct-Calculator for Multiple-Choice Complex Number Problems
+# ReAct-Calculator for High-School Mathematics
 
-This repository accompanies the paper **"Improving Small Language Model
-Performance on High-School Mathematics Using ReAct: A Case Study on Complex
-Numbers,"** submitted to SoICT 2026.
+This repository accompanies the SOICT 2026 camera-ready paper **"Improving Small Language Model Performance on High-School Mathematics Using ReAct: A Case Study on Complex Numbers."** The main research and graduation-thesis repository is [slm-highschool-math-tutoring](https://github.com/manhdungcr7/slm-highschool-math-tutoring).
 
-The study investigates whether a small language model (SLM) can answer every
-multiple-choice problem correctly within a defined set of high-school Complex
-Numbers problem types. The proposed method combines problem-type-specific
-solution guidance with ReAct and an external Calculator. The model decides how
-to solve the problem and which computation is needed, while the Calculator
-evaluates the mathematical expression and returns the result to the model.
+The study evaluates Qwen3-4B on known multiple-choice problem types, using manually written solution guides and ReAct examples together with a SymPy-based Calculator. The main case study is Complex Numbers; the camera-ready evaluation also includes Exponentials and Logarithms and questions collected from the Internet.
 
-## Main results
+## Results reported in the paper
 
-- The evaluation set contains **4,860 questions across 54 problem types**, generated
-  from 65 questions in a real high-school review document.
-- On the full evaluation set, Qwen3-4B achieved **85.7%** accuracy and
-  Gemini-2.5-Flash achieved **98.5%** accuracy.
-- Adding a solution guide increased Qwen3-4B accuracy from **28.9% to 82.1%**
-  on 810 questions from the nine most difficult types, but did not reach 100%.
-- ReAct-Calculator enabled Qwen3-4B to answer all **2,160 questions across the
-  24 remaining difficult types correctly**.
-- Reusing the same prompt and procedure increased Llama-3.2-3B-Instruct
-  accuracy from **20.7% to 53.5%**, while DeepSeek-R1-Distill-Qwen-1.5B
-  changed from **40.3% to 38.9%**.
+| Evaluation | Baseline | Guided/ReAct-Calculator |
+|---|---:|---:|
+| Complex Numbers: all 4,860 variants, 54 types | Qwen3-4B: 85.7%; Gemini-2.5-Flash: 98.5% | — |
+| Complex Numbers: 810 variants in nine difficult types | Qwen3-4B: 28.9% | Solution guide: 82.1% |
+| Complex Numbers: 2,160 variants in 24 selected types | Qwen3-4B: 67.8% | ReAct-Calculator: 100% |
+| Exponentials and Logarithms: 2,880 variants in 32 selected types | Qwen3-4B: 69.0% | ReAct-Calculator: 100% |
+| Internet questions: 77 questions in 41 known types | 43/43 baseline-prompt questions | 30/34 ReAct-prompt questions; 73/77 overall (94.8%) |
 
-## Repository structure
+The full Exponentials and Logarithms set contains 8,010 generated variants across 89 types, derived from 107 original questions; the regraded baseline result is 7,118/8,010 (88.86%). Reusing the Complex Numbers prompts and procedure on Llama-3.2-3B-Instruct changed accuracy from 20.7% to 53.5%; DeepSeek-R1-Distill-Qwen-1.5B changed from 40.3% to 38.9%.
 
-| Directory | Contents |
+The generated variants generally preserve the original question structure and vary numeric values. The Internet set is limited to known types, and the approach did not answer all of those questions correctly. The study does not establish performance on unseen problem types or free-response questions, nor does it isolate the effects of the Calculator and the ReAct example.
+
+## Repository contents
+
+| Path | Contents |
 |---|---|
-| [`appendix/`](appendix/) | The 54 Complex Numbers problem-type codes and names used in the paper |
-| [`data/`](data/) | Questions and per-question model outputs used to verify the reported results |
-| [`scripts/`](scripts/) | PDF-to-Markdown conversion and question-generation scripts |
-| [`experiments/`](experiments/) | Kaggle notebooks for the baseline and ReAct-Calculator experiments |
+| [`appendix/`](appendix/) | Codes and names of the 54 Complex Numbers types in the paper |
+| [`data/questions/`](data/questions/) | Complex Numbers and Exponentials and Logarithms questions |
+| [`data/results/`](data/results/) | Per-question outputs and result summaries, including Experiments 5 and 6 |
+| [`experiments/`](experiments/) | Baseline and ReAct-Calculator notebooks and prompts |
+| [`scripts/`](scripts/) | Extraction, generation and result-verification scripts |
 
-Each directory contains a README with additional details.
+Start with [`data/README.md`](data/README.md) for the precise data files, selection procedure, regrading, and final-run provenance. [`experiments/exponentials_logarithms/README.md`](experiments/exponentials_logarithms/README.md) explains which notebooks produced the final results. Questions and model outputs are in Vietnamese. The original review PDF is not distributed here.
 
-## Research workflow
+To check the counts in Experiments 5 and 6 using the included CSV files:
 
-1. **Build the evaluation dataset.** Extract Complex Numbers questions from a
-   real review document, group them into problem types, and generate variants
-   by changing numerical values while preserving the question structure and
-   solution method.
-2. **Evaluate the baseline.** Ask the models to solve the questions directly,
-   without problem-type-specific guidance or tool use.
-3. **Add a solution guide.** Provide Qwen3-4B with the solution method for each
-   selected problem type while leaving all computations to the model.
-4. **Apply ReAct-Calculator.** Let Qwen3-4B alternate between reasoning,
-   Calculator calls, and Calculator results until it produces a final answer.
-5. **Test prompt and procedure reuse.** Apply the same ReAct-Calculator prompt
-   and procedure to Llama-3.2-3B-Instruct and
-   DeepSeek-R1-Distill-Qwen-1.5B.
+```bash
+python scripts/verify_camera_ready_results.py
+```
 
-## Data and reproducibility
-
-The generated questions and detailed model outputs are available under
-[`data/`](data/). The original review PDF is not distributed in this
-repository. Scripts that process the source document and generate question
-variants are under [`scripts/`](scripts/), while the experiment notebooks are
-under [`experiments/`](experiments/).
-
-Some scripts require source files, API credentials, or Kaggle datasets that
-must be supplied by the user. See the README in each directory for the expected
-inputs and paths.
+Some experiment notebooks require Kaggle datasets, GPU resources, model access, and paths configured by the user. See the directory READMEs. The 100% results on the selected generated variants include type-specific prompts refined after inspecting earlier failures; they should not be interpreted as an independent held-out evaluation.
 
 ## Appendix: 54 Problem Types (Complex Numbers)
 

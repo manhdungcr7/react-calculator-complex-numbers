@@ -59,3 +59,8 @@ input path is configured near the beginning of the notebook through variables
 such as `DATA_PATH`, `DATA_DIR`, or `MERGED_DATA_PATH`. Upload the corresponding
 files from [`../data/questions/`](../data/questions/) and update these paths
 before running a notebook.
+
+
+## Exponentials and Logarithms
+
+See [`exponentials_logarithms/`](exponentials_logarithms/) for the baseline and ReAct notebooks, prompts, and final-run provenance for Experiment 5.

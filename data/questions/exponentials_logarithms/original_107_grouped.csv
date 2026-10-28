@@ -1,0 +1,540 @@
+﻿STT,id,Trang,Cau,Ma dang,Ten dang,De bai,Dap an dung
+1,p006_q12,6,12,D01,"Giải phương trình lôgarit cơ bản dạng log_a(f(x))=k, f(x) bậc nhất","Giải phương trình $\log_4(x-1) = 3$.
+A. $x = 63$.
+B. $x = 65$.
+C. $x = 80$.
+D. $x = 82$.",B. x = 65
+2,p006_q13,6,13,D02,Đạo hàm hàm số mũ cơ bản y=a^x,"Tính đạo hàm của hàm số $y = 13^x$.
+A. $y' = x \cdot 13^{x-1}$.
+B. $y' = 13^x \cdot \ln 13$.
+C. $y' = 13^x$.
+D. $y' = \dfrac{13x^x}{\ln 13}$.",B. y' = 13^x . ln 13
+3,p006_q14,6,14,D53,Giải bất phương trình lôgarit cơ bản dạng log_a(f(x))>k,"Giải bất phương trình $\log_2(3x-1) > 3$.
+A. $x > 3$.
+B. $\dfrac{1}{3} < x < 3$.
+C. $x < 3$.
+D. $x > \dfrac{10}{3}$.",A. x > 3
+4,p006_q15,6,15,D04,Tìm tập xác định hàm số lôgarit của tam thức bậc hai,"Tìm tập xác định $\mathscr{D}$ của hàm số $y = \log_2(x^2 - 2x - 3)$.
+A. $\mathscr{D} = (-\infty; -1] \cup [3; +\infty)$.
+B. $\mathscr{D} = [-1; 3]$.
+C. $\mathscr{D} = (-\infty; -1) \cup (3; +\infty)$.
+D. $\mathscr{D} = (-1; 3)$.",C. D = (-∞;-1) ∪ (3;+∞)
+5,p006_q16,6,16,D05,Nhận biết mệnh đề đúng/sai về biến đổi lôgarit của tích lũy thừa,"Cho hàm số $y = f(x) = 2^x \cdot 7^{x^2}$. Khẳng định nào sau đây là khẳng định **sai**?
+A. $f(x) < 1 \Leftrightarrow x + x^2\log_2 7 < 0$.
+B. $f(x) < 1 \Leftrightarrow x\ln 2 + x^2 \ln 7 < 0$.
+C. $f(x) < 1 \Leftrightarrow x\log_7 2 + x^2 < 0$.
+D. $f(x) < 1 \Leftrightarrow 1 + x\log_2 7 < 0$.",D. f(x) < 1 \Leftrightarrow 1 + x\log_2 7 < 0
+6,p006_q17,6,17,D06,Nhận biết công thức đổi cơ số lôgarit,"Cho các số thực dương $a, b$ với $a \neq 1$. Khẳng định nào sau đây là khẳng định đúng?
+A. $\log_{a^2}(ab) = \dfrac{1}{2}\log_a b$.
+B. $\log_{a^2}(ab) = 2 + 2\log_a b$.
+C. $\log_{a^2}(ab) = \dfrac{1}{4}\log_a b$.
+D. $\log_{a^2}(ab) = \dfrac{1}{2} + \dfrac{1}{2}\log_a b$.",D. log_{a^2}(ab) = 1/2 + (1/2)log_a b
+7,p007_q18,7,18,D07,Đạo hàm hàm số dạng thương chứa hàm số mũ,"Tính đạo hàm của hàm số $y = \dfrac{x+1}{4^x}$.
+A. $y' = \dfrac{1 - 2(x+1)\ln 2}{2^{2x}}$.
+B. $y' = \dfrac{1 + 2(x+1)\ln 2}{2^{2x}}$.
+C. $y' = \dfrac{1 - 2(x+1)\ln 2}{2^{x^2}}$.
+D. $y' = \dfrac{1 + 2(x+1)\ln 2}{2^{x^2}}$.",A. y' = [1-2(x+1)ln2]/2^{2x}
+8,p007_q19,7,19,D08,Biểu diễn một lôgarit qua các lôgarit cho trước bằng đổi cơ số,"Đặt $a = \log_2 3, b = \log_5 3$. Hãy biểu diễn $\log_6 45$ theo $a$ và $b$.
+A. $\log_6 45 = \dfrac{a+2ab}{ab}$.
+B. $\log_6 45 = \dfrac{2a^2-2ab}{ab}$.
+C. $\log_6 45 = \dfrac{a+2ab}{ab+b}$.
+D. $\log_6 45\dfrac{2a^2-2ab}{ab+b}$.",C. log6 45 = (a+2ab)/(ab+b)
+9,p018_q09,18,9,D10,Tìm tham số để hàm số chứa lôgarit tự nhiên đơn điệu trên R,"Tìm tập hợp tất cả các giá trị của tham số thực $m$ để hàm số $y = \ln(x^2+1) - mx + 1$ đồng biến trên khoảng $(-\infty; +\infty)$.
+A. $(-\infty; -1]$.
+B. $(-\infty; -1)$.
+C. $[-1; 1]$.
+D. $[1; +\infty)$.",A. (-∞;-1]
+10,p020_q13,20,13,D12,Giải phương trình mũ cơ bản dạng a^f(x)=a^k,"Tìm nghiệm của phương trình $3^{x-1} = 27$.
+A. $x = 9$.
+B. $x = 3$.
+C. $x = 4$.
+D. $x = 10$.",C. x = 4
+11,p020_q16,20,16,D13,"Rút gọn biểu thức lôgarit chứa tích, thương và lũy thừa","Với các số thực dương $a, b$ bất kì. Mệnh đề nào dưới đây đúng?
+A. $\log_2\left(\dfrac{2a^3}{b}\right) = 1 + 3\log_2 a - \log_2 b$.
+B. $\log_2\left(\dfrac{2a^3}{b}\right) = 1 + \dfrac{1}{3}\log_2 a - \log_2 b$.
+C. $\log_2\left(\dfrac{2a^3}{b}\right) = 1 + 3\log_2 a + \log_2 b$.
+D. $\log_2\left(\dfrac{2a^3}{b}\right) = 1 + \dfrac{1}{3}\log_2 a + \log_2 b$.",A. log2(2a^3/b) = 1 + 3log2 a - log2 b
+12,p020_q17,20,17,D14,Giải bất phương trình lôgarit cơ số nhỏ hơn 1,"Tìm tập nghiệm $S$ của bất phương trình $\log_{\frac{1}{2}}(x+1) < \log_{\frac{1}{2}}(2x-1)$.
+A. $S = (2; +\infty)$.
+B. $S = (-\infty; 2)$.
+C. $S = \left(\dfrac{1}{2}; 2\right)$.
+D. $S = (-1; 2)$.",C. S = (1/2; 2)
+13,p021_q18,21,18,D15,Đạo hàm hàm hợp chứa lôgarit tự nhiên,"Tính đạo hàm của hàm số $y = \ln(1+\sqrt{x+1})$.
+A. $y' = \dfrac{1}{2\sqrt{x+1}(1+\sqrt{x+1})}$.
+B. $y' = \dfrac{1}{1+\sqrt{x+1}}$.
+C. $y' = \dfrac{1}{\sqrt{x+1}(1+\sqrt{x+1})}$.
+D. $y' = \dfrac{2}{\sqrt{x+1}(1+\sqrt{x+1})}$.",A. y' = 1/[2√(x+1)(1+√(x+1))]
+14,p021_q20,21,20,D16,"Tìm tham số để phương trình mũ có nghiệm thuộc một khoảng (đặt ẩn phụ, xét hàm)","Tìm tập hợp tất cả các giá trị của tham số thực $m$để phương trình $6^x + (3-m)2^x - m = 0$ có nghiệm thuộc khoảng $(0;1)$.
+A. $[3;4]$.
+B. $[2;4]$.
+C. $(2;4)$.
+D. $(3;4)$.",C. (2;4)
+15,p021_q21,21,21,D17,Tìm giá trị nhỏ nhất của biểu thức lôgarit bằng đặt ẩn phụ và khảo sát hàm,"Xét các số thực $a, b$ thỏa mãn $a>b>1$. Tìm giá trị nhỏ nhất $P_{min}$ của biểu thức $P = \log^2_{\frac{a}{b}}(a^2) + 3\log_b\left(\dfrac{a}{b}\right)$.
+A. $P_{min}=19$.
+B. $P_{min}=13$.
+C. $P_{min}=14$.
+D. $P_{min}=15$.",D. Pmin = 15
+16,p031_q02,31,2,D18,Đạo hàm hàm số lôgarit cơ bản y=log_a x,"Tìm đạo hàm của hàm số $y = \log x$.
+A. $y' = \dfrac{1}{x}$.
+B. $y' = \dfrac{\ln 10}{x}$.
+C. $y' = \dfrac{1}{x\ln 10}$.
+D. $y' = \dfrac{1}{10\ln x}$.",C. y' = 1/(x ln10)
+17,p031_q03,31,3,D19,Giải bất phương trình mũ cơ bản dạng a^f(x)>a^k,"Tìm tập nghiệm của bất phương trình $5^{x+1} - \dfrac{1}{5} > 0$.
+A. $S = (1;+\infty)$.
+B. $S = (-1;+\infty)$.
+C. $S = (-2;+\infty)$.
+D. $S = (-\infty;-2)$.",C. S = (-2;+∞)
+18,p033_q13,33,13,D20,Tính giá trị lôgarit có cơ số và biểu thức đều là lũy thừa của một số,"Cho $a$ là số thực dương, $a\neq 1$ và $P = \log_{\sqrt[3]{a}} a^3$. Mệnh đề nào dưới đây là đúng?
+A. $P=3$.
+B. $P=1$.
+C. $P=9$.
+D. $P=\dfrac{1}{3}$.",C. P = 9
+19,p035_q22,35,22,D21,Giải phương trình lôgarit dùng công thức cộng hai lôgarit cùng cơ số,"Tìm tập nghiệm $S$ của phương trình $\log_2(x-1) + \log_2(x+1) = 3$.
+A. $S = \{-3;3\}$.
+B. $S = \{4\}$.
+C. $S = \{3\}$.
+D. $S = \{-\sqrt{10};\sqrt{10}\}$.",C. S = {3}
+20,p038_q33,38,33,D22,Tính giá trị biểu thức lôgarit phức hợp qua một lôgarit cho trước,"Cho $a, b$ là các số thực dương thỏa mãn $a\neq 1, a\neq\sqrt{b}$ và $\log_a b = \sqrt{3}$. Tính $P = \log_{\frac{\sqrt{b}}{a}}\sqrt{\dfrac{b}{a}}$.
+A. $P=-5+3\sqrt{3}$.
+B. $P=-1+\sqrt{3}$.
+C. $P=-1-\sqrt{3}$.
+D. $P=-5-3\sqrt{3}$.",C. P = -1-√3
+21,p039_q35,39,35,D23,Biện luận số nghiệm phương trình chứa lôgarit bằng khảo sát hàm số,"Hỏi phương trình $3x^2-6x+\ln(x+1)^3+1=0$ có bao nhiêu nghiệm phân biệt?
+A. 2.
+B. 1.
+C. 3.
+D. 4.",C. 3
+22,p041_q40,41,40,D24,Nhận biết tính chất (đạo hàm/đơn điệu) của hàm số chứa lôgarit,"Cho hàm số $y = \dfrac{\ln x}{x}$, mệnh đề nào dưới đây đúng?
+A. $2y'+xy''=-\dfrac{1}{x^2}$.
+B. $y'+xy''=\dfrac{1}{x^2}$.
+C. $y'+xy''=-\dfrac{1}{x^2}$.
+D. $2y'+xy''=\dfrac{1}{x^2}$.",A. 2y' + xy'' = -1/x^2
+23,p042_q45,42,45,D25,Tìm số giá trị nguyên tham số để phương trình lôgarit có nghiệm duy nhất,"Hỏi có bao nhiêu giá trị $m$ nguyên trong đoạn $[-2017;2017]$ để phương trình $\log(mx) = 2\log(x+1)$ có nghiệm duy nhất?
+A. 2017.
+B. 4014.
+C. 2018.
+D. 4015.",C. 2018
+24,p049_q10,49,10,D36a,Nhận biết mệnh đề đúng về lôgarit của lũy thừa,"Với $a$ là số thực dương bất kì, mệnh đề nào dưới đây đúng?
+A. $\log(3a)=3\log a$.
+B. $\log(a^3)=\dfrac{1}{3}\log a$.
+C. $\log(a^3)=3\log a$.
+D. $\log(3a)=\dfrac{1}{3}\log a$.",C. log(a^3) = 3log a
+25,p049_q13,49,13,D27,Giải bất phương trình mũ cùng cơ số dạng a^f(x)<a^g(x),"Tập nghiệm của bất phương trình $2^{2x} < 2^{x+6}$ là
+A. $(0;6)$.
+B. $(-\infty;6)$.
+C. $(0;64)$.
+D. $(6;+\infty)$.",B. (-∞;6)
+26,p053_q27,53,27,D28,Giải phương trình tích nhiều lôgarit cùng cơ số bằng đổi cơ số và đặt ẩn phụ,"Tính tổng các nghiệm thực của phương trình $\log_3 x.\log_9 x.\log_{27}x.\log_{81}x = \dfrac{2}{3}$ bằng
+A. $\dfrac{82}{9}$.
+B. $\dfrac{80}{9}$.
+C. $9$.
+D. $0$.",A. 82/9
+27,p056_q34,56,34,D29,Tìm tham số để phương trình mũ đẳng cấp có nghiệm dương (chia và đặt ẩn phụ),"Có bao nhiêu giá trị nguyên dương của tham số $m$ để phương trình sau có nghiệm dương $16^x - 2\cdot 12^x + (m-2)\cdot 9^x = 0$?
+A. 1.
+B. 2.
+C. 4.
+D. 3.",B. 2.
+28,p065_q05,65,5,D30,Rút gọn biểu thức lôgarit của một tích chứa lũy thừa,"Với $a$ và $b$ là hai số thực dương tùy ý, $\log(ab^2)$ bằng
+A. $2\log a+\log b$.
+B. $\log a+2\log b$.
+C. $2(\log a+\log b)$.
+D. $\log a+\dfrac{1}{2}\log b$.",B. $\log a+2\log b$.
+29,p068_q23,68,23,D33,"Giải bất phương trình mũ cùng cơ số, số mũ là tam thức bậc hai","Tập nghiệm của bất phương trình $3^{x^2-2x}<27$ là
+A. $(-\infty;-1)$.
+B. $(3;+\infty)$.
+C. $(-1;3)$.
+D. $(-\infty;-1)\cup(3;+\infty)$.",C. $(-1;3)$.
+30,p069_q28,69,28,D34,Đạo hàm hàm hợp chứa lôgarit của tam thức bậc hai,"Hàm số $f(x)=\log_2(x^2-2x)$ có đạo hàm
+A. $f'(x)=\dfrac{\ln 2}{x^2-2x}$.
+B. $f'(x)=\dfrac{1}{(x^2-2x)\ln 2}$.
+C. $f'(x)=\dfrac{(2x-2)\ln 2}{x^2-2x}$.
+D. $f'(x)=\dfrac{2x-2}{(x^2-2x)\ln 2}$.",D. $f'(x)=\dfrac{2x-2}{(x^2-2x)\ln 2}$.
+31,p070_q31,70,31,D35,"Giải phương trình lôgarit bằng đặt ẩn phụ t=a^x, tính tổng nghiệm","Tổng tất cả các nghiệm của phương trình $\log_3(7-3^x)=2-x$
+A. 2.
+B. 1.
+C. 7.
+D. 3.",A. 2.
+32,p079_q06,79,6,D01,"Giải phương trình lôgarit cơ bản dạng log_a(f(x))=k, f(x) bậc nhất","Nghiệm của phương trình $\log_3(2x-1)=2$ là
+A. $x=3$.
+B. $x=5$.
+C. $x=\dfrac{9}{2}$.
+D. $x=\dfrac{7}{2}$.",B. $x=5$.
+33,p079_q10,79,10,D36b,Tính lôgarit của lũy thừa bằng quy tắc đưa số mũ ra trước,"Với $a$ là số thực dương tùy ý, $\log_2(a^2)$ bằng
+A. $2+\log_2 a$.
+B. $\dfrac{1}{2}+\log_2 a$.
+C. $2\log_2 a$.
+D. $\dfrac{1}{2}\log_2 a$.",C. $2\log_2 a$.
+34,p081_q20,81,20,D37,Từ đẳng thức lôgarit hai cơ số khác nhau suy ra quan hệ giữa hai biến,"Xét tất cả các số thực dương $a$ và $b$ thỏa mãn $\log_2 a=\log_8(ab)$.
+Mệnh đề nào dưới đây đúng?
+A. $a=b^2$.
+B. $a^3=b$.
+C. $a=b$.
+D. $a^2=b$.",D. $a^2=b$.
+35,p082_q21,82,21,D38,"Giải bất phương trình mũ cùng cơ số, hai vế là tam thức bậc hai","Tập nghiệm của bất phương trình $5^{x-1}\ge 5^{x^2-x-9}$
+A. $[-2;4]$.
+B. $[-4;2]$.
+C. $(-\infty;-2]\cup[4;+\infty)$.
+D. $(-\infty;-4]\cup[2;+\infty)$.",A. $[-2;4]$.
+36,p087_q41,87,41,D39,Từ dãy đẳng thức lôgarit ba cơ số khác nhau suy ra tỉ lệ giữa các biến,"Cho $x,y$ là các số thực dương thỏa mãn $\log_9 x=\log_6 y=\log_4(2x+y)$. Giá trị của $\dfrac{x}{y}$ bằng
+A. 2.
+B. $\dfrac{1}{2}$.
+C. $\log_2\left(\dfrac{3}{2}\right)$.
+D. $\log_{\frac{3}{2}}2$.",B. $\dfrac{1}{2}$.
+37,p088_q43,88,43,D40,Tìm tham số để phương trình lôgarit bậc hai (đặt ẩn phụ) có hai nghiệm phân biệt thỏa điều kiện,"Cho phương trình $\log_2^2(2x)-(m+2)\log_2 x+m-2=0$ ($m$ là tham số thực). Tập hợp tất cả các giá trị của $m$ để phương trình đã cho có hai nghiệm phân biệt thuộc đoạn $[1;2]$ là
+A. $(1;2)$.
+B. $[1;2]$.
+C. $[1;2)$.
+D. $[2;+\infty)$.",C. $[1;2)$.
+38,p090_q47,90,47,D41,Đếm số cặp nguyên thỏa phương trình mũ-lôgarit bằng hàm đặc trưng đơn điệu,"Có bao nhiêu cặp số nguyên $(x;y)$ thỏa mãn $0\le x\le 2020$ và $\log_3(3x+3)+x=2y+9^y$?
+A. 2019.
+B. 6.
+C. 2020.
+D. 4.",D. 4.
+39,p093_q03,93,3,D12,Giải phương trình mũ cơ bản dạng a^f(x)=a^k,"Nghiệm của phương trình $3^{x-1}=27$ là
+A. $x=4$.
+B. $x=3$.
+C. $x=2$.
+D. $x=1$.",A. $x=4$.
+40,p093_q05,93,5,D42,Tìm tập xác định hàm số lôgarit cơ bản y=log_a x,"Tập xác định của hàm số $y=\log_2 x$ là
+A. $[0;+\infty)$.
+B. $(-\infty;+\infty)$.
+C. $(0;+\infty)$.
+D. $[2;+\infty)$.",C. $(0;+\infty)$.
+41,p094_q11,94,11,D36b,Tính lôgarit của lũy thừa bằng quy tắc đưa số mũ ra trước,"Với $a$ là hai số thực dương tùy ý, $\log_2(a^3)$ bằng
+A. $\dfrac{3}{2}\log_2 a$.
+B. $\dfrac{1}{3}\log_2 a$.
+C. $3+\log_2 a$.
+D. $3\log_2 a$.",D. $3\log_2 a$.
+42,p095_q16,95,16,D43,Giải bất phương trình lôgarit cơ bản (lôgarit thập phân),"Tập nghiệm của bất phương trình $\log x\ge 1$ là
+A. $(10;+\infty)$.
+B. $(0;+\infty)$.
+C. $[10;+\infty)$.
+D. $(-\infty;10)$.",C. $[10;+\infty)$.
+43,p098_q29,98,29,D44,Từ đẳng thức lôgarit chứa lũy thừa của cơ số suy ra quan hệ giữa các biến,"Xét số thực $a$ và $b$ thỏa mãn $\log_3(3^a\cdot 9^b)=\log_9 3$. Mệnh đề nào dưới đây đúng
+A. $a+2b=2$.
+B. $4a+2b=1$.
+C. $4ab=1$.
+D. $2a+4b=1$.",D. $2a+4b=1$.
+44,p099_q31,99,31,D45,Giải bất phương trình mũ bằng đặt ẩn phụ t=a^x,"Tập nghiệm của bất phương trình $9^x+2\cdot 3^x-3>0$ là
+A. $[0;+\infty)$.
+B. $(0;+\infty)$.
+C. $(1;+\infty)$.
+D. $[1;+\infty)$.",B. $(0;+\infty)$.
+45,p105_q47,105,47,D46,Tìm giá trị nhỏ nhất của biểu thức mũ-lôgarit qua ẩn phụ t=log_a b,"Xét các số thực dương $a,b,x,y$ thỏa mãn $a>1,b>1$ và $a^x=b^y=\sqrt{ab}$. Giá trị nhỏ nhất của biểu thức $P=x+2y$ thuộc tập nào dưới đây?
+A. $(1;2)$.
+B. $\left[2;\dfrac{5}{2}\right)$.
+C. $[3;4)$.
+D. $\left[\dfrac{5}{2};3\right)$.",D. $\left[\dfrac{5}{2};3\right)$.
+46,p106_q50,106,50,D47,Đếm số nguyên thỏa điều kiện tồn tại bằng hàm đặc trưng đơn điệu,"Có bao nhiêu số nguyên $x$ sao cho tồn tại số thực $y$ thỏa mãn $\log_3(x+y)=\log_4(x^2+y^2)$?
+A. 3.
+B. 2.
+C. 1.
+D. Vô số.",B. 2.
+47,p109_q07,109,7,D48,Giải bất phương trình mũ dạng a^x>c (c không là lũy thừa nguyên của a),"Tập nghiệm của bất phương trình $2^x > 6$ là
+A. $(\log_2 6; +\infty)$.
+B. $(-\infty; 3)$.
+C. $(3; +\infty)$.
+D. $(-\infty; \log_2 6)$.",A. $(\log_2 6; +\infty)$.
+48,p109_q10,109,10,D01,"Giải phương trình lôgarit cơ bản dạng log_a(f(x))=k, f(x) bậc nhất","Nghiệm của phương trình $\log_2(x+4)=3$ là
+A. $x=5$.
+B. $x=4$.
+C. $x=2$.
+D. $x=12$.",B. $x=4$.
+49,p110_q17,110,17,D49,Tách lôgarit của một thương thành hiệu hai lôgarit,"Với mọi số thực $a$ dương, $\log_2\dfrac{a}{2}$ bằng
+A. $\dfrac{1}{2}\log_2 a$.
+B. $\log_2 a+1$.
+C. $\log_2 a-1$.
+D. $\log_2 a-2$.",C. $\log_2 a-1$.
+50,p111_q22,111,22,D18,Đạo hàm hàm số lôgarit cơ bản y=log_a x,"Trên khoảng $(0;+\infty)$, đạo hàm của hàm số $y=\log_2 x$ là
+A. $y'=\dfrac{1}{x\ln 2}$.
+B. $y'=\dfrac{\ln 2}{x}$.
+C. $y'=\dfrac{1}{x}$.
+D. $y'=\dfrac{1}{2x}$.",A. $y'=\dfrac{1}{x\ln 2}$.
+51,p113_q31,113,31,D50a,Dùng hiệu hai lôgarit để suy ra quan hệ giữa hai biến,"Với mọi $a,b$ thỏa mãn $\log_2 a-3\log_2 b=2$, khẳng định nào dưới đây đúng?
+A. $a=4b^3$.
+B. $a=3b+4$.
+C. $a=3b+2$.
+D. $a=\dfrac{4}{b^3}$.",A. $a=4b^3$.
+52,p115_q39,115,39,D51,Đếm số nguyên thỏa bất phương trình mũ-lôgarit-căn phức hợp,"Có bao nhiêu số nguyên $x$ thỏa mãn $(4^x-5.2^{x+2}+64)\sqrt{2-\log(4x)}\ge 0$?
+A. 22.
+B. 25.
+C. 23.
+D. 24.",D. 24.
+53,p119_q48,119,48,D52,Đếm số nguyên tham số sao cho tồn tại ít nhất k giá trị nguyên biến kia thỏa bất đẳng thức mũ,"Có bao nhiêu số nguyên $a$ sao cho ứng với mỗi $a$, tồn tại ít nhất bốn số nguyên $b \in (-12;12)$ thỏa mãn $4^{a^2+b} \le 3^{b-a} + 65$?
+A. 4.
+B. 6.
+C. 5.
+D. 7.",D. 7.
+54,p121_q02,121,2,D18,Đạo hàm hàm số lôgarit cơ bản y=log_a x,"Trên khoảng $(0;+\infty)$, đạo hàm của hàm số $y=\log_3 x$ là
+A. $y'=\dfrac{1}{x}$.
+B. $y'=\dfrac{1}{x\ln3}$.
+C. $y'=\dfrac{\ln3}{x}$.
+D. $y'=-\dfrac{1}{x\ln3}$.",B. $y'=\dfrac{1}{x\ln3}$.
+55,p121_q04,121,4,D27,Giải bất phương trình mũ cùng cơ số dạng a^f(x)<a^g(x),"Tập nghiệm của bất phương trình $2^{x+1}<4$ là
+A. $(-\infty;1]$.
+B. $(1;+\infty)$.
+C. $[1;+\infty)$.
+D. $(-\infty;1)$.",D. $(-\infty;1)$.
+56,p124_q21,124,21,D53,Giải bất phương trình lôgarit cơ bản dạng log_a(f(x))>k,"Tập nghiệm của bất phương trình $\log(x-2)>0$ là
+A. $(2;3)$.
+B. $(-\infty;3)$.
+C. $(3;+\infty)$.
+D. $(12;+\infty)$.",C. $(3;+\infty)$.
+57,p125_q28,125,28,D54,Rút gọn hiệu hai lôgarit tự nhiên cùng cơ số,"Với $a$ là số thực dương tùy ý, $\ln(3a)-\ln(2a)$ bằng
+A. $\ln a$.
+B. $\ln\dfrac{2}{3}$.
+C. $\ln(6a^2)$.
+D. $\ln\dfrac{3}{2}$.",D. $\ln\dfrac{3}{2}$.
+58,p127_q34,127,34,D55,"Giải phương trình lôgarit bậc hai bằng đặt ẩn phụ, tính tích nghiệm qua Viète","Tích tất cả các nghiệm của phương trình $\ln^2 x + 2\ln x - 3 = 0$ bằng
+A. $\dfrac{1}{e^3}$.
+B. $-2$.
+C. $-3$.
+D. $\dfrac{1}{e^2}$.",D. $\dfrac{1}{e^2}$.
+59,p128_q39,128,39,D56,Đếm số nguyên thỏa bất phương trình lôgarit hai cơ số khác nhau,"Có bao nhiêu số nguyên $x$ thỏa mãn $\log_3\dfrac{x^2-16}{343} < \log_7\dfrac{x^2-16}{27}$?
+A. 193.
+B. 92.
+C. 186.
+D. 184.",D. 184.
+60,p133_q47,133,47,D57,Đếm số cặp nguyên thỏa bất phương trình mũ-lôgarit bằng hàm đặc trưng đơn điệu,"Có bao nhiêu cặp số nguyên $(x;y)$ thỏa mãn
+$$\log_3\left(x^2+y^2+x\right)+\log_2\left(x^2+y^2\right) \le \log_3 x + \log_2\left(x^2+y^2+24x\right)?$$
+A. 89.
+B. 48.
+C. 90.
+D. 49.",B. 48.
+61,p137_q01,137,1,D58,Đặt ẩn phụ t=a^x để đưa phương trình mũ về phương trình bậc hai theo t,"Cho phương trình $4^x+2^{x+1}-3=0$. Khi đặt $t=2^x$, ta được phương trình nào dưới đây?
+A. $2t^2-3=0$.
+B. $t^2+t-3=0$.
+C. $4t-3=0$.
+D. $t^2+2t-3=0$.",D. $t^2+2t-3=0$.
+62,p138_q06,138,6,D59,Tính giá trị lôgarit có cơ số là căn bậc hai của biến,"Cho $a$ là số thực dương khác 1. Tính $I=\log_{\sqrt{a}}a$.
+A. $I=\dfrac{1}{2}$.
+B. $I=0$.
+C. $I=-2$.
+D. $I=2$.",D. $I=2$.
+63,p139_q15,139,15,D60,Rút gọn tổng nhiều lôgarit cùng biến bằng đổi cơ số,"Với $a,b$ là các số thực dương tùy ý và $a$ khác 1, đặt $P=\log_a b^3+\log_{a^2}b^6$. Mệnh đề nào dưới đây đúng?
+A. $P=9\log_a b$.
+B. $P=27\log_a b$.
+C. $P=15\log_a b$.
+D. $P=6\log_a b$.",D. $P=6\log_a b$.
+64,p139_q16,139,16,D61,Tìm tập xác định hàm số lôgarit của một phân thức,"Tìm tập xác định $D$ của hàm số $y=\log_5\dfrac{x-3}{x+2}$.
+A. $D=\mathbb{R}\setminus\{-2\}$.
+B. $D=(-\infty;-2)\cup[3;+\infty)$.
+C. $D=(-2;3)$.
+D. $D=(-\infty;-2)\cup(3;+\infty)$.",D. $D=(-\infty;-2)\cup(3;+\infty)$.
+65,p139_q17,139,17,D62,Giải bất phương trình lôgarit bậc hai bằng đặt ẩn phụ t=log_a x,"Tìm tập nghiệm $S$ của bất phương trình $\log_2^2 x - 5\log_2 x + 4 \ge 0$.
+A. $S = (-\infty; 2] \cup [16; +\infty)$.
+B. $S = [2; 16]$.
+C. $S = (0; 2] \cup [16; +\infty)$.
+D. $S = (-\infty; 1] \cup [4; +\infty)$.",C. $S = (0; 2] \cup [16; +\infty)$.
+66,p145_q39,145,39,D63,Tìm tham số để phương trình lôgarit bậc hai có hai nghiệm thỏa tích x1x2 cho trước,"Tìm giá trị thực của tham số $m$ để phương trình $\log_3^2 x-m\log_3 x+2m-7=0$ có hai nghiệm thực $x_1,x_2$ thỏa mãn $x_1x_2=81$.
+A. $m=-4$.
+B. $m=4$.
+C. $m=81$.
+D. $m=44$.",B. $m=4$.
+67,p146_q42,146,42,D64,Tính giá trị lôgarit theo tích hai cơ số qua công thức đổi cơ số,"Cho $\log_a x=3$, $\log_b x=4$ với $a,b$ là các số thực lớn hơn 1. Tính $P=\log_{ab}x$.
+A. $P=\dfrac{7}{2}$.
+B. $P=\dfrac{1}{12}$.
+C. $P=12$.
+D. $P=\dfrac{12}{7}$.",D. $P=\dfrac{12}{7}$.
+68,p148_q47,148,47,D65,Tìm giá trị nhỏ nhất của biểu thức hai biến từ phương trình lôgarit bằng hàm đặc trưng,"Xét các số thực dương $x,y$ thỏa mãn $\log_3\dfrac{1-xy}{x+2y}=3xy+x+2y-4$. Tìm giá trị nhỏ nhất $P_{\min}$ của $P=x+y$.
+A. $P_{\min}=\dfrac{9\sqrt{11}-19}{9}$.
+B. $P_{\min}=\dfrac{9\sqrt{11}+19}{9}$.
+C. $P_{\min}=\dfrac{18\sqrt{11}-29}{21}$.
+D. $P_{\min}=\dfrac{2\sqrt{11}-3}{3}$.",D. $P_{\min}=\dfrac{2\sqrt{11}-3}{3}$.
+69,p154_q11,154,11,D66,Tách lôgarit của một tích chứa hằng số thành tổng hai lôgarit,"Với $a$ là số thực dương tuỳ ý, $\log_3(3a)$ bằng
+A. $3\log_3 a$.
+B. $3+\log_3 a$.
+C. $1+\log_3 a$.
+D. $1-\log_3 a$.",C. $1+\log_3 a$.
+70,p161_q35,161,35,D67,Tìm tham số nguyên để phương trình mũ đặt ẩn phụ có hai nghiệm ẩn phụ phân biệt,"Gọi $S$ là tập hợp tất cả các giá trị nguyên của tham số $m$ sao cho phương trình $25^x-m\cdot5^{x+1}+7m^2-7=0$ có hai nghiệm phân biệt. Hỏi $S$ có bao nhiêu phần tử?
+A. 7.
+B. 1.
+C. 2.
+D. 3.",C. 2.
+71,p161_q37,161,37,D68,Tìm giá trị biểu thức từ hệ hai đẳng thức lôgarit-mũ bằng bất đẳng thức Cô-si,"Cho $a>0,b>0$ thỏa mãn
+$$\log_{10a+3b+1}(25a^2+b^2+1)+\log_{10ab+1}(10a+3b+1)=2.$$
+Giá trị của $a+2b$ bằng
+A. $\dfrac{5}{2}$.
+B. 6.
+C. 22.
+D. $\dfrac{11}{2}$.",D. $\dfrac{11}{2}$.
+72,p166_q45,166,45,D69,Đếm giá trị nguyên tham số để phương trình mũ-lôgarit lồng nhau có nghiệm,"Cho phương trình $3^x+m=\log_3(x-m)$ với $m$ là tham số. Có bao nhiêu giá trị nguyên của $m\in(-15;15)$ để phương trình đã cho có nghiệm?
+A. 16.
+B. 9.
+C. 14.
+D. 15.",C. 14.
+73,p171_q05,171,5,D36b,Tính lôgarit của lũy thừa bằng quy tắc đưa số mũ ra trước,"Với $a$ là số thực dương tùy ý, $\log_5 a^3$ bằng
+A. $\dfrac{1}{3}\log_5 a$.
+B. $\dfrac{1}{3}+\log_5 a$.
+C. $3+\log_5 a$.
+D. $3\log_5 a$.",D. $3\log_5 a$.
+74,p172_q13,172,13,D12,Giải phương trình mũ cơ bản dạng a^f(x)=a^k,"Nghiệm của phương trình $3^{2x+1}=27$ là
+A. 2.
+B. 1.
+C. 5.
+D. 4.",B. 1.
+75,p173_q16,173,16,D71,Giải phương trình lôgarit chuyển vế rồi dùng công thức cộng lôgarit,"Nghiệm của phương trình $\log_2(x+1)=1+\log_2(x-1)$ là
+A. $x=1$.
+B. $x=-2$.
+C. $x=3$.
+D. $x=2$.",C. $x=3$.
+76,p176_q25,176,25,D72,Từ đẳng thức lũy thừa của hai biến suy ra tổng lôgarit có hệ số,"Cho $a$ và $b$ là hai số thực dương thỏa mãn $a^3b^2=32$. Giá trị của $3\log_2a+2\log_2b$ bằng
+A. 5.
+B. 2.
+C. 32.
+D. 4.",A. 5.
+77,p176_q26,176,26,D73,Đạo hàm hàm hợp chứa hàm số mũ y=a^u(x),"Hàm số $y=3^{x^2-3x}$ có đạo hàm là
+A. $(2x-3)\cdot3^{x^2-3x}$.
+B. $3^{x^2-3x}\cdot\ln3$.
+C. $(x^2-3x)\cdot3^{x^2-3x-1}$.
+D. $(2x-3)\cdot3^{x^2-3x}\cdot\ln3$.",D. $(2x-3)\cdot3^{x^2-3x}\cdot\ln3$.
+78,p179_q37,179,37,D74,Đếm giá trị nguyên tham số để phương trình lôgarit cùng cơ số có nghiệm,"Cho phương trình $\log_9x^2-\log_3(6x-1)=-\log_3m$ ($m$ là tham số thực). Có tất cả bao nhiêu giá trị nguyên của $m$ để phương trình đã cho có nghiệm?
+A. 6.
+B. 5.
+C. Vô số.
+D. 7.",B. 5.
+79,p186_q47,186,47,D75,Đếm giá trị nguyên dương tham số để phương trình tích (lôgarit bậc hai và căn chứa tham số) có nghiệm,"Cho phương trình $\left(2\log_2^2x-3\log_2x-2\right)\sqrt{3^x-m}=0$ ($m$ là tham số thực). Có tất cả bao nhiêu giá trị nguyên dương của $m$ để phương trình đã cho có đúng hai nghiệm phân biệt?
+A. 79.
+B. 80.
+C. Vô số.
+D. 81.",A. 79.
+80,p191_q08,191,8,D01,"Giải phương trình lôgarit cơ bản dạng log_a(f(x))=k, f(x) bậc nhất","Nghiệm của phương trình $\log_2(x-1)=3$ là
+A. $x=10$.
+B. $x=8$.
+C. $x=9$.
+D. $x=7$.",C. $x=9$.
+81,p191_q12,191,12,D76,Nhận biết công thức đổi cơ số lôgarit dạng log_{a^n} b,"Với $a, b$ là các số thực dương tuỳ ý và $a \neq 1$, $\log_{a^2} b$ bằng
+A. $\dfrac{1}{2} + \log_a b$.
+B. $\dfrac{1}{2}\log_a b$.
+C. $2 + \log_a b$.
+D. $2\log_a b$.",B. $\dfrac{1}{2}\log_a b$
+82,p192_q13,192,13,D12,Giải phương trình mũ cơ bản dạng a^f(x)=a^k,"Nghiệm của phương trình $3^{x-2}=9$ là
+A. $x=-3$.
+B. $x=3$.
+C. $x=4$.
+D. $x=-4$.",C. $x=4$
+83,p193_q25,193,25,D42,Tìm tập xác định hàm số lôgarit cơ bản y=log_a x,"Tập xác định của hàm số $y=\log_6 x$ là
+A. $[0;+\infty)$.
+B. $(0;+\infty)$.
+C. $(-\infty;0)$.
+D. $(-\infty;+\infty)$.",B. $(0;+\infty)$
+84,p195_q30,195,30,D77,Biến đổi biểu thức chứa a^log_a(...) để suy ra quan hệ giữa các biến,"Cho $a, b$ là hai số thực dương thỏa mãn $4^{\log_2(ab)}=3a$. Giá trị của $ab^2$ bằng
+A. 3.
+B. 6.
+C. 2.
+D. 12.",A. 3
+85,p197_q37,197,37,D33,"Giải bất phương trình mũ cùng cơ số, số mũ là tam thức bậc hai","Tập nghiệm của bất phương trình $3^{x^2-23}<9$ là
+A. $(-5;5)$.
+B. $(-\infty;5)$.
+C. $(5;+\infty)$.
+D. $(0;5)$.",A. $(-5;5)$
+86,p203_q48,203,48,D78,Tìm giá trị nhỏ nhất của biểu thức hai biến với điều kiện chứa mũ bằng đánh giá/tiếp tuyến,"Xét các số thực không âm $x$ và $y$ thỏa mãn $2x+y\cdot 4^{x+y-1}\ge 3$. Giá trị nhỏ nhất của biểu thức $P=x^2+y^2+6x+4y$ bằng
+A. $\dfrac{65}{8}$.
+B. $\dfrac{33}{4}$.
+C. $\dfrac{49}{8}$.
+D. $\dfrac{57}{8}$.",A. $\dfrac{65}{8}$
+87,p204_q49,204,49,D79,Đếm số nguyên một biến sao cho số giá trị nguyên biến kia thỏa bất phương trình lôgarit không vượt một ngưỡng,"Có bao nhiêu số nguyên $x$ sao cho ứng với mỗi $x$ có không quá 242 số nguyên $y$ thỏa mãn $\log_4(x^2+y)\ge \log_3(x+y)$?
+A. 55.
+B. 28.
+C. 29.
+D. 56.",D. 56
+88,p206_q04,206,4,D80,Tìm tập xác định hàm số mũ cơ bản y=a^x,"Tập xác định của hàm số $y=7^x$ là
+A. $\mathbb{R}\setminus\{0\}$.
+B. $[0;+\infty)$.
+C. $(0;+\infty)$.
+D. $\mathbb{R}$.",D. $\mathbb{R}$
+89,p208_q17,208,17,D81,Tính giá trị lôgarit của căn bậc ba của chính cơ số,"Cho $a>0$ và $a\neq 1$, khi đó $\log_a \sqrt[3]{a}$ bằng
+A. $-3$.
+B. $\dfrac13$.
+C. $-\dfrac13$.
+D. 3.",B. $\dfrac13$
+90,p210_q26,210,26,D82,Giải bất phương trình mũ dạng a^x<c (c không là lũy thừa nguyên của a),"Tập nghiệm của bất phương trình $2^x<5$ là
+A. $(-\infty;\log_2 5)$.
+B. $(\log_2 5;+\infty)$.
+C. $(-\infty;\log_5 2)$.
+D. $(\log_5 2;+\infty)$.",A. $(-\infty;\log_2 5)$
+91,p210_q27,210,27,D01,"Giải phương trình lôgarit cơ bản dạng log_a(f(x))=k, f(x) bậc nhất","Nghiệm của phương trình $\log_5(3x)=2$ là
+A. 25.
+B. $\dfrac{32}{3}$.
+C. 32.
+D. $\dfrac{25}{3}$.",D. $\dfrac{25}{3}$
+92,p213_q38,213,38,D50b,Dùng tổng hai lôgarit để suy ra quan hệ giữa hai biến,"Với mọi $a, b$ thỏa mãn $\log_2 a^3+\log_2 b=8$, khẳng định nào sau đây là đúng?
+A. $a^3+b=64$.
+B. $a^3 b=256$.
+C. $a^3 b=64$.
+D. $a^3+b=256$.",B. $a^3 b=256$
+93,p213_q39,213,39,D83,Đếm số nguyên thỏa bất phương trình tích (mũ và lôgarit) nhỏ hơn hoặc bằng 0,"Có bao nhiêu số nguyên $x$ thỏa mãn $\left(3^{x^2}-9^x\right)\left[\log_2(x+30)-5\right]\le 0$?
+A. 30.
+B. Vô số.
+C. 31.
+D. 29.",C. 31
+94,p216_q45,216,45,D84,Đếm số nguyên một biến sao cho tồn tại biến kia thỏa phương trình mũ bằng xét hàm đơn điệu,"Có bao nhiêu số nguyên $y$ tồn tại sao cho $x\in\left(\dfrac13;4\right)$ thỏa mãn $27^{3x^2+xy}=(1+xy)27^{12x}$?
+A. 14.
+B. 27.
+C. 12.
+D. 5.",A. 14
+95,p220_q04,220,4,D85,Tìm tập xác định hàm số lôgarit dạng log_a(x-c),"Tập xác định của hàm số $y=\log_3(x-4)$ là
+A. $(-\infty;4]$.
+B. $[4;+\infty)$.
+C. $(4;+\infty)$.
+D. $(-\infty;4)$.",C. $(4;+\infty)$
+96,p221_q08,221,8,D53,Giải bất phương trình lôgarit cơ bản dạng log_a(f(x))>k,"Tập nghiệm của bất phương trình $\log_3(2x)>2$ là
+A. $(0;4)$.
+B. $\left(\dfrac92;+\infty\right)$.
+C. $\left(0;\dfrac92\right)$.
+D. $(4;+\infty)$.",B. $\left(\dfrac92;+\infty\right)$
+97,p222_q17,222,17,D02,Đạo hàm hàm số mũ cơ bản y=a^x,"Đạo hàm của hàm số $y=4^x$ là
+A. $y'=x\cdot4^{x-1}$.
+B. $y'=4^x\ln4$.
+C. $y'=\dfrac{4^x}{\ln4}$.
+D. $y'=4^x$.",B. $y'=4^x\ln4$
+98,p223_q22,223,22,D86,"Giải phương trình mũ dạng a^x=c, nghiệm là lôgarit","Nghiệm của phương trình $5^x=2$ là
+A. $x=\log_2 5$.
+B. $x=\log_5 2$.
+C. $x=\dfrac25$.
+D. $x=\sqrt5$.",B. $x=\log_5 2$
+99,p225_q31,225,31,D87,Biểu diễn một lôgarit qua ẩn phụ lôgarit cho trước,"Với $a>0$, đặt $\log_2(2a)=b$, khi đó $\log_2(4a^3)$ bằng
+A. $3b+5$.
+B. $3b$.
+C. $3b+2$.
+D. $3b-1$.",D. $3b-1$
+100,p227_q40,227,40,D88,Đếm số nguyên thỏa bất phương trình tích (lôgarit và mũ) nhỏ hơn hoặc bằng 0,"Có bao nhiêu số nguyên $x$ thỏa mãn $\left[\log_3(x^2+1)-\log_3(x+21)\right](16-2^{x-1})\ge 0$?
+A. 17.
+B. 18.
+C. 16.
+D. Vô số.",B. 18
+101,p230_q45,230,45,D89,Đếm số nguyên dương một biến sao cho tồn tại biến kia thỏa phương trình chứa hàm mũ e^x,"Có bao nhiêu số nguyên dương $y$ sao cho tồn tại số thực $x\in(1;5)$ thỏa mãn $4(x-1)e^x=y(e^x+xy-2x^2-3)$?
+A. 14.
+B. 12.
+C. 10.
+D. 11.",B. 12
+102,p236_q12,236,12,D53,Giải bất phương trình lôgarit cơ bản dạng log_a(f(x))>k,"Tập nghiệm của bất phương trình $\log_5(x+1)>2$ là
+A. $(9;+\infty)$.
+B. $(25;+\infty)$.
+C. $(31;+\infty)$.
+D. $(24;+\infty)$.",D. $(24;+\infty)$
+103,p237_q17,237,17,D90,Rút gọn biểu thức lôgarit có hệ số nhân với lôgarit của căn bậc hai,"Với $a$ là số thực dương tùy ý, $4\log\sqrt{a}$ bằng
+A. $-2\log a$.
+B. $2\log a$.
+C. $-4\log a$.
+D. $8\log a$.",B. $2\log a$
+104,p238_q21,238,21,D91,Giải phương trình mũ cùng cơ số dạng a^f(x)=a^g(x),"Nghiệm của phương trình $3^{2x+1}=3^{2-x}$ là
+A. $x=\dfrac13$.
+B. $x=0$.
+C. $x=-1$.
+D. $x=1$.",A. $x=\dfrac13$
+105,p240_q31,240,31,D92,Đếm số nguyên thuộc tập xác định của hàm số lôgarit chứa tích hai nhị thức,"Có bao nhiêu số nguyên thuộc tập xác định của hàm số $y=\log[(6-x)(x+2)]$?
+A. 7.
+B. 8.
+C. 9.
+D. Vô số.",A. 7
+106,p242_q39,242,39,D93,Đếm số nguyên dương tham số sao cho có đúng k giá trị nguyên biến kia thỏa bất phương trình tích,"Có bao nhiêu số nguyên dương $a$ sao cho ứng với mỗi $a$ có đúng ba số nguyên $b$ thỏa mãn $(3^b-3)(a\cdot2^b-18)<0$?
+A. 72.
+B. 73.
+C. 71.
+D. 74.",B. 73
+107,p243_q44,243,44,D94,Tìm giá trị lớn nhất của biểu thức hai biến từ điều kiện đúng với mọi tham số bằng bất đẳng thức Cauchy-Schwarz,"Xét tất cả các số thực $x, y$ sao cho $a^{4x-\log_5 a^2}\le 25^{40-y^2}$ với mọi số thực dương $a$. Giá trị lớn nhất của biểu thức $P=x^2+y^2+x-3y$ bằng
+A. $\dfrac{125}{2}$.
+B. 80.
+C. 60.
+D. 20.",C. 60

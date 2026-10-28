@@ -57,3 +57,27 @@ solutions.
 The Qwen3-4B directory contains only ReAct-Calculator outputs. Its baseline
 results for these 24 types are included in the paper's baseline table and are
 not duplicated here.
+
+
+## Experiment 5: Exponentials and Logarithms
+
+- [`original_107_grouped.csv`](questions/exponentials_logarithms/original_107_grouped.csv): 107 source questions and 89 type codes.
+- [`questions_original_and_variants.csv`](questions/exponentials_logarithms/questions_original_and_variants.csv): the 107 originals and 8,010 generated variants, including answers and solutions.
+- [`baseline_raw.csv.gz`](results/experiment5_exponentials_logarithms/baseline_raw.csv.gz): the original 8,010 Qwen3-4B baseline outputs, including generated text and original answer extraction. Decompress with a gzip-compatible tool.
+- [`baseline_regraded_index.csv`](results/experiment5_exponentials_logarithms/baseline_regraded_index.csv): per-question original and regraded answer letters, outcomes and source-file identifiers. The regraded total is 7,118 correct, 36 incorrect and 856 undetermined.
+- [`baseline_regraded_by_type.csv`](results/experiment5_exponentials_logarithms/baseline_regraded_by_type.csv): the 89-type regraded summary; the 32 types below were selected because at least one baseline response was not correct.
+- [`react_final/`](results/experiment5_exponentials_logarithms/react_final/): one final 90-question ReAct-Calculator output file for each selected type. [`react_final_runs.csv`](results/experiment5_exponentials_logarithms/react_final_runs.csv) records which run supplied each file.
+
+The original answer extractor missed some answers formatted with `\boxed{\text{...}}`. The [original regrading script](../scripts/experiments/exponentials_logarithms/15_regrade_zeroshot_results.py) preserves the original result columns and applies a wider extraction rule. Its paths refer to the original research-repository layout; the per-question regraded index here records the result. Before regrading, the raw baseline has 7,109 correct answers; after regrading it has 7,118. On the 32 selected types the regraded baseline has 1,988/2,880 correct.
+
+The 32 final ReAct files use the initial runs for types that already reached 90/90, the H reruns for 12 types, the R01 rerun for D68 and the R04 rerun for D40. Prompts were revised after inspecting earlier failures on these variants. The final 100% is therefore a result on the evaluated variants following that refinement, not an independent holdout result. The [notebooks and prompts](../experiments/exponentials_logarithms/) include the initial and revised configurations.
+
+Type codes in this topic are internal Mũ–Logarit codes and are distinct from the Complex Numbers codes, even where the labels are identical.
+
+## Experiment 6: Internet questions
+
+[`selected_77_questions_and_results.csv`](results/experiment6_internet_questions/selected_77_questions_and_results.csv) contains question IDs, topics, type codes, source URLs, correct answers, model choices, outcomes, settings and model responses for the 77 questions reported in the paper. These comprise 22 Complex Numbers and 55 Exponentials and Logarithms questions. The baseline-prompt group is 43/43 correct; the ReAct-Calculator group is 30/34 correct.
+
+**Selection provenance:** this set was extracted retrospectively from a 93-question end-to-end run in the main research repository, retaining the 77 rows where the predicted type matched the assigned type. The original evaluation's type labels were assigned before solving, but the subset was selected after the routing run. Consequently, the 77-question result is conditional on this match and does not evaluate performance when type assignment is wrong. The 16 excluded questions and routing results can be examined in the [original 93-question data and report](https://github.com/manhdungcr7/slm-highschool-math-tutoring/tree/main/data/results/pipeline_realworld).
+
+The [variant-generation scripts](../scripts/generate_exponentials_logarithms/) and [notebook-builder scripts](../scripts/experiments/exponentials_logarithms/) are included for reference. They retain paths from the main research repository and may require path adjustments when run here.
