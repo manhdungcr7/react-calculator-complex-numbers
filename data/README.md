@@ -26,6 +26,7 @@ the paper and in this exported dataset.
 | [`experiment1_65cau_khao_sat/`](results/experiment1_65cau_khao_sat/) | Experiment 1: dataset difficulty | Outputs for the 65 original questions from GPT-4o, Gemini-2.5-Flash, and Qwen3-4B |
 | [`experiment2_810cau_huong_dan_giai/`](results/experiment2_810cau_huong_dan_giai/) | Experiment 2: zero-shot with a solution guide | Qwen3-4B baseline and guided outputs for 810 questions from the nine most difficult types |
 | [`experiment3_4_react_calculator/`](results/experiment3_4_react_calculator/) | Experiments 3 and 4: ReAct-Calculator | Outputs for 2,160 questions from Qwen3-4B, DeepSeek-R1-Distill-Qwen-1.5B, and Llama-3.2-3B-Instruct |
+| [`router_benchmark_v2/`](results/router_benchmark_v2/) | Problem-type router on benchmark v2 | Router predictions for the 2,160 reworded questions (1923/2160 correct) |
 
 ### Experiment 1
 

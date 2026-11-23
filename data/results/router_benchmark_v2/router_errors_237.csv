@@ -1,0 +1,238 @@
+﻿stt,ma_dang,nhan_dung,du_doan,top3,conf,de_bai_v2
+14,D04,92,99,99 90 91,0.962851,"Hãy tìm phần thực và phần ảo của số phức $\overline{z}$, biết rằng $z = -3-6i$. Hãy chọn đáp án đúng."
+92,D14,102,104,104 105 103,0.869136,"Hãy giải bài toán sau. Hãy xác định mô-đun của số phức $z_1+z_2$, trong đó $z_1 = -5+7i$ và $z_2 = -5+4i$."
+104,D14,102,104,104 103 101,0.509667,"Hãy xác định mô-đun của số phức $z_1+z_2$, biết $z_1 = -8+5i$ và $z_2 = 3-2i$. Hãy chọn đáp án đúng."
+112,D14,102,104,104 101 105,0.48837,Cho hai số phức $z_1 = 5+9i$ và $z_2 = 1+3i$. Số phức $z_1+z_2$ có môđun bằng bao nhiêu?
+116,D14,102,104,104 105 109,0.474041,Cho hai số phức $z_2 = 5-7i$ và $z_1 = 4+8i$. Hãy xác định môđun của số phức $z_1+z_2$. Hãy chọn đáp án đúng.
+139,D14,102,104,104 105 103,0.888387,Xét $z_1 = \dfrac{41}{5}-\dfrac{44}{5}i$ và $z_2 = - \dfrac{27}{4}-\dfrac{4}{3}i$. Xác định môđun của $z_1+z_2$. Chọn một đáp án.
+146,D14,102,104,104 105 103,0.855028,"Đề bài: Xác định mô-đun của số phức $z_1+z_2$, trong đó $z_1 = - \dfrac{14}{3}-\dfrac{17}{2}i$ và $z_2 = \dfrac{36}{5}-\dfrac{13}{4}i$."
+151,D14,102,104,104 109 103,0.581387,"Cho hai số phức $z_1 = -7+2 \sqrt{3}i$, $z_2 = 4-\sqrt{5}i$. Hãy xác định môđun của số phức $z_1+z_2$. Hãy chọn đáp án đúng."
+156,D14,102,105,105 104 103,0.443248,Cho $z_1 = - 2 \sqrt{2}+5i$; $z_2 = -7-4 \sqrt{10}i$. Số phức $z_1+z_2$ có mô-đun bằng bao nhiêu?
+158,D14,102,104,104 103 105,0.61076,"Hãy xác định môđun của số phức $z_1+z_2$, biết $z_1 = - 2 \sqrt{2}-7i$ và $z_2 = 3+2 \sqrt{10}i$. Hãy chọn đáp án đúng."
+164,D14,102,104,104 105 103,0.742963,"Hãy giải bài toán sau. Xác định mô-đun của số phức $z_1+z_2$, trong đó $z_1 = - 2 \sqrt{5}+4 \sqrt{3}i$ và $z_2 = 2 \sqrt{3}-2 \sqrt{10}i$."
+166,D14,102,104,104 105 103,0.55293,Hãy giải bài toán sau. Cho hai số phức $z_1 = 4 \sqrt{3}+5i$ và $z_2 = 8-3 \sqrt{3}i$. Số phức $z_1+z_2$ có môđun bằng bao nhiêu?
+169,D14,102,104,104 109 103,0.820162,"Đề bài: Cho hai số phức $z_1 = 4 \sqrt{7}+\sqrt{10}i$, $z_2 = 4 \sqrt{2}+5i$. Hãy tìm môđun của số phức $z_1+z_2$. Chọn đáp án đúng nhất."
+170,D14,102,104,104 105 109,0.519567,Cho hai số phức $z_2 = 2 \sqrt{5}-2i$ và $z_1 = - 3 \sqrt{3}-\sqrt{2}i$. Hãy tìm môđun của số phức $z_1+z_2$. Chọn một đáp án.
+174,D14,102,104,104 105 103,0.413363,Câu hỏi: Cho $z_1 = 2 \sqrt{10}+6i$; $z_2 = 9+3 \sqrt{5}i$. Số phức $z_1+z_2$ có môđun bằng bao nhiêu?
+189,D28,116,118,118 114 113,0.681454,Đề bài: số phức $z$ thoả mãn $z(-4+2i)-2i = -2$. Yêu cầu: tính môđun của $z$. Hãy chọn đáp án đúng.
+190,D28,116,118,118 120 121,0.58877,Xét số phức $z$ thỏa $z(2-2i)+4i = 3$. Môđun của $z$ bằng bao nhiêu? Hãy chọn đáp án đúng.
+192,D28,116,131,131 125 120,0.855562,Hãy đọc kỹ đề bài sau. Cho phương trình $z(-1-5i)+2i = 6$ với ẩn $z$ thuộc tập số phức. Hãy tính mô-đun của nghiệm của phương trình đó.
+194,D28,116,111,111 113 114,0.793604,Biết rằng $z(-6-i)-3i = 4$. Hỏi mô-đun của số phức $z$ bằng bao nhiêu? Chọn đáp án đúng nhất.
+195,D28,116,118,118 114 117,0.573772,Mô-đun của số phức $z$ thoả mãn điều kiện $z(6+2i)-6i = 4$ là bao nhiêu?
+196,D28,116,118,118 120 125,0.414983,Bài toán: Giả sử số phức $z$ thỏa $z(-5-6i)+2i = -2$. Mô-đun của số phức đó là bao nhiêu?
+198,D28,116,118,118 117 115,0.480994,Câu hỏi: Nếu số phức $z$ thỏa $z(6+4i)-5i = 5$ thì môđun của $z$ bằng bao nhiêu?
+199,D28,116,118,118 114 115,0.534893,Cho số phức $z$ thỏa $z(-3+5i)+6i = 2$. Mô-đun của $z$ bằng bao nhiêu?
+201,D28,116,118,118 107 108,0.83054,"Trong tập số phức, phương trình $z(-3+3i)-5i = 3$ có nghiệm $z$. Mô-đun của $z$ là bao nhiêu?"
+202,D28,116,118,118 111 115,0.396076,"Với số phức $z$ thỏa $z(1-2i)+5i = -2$, mô-đun của $z$ bằng bao nhiêu?"
+204,D28,116,118,118 114 111,0.47951,"Đề bài: Cho số phức $z$, biết rằng $z(-4+4i)-i = -3$. Môđun của $z$ bằng bao nhiêu?"
+206,D28,116,122,122 120 121,0.574904,"Hãy giải bài toán sau. Môđun của $z$ là bao nhiêu, nếu $z$ là số phức thỏa $z(1-5i)+2i = 4$? Chọn đáp án đúng."
+207,D28,116,118,118 110 120,0.731232,"Bài toán: Xét phương trình $z(5+i)+3i = 3$, trong đó $z$ là số phức cần tìm. Hãy xác định môđun của $z$. Chọn một đáp án."
+208,D28,116,118,118 114 115,0.38171,Xét số phức $z$ thỏa mãn $z(-6-4i)-2i = -5$. Hãy tính mô-đun của $z$. Hãy chọn đáp án đúng.
+213,D28,116,120,120 121 123,0.919007,Câu hỏi: Cho phương trình $z(- \dfrac{15}{4}+\dfrac{8}{3}i)-\dfrac{3}{2}i = \dfrac{1}{3}$ với ẩn $z$ thuộc tập số phức. Xác định môđun của nghiệm của phương trình đó. Hãy chọn đáp án đúng.
+216,D28,116,118,118 117 120,0.825466,Bài toán: Mô-đun của số phức $z$ thoả mãn điều kiện $z(- \dfrac{24}{5}+\dfrac{1}{2}i)+\dfrac{29}{5}i = - \dfrac{5}{3}$ là bao nhiêu? Chọn một đáp án.
+217,D28,116,118,118 120 128,0.872366,Xét số phức $z$ thỏa $z(- \dfrac{3}{2}+\dfrac{9}{2}i)+\dfrac{6}{5}i = - \dfrac{1}{5}$. Môđun của số phức đó là bao nhiêu?
+219,D28,116,118,118 120 115,0.441426,Đề bài: Nếu số phức $z$ thoả mãn $z(\dfrac{21}{4}+\dfrac{16}{5}i)-\dfrac{10}{3}i = - \dfrac{26}{5}$ thì mô-đun của $z$ bằng bao nhiêu?
+222,D28,116,118,118 107 117,0.502049,"Câu hỏi: Trong tập số phức, phương trình $z(\dfrac{1}{3}+\dfrac{1}{3}i)-\dfrac{7}{5}i = \dfrac{5}{2}$ có nghiệm $z$. Mô-đun của $z$ là bao nhiêu? Chọn một đáp án."
+228,D28,116,120,120 121 126,0.491343,"Xét phương trình $z(\dfrac{3}{2}-\dfrac{7}{2}i)+\dfrac{9}{4}i = - \dfrac{17}{3}$, trong đó $z$ là số phức cần tìm. Tìm môđun của $z$."
+231,D28,116,120,120 122 121,0.707046,Đề bài: số phức $z$ thỏa mãn $z(\dfrac{7}{2}+\dfrac{3}{4}i)+\dfrac{8}{5}i = - \dfrac{14}{3}$. Yêu cầu: tính mô-đun của $z$.
+232,D28,116,120,120 121 125,0.371223,Hãy đọc kỹ đề bài sau. Xét số phức $z$ thỏa mãn $z(- \dfrac{4}{3}-\dfrac{7}{4}i)-\dfrac{13}{5}i = - \dfrac{5}{2}$. Mô-đun của $z$ bằng bao nhiêu?
+234,D28,116,120,120 121 123,0.942196,Cho phương trình $z(- \dfrac{11}{3}+\dfrac{11}{2}i)-\dfrac{16}{5}i = \dfrac{1}{2}$ với ẩn $z$ thuộc tập số phức. Tìm môđun của nghiệm của phương trình đó. Hãy chọn đáp án đúng.
+237,D28,116,118,118 121 125,0.762225,Mô-đun của số phức $z$ thỏa mãn điều kiện $z(- \dfrac{4}{3}+\dfrac{7}{2}i)+\dfrac{3}{2}i = \dfrac{13}{3}$ là bao nhiêu?
+238,D28,116,118,118 120 128,0.804322,Xét số phức $z$ thỏa mãn $z(- \dfrac{2}{3}+\dfrac{5}{4}i)+\dfrac{11}{2}i = \dfrac{11}{2}$. Môđun của số phức đó là bao nhiêu?
+243,D28,116,107,107 105 137,0.187437,"Hãy đọc kỹ đề bài sau. Trong tập số phức, phương trình $z(-3-4 \sqrt{10}i)+3i = - 3 \sqrt{2}$ có nghiệm $z$. Mô-đun của $z$ là bao nhiêu?"
+244,D28,116,118,118 120 122,0.676337,"Bài toán: Với số phức $z$ thoả mãn $z(- 4 \sqrt{2}-4i)+3i = 3 \sqrt{11}$, môđun của $z$ bằng bao nhiêu?"
+246,D28,116,118,118 114 115,0.230214,"Cho số phức $z$, biết rằng $z(-3-\sqrt{3}i)-i = 2 \sqrt{11}$. Mô-đun của $z$ bằng bao nhiêu?"
+248,D28,116,110,110 108 120,0.504013,Biết rằng $z(- 4 \sqrt{10}-5i)+3 \sqrt{11}i = -1$. Hỏi mô-đun của số phức $z$ bằng bao nhiêu? Hãy chọn đáp án đúng.
+249,D28,116,128,128 125 120,0.414966,"Hãy đọc kỹ đề bài sau. Xét phương trình $z(\sqrt{3}-\sqrt{6}i)-3 \sqrt{11}i = - 4 \sqrt{3}$, trong đó $z$ là số phức cần tìm. Tìm mô-đun của $z$. Chọn một đáp án."
+252,D28,116,120,120 121 122,0.663592,Đề bài: số phức $z$ thỏa $z(- 2 \sqrt{7}+3 \sqrt{10}i)-\sqrt{10}i = -1$. Yêu cầu: tính mô-đun của $z$. Chọn một đáp án.
+255,D28,116,120,120 125 123,0.759896,Hãy đọc kỹ đề bài sau. Cho phương trình $z(\sqrt{11}-4i)-3 \sqrt{2}i = - 3 \sqrt{5}$ với ẩn $z$ thuộc tập số phức. Hãy xác định môđun của nghiệm của phương trình đó.
+259,D28,116,120,120 128 125,0.314573,Hãy đọc kỹ đề bài sau. Xét số phức $z$ thoả mãn $z(- 3 \sqrt{7}+i)-4 \sqrt{11}i = 5$. Môđun của số phức đó là bao nhiêu?
+261,D28,116,118,118 119 120,0.448495,Nếu số phức $z$ thỏa $z(5-\sqrt{2}i)+2 \sqrt{7}i = 4$ thì môđun của $z$ bằng bao nhiêu?
+264,D28,116,108,108 138 136,0.781233,"Trong tập số phức, phương trình $z(2 \sqrt{6}-3 \sqrt{11}i)+4 \sqrt{11}i = -3$ có nghiệm $z$. Môđun của $z$ là bao nhiêu?"
+269,D28,116,118,118 115 120,0.516161,Câu hỏi: Số phức $z$ thoả mãn $z(\sqrt{3}+4 \sqrt{10}i)+3i = - \sqrt{2}$. Hãy tính môđun của nó. Hãy chọn đáp án đúng.
+285,D37,125,121,121 128 124,0.647496,Hãy đọc kỹ đề bài sau. Giả sử $(-4+i)|z| = \dfrac{6}{z}-1-4i$ với $z$ là số phức. Hãy chọn phát biểu đúng dưới đây.
+314,D37,125,122,122 123 121,0.654612,"Cho $(- \dfrac{38}{5}+\dfrac{3}{2}i)|z| = \dfrac{\dfrac{33}{5}}{z}-\dfrac{3}{2}-\dfrac{38}{5}i$, trong đó $z$ là số phức. Trong các mệnh đề sau, mệnh đề nào đúng?"
+407,D34,122,128,128 130 131,0.314773,"Hãy đọc kỹ đề bài sau. Trong các số phức $z$ thỏa mãn $|z-\dfrac{32}{5}i| = \dfrac{21}{4}$, có bao nhiêu số phức mà $z^2$ là số thuần ảo?"
+425,D34,122,123,123 130 131,0.539965,"Đề bài: Trong các số phức $z$ thỏa $|z+3 \sqrt{7}i| = 4 \sqrt{7}$, có bao nhiêu số phức mà $z^2$ là một số thuần ảo?"
+636,D45,133,52,52 82 38,0.771098,"Có bao nhiêu giá trị nguyên của $m$ sao cho phương trình $z^2-2mz-8m+6=0$ ($m$ là tham số thực) có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1| = |z_2|$?"
+639,D45,133,68,68 52 58,0.938394,"Hãy đọc kỹ đề bài sau. Tìm số giá trị nguyên của $m$ để phương trình $z^2-2mz-5m+4=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$, với $m$ là tham số thực. Chọn đáp án đúng."
+645,D45,133,3,3 52 134,0.363766,"Câu hỏi: Cho $m$ là một tham số thực. Trên tập số phức, số giá trị nguyên của $m$ để phương trình $z^2-2mz-m+2=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$ là bao nhiêu? Chọn đáp án đúng nhất."
+647,D45,133,52,52 49 58,0.91409,"Câu hỏi: Hãy tìm số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+5m+1=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$, biết $m$ là tham số thực."
+654,D45,133,62,62 52 38,0.908026,"Có tất cả bao nhiêu giá trị nguyên của $m$ sao cho phương trình $z^2-2mz-2m+3=0$ ($m$ là tham số thực) có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$? Chọn một đáp án."
+656,D45,133,52,52 34 35,0.386503,"Đề bài: Với $m$ là tham số thực, xét phương trình $z^2-2mz-4m+5=0$. Hỏi có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1| = |z_2|$? Chọn đáp án đúng nhất."
+657,D45,133,68,68 52 38,0.975679,"Câu hỏi: Tìm số giá trị nguyên của $m$ để phương trình $z^2-2mz-4m+4=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$, với $m$ là một tham số thực."
+659,D45,133,3,3 134 31,0.47385,"Bài toán: Phương trình $z^2-2mz+5m-2=0$ ($m$ là tham số thực) có hai nghiệm phức phân biệt $z_1, z_2$ thoả mãn $|z_1| = |z_2|$ với bao nhiêu giá trị nguyên của $m$?"
+662,D45,133,68,68 38 134,0.489334,"Hãy xác định số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+\dfrac{27}{5}m+\dfrac{10}{3}=0$ có hai nghiệm phức phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$, biết $m$ là một tham số thực."
+663,D45,133,82,82 38 94,0.232395,"Cho $m$ là một tham số thực. Trong tập hợp số phức, số giá trị nguyên của $m$ để phương trình $z^2-2mz+\dfrac{9}{2}m+\dfrac{11}{4}=0$ có hai nghiệm phức phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$ là bao nhiêu? Chọn đáp án đúng nhất."
+672,D45,133,52,52 38 34,0.626387,"Hãy giải bài toán sau. Hỏi có bao nhiêu giá trị nguyên của $m$ sao cho phương trình $z^2-2mz-\dfrac{39}{5}m-\dfrac{7}{2}=0$ ($m$ là tham số thực) có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1| = |z_2|$?"
+674,D45,133,134,134 31 58,0.424766,"Bài toán: Phương trình $z^2-2mz-\dfrac{3}{2}m+\dfrac{21}{5}=0$ ($m$ là một tham số thực) có hai nghiệm phức phân biệt $z_1, z_2$ thoả mãn $|z_1| = |z_2|$ với bao nhiêu giá trị nguyên của $m$?"
+675,D45,133,38,38 52 58,0.995126,"Tìm số giá trị nguyên của $m$ để phương trình $z^2-2mz+\dfrac{7}{2}m+\dfrac{25}{3}=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$, với $m$ là tham số thực."
+677,D45,133,68,68 59 58,0.795076,"Hãy tìm số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+\dfrac{26}{3}m+\dfrac{3}{5}=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$, biết $m$ là tham số thực. Chọn đáp án đúng nhất."
+681,D45,133,82,82 38 134,0.395216,"Cho $m$ là một tham số thực. Trong tập số phức, số giá trị nguyên của $m$ để phương trình $z^2-2mz-\dfrac{43}{5}m+\dfrac{6}{5}=0$ có hai nghiệm phức phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$ là bao nhiêu?"
+686,D45,133,62,62 32 52,0.397462,"Với $m$ là tham số thực, xét phương trình $z^2-2mz+\dfrac{27}{4}m-\dfrac{12}{5}=0$. Có tất cả bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1| = |z_2|$?"
+689,D45,133,134,134 58 31,0.306957,"Phương trình $z^2-2mz-\dfrac{1}{2}m+\dfrac{16}{3}=0$ ($m$ là tham số thực) có hai nghiệm phức phân biệt $z_1, z_2$ thoả mãn $|z_1| = |z_2|$ với bao nhiêu giá trị nguyên của $m$?"
+690,D45,133,62,62 52 38,0.713337,"Bài toán: Có bao nhiêu giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+\dfrac{11}{3}m+\dfrac{21}{4}=0$ ($m$ là một tham số thực) có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?"
+692,D45,133,68,68 49 58,0.525211,"Hãy tìm số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz-3 \sqrt{2}m+5=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$, biết $m$ là một tham số thực."
+693,D45,133,68,68 57 58,0.992177,"Hãy đọc kỹ đề bài sau. Tìm số giá trị nguyên của $m$ để phương trình $z^2-2mz+8m-2 \sqrt{3}=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$, với $m$ là tham số thực."
+699,D45,133,134,134 3 38,0.237311,"Cho $m$ là một tham số thực. Trên tập số phức, số giá trị nguyên của $m$ để phương trình $z^2-2mz-m+\sqrt{10}=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$ là bao nhiêu? Chọn đáp án đúng nhất."
+704,D45,133,68,68 38 31,0.678999,"Câu hỏi: Phương trình $z^2-2mz+2 \sqrt{6}m-2=0$ ($m$ là một tham số thực) có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$ với bao nhiêu giá trị nguyên của $m$? Chọn một đáp án."
+707,D45,133,68,68 39 58,0.501186,"Hãy xác định số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+\sqrt{7}m+4=0$ có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1| = |z_2|$, biết $m$ là một tham số thực. Chọn một đáp án."
+708,D45,133,82,82 38 134,0.704966,"Có tất cả bao nhiêu giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+3 \sqrt{7}m-\sqrt{7}=0$ ($m$ là tham số thực) có hai nghiệm phức phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$?"
+711,D45,133,38,38 58 134,0.416615,"Đề bài: Tìm số giá trị nguyên của $m$ để phương trình $z^2-2mz+2m+4 \sqrt{6}=0$ có hai nghiệm phức phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$, với $m$ là tham số thực."
+716,D45,133,32,32 44 34,0.31807,"Với $m$ là tham số thực, xét phương trình $z^2-2mz+4m+2 \sqrt{3}=0$. Có tất cả bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1| = |z_2|$?"
+719,D45,133,68,68 38 31,0.570628,"Phương trình $z^2-2mz-2 \sqrt{3}m+2=0$ ($m$ là một tham số thực) có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1| = |z_2|$ với bao nhiêu giá trị nguyên của $m$?"
+722,D51,139,138,138 133 134,0.971901,"Hãy giải bài toán sau. Với $S$ là tập hợp tất cả các số phức $z$ mà phần thực của số phức $w=\dfrac{1}{|z|-z}$ bằng $\dfrac{1}{7}$, hãy tìm giá trị lớn nhất của $P = |z_1-i|^2 - |z_2-i|^2$, trong đó $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=3$."
+726,D51,139,131,131 132 141,0.840769,"Bài toán: Cho $|z_1-z_2|=7$ với $z_1, z_2 \in S$, trong đó $S$ là tập hợp tất cả các số phức $z$ thỏa mãn: số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{8}$. Tìm giá trị lớn nhất của $P = |z_1-7i|^2 - |z_2-7i|^2$."
+728,D51,139,133,133 134 131,0.934712,"Hãy đọc kỹ đề bài sau. Cho $S$ là tập hợp các số phức $z$ mà số phức $w=\dfrac{1}{|z|-z}$ có phần thực là $\dfrac{1}{1}$. Với $z_1, z_2 \in S$ thỏa $|z_1-z_2|=1$, tìm giá trị lớn nhất của biểu thức $P = |z_1-8i|^2 - |z_2-8i|^2$."
+741,D51,139,131,131 130 132,0.956367,"Cho $|z_1-z_2|=1$ với $z_1, z_2 \in S$, trong đó $S$ là tập hợp tất cả các số phức $z$ thỏa mãn: số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{1}$. Tìm giá trị lớn nhất của $P = |z_1-7i|^2 - |z_2-7i|^2$. Chọn đáp án đúng nhất."
+756,D51,139,131,131 141 132,0.885458,"Cho $|z_1-z_2|=\dfrac{11}{2}$ với $z_1, z_2 \in S$, trong đó $S$ là tập hợp tất cả các số phức $z$ thỏa mãn: số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{31}{4}}$. Tìm giá trị lớn nhất của $P = |z_1-\dfrac{14}{3}i|^2 - |z_2-\dfrac{14}{3}i|^2$."
+771,D51,139,131,131 141 132,0.887615,"Cho $|z_1-z_2|=\dfrac{2}{5}$ với $z_1, z_2 \in S$, trong đó $S$ là tập hợp tất cả các số phức $z$ thỏa mãn: số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{19}{5}}$. Tìm giá trị lớn nhất của $P = |z_1-\dfrac{1}{2}i|^2 - |z_2-\dfrac{1}{2}i|^2$."
+801,D51,139,131,131 132 141,0.701217,"Bài toán: Cho $|z_1-z_2|=2 \sqrt{5}$ với $z_1, z_2 \in S$, trong đó $S$ là tập hợp tất cả các số phức $z$ thỏa mãn: số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{3 \sqrt{6}}$. Tìm giá trị lớn nhất của $P = |z_1-4 \sqrt{7}i|^2 - |z_2-4 \sqrt{7}i|^2$."
+846,D40,128,109,109 118 123,0.346347,"Trên mặt phẳng tọa độ, đường tròn biểu diễn các số phức $z$ thoả mãn $|z-\dfrac{5}{2}+\dfrac{42}{5}i|=\dfrac{9}{2}$ có tâm là điểm nào? Chọn đáp án đúng nhất."
+861,D40,128,109,109 118 110,0.573994,"Bài toán: Trên mặt phẳng tọa độ, đường tròn biểu diễn các số phức $z$ thoả mãn $|z-\dfrac{9}{4}+\dfrac{2}{5}i|=\dfrac{13}{4}$ có tâm là điểm nào?"
+891,D40,128,118,118 116 117,0.559773,"Bài toán: Trên mặt phẳng tọa độ, đường tròn biểu diễn các số phức $z$ thỏa $|z-4 \sqrt{10}-3i|=4 \sqrt{2}$ có tâm là điểm nào?"
+945,D52,140,138,138 130 135,0.497899,Hãy đọc kỹ đề bài sau. Xét tập hợp các số phức $z$ thỏa $|z^2+\dfrac{13}{3}+\dfrac{9}{2}i| = \dfrac{1}{2}|z|$. Biểu thức $|z|$ có giá trị lớn nhất là $M$ và giá trị nhỏ nhất là $m$. Tính $M^2+m^2$. Chọn đáp án đúng.
+968,D52,140,138,138 131 130,0.3504,Biết $|z^2+\sqrt{10}+2 \sqrt{3}i| = 4 \sqrt{5}|z|$ với $z$ là số phức. Gọi $M$ là giá trị lớn nhất và $m$ là giá trị nhỏ nhất của $|z|$. Tính $M^2+m^2$.
+969,D52,140,138,138 137 131,0.843718,Câu hỏi: Xét tập hợp các số phức $z$ thoả mãn $|z^2-4 \sqrt{2}+3 \sqrt{6}i| = \sqrt{6}|z|$. Biểu thức $|z|$ có giá trị lớn nhất là $M$ và giá trị nhỏ nhất là $m$. Tính $M^2+m^2$.
+998,D46,134,68,68 64 58,0.48127,"Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m-3)z+m^2=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1|+|z_2|=7$, biết $m$ là một tham số thực. Chọn một đáp án."
+1001,D46,134,38,38 39 68,0.83954,"Bài toán: Phương trình $z^2-2(m-3)z+m^2=0$ ($m$ là tham số thực) có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1|+|z_2|=4$ với bao nhiêu giá trị của $m$? Chọn đáp án đúng nhất."
+1013,D46,134,68,68 49 39,0.561656,"Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m+5)z+m^2=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1|+|z_2|=9$, biết $m$ là tham số thực."
+1016,D46,134,38,38 68 39,0.878163,"Phương trình $z^2-2(m-5)z+m^2=0$ ($m$ là một tham số thực) có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=6$ với bao nhiêu giá trị của $m$? Chọn đáp án đúng nhất."
+1017,D46,134,38,38 52 58,0.990413,"Tìm số giá trị của $m$ để phương trình $z^2-2(m-3)z+m^2=0$ có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1|+|z_2|=9$, với $m$ là tham số thực."
+1022,D46,134,34,34 38 52,0.34679,"Với $m$ là một tham số thực, xét phương trình $z^2-2(m-\dfrac{24}{5})z+m^2=0$. Có tất cả bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1|+|z_2|=\dfrac{28}{5}$? Chọn đáp án đúng nhất."
+1026,D46,134,35,35 34 58,0.305744,"Bài toán: Có tất cả bao nhiêu giá trị của $m$ sao cho phương trình $z^2-2(m-\dfrac{1}{3})z+m^2=0$ ($m$ là một tham số thực) có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1|+|z_2|=\dfrac{35}{4}$? Chọn một đáp án."
+1028,D46,134,66,66 59 58,0.664651,"Hãy giải bài toán sau. Hãy tìm số giá trị thực của $m$ sao cho phương trình $z^2-2(m-\dfrac{1}{2})z+m^2=0$ có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1|+|z_2|=\dfrac{11}{5}$, biết $m$ là tham số thực."
+1031,D46,134,38,38 68 35,0.89062,"Hãy giải bài toán sau. Phương trình $z^2-2(m+\dfrac{4}{3})z+m^2=0$ ($m$ là tham số thực) có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1|+|z_2|=\dfrac{13}{4}$ với bao nhiêu giá trị của $m$?"
+1037,D46,134,44,44 34 52,0.288719,"Với $m$ là một tham số thực, xét phương trình $z^2-2(m+\dfrac{9}{2})z+m^2=0$. Có bao nhiêu giá trị thực của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=\dfrac{44}{5}$?"
+1043,D46,134,39,39 133 88,0.757498,"Hãy giải bài toán sau. Hãy tìm số giá trị thực của $m$ sao cho phương trình $z^2-2(m+\dfrac{1}{5})z+m^2=0$ có hai nghiệm phức phân biệt $z_1, z_2$ thỏa $|z_1|+|z_2|=\dfrac{11}{2}$, biết $m$ là một tham số thực."
+1046,D46,134,38,38 35 39,0.943514,"Phương trình $z^2-2(m+\dfrac{11}{3})z+m^2=0$ ($m$ là một tham số thực) có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1|+|z_2|=\dfrac{23}{4}$ với bao nhiêu giá trị của $m$?"
+1052,D46,134,44,44 38 52,0.627406,"Với $m$ là tham số thực, xét phương trình $z^2-2(m-\sqrt{6})z+m^2=0$. Hỏi có bao nhiêu giá trị thực của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1|+|z_2|=3$?"
+1058,D46,134,66,66 68 58,0.510521,"Bài toán: Hãy tìm số giá trị thực của $m$ sao cho phương trình $z^2-2(m-5)z+m^2=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1|+|z_2|=4 \sqrt{6}$, biết $m$ là một tham số thực."
+1067,D46,134,32,32 44 34,0.367406,"Với $m$ là một tham số thực, xét phương trình $z^2-2(m-\sqrt{3})z+m^2=0$. Có bao nhiêu giá trị thực của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1|+|z_2|=9$?"
+1073,D46,134,68,68 66 52,0.442284,"Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m-1)z+m^2=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=\sqrt{2}$, biết $m$ là tham số thực. Hãy chọn đáp án đúng."
+1076,D46,134,28,28 38 39,0.924135,"Phương trình $z^2-2(m+2 \sqrt{5})z+m^2=0$ ($m$ là một tham số thực) có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1|+|z_2|=7$ với bao nhiêu giá trị thực của $m$?"
+1077,D46,134,28,28 38 58,0.982934,"Tìm số giá trị thực của $m$ để phương trình $z^2-2(m-3)z+m^2=0$ có hai nghiệm phân biệt $z_1, z_2$ thoả mãn $|z_1|+|z_2|=3 \sqrt{6}$, với $m$ là tham số thực."
+1083,D49,137,90,90 80 83,0.42092,Hai nghiệm của một phương trình là $z=-4-i$ và $-4+i$. Hãy chọn phương trình đó.
+1085,D49,137,133,133 130 131,0.821757,Câu hỏi: Cho biết $z=6+5i$ và $6-5i$ là hai nghiệm của một phương trình. Phương trình đó là phương trình nào dưới đây? Chọn đáp án đúng nhất.
+1086,D49,137,133,133 134 138,0.597465,Xét hai số phức $z=7+9i$ và $7-9i$. Hãy chọn phương trình mà hai số phức này đều là nghiệm.
+1091,D49,137,89,89 83 84,0.342202,Câu hỏi: Chọn phương trình có hai nghiệm là $z=-9-6i$ và $-9+6i$.
+1095,D49,137,123,123 133 130,0.411968,Hai số phức $z=2-2i$ và $2+2i$ đều là nghiệm của một phương trình trong các phương trình sau. Đó là phương trình nào? Hãy chọn đáp án đúng.
+1098,D49,137,90,90 93 95,0.30686,Đề bài: hai nghiệm cho trước là $z=2-7i$ và $2+7i$. Yêu cầu: chọn phương trình tương ứng.
+1099,D49,137,97,97 86 83,0.968405,Phương trình bậc hai nào dưới đây có hai nghiệm là $z=-5-5i$ và $-5+5i$? Chọn đáp án đúng nhất.
+1101,D49,137,91,91 57 58,0.216767,Đề bài: tìm phương trình có hai nghiệm $z=-9-2i$ và $-9+2i$.
+1102,D49,137,90,90 91 58,0.320006,"Câu hỏi: Trong các phương trình sau, phương trình nào có hai nghiệm là $z=2-i$ và $2+i$?"
+1104,D49,137,93,93 90 80,0.642775,Hai nghiệm của một phương trình là $z=7-6i$ và $7+6i$. Hãy chọn phương trình đó.
+1107,D49,137,133,133 134 130,0.732461,Hãy đọc kỹ đề bài sau. Xét hai số phức $z=8+8i$ và $8-8i$. Hãy chọn phương trình mà hai số phức này đều là nghiệm.
+1111,D49,137,93,93 131 133,0.61049,Hai số phức $z=\dfrac{3}{2}+\dfrac{32}{5}i$ và $\dfrac{3}{2}-\dfrac{32}{5}i$ là nghiệm của phương trình nào sau đây?
+1112,D49,137,89,89 83 84,0.46381,Chọn phương trình có hai nghiệm là $z=- \dfrac{13}{2}-\dfrac{15}{2}i$ và $- \dfrac{13}{2}+\dfrac{15}{2}i$.
+1115,D49,137,93,93 90 83,0.458623,Hãy giải bài toán sau. Tìm phương trình bậc hai nhận $z=\dfrac{29}{4}+\dfrac{13}{4}i$ và $\dfrac{29}{4}-\dfrac{13}{4}i$ làm hai nghiệm. Chọn đáp án đúng nhất.
+1116,D49,137,123,123 133 131,0.619759,Hai số phức $z=\dfrac{11}{2}-\dfrac{4}{3}i$ và $\dfrac{11}{2}+\dfrac{4}{3}i$ đều là nghiệm của một phương trình trong các phương trình sau. Đó là phương trình nào?
+1118,D49,137,123,123 131 133,0.392426,Hãy đọc kỹ đề bài sau. Số phức $z=- \dfrac{9}{2}-\dfrac{14}{5}i$ và số phức $- \dfrac{9}{2}+\dfrac{14}{5}i$ cùng là nghiệm của phương trình nào dưới đây? Chọn một đáp án.
+1119,D49,137,130,130 133 134,0.65368,Đề bài: hai nghiệm cho trước là $z=- \dfrac{5}{4}+\dfrac{13}{4}i$ và $- \dfrac{5}{4}-\dfrac{13}{4}i$. Yêu cầu: chọn phương trình tương ứng.
+1120,D49,137,97,97 86 98,0.922405,Hãy đọc kỹ đề bài sau. Phương trình bậc hai nào dưới đây có hai nghiệm là $z=\dfrac{5}{2}+\dfrac{7}{2}i$ và $\dfrac{5}{2}-\dfrac{7}{2}i$?
+1122,D49,137,57,57 86 26,0.442647,Đề bài: tìm phương trình có hai nghiệm $z=- \dfrac{22}{3}+\dfrac{17}{2}i$ và $- \dfrac{22}{3}-\dfrac{17}{2}i$.
+1125,D49,137,93,93 90 110,0.754507,Hai nghiệm của một phương trình là $z=\dfrac{43}{5}+\dfrac{17}{5}i$ và $\dfrac{43}{5}-\dfrac{17}{5}i$. Hãy chọn phương trình đó.
+1133,D49,137,89,89 83 84,0.556202,Chọn phương trình có hai nghiệm là $z=- \dfrac{19}{3}-\dfrac{11}{4}i$ và $- \dfrac{19}{3}+\dfrac{11}{4}i$.
+1137,D49,137,123,123 133 131,0.41601,Hai số phức $z=- \dfrac{31}{4}+\dfrac{15}{4}i$ và $- \dfrac{31}{4}-\dfrac{15}{4}i$ đều là nghiệm của một phương trình trong các phương trình sau. Đó là phương trình nào?
+1140,D49,137,130,130 133 134,0.738498,Đề bài: hai nghiệm cho trước là $z=\dfrac{9}{2}-\dfrac{17}{5}i$ và $\dfrac{9}{2}+\dfrac{17}{5}i$. Yêu cầu: chọn phương trình tương ứng.
+1141,D49,137,86,86 83 81,0.604549,Phương trình bậc hai nào dưới đây có hai nghiệm là $z=- 3 \sqrt{3}+8i$ và $- 3 \sqrt{3}-8i$? Hãy chọn đáp án đúng.
+1143,D49,137,57,57 90 91,0.320917,Đề bài: tìm phương trình có hai nghiệm $z=4+3 \sqrt{11}i$ và $4-3 \sqrt{11}i$.
+1146,D49,137,99,99 90 130,0.450509,Bài toán: Hai nghiệm của một phương trình là $z=4 \sqrt{3}+2 \sqrt{6}i$ và $4 \sqrt{3}-2 \sqrt{6}i$. Hãy chọn phương trình đó.
+1148,D49,137,98,98 130 131,0.849256,Câu hỏi: Cho biết $z=5-3 \sqrt{3}i$ và $5+3 \sqrt{3}i$ là hai nghiệm của một phương trình. Phương trình đó là phương trình nào dưới đây?
+1149,D49,137,133,133 134 131,0.455455,Xét hai số phức $z=8+3 \sqrt{7}i$ và $8-3 \sqrt{7}i$. Hãy chọn phương trình mà hai số phức này đều là nghiệm.
+1154,D49,137,57,57 50 54,0.83275,Đề bài: Chọn phương trình có hai nghiệm là $z=4 \sqrt{3}-4 \sqrt{7}i$ và $4 \sqrt{3}+4 \sqrt{7}i$.
+1156,D49,137,43,43 23 31,0.292066,"Hãy giải bài toán sau. Trong các phương trình dưới đây, phương trình nào nhận cả $z=- 4 \sqrt{6}-3 \sqrt{11}i$ và $- 4 \sqrt{6}+3 \sqrt{11}i$ làm nghiệm?"
+1157,D49,137,83,83 78 81,0.196776,Hãy đọc kỹ đề bài sau. Tìm phương trình bậc hai có $z=-8-2 \sqrt{11}i$ và $-8+2 \sqrt{11}i$ làm hai nghiệm.
+1158,D49,137,123,123 133 130,0.675661,Hai số phức $z=- 4 \sqrt{11}+\sqrt{3}i$ và $- 4 \sqrt{11}-\sqrt{3}i$ đều là nghiệm của một phương trình trong các phương trình sau. Đó là phương trình nào?
+1160,D49,137,131,131 133 138,0.510895,Hãy giải bài toán sau. Số phức $z=4-\sqrt{2}i$ và số phức $4+\sqrt{2}i$ cùng là nghiệm của phương trình nào dưới đây? Chọn một đáp án.
+1161,D49,137,110,110 89 130,0.669498,Đề bài: hai nghiệm cho trước là $z=4 \sqrt{6}-4 \sqrt{11}i$ và $4 \sqrt{6}+4 \sqrt{11}i$. Yêu cầu: chọn phương trình tương ứng.
+1162,D49,137,85,85 83 81,0.445605,Phương trình bậc hai nào dưới đây có hai nghiệm là $z=- 3 \sqrt{5}-3 \sqrt{10}i$ và $- 3 \sqrt{5}+3 \sqrt{10}i$? Chọn đáp án đúng nhất.
+1164,D49,137,57,57 86 58,0.268633,Đề bài: tìm phương trình có hai nghiệm $z=-9-4 \sqrt{10}i$ và $-9+4 \sqrt{10}i$.
+1167,D49,137,90,90 80 89,0.303365,Hai nghiệm của một phương trình là $z=- 4 \sqrt{3}-4i$ và $- 4 \sqrt{3}+4i$. Hãy chọn phương trình đó.
+1169,D49,137,133,133 138 130,0.746992,Cho biết $z=- 3 \sqrt{10}+4i$ và $- 3 \sqrt{10}-4i$ là hai nghiệm của một phương trình. Phương trình đó là phương trình nào dưới đây?
+1170,D49,137,133,133 134 131,0.530759,Hãy đọc kỹ đề bài sau. Xét hai số phức $z=\sqrt{10}+4 \sqrt{3}i$ và $\sqrt{10}-4 \sqrt{3}i$. Hãy chọn phương trình mà hai số phức này đều là nghiệm.
+1364,D42,130,129,129 128 126,0.863466,Hãy giải bài toán sau. Tính bán kính của đường tròn là tập hợp điểm biểu diễn các số phức $z$ sao cho $(\overline{z}+i)(z-2)$ là số thuần ảo.
+1368,D42,130,129,129 128 126,0.604042,Hãy giải bài toán sau. Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $z$ thỏa $(\overline{z}+5i)(z+8)$ là số thuần ảo trên mặt phẳng tọa độ.
+1379,D42,130,129,129 128 126,0.661382,Đề bài: Tính bán kính của đường tròn là tập hợp điểm biểu diễn các số phức $z$ sao cho $(\overline{z}+7i)(z-3)$ là số thuần ảo.
+1383,D42,130,129,129 128 126,0.681479,Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $z$ thỏa $(\overline{z}-\dfrac{13}{3}i)(z-\dfrac{8}{3})$ là số thuần ảo trên mặt phẳng tọa độ. Hãy chọn đáp án đúng.
+1394,D42,130,129,129 128 126,0.546562,Hãy tính bán kính của đường tròn là tập hợp điểm biểu diễn các số phức $z$ sao cho $(\overline{z}+\dfrac{19}{5}i)(z-\dfrac{23}{3})$ là số thuần ảo.
+1398,D42,130,129,129 128 126,0.348743,Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $z$ thỏa mãn $(\overline{z}+\dfrac{7}{2}i)(z-\dfrac{20}{3})$ là số thuần ảo trên mặt phẳng tọa độ.
+1413,D42,130,129,129 128 126,0.58947,Câu hỏi: Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $z$ thỏa $(\overline{z}-6i)(z+2 \sqrt{6})$ là số thuần ảo trên mặt phẳng tọa độ.
+1419,D42,130,129,129 128 132,0.741063,Đề bài: số phức $z$ thoả mãn $(\overline{z}+\sqrt{10}i)(z+2 \sqrt{11})$ là số thuần ảo; tập hợp điểm biểu diễn số phức $z$ trên mặt phẳng tọa độ là một đường tròn. Yêu cầu: tính bán kính của đường tròn đó.
+1425,D42,130,129,129 128 131,0.995672,Hãy đọc kỹ đề bài sau. Điều kiện $(\overline{z}-\sqrt{5}i)(z-4)$ là số thuần ảo cho tập hợp các điểm biểu diễn số phức $z$ trên mặt phẳng tọa độ là một đường tròn. Hãy tìm bán kính của đường tròn đó.
+1428,D42,130,129,129 128 126,0.450928,Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $z$ thoả mãn $(\overline{z}+2 \sqrt{6}i)(z-\sqrt{3})$ là số thuần ảo trên mặt phẳng tọa độ.
+1434,D42,130,129,129 128 133,0.79146,Đề bài: số phức $z$ thỏa $(\overline{z}-5i)(z-2 \sqrt{7})$ là số thuần ảo; tập hợp điểm biểu diễn số phức $z$ trên mặt phẳng tọa độ là một đường tròn. Yêu cầu: tính bán kính của đường tròn đó. Chọn đáp án đúng nhất.
+1439,D42,130,129,129 128 126,0.519419,Hãy tính bán kính của đường tròn là tập hợp điểm biểu diễn các số phức $z$ sao cho $(\overline{z}-3 \sqrt{7}i)(z+1)$ là số thuần ảo.
+1473,D38,126,137,137 138 136,0.857311,Đề bài: cho phương trình $|z|(z-\dfrac{14}{3}-\dfrac{19}{4}i)+\dfrac{3}{2}i=(- \dfrac{19}{4}+\dfrac{18}{5}i)z$ ẩn $z$ thuộc tập số phức. Yêu cầu: xác định số nghiệm của phương trình. Chọn đáp án đúng nhất.
+1491,D38,126,137,137 138 136,0.645978,Đề bài: cho phương trình $|z|(z+\dfrac{9}{2}-\dfrac{7}{2}i)-\dfrac{7}{2}i=(\dfrac{17}{5}+\dfrac{1}{2}i)z$ ẩn $z$ thuộc tập số phức. Yêu cầu: xác định số nghiệm của phương trình. Chọn đáp án đúng nhất.
+1509,D38,126,137,137 138 136,0.34764,Đề bài: cho phương trình $|z|(z+4 \sqrt{3}-2 \sqrt{7}i)+4 \sqrt{6}i=(2 \sqrt{11}-4 \sqrt{11}i)z$ ẩn $z$ thuộc tập số phức. Yêu cầu: xác định số nghiệm của phương trình. Chọn đáp án đúng nhất.
+1527,D38,126,137,137 125 138,0.606678,Đề bài: cho phương trình $|z|(z+2 \sqrt{2}+3 \sqrt{6}i)+2 \sqrt{7}i=(2 \sqrt{11}+3 \sqrt{2}i)z$ ẩn $z$ thuộc tập số phức. Yêu cầu: xác định số nghiệm của phương trình. Chọn một đáp án.
+1533,D32,120,126,126 128 138,0.429779,"Đề bài: Trong tập số phức, phương trình $3(\overline{z}-i)-(2+3i)z = -1+i$ có nghiệm $z$. Mô-đun của $z$ là bao nhiêu?"
+1554,D32,120,126,126 137 128,0.488324,"Trong tập số phức, phương trình $3(\overline{z}-i)-(2+3i)z = -7-4i$ có nghiệm $z$. Mô-đun của $z$ là bao nhiêu?"
+1575,D32,120,125,125 126 137,0.856052,"Trong tập số phức, phương trình $3(\overline{z}-i)-(2+3i)z = \dfrac{19}{4}-\dfrac{11}{4}i$ có nghiệm $z$. Mô-đun của $z$ là bao nhiêu?"
+1617,D32,120,137,137 125 138,0.474794,"Trong tập số phức, phương trình $3(\overline{z}-i)-(2+3i)z = 4 \sqrt{10}-4 \sqrt{7}i$ có nghiệm $z$. Môđun của $z$ là bao nhiêu?"
+1625,D44,132,128,128 130 129,0.441312,"Bài toán: Tính bán kính của đường tròn là tập hợp điểm biểu diễn của các số phức $w=\dfrac{2+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, với $z$ là số phức thỏa $|z|=8$. Chọn một đáp án."
+1632,D44,132,128,128 123 133,0.20071,"Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $w=\dfrac{3+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, biết số phức $z$ thoả mãn $|z|=3$."
+1637,D44,132,131,131 128 130,0.308373,"Câu hỏi: Hãy tính bán kính của đường tròn là tập hợp điểm biểu diễn của các số phức $w=\dfrac{-5+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, với $z$ là số phức thỏa $|z|=6$."
+1647,D44,132,131,131 130 123,0.268488,"Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $w=\dfrac{3+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, biết số phức $z$ thoả mãn $|z|=4$."
+1649,D44,132,131,131 128 130,0.65477,"Hãy tính bán kính của đường tròn là tập hợp điểm biểu diễn của các số phức $w=\dfrac{5+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, với $z$ là số phức thỏa mãn $|z|=5$."
+1661,D44,132,128,128 126 129,0.298692,"Đề bài: Tính bán kính của đường tròn là tập hợp điểm biểu diễn của số phức $w=\dfrac{- \dfrac{7}{2}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, với $z$ là số phức thỏa mãn $|z|=\dfrac{5}{2}$."
+1662,D44,132,128,128 138 129,0.474511,"Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $w=\dfrac{\dfrac{22}{3}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, biết số phức $z$ thoả mãn $|z|=\dfrac{23}{5}$."
+1673,D44,132,137,137 130 129,0.353235,"Hãy giải bài toán sau. Hãy tính bán kính của đường tròn là tập hợp điểm biểu diễn các số phức $w=\dfrac{\dfrac{25}{4}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, với $z$ là số phức thỏa mãn $|z|=\dfrac{26}{3}$."
+1677,D44,132,128,128 125 129,0.429065,"Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $w=\dfrac{- \dfrac{5}{2}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, biết số phức $z$ thỏa $|z|=\dfrac{2}{3}$. Chọn đáp án đúng nhất."
+1685,D44,132,128,128 130 129,0.35357,"Hãy đọc kỹ đề bài sau. Hãy tính bán kính của đường tròn là tập hợp điểm biểu diễn các số phức $w=\dfrac{- 4 \sqrt{6}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, với $z$ là số phức thỏa mãn $|z|=4 \sqrt{6}$."
+1689,D44,132,131,131 128 129,0.656431,"Trong mặt phẳng tọa độ $Oxy$, đường tròn (C) là tập hợp điểm biểu diễn của số phức $w=\dfrac{4 \sqrt{7}+iz}{1+z}$, với $z$ là số phức thoả mãn $|z|=3 \sqrt{11}$. Hãy tính bán kính của (C)."
+1692,D44,132,128,128 126 125,0.471947,"Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $w=\dfrac{4 \sqrt{10}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, biết số phức $z$ thoả mãn $|z|=4 \sqrt{2}$. Hãy chọn đáp án đúng."
+1697,D44,132,131,131 128 130,0.427805,"Hãy giải bài toán sau. Tính bán kính của đường tròn là tập hợp điểm biểu diễn của số phức $w=\dfrac{- 4 \sqrt{3}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, với $z$ là số phức thỏa mãn $|z|=2 \sqrt{7}$."
+1707,D44,132,128,128 129 124,0.636,"Đề bài: Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $w=\dfrac{- 4 \sqrt{10}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, biết số phức $z$ thỏa mãn $|z|=2 \sqrt{3}$. Chọn đáp án đúng nhất."
+1709,D44,132,128,128 130 129,0.481876,"Hãy tính bán kính của đường tròn là tập hợp điểm biểu diễn của các số phức $w=\dfrac{4 \sqrt{10}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, với $z$ là số phức thoả mãn $|z|=3 \sqrt{7}$. Chọn một đáp án."
+1712,D53,141,131,131 130 133,0.526529,"Tính giá trị của $|z-w|$ trong trường hợp $|z+i\overline{w}+2+9i|$ đạt giá trị nhỏ nhất, với $z, w$ là các số phức thỏa $|z|=5$ và $|w|=4$."
+1742,D53,141,131,131 130 133,0.76446,"Tính giá trị của $|z-w|$ trong trường hợp $|z+i\overline{w}- \dfrac{15}{4}-\dfrac{16}{3}i|$ đạt giá trị nhỏ nhất, với $z, w$ là các số phức thoả mãn $|z|=\dfrac{4}{3}$ và $|w|=\dfrac{7}{2}$. Hãy chọn đáp án đúng."
+1757,D53,141,138,138 131 133,0.432933,"Hãy tính giá trị của $|z-w|$ trong trường hợp $|z+i\overline{w}+\dfrac{11}{4}-\dfrac{23}{3}i|$ đạt giá trị nhỏ nhất, với $z, w$ là các số phức thoả mãn $|z|=\dfrac{14}{5}$ và $|w|=\dfrac{1}{5}$."
+1772,D53,141,131,131 133 132,0.362016,"Hãy tính giá trị của $|z-w|$ trong trường hợp $|z+i\overline{w}+4 \sqrt{5}-2 \sqrt{10}i|$ đạt giá trị nhỏ nhất, với $z, w$ là các số phức thỏa mãn $|z|=\sqrt{6}$ và $|w|=2 \sqrt{3}$."
+1808,D47,135,52,52 38 35,0.200495,"Câu hỏi: Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m+1)z+m^2=0$ có ít nhất một nghiệm $z_0$ thoả mãn $|z_0|=6$, biết $m$ là một tham số thực."
+1809,D47,135,38,38 52 58,0.259462,"Tìm số giá trị của $m$ để phương trình $z^2-2(m-5)z+m^2=0$ có ít nhất một nghiệm $z_0$ thỏa mãn $|z_0|=2$, với $m$ là tham số thực. Chọn một đáp án."
+1811,D47,135,38,38 34 58,0.266397,"Với $m$ là một tham số thực, xét phương trình $z^2-2(m+3)z+m^2=0$. Có tất cả bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa $|z_0|=6$?"
+1818,D47,135,38,38 34 22,0.550019,Đề bài: Có tất cả bao nhiêu giá trị của $m$ sao cho phương trình $z^2-2(m+9)z+m^2=0$ ($m$ là một tham số thực) có ít nhất một nghiệm $z_0$ thỏa $|z_0|=9$? Hãy chọn đáp án đúng.
+1823,D47,135,68,68 58 59,0.613866,"Câu hỏi: Hãy tìm số giá trị của $m$ sao cho phương trình $z^2-2(m-7)z+m^2=0$ có nghiệm $z_0$ thỏa $|z_0|=4$, biết $m$ là một tham số thực."
+1829,D47,135,68,68 38 35,0.543917,Đề bài: Phương trình $z^2-2(m-3)z+m^2=0$ ($m$ là một tham số thực) có ít nhất một nghiệm $z_0$ thỏa mãn $|z_0|=1$ với bao nhiêu giá trị thực của $m$?
+1833,D47,135,52,52 44 38,0.476314,Có bao nhiêu giá trị thực của $m$ sao cho phương trình $z^2-2(m-\dfrac{41}{5})z+m^2=0$ ($m$ là tham số thực) có ít nhất một nghiệm $z_0$ thoả mãn $|z_0|=\dfrac{17}{2}$?
+1838,D47,135,49,49 59 58,0.299492,"Đề bài: Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m+\dfrac{11}{2})z+m^2=0$ có nghiệm $z_0$ thoả mãn $|z_0|=\dfrac{14}{3}$, biết $m$ là một tham số thực. Hãy chọn đáp án đúng."
+1839,D47,135,38,38 58 59,0.994746,"Tìm số giá trị của $m$ để phương trình $z^2-2(m+\dfrac{37}{5})z+m^2=0$ có nghiệm $z_0$ thỏa mãn $|z_0|=\dfrac{3}{5}$, với $m$ là tham số thực."
+1841,D47,135,52,52 32 38,0.624861,"Với $m$ là một tham số thực, xét phương trình $z^2-2(m-\dfrac{8}{5})z+m^2=0$. Có tất cả bao nhiêu giá trị của $m$ để phương trình đó có ít nhất một nghiệm $z_0$ thỏa mãn $|z_0|=\dfrac{17}{5}$?"
+1844,D47,135,38,38 35 34,0.390127,Đề bài: Phương trình $z^2-2(m-\dfrac{7}{2})z+m^2=0$ ($m$ là tham số thực) có ít nhất một nghiệm $z_0$ thỏa mãn $|z_0|=\dfrac{17}{2}$ với bao nhiêu giá trị của $m$?
+1848,D47,135,38,38 52 35,0.407773,Có bao nhiêu giá trị của $m$ sao cho phương trình $z^2-2(m-\dfrac{13}{3})z+m^2=0$ ($m$ là tham số thực) có ít nhất một nghiệm $z_0$ thỏa $|z_0|=\dfrac{26}{3}$? Hãy chọn đáp án đúng.
+1853,D47,135,35,35 49 34,0.354374,"Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m-\dfrac{5}{2})z+m^2=0$ có ít nhất một nghiệm $z_0$ thỏa mãn $|z_0|=\dfrac{3}{2}$, biết $m$ là một tham số thực. Chọn một đáp án."
+1856,D47,135,3,3 44 58,0.33133,"Với $m$ là một tham số thực, xét phương trình $z^2-2(m-\dfrac{13}{5})z+m^2=0$. Hỏi có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=\dfrac{7}{2}$? Chọn đáp án đúng nhất."
+1859,D47,135,38,38 58 39,0.684323,Hãy đọc kỹ đề bài sau. Phương trình $z^2-2(m+\dfrac{13}{3})z+m^2=0$ ($m$ là một tham số thực) có nghiệm $z_0$ thỏa mãn $|z_0|=\dfrac{13}{3}$ với bao nhiêu giá trị thực của $m$?
+1863,D47,135,52,52 44 32,0.351212,Đề bài: Có bao nhiêu giá trị thực của $m$ sao cho phương trình $z^2-2(m+1)z+m^2=0$ ($m$ là tham số thực) có ít nhất một nghiệm $z_0$ thỏa $|z_0|=4 \sqrt{11}$? Hãy chọn đáp án đúng.
+1868,D47,135,35,35 49 65,0.328408,"Câu hỏi: Hãy tìm số giá trị của $m$ sao cho phương trình $z^2-2(m-7)z+m^2=0$ có ít nhất một nghiệm $z_0$ thỏa $|z_0|=4 \sqrt{7}$, biết $m$ là tham số thực. Hãy chọn đáp án đúng."
+1869,D47,135,38,38 52 58,0.662149,"Tìm số giá trị thực của $m$ để phương trình $z^2-2(m+\sqrt{10})z+m^2=0$ có ít nhất một nghiệm $z_0$ thỏa mãn $|z_0|=4$, với $m$ là một tham số thực. Hãy chọn đáp án đúng."
+1874,D47,135,3,3 38 34,0.821593,Câu hỏi: Phương trình $z^2-2(m-1)z+m^2=0$ ($m$ là một tham số thực) có ít nhất một nghiệm $z_0$ thoả mãn $|z_0|=2 \sqrt{11}$ với bao nhiêu giá trị thực của $m$?
+1883,D47,135,68,68 59 58,0.691231,"Hãy xác định số giá trị thực của $m$ sao cho phương trình $z^2-2(m-4 \sqrt{11})z+m^2=0$ có nghiệm $z_0$ thoả mãn $|z_0|=8$, biết $m$ là một tham số thực."
+1886,D47,135,2,2 3 24,0.454658,"Đề bài: Với $m$ là một tham số thực, xét phương trình $z^2-2(m-3 \sqrt{6})z+m^2=0$. Có bao nhiêu giá trị thực của $m$ để phương trình đó có nghiệm $z_0$ thỏa $|z_0|=5$?"
+1889,D47,135,68,68 38 35,0.837421,Phương trình $z^2-2(m+\sqrt{6})z+m^2=0$ ($m$ là tham số thực) có ít nhất một nghiệm $z_0$ thỏa mãn $|z_0|=\sqrt{11}$ với bao nhiêu giá trị thực của $m$?
+1896,D48,136,52,52 58 68,0.568762,"Tìm số cặp số thực $(a;b)$ để phương trình $z^2+4az+b^2+2=0$ có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=-1+7i$, với $a, b$ là các tham số thực."
+1905,D48,136,131,131 133 138,0.649361,"Đề bài: cho phương trình $z^2+4az+b^2+2=0$ trên tập số phức, $a, b$ là các tham số thực. Yêu cầu: đếm số cặp số thực $(a;b)$ để phương trình có hai nghiệm phức $z_1, z_2$ thỏa mãn $z_1+2iz_2=5-2i$. Hãy chọn đáp án đúng."
+1907,D48,136,78,78 88 133,0.321145,"Hãy xác định số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ có hai nghiệm $z_1, z_2$ thoả mãn $z_1+2iz_2=8+9i$, biết $a, b$ là các tham số thực. Chọn đáp án đúng nhất."
+1911,D48,136,52,52 58 138,0.305403,"Tìm số cặp số thực $(a;b)$ để phương trình $z^2+4az+b^2+2=0$ có hai nghiệm $z_1, z_2$ thỏa $z_1+2iz_2=-1+9i$, với $a, b$ là các tham số thực."
+1922,D48,136,58,58 78 133,0.161169,"Hãy tìm số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ có hai nghiệm $z_1, z_2$ thoả mãn $z_1+2iz_2=\dfrac{13}{2}+\dfrac{11}{2}i$, biết $a, b$ là các tham số thực. Chọn đáp án đúng nhất."
+1925,D48,136,137,137 68 58,0.184888,"Phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực) có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=- \dfrac{3}{2}+\dfrac{3}{2}i$ với bao nhiêu cặp số thực $(a;b)$? Chọn một đáp án."
+1926,D48,136,52,52 58 138,0.680507,"Tìm số cặp số thực $(a;b)$ để phương trình $z^2+4az+b^2+2=0$ có hai nghiệm $z_1, z_2$ thoả mãn $z_1+2iz_2=- \dfrac{21}{5}+\dfrac{8}{5}i$, với $a, b$ là các tham số thực."
+1941,D48,136,58,58 138 134,0.360463,"Tìm số cặp số thực $(a;b)$ để phương trình $z^2+4az+b^2+2=0$ có hai nghiệm $z_1, z_2$ thỏa $z_1+2iz_2=\dfrac{19}{3}+\dfrac{9}{5}i$, với $a, b$ là các tham số thực."
+1952,D48,136,78,78 88 133,0.503499,"Hãy xác định số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ có hai nghiệm $z_1, z_2$ thoả mãn $z_1+2iz_2=- 3 \sqrt{5}-4 \sqrt{6}i$, biết $a, b$ là các tham số thực."
+1956,D48,136,52,52 58 53,0.404317,"Tìm số cặp số thực $(a;b)$ để phương trình $z^2+4az+b^2+2=0$ có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=- 2 \sqrt{7}-2 \sqrt{7}i$, với $a, b$ là các tham số thực."
+1958,D48,136,46,46 68 52,0.336379,"Với $a, b$ là các tham số thực, xét phương trình $z^2+4az+b^2+2=0$. Có tất cả bao nhiêu cặp số thực $(a;b)$ để phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=2 \sqrt{7}-5i$? Hãy chọn đáp án đúng."
+1965,D48,136,131,131 138 134,0.272718,"Đề bài: cho phương trình $z^2+4az+b^2+2=0$ trên tập số phức, $a, b$ là các tham số thực. Yêu cầu: đếm số cặp số thực $(a;b)$ để phương trình có hai nghiệm $z_1, z_2$ thoả mãn $z_1+2iz_2=3 \sqrt{3}+4 \sqrt{6}i$."
+1967,D48,136,131,131 133 134,0.932584,"Hãy đọc kỹ đề bài sau. Hãy tìm số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ có hai nghiệm phức $z_1, z_2$ thỏa $z_1+2iz_2=2 \sqrt{11}-i$, biết $a, b$ là các tham số thực."
+1980,D48,136,137,137 131 138,0.615177,"Đề bài: cho phương trình $z^2+4az+b^2+2=0$ trên tập số phức, $a, b$ là các tham số thực. Yêu cầu: đếm số cặp số thực $(a;b)$ để phương trình có hai nghiệm phức $z_1, z_2$ thỏa mãn $z_1+2iz_2=-6-4 \sqrt{6}i$."
+1992,D54,142,131,131 130 140,0.331376,"Bài toán: Hãy tính diện tích của tam giác $ABC$. Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=4$ và $8(z_1+z_2)z_3=6z_1z_2$."
+2004,D54,142,131,131 130 140,0.39007,"Hãy tính diện tích của tam giác $ABC$. Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=9$ và $-7(z_1+z_2)z_3=-6z_1z_2$."
+2016,D54,142,57,57 66 50,0.290501,"Diện tích tam giác $ABC$ bằng bao nhiêu? Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=\dfrac{9}{5}$ và $- \dfrac{20}{3}(z_1+z_2)z_3=- \dfrac{17}{5}z_1z_2$."
+2028,D54,142,131,131 130 134,0.275064,"Tính diện tích tam giác $ABC$. Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=\dfrac{5}{2}$ và $- \dfrac{25}{4}(z_1+z_2)z_3=\dfrac{1}{2}z_1z_2$."
+2040,D54,142,131,131 130 140,0.359628,"Hãy tính diện tích của tam giác $ABC$. Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=\dfrac{11}{2}$ và $- \dfrac{13}{2}(z_1+z_2)z_3=\dfrac{11}{2}z_1z_2$. Chọn đáp án đúng nhất."
+2076,D39,127,124,124 125 128,0.949221,Xét số phức $z$ thoả mãn $|z^2|=6|z-\overline{z}|$. Có bao nhiêu số phức như vậy mà $|(z-5)(\overline{z}-5i)|=|z+5i|^2$?
+2106,D39,127,124,124 33 123,0.986825,Hãy giải bài toán sau. Điều kiện thứ nhất: $|z^2|=\dfrac{5}{4}|z-\overline{z}|$. Điều kiện thứ hai: $|(z-\dfrac{5}{2})(\overline{z}-\dfrac{5}{2}i)|=|z+\dfrac{5}{2}i|^2$. Có bao nhiêu số phức $z$ thỏa mãn đồng thời hai điều kiện trên?
+2111,D39,127,124,124 126 128,0.881763,"Hãy giải bài toán sau. Trong các số phức $z$ thỏa $|z^2|=\dfrac{5}{2}|z-\overline{z}|$, có bao nhiêu số phức mà $|(z-\dfrac{5}{2})(\overline{z}-\dfrac{5}{2}i)|=|z+\dfrac{5}{2}i|^2$?"
+2123,D39,127,124,124 122 123,0.649705,Xét hệ điều kiện: $|z^2|=\dfrac{5}{2}|z-\overline{z}|$; $|(z+\dfrac{23}{4})(\overline{z}+\dfrac{23}{4}i)|=|z-\dfrac{23}{4}i|^2$. Có bao nhiêu số phức $z$ thỏa hệ điều kiện đó? Hãy chọn đáp án đúng.
+2159,D39,127,124,124 3 123,0.68442,Cho hệ điều kiện: $|z^2|=2 \sqrt{6}|z-\overline{z}|$; $|(z-\sqrt{11})(\overline{z}-\sqrt{11}i)|=|z+\sqrt{11}i|^2$. Hỏi có bao nhiêu số phức $z$ thoả mãn hệ điều kiện đó? Chọn một đáp án.
