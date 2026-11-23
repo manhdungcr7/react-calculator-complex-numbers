@@ -3299,7 +3299,7 @@ A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-301,D37,D37,31,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Xét số phức $z$ thỏa mãn $(- \dfrac{25}{3}-\dfrac{11}{3}i)|z| = \dfrac{\dfrac{36}{5}}{z}+\dfrac{11}{3}-\dfrac{25}{3}i$. Khẳng định nào sau đây đúng? Chọn một đáp án.
+301,D37,D37,31,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Xét số phức $z$ thỏa mãn $(- \dfrac{25}{3}-\dfrac{11}{3}i)|z| = \dfrac{36}{5z}+\dfrac{11}{3}-\dfrac{25}{3}i$. Khẳng định nào sau đây đúng? Chọn một đáp án.
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -3310,7 +3310,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
 C. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 D. $|z| = 1$."
-302,D37,D37,32,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Giả sử $z$ là số phức thoả mãn $(\dfrac{1}{2}+\dfrac{5}{4}i)|z| = \dfrac{\dfrac{35}{4}}{z}-\dfrac{5}{4}+\dfrac{1}{2}i$. Trong các mệnh đề sau, khẳng định nào đúng? Chọn một đáp án.
+302,D37,D37,32,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Giả sử $z$ là số phức thoả mãn $(\dfrac{1}{2}+\dfrac{5}{4}i)|z| = \dfrac{35}{4z}-\dfrac{5}{4}+\dfrac{1}{2}i$. Trong các mệnh đề sau, khẳng định nào đúng? Chọn một đáp án.
 
 A. $|z| < \dfrac{3}{2}$.
 B. $|z| > \dfrac{5}{2}$.
@@ -3321,7 +3321,7 @@ A. $|z| < \dfrac{3}{2}$.
 B. $|z| > \dfrac{5}{2}$.
 C. $\dfrac{3}{2} < |z| < \dfrac{5}{2}$.
 D. $|z| = 2$."
-303,D37,D37,33,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Giả sử $(- \dfrac{11}{5}+\dfrac{11}{2}i)|z| = \dfrac{\dfrac{13}{3}}{z}-\dfrac{11}{2}-\dfrac{11}{5}i$ với $z$ là số phức. Hãy chọn phát biểu đúng dưới đây.
+303,D37,D37,33,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Giả sử $(- \dfrac{11}{5}+\dfrac{11}{2}i)|z| = \dfrac{13}{3z}-\dfrac{11}{2}-\dfrac{11}{5}i$ với $z$ là số phức. Hãy chọn phát biểu đúng dưới đây.
 
 A. $|z| < \dfrac{1}{2}$.
 B. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
@@ -3332,7 +3332,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-304,D37,D37,34,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Cho số phức $z$ thoả mãn $(- \dfrac{7}{2}-\dfrac{9}{2}i)|z| = \dfrac{\dfrac{24}{5}}{z}+\dfrac{9}{2}-\dfrac{7}{2}i$. Trong các khẳng định sau, khẳng định nào đúng?
+304,D37,D37,34,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Cho số phức $z$ thoả mãn $(- \dfrac{7}{2}-\dfrac{9}{2}i)|z| = \dfrac{24}{5z}+\dfrac{9}{2}-\dfrac{7}{2}i$. Trong các khẳng định sau, khẳng định nào đúng?
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -3343,7 +3343,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
 C. $|z| = 1$.
 D. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$."
-305,D37,D37,35,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Biết số phức $z$ thỏa $(\dfrac{14}{5}-\dfrac{1}{2}i)|z| = \dfrac{\dfrac{19}{4}}{z}+\dfrac{1}{2}+\dfrac{14}{5}i$. Trong các mệnh đề sau, mệnh đề nào đúng?
+305,D37,D37,35,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Biết số phức $z$ thỏa $(\dfrac{14}{5}-\dfrac{1}{2}i)|z| = \dfrac{19}{4z}+\dfrac{1}{2}+\dfrac{14}{5}i$. Trong các mệnh đề sau, mệnh đề nào đúng?
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -3354,7 +3354,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
 C. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 D. $|z| = 1$."
-306,D37,D37,36,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Bài toán: Xét phương trình $(- \dfrac{3}{5}-\dfrac{13}{2}i)|z| = \dfrac{\dfrac{15}{2}}{z}+\dfrac{13}{2}-\dfrac{3}{5}i$ (ẩn $z$ là số phức). Phát biểu nào dưới đây là đúng? Chọn đáp án đúng.
+306,D37,D37,36,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Bài toán: Xét phương trình $(- \dfrac{3}{5}-\dfrac{13}{2}i)|z| = \dfrac{15}{2z}+\dfrac{13}{2}-\dfrac{3}{5}i$ (ẩn $z$ là số phức). Phát biểu nào dưới đây là đúng? Chọn đáp án đúng.
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -3365,7 +3365,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
 C. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 D. $|z| = 1$."
-307,D37,D37,37,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Giả sử số phức $z$ thỏa mãn đẳng thức $(\dfrac{10}{3}-\dfrac{4}{3}i)|z| = \dfrac{\dfrac{39}{5}}{z}+\dfrac{4}{3}+\dfrac{10}{3}i$. Mệnh đề nào dưới đây đúng?
+307,D37,D37,37,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Giả sử số phức $z$ thỏa mãn đẳng thức $(\dfrac{10}{3}-\dfrac{4}{3}i)|z| = \dfrac{39}{5z}+\dfrac{4}{3}+\dfrac{10}{3}i$. Mệnh đề nào dưới đây đúng?
 
 A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
@@ -3376,7 +3376,7 @@ A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-308,D37,D37,38,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Số phức $z$ thỏa $(- \dfrac{13}{5}-\dfrac{34}{5}i)|z| = \dfrac{\dfrac{26}{3}}{z}+\dfrac{34}{5}-\dfrac{13}{5}i$. Trong các mệnh đề sau, mệnh đề nào đúng?
+308,D37,D37,38,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Số phức $z$ thỏa $(- \dfrac{13}{5}-\dfrac{34}{5}i)|z| = \dfrac{26}{3z}+\dfrac{34}{5}-\dfrac{13}{5}i$. Trong các mệnh đề sau, mệnh đề nào đúng?
 
 A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
@@ -3387,7 +3387,7 @@ A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-309,D37,D37,39,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Cho phương trình $(- \dfrac{7}{2}-\dfrac{1}{4}i)|z| = \dfrac{\dfrac{9}{2}}{z}+\dfrac{1}{4}-\dfrac{7}{2}i$ với ẩn $z$ thuộc tập số phức. Mệnh đề nào sau đây đúng đối với nghiệm $z$ của phương trình? Chọn đáp án đúng.
+309,D37,D37,39,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Cho phương trình $(- \dfrac{7}{2}-\dfrac{1}{4}i)|z| = \dfrac{9}{2z}+\dfrac{1}{4}-\dfrac{7}{2}i$ với ẩn $z$ thuộc tập số phức. Mệnh đề nào sau đây đúng đối với nghiệm $z$ của phương trình? Chọn đáp án đúng.
 
 A. $|z| < \dfrac{1}{2}$.
 B. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
@@ -3398,7 +3398,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-310,D37,D37,40,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Cho số phức $z$ thỏa $(- \dfrac{4}{3}+\dfrac{5}{2}i)|z| = \dfrac{\dfrac{35}{4}}{z}-\dfrac{5}{2}-\dfrac{4}{3}i$. Trong các mệnh đề sau, mệnh đề nào đúng?
+310,D37,D37,40,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Cho số phức $z$ thỏa $(- \dfrac{4}{3}+\dfrac{5}{2}i)|z| = \dfrac{35}{4z}-\dfrac{5}{2}-\dfrac{4}{3}i$. Trong các mệnh đề sau, mệnh đề nào đúng?
 
 A. $|z| < \dfrac{3}{2}$.
 B. $|z| > \dfrac{5}{2}$.
@@ -3409,7 +3409,7 @@ A. $|z| < \dfrac{3}{2}$.
 B. $|z| > \dfrac{5}{2}$.
 C. $|z| = 2$.
 D. $\dfrac{3}{2} < |z| < \dfrac{5}{2}$."
-311,D37,D37,41,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Với số phức $z$ thỏa $(\dfrac{10}{3}+\dfrac{1}{2}i)|z| = \dfrac{\dfrac{11}{4}}{z}-\dfrac{1}{2}+\dfrac{10}{3}i$, mệnh đề nào dưới đây đúng? Hãy chọn đáp án đúng.
+311,D37,D37,41,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Với số phức $z$ thỏa $(\dfrac{10}{3}+\dfrac{1}{2}i)|z| = \dfrac{11}{4z}-\dfrac{1}{2}+\dfrac{10}{3}i$, mệnh đề nào dưới đây đúng? Hãy chọn đáp án đúng.
 
 A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
@@ -3420,7 +3420,7 @@ A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-312,D37,D37,42,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Đề bài: Số phức $z$ thỏa $(\dfrac{16}{3}+\dfrac{5}{4}i)|z| = \dfrac{\dfrac{17}{2}}{z}-\dfrac{5}{4}+\dfrac{16}{3}i$. Yêu cầu: Chọn mệnh đề đúng.
+312,D37,D37,42,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Đề bài: Số phức $z$ thỏa $(\dfrac{16}{3}+\dfrac{5}{4}i)|z| = \dfrac{17}{2z}-\dfrac{5}{4}+\dfrac{16}{3}i$. Yêu cầu: Chọn mệnh đề đúng.
 
 A. $|z| < \dfrac{1}{2}$.
 B. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
@@ -3431,7 +3431,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-313,D37,D37,43,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Câu hỏi: Cho số phức $z$ thỏa mãn $(- \dfrac{9}{2}+\dfrac{1}{2}i)|z| = \dfrac{\dfrac{24}{5}}{z}-\dfrac{1}{2}-\dfrac{9}{2}i$. Khẳng định nào sau đây đúng?
+313,D37,D37,43,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Câu hỏi: Cho số phức $z$ thỏa mãn $(- \dfrac{9}{2}+\dfrac{1}{2}i)|z| = \dfrac{24}{5z}-\dfrac{1}{2}-\dfrac{9}{2}i$. Khẳng định nào sau đây đúng?
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -3442,7 +3442,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
 C. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 D. $|z| = 1$."
-314,D37,D37,44,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Cho $(- \dfrac{38}{5}+\dfrac{3}{2}i)|z| = \dfrac{\dfrac{33}{5}}{z}-\dfrac{3}{2}-\dfrac{38}{5}i$, trong đó $z$ là số phức. Trong các mệnh đề sau, mệnh đề nào đúng?
+314,D37,D37,44,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Cho $(- \dfrac{38}{5}+\dfrac{3}{2}i)|z| = \dfrac{33}{5z}-\dfrac{3}{2}-\dfrac{38}{5}i$, trong đó $z$ là số phức. Trong các mệnh đề sau, mệnh đề nào đúng?
 
 A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
@@ -3453,7 +3453,7 @@ A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-315,D37,D37,45,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Nếu số phức $z$ thỏa mãn $(- \dfrac{3}{2}-\dfrac{17}{3}i)|z| = \dfrac{\dfrac{17}{2}}{z}+\dfrac{17}{3}-\dfrac{3}{2}i$ thì phát biểu nào dưới đây là đúng?
+315,D37,D37,45,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Nếu số phức $z$ thỏa mãn $(- \dfrac{3}{2}-\dfrac{17}{3}i)|z| = \dfrac{17}{2z}+\dfrac{17}{3}-\dfrac{3}{2}i$ thì phát biểu nào dưới đây là đúng?
 
 A. $|z| < \dfrac{1}{2}$.
 B. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
@@ -3464,7 +3464,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-316,D37,D37,46,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Xét số phức $z$ thỏa mãn $(- \dfrac{17}{4}-\dfrac{14}{3}i)|z| = \dfrac{\dfrac{11}{2}}{z}+\dfrac{14}{3}-\dfrac{17}{4}i$. Mệnh đề nào dưới đây đúng?
+316,D37,D37,46,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Xét số phức $z$ thỏa mãn $(- \dfrac{17}{4}-\dfrac{14}{3}i)|z| = \dfrac{11}{2z}+\dfrac{14}{3}-\dfrac{17}{4}i$. Mệnh đề nào dưới đây đúng?
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -3475,7 +3475,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
 C. $|z| = 1$.
 D. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$."
-317,D37,D37,47,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Hãy chọn khẳng định đúng, biết số phức $z$ thỏa mãn $(- \dfrac{1}{2}+\dfrac{23}{3}i)|z| = \dfrac{\dfrac{31}{4}}{z}-\dfrac{23}{3}-\dfrac{1}{2}i$.
+317,D37,D37,47,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Hãy chọn khẳng định đúng, biết số phức $z$ thỏa mãn $(- \dfrac{1}{2}+\dfrac{23}{3}i)|z| = \dfrac{31}{4z}-\dfrac{23}{3}-\dfrac{1}{2}i$.
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -3486,7 +3486,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
 C. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 D. $|z| = 1$."
-318,D37,D37,48,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Cho số phức $z$ có tính chất $(\dfrac{4}{3}-\dfrac{11}{2}i)|z| = \dfrac{\dfrac{15}{2}}{z}+\dfrac{11}{2}+\dfrac{4}{3}i$. Khẳng định nào sau đây đúng?
+318,D37,D37,48,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Cho số phức $z$ có tính chất $(\dfrac{4}{3}-\dfrac{11}{2}i)|z| = \dfrac{15}{2z}+\dfrac{11}{2}+\dfrac{4}{3}i$. Khẳng định nào sau đây đúng?
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -3497,7 +3497,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
 C. $|z| = 1$.
 D. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$."
-319,D37,D37,49,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Cho số phức $z$ thỏa mãn $(- \dfrac{26}{5}+\dfrac{19}{5}i)|z| = \dfrac{\dfrac{15}{2}}{z}-\dfrac{19}{5}-\dfrac{26}{5}i$. Trong các mệnh đề sau, khẳng định nào đúng?
+319,D37,D37,49,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Cho số phức $z$ thỏa mãn $(- \dfrac{26}{5}+\dfrac{19}{5}i)|z| = \dfrac{15}{2z}-\dfrac{19}{5}-\dfrac{26}{5}i$. Trong các mệnh đề sau, khẳng định nào đúng?
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -3508,7 +3508,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
 C. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 D. $|z| = 1$."
-320,D37,D37,50,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Giả sử $z$ là số phức thoả mãn $(- \dfrac{38}{5}-\dfrac{7}{2}i)|z| = \dfrac{\dfrac{39}{5}}{z}+\dfrac{7}{2}-\dfrac{38}{5}i$. Trong các khẳng định sau, khẳng định nào đúng? Chọn một đáp án.
+320,D37,D37,50,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Giả sử $z$ là số phức thoả mãn $(- \dfrac{38}{5}-\dfrac{7}{2}i)|z| = \dfrac{39}{5z}+\dfrac{7}{2}-\dfrac{38}{5}i$. Trong các khẳng định sau, khẳng định nào đúng? Chọn một đáp án.
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -3519,7 +3519,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
 C. $|z| = 1$.
 D. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$."
-321,D37,D37,51,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Đề bài: Giả sử $(- \dfrac{5}{2}-\dfrac{13}{2}i)|z| = \dfrac{\dfrac{17}{3}}{z}+\dfrac{13}{2}-\dfrac{5}{2}i$ với $z$ là số phức. Hãy chọn mệnh đề đúng dưới đây.
+321,D37,D37,51,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Đề bài: Giả sử $(- \dfrac{5}{2}-\dfrac{13}{2}i)|z| = \dfrac{17}{3z}+\dfrac{13}{2}-\dfrac{5}{2}i$ với $z$ là số phức. Hãy chọn mệnh đề đúng dưới đây.
 
 A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
@@ -3530,7 +3530,7 @@ A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-322,D37,D37,52,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Giả sử số phức $z$ thỏa mãn đẳng thức $(- \dfrac{3}{2}+\dfrac{11}{3}i)|z| = \dfrac{\dfrac{31}{4}}{z}-\dfrac{11}{3}-\dfrac{3}{2}i$. Mệnh đề nào sau đây là mệnh đề đúng?
+322,D37,D37,52,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Giả sử số phức $z$ thỏa mãn đẳng thức $(- \dfrac{3}{2}+\dfrac{11}{3}i)|z| = \dfrac{31}{4z}-\dfrac{11}{3}-\dfrac{3}{2}i$. Mệnh đề nào sau đây là mệnh đề đúng?
 
 A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
@@ -3541,7 +3541,7 @@ A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-323,D37,D37,53,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Đề bài: Biết số phức $z$ thỏa $(\dfrac{33}{5}+\dfrac{36}{5}i)|z| = \dfrac{\dfrac{43}{5}}{z}-\dfrac{36}{5}+\dfrac{33}{5}i$. Mệnh đề nào dưới đây đúng? Chọn đáp án đúng.
+323,D37,D37,53,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Đề bài: Biết số phức $z$ thỏa $(\dfrac{33}{5}+\dfrac{36}{5}i)|z| = \dfrac{43}{5z}-\dfrac{36}{5}+\dfrac{33}{5}i$. Mệnh đề nào dưới đây đúng? Chọn đáp án đúng.
 
 A. $|z| < \dfrac{1}{2}$.
 B. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
@@ -3552,7 +3552,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-324,D37,D37,54,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Câu hỏi: Xét phương trình $(- \dfrac{7}{2}-\dfrac{3}{5}i)|z| = \dfrac{\dfrac{9}{2}}{z}+\dfrac{3}{5}-\dfrac{7}{2}i$ (ẩn $z$ là số phức). Mệnh đề nào dưới đây đúng?
+324,D37,D37,54,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Câu hỏi: Xét phương trình $(- \dfrac{7}{2}-\dfrac{3}{5}i)|z| = \dfrac{9}{2z}+\dfrac{3}{5}-\dfrac{7}{2}i$ (ẩn $z$ là số phức). Mệnh đề nào dưới đây đúng?
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -3563,7 +3563,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
 C. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 D. $|z| = 1$."
-325,D37,D37,55,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Giả sử số phức $z$ thoả mãn $(\dfrac{36}{5}+\dfrac{17}{2}i)|z| = \dfrac{\dfrac{17}{2}}{z}-\dfrac{17}{2}+\dfrac{36}{5}i$. Mệnh đề nào sau đây là mệnh đề đúng? Hãy chọn đáp án đúng.
+325,D37,D37,55,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Giả sử số phức $z$ thoả mãn $(\dfrac{36}{5}+\dfrac{17}{2}i)|z| = \dfrac{17}{2z}-\dfrac{17}{2}+\dfrac{36}{5}i$. Mệnh đề nào sau đây là mệnh đề đúng? Hãy chọn đáp án đúng.
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -3574,7 +3574,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
 C. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 D. $|z| = 1$."
-326,D37,D37,56,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Câu hỏi: Số phức $z$ thỏa mãn $(\dfrac{1}{3}+\dfrac{1}{2}i)|z| = \dfrac{\dfrac{31}{4}}{z}-\dfrac{1}{2}+\dfrac{1}{3}i$. Chọn mệnh đề đúng dưới đây.
+326,D37,D37,56,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Câu hỏi: Số phức $z$ thỏa mãn $(\dfrac{1}{3}+\dfrac{1}{2}i)|z| = \dfrac{31}{4z}-\dfrac{1}{2}+\dfrac{1}{3}i$. Chọn mệnh đề đúng dưới đây.
 
 A. $|z| < \dfrac{7}{2}$.
 B. $|z| > \dfrac{9}{2}$.
@@ -3585,7 +3585,7 @@ A. $|z| < \dfrac{7}{2}$.
 B. $|z| > \dfrac{9}{2}$.
 C. $\dfrac{7}{2} < |z| < \dfrac{9}{2}$.
 D. $|z| = 4$."
-327,D37,D37,57,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Cho phương trình $(\dfrac{13}{4}-\dfrac{25}{3}i)|z| = \dfrac{\dfrac{19}{3}}{z}+\dfrac{25}{3}+\dfrac{13}{4}i$ với ẩn $z$ thuộc tập số phức. Khẳng định nào sau đây đúng đối với nghiệm $z$ của phương trình? Hãy chọn đáp án đúng.
+327,D37,D37,57,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Cho phương trình $(\dfrac{13}{4}-\dfrac{25}{3}i)|z| = \dfrac{19}{3z}+\dfrac{25}{3}+\dfrac{13}{4}i$ với ẩn $z$ thuộc tập số phức. Khẳng định nào sau đây đúng đối với nghiệm $z$ của phương trình? Hãy chọn đáp án đúng.
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -3596,7 +3596,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
 C. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 D. $|z| = 1$."
-328,D37,D37,58,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Bài toán: Cho số phức $z$ sao cho $(\dfrac{5}{4}+\dfrac{11}{4}i)|z| = \dfrac{\dfrac{32}{5}}{z}-\dfrac{11}{4}+\dfrac{5}{4}i$. Mệnh đề nào sau đây là mệnh đề đúng? Chọn một đáp án.
+328,D37,D37,58,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Bài toán: Cho số phức $z$ sao cho $(\dfrac{5}{4}+\dfrac{11}{4}i)|z| = \dfrac{32}{5z}-\dfrac{11}{4}+\dfrac{5}{4}i$. Mệnh đề nào sau đây là mệnh đề đúng? Chọn một đáp án.
 
 A. $|z| < \dfrac{1}{2}$.
 B. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
@@ -3607,7 +3607,7 @@ A. $|z| < \dfrac{1}{2}$.
 B. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-329,D37,D37,59,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Với số phức $z$ thoả mãn $(\dfrac{9}{4}+\dfrac{16}{3}i)|z| = \dfrac{\dfrac{17}{4}}{z}-\dfrac{16}{3}+\dfrac{9}{4}i$, khẳng định nào sau đây đúng?
+329,D37,D37,59,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Với số phức $z$ thoả mãn $(\dfrac{9}{4}+\dfrac{16}{3}i)|z| = \dfrac{17}{4z}-\dfrac{16}{3}+\dfrac{9}{4}i$, khẳng định nào sau đây đúng?
 
 A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
@@ -3618,7 +3618,7 @@ A. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.
 B. $|z| < \dfrac{1}{2}$.
 C. $|z| > \dfrac{3}{2}$.
 D. $|z| = 1$."
-330,D37,D37,60,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Đề bài: Số phức $z$ thoả mãn $(- \dfrac{13}{4}+\dfrac{1}{2}i)|z| = \dfrac{\dfrac{15}{2}}{z}-\dfrac{1}{2}-\dfrac{13}{4}i$. Yêu cầu: Chọn mệnh đề đúng.
+330,D37,D37,60,8,Vấn đề 7. Đếm / định lượng số phức z thỏa hệ ràng buộc,"Cho phương trình chứa |z| ở nhiều vị trí, đặt t=|z| và lấy môđun hai vế để xác định khoảng chứa |z|",VDC,Số hữu tỉ,"Đề bài: Số phức $z$ thoả mãn $(- \dfrac{13}{4}+\dfrac{1}{2}i)|z| = \dfrac{15}{2z}-\dfrac{1}{2}-\dfrac{13}{4}i$. Yêu cầu: Chọn mệnh đề đúng.
 
 A. $|z| < \dfrac{1}{2}$.
 B. $|z| > \dfrac{3}{2}$.
@@ -5609,12 +5609,12 @@ A. $P = \dfrac{\sqrt{30641}}{30} + \dfrac{\sqrt{116257}}{30}$.
 B. $P = - \dfrac{\sqrt{30641}}{30} + \dfrac{\sqrt{116257}}{30}$.
 C. $P = \dfrac{\sqrt{116257}}{15}$.
 D. $P = \dfrac{\sqrt{3562230737}}{900}$."
-511,D50,D50,61,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Câu hỏi: Cho các số phức $z$ thoả mãn $|z-2 \sqrt{7}+3 \sqrt{6}i|+|z-\sqrt{11}-3 \sqrt{2}i| = \sqrt{- 4 \sqrt{77} + 36 \sqrt{3} + 111}$. Kí hiệu $m, M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của $|z+4 \sqrt{10}-3 \sqrt{6}i|$. Tìm $P = m+M$.
+511,D50,D50,61,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Câu hỏi: Cho các số phức $z$ thoả mãn $|z-2 \sqrt{7}+3 \sqrt{6}i|+|z-\sqrt{11}-3 \sqrt{2}i| = \sqrt{111 + 36 \sqrt{3} - 4 \sqrt{77}}$. Kí hiệu $m, M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của $|z+4 \sqrt{10}-3 \sqrt{6}i|$. Tìm $P = m+M$.
 
-A. $P = \sqrt{- 36 \sqrt{3} + 8 \sqrt{110} + 243} + 2 \sqrt{4 \sqrt{70} + 101}$.
-B. $P = - \sqrt{- 36 \sqrt{3} + 8 \sqrt{110} + 243} + 2 \sqrt{4 \sqrt{70} + 101}$.
+A. $P = \sqrt{243 + 8 \sqrt{110} - 36 \sqrt{3}} + 2 \sqrt{4 \sqrt{70} + 101}$.
+B. $P = - \sqrt{243 + 8 \sqrt{110} - 36 \sqrt{3}} + 2 \sqrt{4 \sqrt{70} + 101}$.
 C. $P = 4 \sqrt{4 \sqrt{70} + 101}$.
-D. $P = 2 \sqrt{4 \sqrt{70} + 101} \sqrt{- 36 \sqrt{3} + 8 \sqrt{110} + 243}$.",A,A. $P = \sqrt{- 36 \sqrt{3} + 8 \sqrt{110} + 243} + 2 \sqrt{4 \sqrt{70} + 101}$.,"{""ax"": ""2*sqrt(7)"", ""ay"": ""-3*sqrt(6)"", ""bx"": ""sqrt(11)"", ""by"": ""3*sqrt(2)"", ""cx"": ""-4*sqrt(10)"", ""cy"": ""3*sqrt(6)""}","Xét các số phức $z$ thỏa mãn $|z-2 \sqrt{7}+3 \sqrt{6}i|+|z-\sqrt{11}-3 \sqrt{2}i| = \sqrt{- 4 \sqrt{77} + 36 \sqrt{3} + 111}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+4 \sqrt{10}-3 \sqrt{6}i|$. Tính $P = m+M$.
+D. $P = 2 \sqrt{4 \sqrt{70} + 101} \sqrt{243 + 8 \sqrt{110} - 36 \sqrt{3}}$.",A,A. $P = \sqrt{243 + 8 \sqrt{110} - 36 \sqrt{3}} + 2 \sqrt{4 \sqrt{70} + 101}$.,"{""ax"": ""2*sqrt(7)"", ""ay"": ""-3*sqrt(6)"", ""bx"": ""sqrt(11)"", ""by"": ""3*sqrt(2)"", ""cx"": ""-4*sqrt(10)"", ""cy"": ""3*sqrt(6)""}","Xét các số phức $z$ thỏa mãn $|z-2 \sqrt{7}+3 \sqrt{6}i|+|z-\sqrt{11}-3 \sqrt{2}i| = \sqrt{- 4 \sqrt{77} + 36 \sqrt{3} + 111}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+4 \sqrt{10}-3 \sqrt{6}i|$. Tính $P = m+M$.
 
 A. $P = \sqrt{- 36 \sqrt{3} + 8 \sqrt{110} + 243} + 2 \sqrt{4 \sqrt{70} + 101}$.
 B. $P = - \sqrt{- 36 \sqrt{3} + 8 \sqrt{110} + 243} + 2 \sqrt{4 \sqrt{70} + 101}$.
@@ -5633,32 +5633,32 @@ C. $P = 2 \sqrt{8 \sqrt{77} + 18 \sqrt{70} + 336}$.
 D. $P = 2 \sqrt{336 \sqrt{55} + 252 \sqrt{110} + 3780 \sqrt{2} + 1324 \sqrt{77} + 2016 \sqrt{35} + 1467 \sqrt{70} + 28616}$."
 513,D50,D50,63,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Xét tập hợp các số phức $z$ thỏa $|z-\sqrt{7}-3 \sqrt{7}i|+|z-\sqrt{3}-4 \sqrt{7}i| = \sqrt{17 - 2 \sqrt{21}}$. Biểu thức $|z-3 \sqrt{6}-4 \sqrt{3}i|$ có giá trị nhỏ nhất là $m$ và giá trị lớn nhất là $M$. Hãy xác định $P = m+M$.
 
-A. $P = - \sqrt{- 24 \sqrt{21} - 6 \sqrt{42} + 172} + \sqrt{- 32 \sqrt{21} - 18 \sqrt{2} + 217}$.
-B. $P = 2 \sqrt{- 32 \sqrt{21} - 18 \sqrt{2} + 217}$.
-C. $P = \sqrt{- 24 \sqrt{21} - 6 \sqrt{42} + 172} + \sqrt{- 32 \sqrt{21} - 18 \sqrt{2} + 217}$.
-D. $P = \sqrt{- 10496 \sqrt{21} - 870 \sqrt{42} + 936 \sqrt{2} + 53452}$.",C,C. $P = \sqrt{- 24 \sqrt{21} - 6 \sqrt{42} + 172} + \sqrt{- 32 \sqrt{21} - 18 \sqrt{2} + 217}$.,"{""ax"": ""sqrt(7)"", ""ay"": ""3*sqrt(7)"", ""bx"": ""sqrt(3)"", ""by"": ""4*sqrt(7)"", ""cx"": ""3*sqrt(6)"", ""cy"": ""4*sqrt(3)""}","Xét các số phức $z$ thỏa mãn $|z-\sqrt{7}-3 \sqrt{7}i|+|z-\sqrt{3}-4 \sqrt{7}i| = \sqrt{17 - 2 \sqrt{21}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-3 \sqrt{6}-4 \sqrt{3}i|$. Tính $P = m+M$.
+A. $P = - \sqrt{172 - 24 \sqrt{21} - 6 \sqrt{42}} + \sqrt{217 - 32 \sqrt{21} - 18 \sqrt{2}}$.
+B. $P = 2 \sqrt{217 - 32 \sqrt{21} - 18 \sqrt{2}}$.
+C. $P = \sqrt{172 - 24 \sqrt{21} - 6 \sqrt{42}} + \sqrt{217 - 32 \sqrt{21} - 18 \sqrt{2}}$.
+D. $P = \sqrt{53452 + 936 \sqrt{2} - 10496 \sqrt{21} - 870 \sqrt{42}}$.",C,C. $P = \sqrt{172 - 24 \sqrt{21} - 6 \sqrt{42}} + \sqrt{217 - 32 \sqrt{21} - 18 \sqrt{2}}$.,"{""ax"": ""sqrt(7)"", ""ay"": ""3*sqrt(7)"", ""bx"": ""sqrt(3)"", ""by"": ""4*sqrt(7)"", ""cx"": ""3*sqrt(6)"", ""cy"": ""4*sqrt(3)""}","Xét các số phức $z$ thỏa mãn $|z-\sqrt{7}-3 \sqrt{7}i|+|z-\sqrt{3}-4 \sqrt{7}i| = \sqrt{17 - 2 \sqrt{21}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-3 \sqrt{6}-4 \sqrt{3}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{- 24 \sqrt{21} - 6 \sqrt{42} + 172} + \sqrt{- 32 \sqrt{21} - 18 \sqrt{2} + 217}$.
 B. $P = 2 \sqrt{- 32 \sqrt{21} - 18 \sqrt{2} + 217}$.
 C. $P = \sqrt{- 24 \sqrt{21} - 6 \sqrt{42} + 172} + \sqrt{- 32 \sqrt{21} - 18 \sqrt{2} + 217}$.
 D. $P = \sqrt{- 10496 \sqrt{21} - 870 \sqrt{42} + 936 \sqrt{2} + 53452}$."
-514,D50,D50,64,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Bài toán: Giả sử các số phức $z$ thỏa $|z-\sqrt{7}-2 \sqrt{10}i|+|z+4 \sqrt{5}-4 \sqrt{7}i| = \sqrt{- 16 \sqrt{70} + 8 \sqrt{35} + 239}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{11}+\sqrt{2}i|$. Giá trị của $P = m+M$ bằng bao nhiêu?
+514,D50,D50,64,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Bài toán: Giả sử các số phức $z$ thỏa $|z-\sqrt{7}-2 \sqrt{10}i|+|z+4 \sqrt{5}-4 \sqrt{7}i| = \sqrt{239 + 8 \sqrt{35} - 16 \sqrt{70}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{11}+\sqrt{2}i|$. Giá trị của $P = m+M$ bằng bao nhiêu?
 
-A. $P = - \sqrt{- 4 \sqrt{77} + 8 \sqrt{5} + 93} + \sqrt{8 \sqrt{14} + 16 \sqrt{55} + 238}$.
+A. $P = - \sqrt{93 + 8 \sqrt{5} - 4 \sqrt{77}} + \sqrt{8 \sqrt{14} + 16 \sqrt{55} + 238}$.
 B. $P = 2 \sqrt{8 \sqrt{14} + 16 \sqrt{55} + 238}$.
-C. $P = \sqrt{2} \sqrt{4 \sqrt{14} + 8 \sqrt{55} + 119} \sqrt{- 4 \sqrt{77} + 8 \sqrt{5} + 93}$.
-D. $P = \sqrt{- 4 \sqrt{77} + 8 \sqrt{5} + 93} + \sqrt{8 \sqrt{14} + 16 \sqrt{55} + 238}$.",D,D. $P = \sqrt{- 4 \sqrt{77} + 8 \sqrt{5} + 93} + \sqrt{8 \sqrt{14} + 16 \sqrt{55} + 238}$.,"{""ax"": ""sqrt(7)"", ""ay"": ""2*sqrt(10)"", ""bx"": ""-4*sqrt(5)"", ""by"": ""4*sqrt(7)"", ""cx"": ""2*sqrt(11)"", ""cy"": ""-sqrt(2)""}","Xét các số phức $z$ thỏa mãn $|z-\sqrt{7}-2 \sqrt{10}i|+|z+4 \sqrt{5}-4 \sqrt{7}i| = \sqrt{- 16 \sqrt{70} + 8 \sqrt{35} + 239}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{11}+\sqrt{2}i|$. Tính $P = m+M$.
+C. $P = \sqrt{2} \sqrt{4 \sqrt{14} + 8 \sqrt{55} + 119} \sqrt{93 + 8 \sqrt{5} - 4 \sqrt{77}}$.
+D. $P = \sqrt{93 + 8 \sqrt{5} - 4 \sqrt{77}} + \sqrt{8 \sqrt{14} + 16 \sqrt{55} + 238}$.",D,D. $P = \sqrt{93 + 8 \sqrt{5} - 4 \sqrt{77}} + \sqrt{8 \sqrt{14} + 16 \sqrt{55} + 238}$.,"{""ax"": ""sqrt(7)"", ""ay"": ""2*sqrt(10)"", ""bx"": ""-4*sqrt(5)"", ""by"": ""4*sqrt(7)"", ""cx"": ""2*sqrt(11)"", ""cy"": ""-sqrt(2)""}","Xét các số phức $z$ thỏa mãn $|z-\sqrt{7}-2 \sqrt{10}i|+|z+4 \sqrt{5}-4 \sqrt{7}i| = \sqrt{- 16 \sqrt{70} + 8 \sqrt{35} + 239}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{11}+\sqrt{2}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{- 4 \sqrt{77} + 8 \sqrt{5} + 93} + \sqrt{8 \sqrt{14} + 16 \sqrt{55} + 238}$.
 B. $P = 2 \sqrt{8 \sqrt{14} + 16 \sqrt{55} + 238}$.
 C. $P = \sqrt{2} \sqrt{4 \sqrt{14} + 8 \sqrt{55} + 119} \sqrt{- 4 \sqrt{77} + 8 \sqrt{5} + 93}$.
 D. $P = \sqrt{- 4 \sqrt{77} + 8 \sqrt{5} + 93} + \sqrt{8 \sqrt{14} + 16 \sqrt{55} + 238}$."
-515,D50,D50,65,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Với các số phức $z$ thỏa mãn $|z+2 \sqrt{3}+\sqrt{7}i|+|z-4 \sqrt{11}+\sqrt{5}i| = \sqrt{- 2 \sqrt{35} + 16 \sqrt{33} + 200}$, gọi $m$ là giá trị nhỏ nhất và $M$ là giá trị lớn nhất của $|z+4 \sqrt{5}-4 \sqrt{3}i|$. Giá trị của $P = m+M$ là bao nhiêu?
+515,D50,D50,65,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Với các số phức $z$ thỏa mãn $|z+2 \sqrt{3}+\sqrt{7}i|+|z-4 \sqrt{11}+\sqrt{5}i| = \sqrt{200 + 16 \sqrt{33} - 2 \sqrt{35}}$, gọi $m$ là giá trị nhỏ nhất và $M$ là giá trị lớn nhất của $|z+4 \sqrt{5}-4 \sqrt{3}i|$. Giá trị của $P = m+M$ là bao nhiêu?
 
-A. $P = - \sqrt{- 16 \sqrt{15} + 8 \sqrt{21} + 147} + \sqrt{8 \sqrt{15} + 32 \sqrt{55} + 309}$.
-B. $P = \sqrt{- 16 \sqrt{15} + 8 \sqrt{21} + 147} + \sqrt{8 \sqrt{15} + 32 \sqrt{55} + 309}$.
+A. $P = - \sqrt{147 + 8 \sqrt{21} - 16 \sqrt{15}} + \sqrt{8 \sqrt{15} + 32 \sqrt{55} + 309}$.
+B. $P = \sqrt{147 + 8 \sqrt{21} - 16 \sqrt{15}} + \sqrt{8 \sqrt{15} + 32 \sqrt{55} + 309}$.
 C. $P = 2 \sqrt{8 \sqrt{15} + 32 \sqrt{55} + 309}$.
-D. $P = \sqrt{- 2560 \sqrt{33} - 3768 \sqrt{15} + 192 \sqrt{35} + 256 \sqrt{1155} + 2472 \sqrt{21} + 4704 \sqrt{55} + 43503}$.",B,B. $P = \sqrt{- 16 \sqrt{15} + 8 \sqrt{21} + 147} + \sqrt{8 \sqrt{15} + 32 \sqrt{55} + 309}$.,"{""ax"": ""-2*sqrt(3)"", ""ay"": ""-sqrt(7)"", ""bx"": ""4*sqrt(11)"", ""by"": ""-sqrt(5)"", ""cx"": ""-4*sqrt(5)"", ""cy"": ""4*sqrt(3)""}","Xét các số phức $z$ thỏa mãn $|z+2 \sqrt{3}+\sqrt{7}i|+|z-4 \sqrt{11}+\sqrt{5}i| = \sqrt{- 2 \sqrt{35} + 16 \sqrt{33} + 200}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+4 \sqrt{5}-4 \sqrt{3}i|$. Tính $P = m+M$.
+D. $P = \sqrt{43503 + 192 \sqrt{35} + 256 \sqrt{1155} + 2472 \sqrt{21} + 4704 \sqrt{55} - 2560 \sqrt{33} - 3768 \sqrt{15}}$.",B,B. $P = \sqrt{147 + 8 \sqrt{21} - 16 \sqrt{15}} + \sqrt{8 \sqrt{15} + 32 \sqrt{55} + 309}$.,"{""ax"": ""-2*sqrt(3)"", ""ay"": ""-sqrt(7)"", ""bx"": ""4*sqrt(11)"", ""by"": ""-sqrt(5)"", ""cx"": ""-4*sqrt(5)"", ""cy"": ""4*sqrt(3)""}","Xét các số phức $z$ thỏa mãn $|z+2 \sqrt{3}+\sqrt{7}i|+|z-4 \sqrt{11}+\sqrt{5}i| = \sqrt{- 2 \sqrt{35} + 16 \sqrt{33} + 200}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+4 \sqrt{5}-4 \sqrt{3}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{- 16 \sqrt{15} + 8 \sqrt{21} + 147} + \sqrt{8 \sqrt{15} + 32 \sqrt{55} + 309}$.
 B. $P = \sqrt{- 16 \sqrt{15} + 8 \sqrt{21} + 147} + \sqrt{8 \sqrt{15} + 32 \sqrt{55} + 309}$.
@@ -5669,13 +5669,13 @@ D. $P = \sqrt{- 2560 \sqrt{33} - 3768 \sqrt{15} + 192 \sqrt{35} + 256 \sqrt{1155
 A. $P = \sqrt{2} \left(- \sqrt{67 - 6 \sqrt{77}} + \sqrt{6 \sqrt{33} + 4 \sqrt{77} + 117}\right)$.
 B. $P = \sqrt{2} \left(\sqrt{67 - 6 \sqrt{77}} + \sqrt{6 \sqrt{33} + 4 \sqrt{77} + 117}\right)$.
 C. $P = 2 \sqrt{12 \sqrt{33} + 8 \sqrt{77} + 234}$.
-D. $P = 2 \sqrt{- 434 \sqrt{77} - 396 \sqrt{21} + 402 \sqrt{33} + 5991}$.",B,B. $P = \sqrt{2} \left(\sqrt{67 - 6 \sqrt{77}} + \sqrt{6 \sqrt{33} + 4 \sqrt{77} + 117}\right)$.,"{""ax"": ""-2*sqrt(3)"", ""ay"": ""-sqrt(11)"", ""bx"": ""2*sqrt(7)"", ""by"": ""3*sqrt(7)"", ""cx"": ""3*sqrt(11)"", ""cy"": ""4*sqrt(7)""}","Xét các số phức $z$ thỏa mãn $|z+2 \sqrt{3}+\sqrt{11}i|+|z-2 \sqrt{7}-3 \sqrt{7}i| = \sqrt{8 \sqrt{21} + 6 \sqrt{77} + 114}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-3 \sqrt{11}-4 \sqrt{7}i|$. Tính $P = m+M$.
+D. $P = 2 \sqrt{5991 + 402 \sqrt{33} - 434 \sqrt{77} - 396 \sqrt{21}}$.",B,B. $P = \sqrt{2} \left(\sqrt{67 - 6 \sqrt{77}} + \sqrt{6 \sqrt{33} + 4 \sqrt{77} + 117}\right)$.,"{""ax"": ""-2*sqrt(3)"", ""ay"": ""-sqrt(11)"", ""bx"": ""2*sqrt(7)"", ""by"": ""3*sqrt(7)"", ""cx"": ""3*sqrt(11)"", ""cy"": ""4*sqrt(7)""}","Xét các số phức $z$ thỏa mãn $|z+2 \sqrt{3}+\sqrt{11}i|+|z-2 \sqrt{7}-3 \sqrt{7}i| = \sqrt{8 \sqrt{21} + 6 \sqrt{77} + 114}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-3 \sqrt{11}-4 \sqrt{7}i|$. Tính $P = m+M$.
 
 A. $P = \sqrt{2} \left(- \sqrt{67 - 6 \sqrt{77}} + \sqrt{6 \sqrt{33} + 4 \sqrt{77} + 117}\right)$.
 B. $P = \sqrt{2} \left(\sqrt{67 - 6 \sqrt{77}} + \sqrt{6 \sqrt{33} + 4 \sqrt{77} + 117}\right)$.
 C. $P = 2 \sqrt{12 \sqrt{33} + 8 \sqrt{77} + 234}$.
 D. $P = 2 \sqrt{- 434 \sqrt{77} - 396 \sqrt{21} + 402 \sqrt{33} + 5991}$."
-517,D50,D50,67,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Xét các số phức $z$ thỏa $|z-3 \sqrt{11}+2 \sqrt{5}i|+|z-2 \sqrt{2}+4 \sqrt{2}i| = \sqrt{- 12 \sqrt{22} - 16 \sqrt{10} + 159}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của $|z+\sqrt{7}-3 \sqrt{2}i|$. Xác định $P = m+M$. Chọn đáp án đúng.
+517,D50,D50,67,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Xét các số phức $z$ thỏa $|z-3 \sqrt{11}+2 \sqrt{5}i|+|z-2 \sqrt{2}+4 \sqrt{2}i| = \sqrt{159 - 12 \sqrt{22} - 16 \sqrt{10}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của $|z+\sqrt{7}-3 \sqrt{2}i|$. Xác định $P = m+M$. Chọn đáp án đúng.
 
 A. $P = \sqrt{4 \sqrt{14} + 113} + \sqrt{12 \sqrt{10} + 6 \sqrt{77} + 144}$.
 B. $P = - \sqrt{4 \sqrt{14} + 113} + \sqrt{12 \sqrt{10} + 6 \sqrt{77} + 144}$.
@@ -5686,12 +5686,12 @@ A. $P = \sqrt{4 \sqrt{14} + 113} + \sqrt{12 \sqrt{10} + 6 \sqrt{77} + 144}$.
 B. $P = - \sqrt{4 \sqrt{14} + 113} + \sqrt{12 \sqrt{10} + 6 \sqrt{77} + 144}$.
 C. $P = 2 \sqrt{12 \sqrt{10} + 6 \sqrt{77} + 144}$.
 D. $P = \sqrt{6} \sqrt{4 \sqrt{14} + 113} \sqrt{2 \sqrt{10} + \sqrt{77} + 24}$."
-518,D50,D50,68,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Biết $|z-\sqrt{10}+3 \sqrt{6}i|+|z+4 \sqrt{5}+\sqrt{5}i| = \sqrt{- 6 \sqrt{30} + 40 \sqrt{2} + 149}$ với $z$ là số phức. Gọi $m, M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của biểu thức $|z-2 \sqrt{7}+3 \sqrt{6}i|$. Xác định $P = m+M$.
+518,D50,D50,68,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Biết $|z-\sqrt{10}+3 \sqrt{6}i|+|z+4 \sqrt{5}+\sqrt{5}i| = \sqrt{149 + 40 \sqrt{2} - 6 \sqrt{30}}$ với $z$ là số phức. Gọi $m, M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của biểu thức $|z-2 \sqrt{7}+3 \sqrt{6}i|$. Xác định $P = m+M$.
 
-A. $P = - \sqrt{38 - 4 \sqrt{70}} + \sqrt{- 6 \sqrt{30} + 16 \sqrt{35} + 167}$.
-B. $P = 2 \sqrt{- 6 \sqrt{30} + 16 \sqrt{35} + 167}$.
-C. $P = \sqrt{38 - 4 \sqrt{70}} + \sqrt{- 6 \sqrt{30} + 16 \sqrt{35} + 167}$.
-D. $P = \sqrt{2} \sqrt{19 - 2 \sqrt{70}} \sqrt{- 6 \sqrt{30} + 16 \sqrt{35} + 167}$.",C,C. $P = \sqrt{38 - 4 \sqrt{70}} + \sqrt{- 6 \sqrt{30} + 16 \sqrt{35} + 167}$.,"{""ax"": ""sqrt(10)"", ""ay"": ""-3*sqrt(6)"", ""bx"": ""-4*sqrt(5)"", ""by"": ""-sqrt(5)"", ""cx"": ""2*sqrt(7)"", ""cy"": ""-3*sqrt(6)""}","Xét các số phức $z$ thỏa mãn $|z-\sqrt{10}+3 \sqrt{6}i|+|z+4 \sqrt{5}+\sqrt{5}i| = \sqrt{- 6 \sqrt{30} + 40 \sqrt{2} + 149}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{7}+3 \sqrt{6}i|$. Tính $P = m+M$.
+A. $P = - \sqrt{38 - 4 \sqrt{70}} + \sqrt{167 + 16 \sqrt{35} - 6 \sqrt{30}}$.
+B. $P = 2 \sqrt{167 + 16 \sqrt{35} - 6 \sqrt{30}}$.
+C. $P = \sqrt{38 - 4 \sqrt{70}} + \sqrt{167 + 16 \sqrt{35} - 6 \sqrt{30}}$.
+D. $P = \sqrt{2} \sqrt{19 - 2 \sqrt{70}} \sqrt{167 + 16 \sqrt{35} - 6 \sqrt{30}}$.",C,C. $P = \sqrt{38 - 4 \sqrt{70}} + \sqrt{167 + 16 \sqrt{35} - 6 \sqrt{30}}$.,"{""ax"": ""sqrt(10)"", ""ay"": ""-3*sqrt(6)"", ""bx"": ""-4*sqrt(5)"", ""by"": ""-sqrt(5)"", ""cx"": ""2*sqrt(7)"", ""cy"": ""-3*sqrt(6)""}","Xét các số phức $z$ thỏa mãn $|z-\sqrt{10}+3 \sqrt{6}i|+|z+4 \sqrt{5}+\sqrt{5}i| = \sqrt{- 6 \sqrt{30} + 40 \sqrt{2} + 149}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{7}+3 \sqrt{6}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{38 - 4 \sqrt{70}} + \sqrt{- 6 \sqrt{30} + 16 \sqrt{35} + 167}$.
 B. $P = 2 \sqrt{- 6 \sqrt{30} + 16 \sqrt{35} + 167}$.
@@ -5699,10 +5699,10 @@ C. $P = \sqrt{38 - 4 \sqrt{70}} + \sqrt{- 6 \sqrt{30} + 16 \sqrt{35} + 167}$.
 D. $P = \sqrt{2} \sqrt{19 - 2 \sqrt{70}} \sqrt{- 6 \sqrt{30} + 16 \sqrt{35} + 167}$."
 519,D50,D50,69,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Bài toán: Với $z$ là số phức thoả mãn $|z-3 \sqrt{2}-\sqrt{6}i|+|z+3 \sqrt{7}+\sqrt{5}i| = \sqrt{2 \sqrt{30} + 18 \sqrt{14} + 92}$, giá trị lớn nhất của $|z+3 \sqrt{5}+4 \sqrt{10}i|$ là $M$, giá trị nhỏ nhất là $m$. Hãy xác định $P = m+M$.
 
-A. $P = - \sqrt{- 18 \sqrt{35} - 40 \sqrt{2} + 273} + \sqrt{18 \sqrt{10} + 16 \sqrt{15} + 229}$.
-B. $P = \sqrt{- 18 \sqrt{35} - 40 \sqrt{2} + 273} + \sqrt{18 \sqrt{10} + 16 \sqrt{15} + 229}$.
+A. $P = - \sqrt{273 - 18 \sqrt{35} - 40 \sqrt{2}} + \sqrt{18 \sqrt{10} + 16 \sqrt{15} + 229}$.
+B. $P = \sqrt{273 - 18 \sqrt{35} - 40 \sqrt{2}} + \sqrt{18 \sqrt{10} + 16 \sqrt{15} + 229}$.
 C. $P = 2 \sqrt{18 \sqrt{10} + 16 \sqrt{15} + 229}$.
-D. $P = \sqrt{18 \sqrt{10} + 16 \sqrt{15} + 229} \sqrt{- 18 \sqrt{35} - 40 \sqrt{2} + 273}$.",B,B. $P = \sqrt{- 18 \sqrt{35} - 40 \sqrt{2} + 273} + \sqrt{18 \sqrt{10} + 16 \sqrt{15} + 229}$.,"{""ax"": ""3*sqrt(2)"", ""ay"": ""sqrt(6)"", ""bx"": ""-3*sqrt(7)"", ""by"": ""-sqrt(5)"", ""cx"": ""-3*sqrt(5)"", ""cy"": ""-4*sqrt(10)""}","Xét các số phức $z$ thỏa mãn $|z-3 \sqrt{2}-\sqrt{6}i|+|z+3 \sqrt{7}+\sqrt{5}i| = \sqrt{2 \sqrt{30} + 18 \sqrt{14} + 92}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+3 \sqrt{5}+4 \sqrt{10}i|$. Tính $P = m+M$.
+D. $P = \sqrt{18 \sqrt{10} + 16 \sqrt{15} + 229} \sqrt{273 - 18 \sqrt{35} - 40 \sqrt{2}}$.",B,B. $P = \sqrt{273 - 18 \sqrt{35} - 40 \sqrt{2}} + \sqrt{18 \sqrt{10} + 16 \sqrt{15} + 229}$.,"{""ax"": ""3*sqrt(2)"", ""ay"": ""sqrt(6)"", ""bx"": ""-3*sqrt(7)"", ""by"": ""-sqrt(5)"", ""cx"": ""-3*sqrt(5)"", ""cy"": ""-4*sqrt(10)""}","Xét các số phức $z$ thỏa mãn $|z-3 \sqrt{2}-\sqrt{6}i|+|z+3 \sqrt{7}+\sqrt{5}i| = \sqrt{2 \sqrt{30} + 18 \sqrt{14} + 92}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+3 \sqrt{5}+4 \sqrt{10}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{- 18 \sqrt{35} - 40 \sqrt{2} + 273} + \sqrt{18 \sqrt{10} + 16 \sqrt{15} + 229}$.
 B. $P = \sqrt{- 18 \sqrt{35} - 40 \sqrt{2} + 273} + \sqrt{18 \sqrt{10} + 16 \sqrt{15} + 229}$.
@@ -5710,32 +5710,32 @@ C. $P = 2 \sqrt{18 \sqrt{10} + 16 \sqrt{15} + 229}$.
 D. $P = \sqrt{18 \sqrt{10} + 16 \sqrt{15} + 229} \sqrt{- 18 \sqrt{35} - 40 \sqrt{2} + 273}$."
 520,D50,D50,70,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Cho các số phức $z$ thỏa mãn $|z+2 \sqrt{6}+4 \sqrt{2}i|+|z+4 \sqrt{11}-3 \sqrt{2}i| = \sqrt{298 - 16 \sqrt{66}}$. Ký hiệu $m, M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của $|z+\sqrt{3}+2 \sqrt{7}i|$. Hãy tìm $P = m+M$.
 
-A. $P = \sqrt{- 16 \sqrt{14} - 12 \sqrt{2} + 87} + \sqrt{- 8 \sqrt{33} + 12 \sqrt{14} + 225}$.
-B. $P = - \sqrt{- 16 \sqrt{14} - 12 \sqrt{2} + 87} + \sqrt{- 8 \sqrt{33} + 12 \sqrt{14} + 225}$.
-C. $P = 2 \sqrt{- 8 \sqrt{33} + 12 \sqrt{14} + 225}$.
-D. $P = \sqrt{- 2556 \sqrt{14} - 696 \sqrt{33} - 2700 \sqrt{2} - 288 \sqrt{7} + 96 \sqrt{66} + 128 \sqrt{462} + 16887}$.",A,A. $P = \sqrt{- 16 \sqrt{14} - 12 \sqrt{2} + 87} + \sqrt{- 8 \sqrt{33} + 12 \sqrt{14} + 225}$.,"{""ax"": ""-2*sqrt(6)"", ""ay"": ""-4*sqrt(2)"", ""bx"": ""-4*sqrt(11)"", ""by"": ""3*sqrt(2)"", ""cx"": ""-sqrt(3)"", ""cy"": ""-2*sqrt(7)""}","Xét các số phức $z$ thỏa mãn $|z+2 \sqrt{6}+4 \sqrt{2}i|+|z+4 \sqrt{11}-3 \sqrt{2}i| = \sqrt{298 - 16 \sqrt{66}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+\sqrt{3}+2 \sqrt{7}i|$. Tính $P = m+M$.
+A. $P = \sqrt{87 - 16 \sqrt{14} - 12 \sqrt{2}} + \sqrt{225 + 12 \sqrt{14} - 8 \sqrt{33}}$.
+B. $P = - \sqrt{87 - 16 \sqrt{14} - 12 \sqrt{2}} + \sqrt{225 + 12 \sqrt{14} - 8 \sqrt{33}}$.
+C. $P = 2 \sqrt{225 + 12 \sqrt{14} - 8 \sqrt{33}}$.
+D. $P = \sqrt{16887 + 96 \sqrt{66} + 128 \sqrt{462} - 2556 \sqrt{14} - 696 \sqrt{33} - 2700 \sqrt{2} - 288 \sqrt{7}}$.",A,A. $P = \sqrt{87 - 16 \sqrt{14} - 12 \sqrt{2}} + \sqrt{225 + 12 \sqrt{14} - 8 \sqrt{33}}$.,"{""ax"": ""-2*sqrt(6)"", ""ay"": ""-4*sqrt(2)"", ""bx"": ""-4*sqrt(11)"", ""by"": ""3*sqrt(2)"", ""cx"": ""-sqrt(3)"", ""cy"": ""-2*sqrt(7)""}","Xét các số phức $z$ thỏa mãn $|z+2 \sqrt{6}+4 \sqrt{2}i|+|z+4 \sqrt{11}-3 \sqrt{2}i| = \sqrt{298 - 16 \sqrt{66}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+\sqrt{3}+2 \sqrt{7}i|$. Tính $P = m+M$.
 
 A. $P = \sqrt{- 16 \sqrt{14} - 12 \sqrt{2} + 87} + \sqrt{- 8 \sqrt{33} + 12 \sqrt{14} + 225}$.
 B. $P = - \sqrt{- 16 \sqrt{14} - 12 \sqrt{2} + 87} + \sqrt{- 8 \sqrt{33} + 12 \sqrt{14} + 225}$.
 C. $P = 2 \sqrt{- 8 \sqrt{33} + 12 \sqrt{14} + 225}$.
 D. $P = \sqrt{- 2556 \sqrt{14} - 696 \sqrt{33} - 2700 \sqrt{2} - 288 \sqrt{7} + 96 \sqrt{66} + 128 \sqrt{462} + 16887}$."
-521,D50,D50,71,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Bài toán: Trong các số phức $z$ thỏa $|z+3 \sqrt{6}+2 \sqrt{2}i|+|z+\sqrt{7}+4 \sqrt{10}i| = \sqrt{- 32 \sqrt{5} - 6 \sqrt{42} + 229}$, gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+2 \sqrt{3}-2 \sqrt{7}i|$. Hãy xác định $P = m+M$. Chọn đáp án đúng.
+521,D50,D50,71,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Bài toán: Trong các số phức $z$ thỏa $|z+3 \sqrt{6}+2 \sqrt{2}i|+|z+\sqrt{7}+4 \sqrt{10}i| = \sqrt{229 - 32 \sqrt{5} - 6 \sqrt{42}}$, gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+2 \sqrt{3}-2 \sqrt{7}i|$. Hãy xác định $P = m+M$. Chọn đáp án đúng.
 
-A. $P = - \sqrt{- 36 \sqrt{2} + 8 \sqrt{14} + 102} + \sqrt{- 4 \sqrt{21} + 16 \sqrt{70} + 207}$.
-B. $P = \sqrt{- 36 \sqrt{2} + 8 \sqrt{14} + 102} + \sqrt{- 4 \sqrt{21} + 16 \sqrt{70} + 207}$.
-C. $P = 2 \sqrt{- 4 \sqrt{21} + 16 \sqrt{70} + 207}$.
-D. $P = \sqrt{2} \sqrt{- 18 \sqrt{2} + 4 \sqrt{14} + 51} \sqrt{- 4 \sqrt{21} + 16 \sqrt{70} + 207}$.",B,B. $P = \sqrt{- 36 \sqrt{2} + 8 \sqrt{14} + 102} + \sqrt{- 4 \sqrt{21} + 16 \sqrt{70} + 207}$.,"{""ax"": ""-3*sqrt(6)"", ""ay"": ""-2*sqrt(2)"", ""bx"": ""-sqrt(7)"", ""by"": ""-4*sqrt(10)"", ""cx"": ""-2*sqrt(3)"", ""cy"": ""2*sqrt(7)""}","Xét các số phức $z$ thỏa mãn $|z+3 \sqrt{6}+2 \sqrt{2}i|+|z+\sqrt{7}+4 \sqrt{10}i| = \sqrt{- 32 \sqrt{5} - 6 \sqrt{42} + 229}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+2 \sqrt{3}-2 \sqrt{7}i|$. Tính $P = m+M$.
+A. $P = - \sqrt{102 + 8 \sqrt{14} - 36 \sqrt{2}} + \sqrt{207 + 16 \sqrt{70} - 4 \sqrt{21}}$.
+B. $P = \sqrt{102 + 8 \sqrt{14} - 36 \sqrt{2}} + \sqrt{207 + 16 \sqrt{70} - 4 \sqrt{21}}$.
+C. $P = 2 \sqrt{207 + 16 \sqrt{70} - 4 \sqrt{21}}$.
+D. $P = \sqrt{2} \sqrt{51 + 4 \sqrt{14} - 18 \sqrt{2}} \sqrt{207 + 16 \sqrt{70} - 4 \sqrt{21}}$.",B,B. $P = \sqrt{102 + 8 \sqrt{14} - 36 \sqrt{2}} + \sqrt{207 + 16 \sqrt{70} - 4 \sqrt{21}}$.,"{""ax"": ""-3*sqrt(6)"", ""ay"": ""-2*sqrt(2)"", ""bx"": ""-sqrt(7)"", ""by"": ""-4*sqrt(10)"", ""cx"": ""-2*sqrt(3)"", ""cy"": ""2*sqrt(7)""}","Xét các số phức $z$ thỏa mãn $|z+3 \sqrt{6}+2 \sqrt{2}i|+|z+\sqrt{7}+4 \sqrt{10}i| = \sqrt{- 32 \sqrt{5} - 6 \sqrt{42} + 229}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+2 \sqrt{3}-2 \sqrt{7}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{- 36 \sqrt{2} + 8 \sqrt{14} + 102} + \sqrt{- 4 \sqrt{21} + 16 \sqrt{70} + 207}$.
 B. $P = \sqrt{- 36 \sqrt{2} + 8 \sqrt{14} + 102} + \sqrt{- 4 \sqrt{21} + 16 \sqrt{70} + 207}$.
 C. $P = 2 \sqrt{- 4 \sqrt{21} + 16 \sqrt{70} + 207}$.
 D. $P = \sqrt{2} \sqrt{- 18 \sqrt{2} + 4 \sqrt{14} + 51} \sqrt{- 4 \sqrt{21} + 16 \sqrt{70} + 207}$."
-522,D50,D50,72,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Cho $|z+4 \sqrt{6}-3 \sqrt{11}i|+|z-2 \sqrt{7}-3 \sqrt{2}i| = \sqrt{- 18 \sqrt{22} + 16 \sqrt{42} + 241}$, với $z$ là số phức. Đặt $M$ và $m$ lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của $|z-3 \sqrt{3}+4 \sqrt{5}i|$. Tính $P = m+M$. Chọn đáp án đúng.
+522,D50,D50,72,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Cho $|z+4 \sqrt{6}-3 \sqrt{11}i|+|z-2 \sqrt{7}-3 \sqrt{2}i| = \sqrt{241 + 16 \sqrt{42} - 18 \sqrt{22}}$, với $z$ là số phức. Đặt $M$ và $m$ lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của $|z-3 \sqrt{3}+4 \sqrt{5}i|$. Tính $P = m+M$. Chọn đáp án đúng.
 
-A. $P = - \sqrt{- 12 \sqrt{21} + 24 \sqrt{10} + 153} + \sqrt{72 \sqrt{2} + 24 \sqrt{55} + 302}$.
-B. $P = \sqrt{- 12 \sqrt{21} + 24 \sqrt{10} + 153} + \sqrt{72 \sqrt{2} + 24 \sqrt{55} + 302}$.
+A. $P = - \sqrt{153 + 24 \sqrt{10} - 12 \sqrt{21}} + \sqrt{72 \sqrt{2} + 24 \sqrt{55} + 302}$.
+B. $P = \sqrt{153 + 24 \sqrt{10} - 12 \sqrt{21}} + \sqrt{72 \sqrt{2} + 24 \sqrt{55} + 302}$.
 C. $P = 2 \sqrt{72 \sqrt{2} + 24 \sqrt{55} + 302}$.
-D. $P = \sqrt{6} \sqrt{36 \sqrt{2} + 12 \sqrt{55} + 151} \sqrt{- 4 \sqrt{21} + 8 \sqrt{10} + 51}$.",B,B. $P = \sqrt{- 12 \sqrt{21} + 24 \sqrt{10} + 153} + \sqrt{72 \sqrt{2} + 24 \sqrt{55} + 302}$.,"{""ax"": ""-4*sqrt(6)"", ""ay"": ""3*sqrt(11)"", ""bx"": ""2*sqrt(7)"", ""by"": ""3*sqrt(2)"", ""cx"": ""3*sqrt(3)"", ""cy"": ""-4*sqrt(5)""}","Xét các số phức $z$ thỏa mãn $|z+4 \sqrt{6}-3 \sqrt{11}i|+|z-2 \sqrt{7}-3 \sqrt{2}i| = \sqrt{- 18 \sqrt{22} + 16 \sqrt{42} + 241}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-3 \sqrt{3}+4 \sqrt{5}i|$. Tính $P = m+M$.
+D. $P = \sqrt{6} \sqrt{36 \sqrt{2} + 12 \sqrt{55} + 151} \sqrt{51 + 8 \sqrt{10} - 4 \sqrt{21}}$.",B,B. $P = \sqrt{153 + 24 \sqrt{10} - 12 \sqrt{21}} + \sqrt{72 \sqrt{2} + 24 \sqrt{55} + 302}$.,"{""ax"": ""-4*sqrt(6)"", ""ay"": ""3*sqrt(11)"", ""bx"": ""2*sqrt(7)"", ""by"": ""3*sqrt(2)"", ""cx"": ""3*sqrt(3)"", ""cy"": ""-4*sqrt(5)""}","Xét các số phức $z$ thỏa mãn $|z+4 \sqrt{6}-3 \sqrt{11}i|+|z-2 \sqrt{7}-3 \sqrt{2}i| = \sqrt{- 18 \sqrt{22} + 16 \sqrt{42} + 241}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-3 \sqrt{3}+4 \sqrt{5}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{- 12 \sqrt{21} + 24 \sqrt{10} + 153} + \sqrt{72 \sqrt{2} + 24 \sqrt{55} + 302}$.
 B. $P = \sqrt{- 12 \sqrt{21} + 24 \sqrt{10} + 153} + \sqrt{72 \sqrt{2} + 24 \sqrt{55} + 302}$.
@@ -5743,10 +5743,10 @@ C. $P = 2 \sqrt{72 \sqrt{2} + 24 \sqrt{55} + 302}$.
 D. $P = \sqrt{6} \sqrt{36 \sqrt{2} + 12 \sqrt{55} + 151} \sqrt{- 4 \sqrt{21} + 8 \sqrt{10} + 51}$."
 523,D50,D50,73,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Cho các số phức $z$ thỏa $|z-\sqrt{5}-3 \sqrt{2}i|+|z+\sqrt{3}+4 \sqrt{5}i| = \sqrt{2 \sqrt{15} + 24 \sqrt{10} + 106}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của biểu thức $|z+4 \sqrt{11}+3 \sqrt{11}i|$. Hãy tính $P = m+M$. Chọn một đáp án.
 
-A. $P = \sqrt{2} \left(- \sqrt{- 12 \sqrt{55} - 4 \sqrt{33} + 179} + \sqrt{4 \sqrt{55} + 9 \sqrt{22} + 149}\right)$.
+A. $P = \sqrt{2} \left(- \sqrt{179 - 12 \sqrt{55} - 4 \sqrt{33}} + \sqrt{4 \sqrt{55} + 9 \sqrt{22} + 149}\right)$.
 B. $P = 2 \sqrt{8 \sqrt{55} + 18 \sqrt{22} + 298}$.
-C. $P = 2 \sqrt{- 1072 \sqrt{55} - 1188 \sqrt{10} - 596 \sqrt{33} - 396 \sqrt{6} - 176 \sqrt{15} + 1611 \sqrt{22} + 24031}$.
-D. $P = \sqrt{2} \left(\sqrt{- 12 \sqrt{55} - 4 \sqrt{33} + 179} + \sqrt{4 \sqrt{55} + 9 \sqrt{22} + 149}\right)$.",D,D. $P = \sqrt{2} \left(\sqrt{- 12 \sqrt{55} - 4 \sqrt{33} + 179} + \sqrt{4 \sqrt{55} + 9 \sqrt{22} + 149}\right)$.,"{""ax"": ""sqrt(5)"", ""ay"": ""3*sqrt(2)"", ""bx"": ""-sqrt(3)"", ""by"": ""-4*sqrt(5)"", ""cx"": ""-4*sqrt(11)"", ""cy"": ""-3*sqrt(11)""}","Xét các số phức $z$ thỏa mãn $|z-\sqrt{5}-3 \sqrt{2}i|+|z+\sqrt{3}+4 \sqrt{5}i| = \sqrt{2 \sqrt{15} + 24 \sqrt{10} + 106}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+4 \sqrt{11}+3 \sqrt{11}i|$. Tính $P = m+M$.
+C. $P = 2 \sqrt{24031 + 1611 \sqrt{22} - 1072 \sqrt{55} - 1188 \sqrt{10} - 596 \sqrt{33} - 396 \sqrt{6} - 176 \sqrt{15}}$.
+D. $P = \sqrt{2} \left(\sqrt{179 - 12 \sqrt{55} - 4 \sqrt{33}} + \sqrt{4 \sqrt{55} + 9 \sqrt{22} + 149}\right)$.",D,D. $P = \sqrt{2} \left(\sqrt{179 - 12 \sqrt{55} - 4 \sqrt{33}} + \sqrt{4 \sqrt{55} + 9 \sqrt{22} + 149}\right)$.,"{""ax"": ""sqrt(5)"", ""ay"": ""3*sqrt(2)"", ""bx"": ""-sqrt(3)"", ""by"": ""-4*sqrt(5)"", ""cx"": ""-4*sqrt(11)"", ""cy"": ""-3*sqrt(11)""}","Xét các số phức $z$ thỏa mãn $|z-\sqrt{5}-3 \sqrt{2}i|+|z+\sqrt{3}+4 \sqrt{5}i| = \sqrt{2 \sqrt{15} + 24 \sqrt{10} + 106}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+4 \sqrt{11}+3 \sqrt{11}i|$. Tính $P = m+M$.
 
 A. $P = \sqrt{2} \left(- \sqrt{- 12 \sqrt{55} - 4 \sqrt{33} + 179} + \sqrt{4 \sqrt{55} + 9 \sqrt{22} + 149}\right)$.
 B. $P = 2 \sqrt{8 \sqrt{55} + 18 \sqrt{22} + 298}$.
@@ -5754,16 +5754,16 @@ C. $P = 2 \sqrt{- 1072 \sqrt{55} - 1188 \sqrt{10} - 596 \sqrt{33} - 396 \sqrt{6}
 D. $P = \sqrt{2} \left(\sqrt{- 12 \sqrt{55} - 4 \sqrt{33} + 179} + \sqrt{4 \sqrt{55} + 9 \sqrt{22} + 149}\right)$."
 524,D50,D50,74,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Cho các số phức $z$ thoả mãn $|z+2 \sqrt{7}+2 \sqrt{3}i|+|z-4 \sqrt{2}+3 \sqrt{3}i| = \sqrt{16 \sqrt{14} + 63}$. Gọi $M$ là giá trị lớn nhất và $m$ là giá trị nhỏ nhất của $|z-4 \sqrt{6}+4 \sqrt{5}i|$. Xác định $P = m+M$.
 
-A. $P = - \sqrt{- 64 \sqrt{3} - 24 \sqrt{15} + 235} + 2 \sqrt{- 4 \sqrt{15} + 4 \sqrt{42} + 54}$.
-B. $P = 4 \sqrt{- 4 \sqrt{15} + 4 \sqrt{42} + 54}$.
-C. $P = 2 \sqrt{- 2236 \sqrt{15} - 3456 \sqrt{3} - 768 \sqrt{14} - 288 \sqrt{70} + 768 \sqrt{5} + 940 \sqrt{42} + 14130}$.
-D. $P = \sqrt{- 64 \sqrt{3} - 24 \sqrt{15} + 235} + 2 \sqrt{- 4 \sqrt{15} + 4 \sqrt{42} + 54}$.",D,D. $P = \sqrt{- 64 \sqrt{3} - 24 \sqrt{15} + 235} + 2 \sqrt{- 4 \sqrt{15} + 4 \sqrt{42} + 54}$.,"{""ax"": ""-2*sqrt(7)"", ""ay"": ""-2*sqrt(3)"", ""bx"": ""4*sqrt(2)"", ""by"": ""-3*sqrt(3)"", ""cx"": ""4*sqrt(6)"", ""cy"": ""-4*sqrt(5)""}","Xét các số phức $z$ thỏa mãn $|z+2 \sqrt{7}+2 \sqrt{3}i|+|z-4 \sqrt{2}+3 \sqrt{3}i| = \sqrt{16 \sqrt{14} + 63}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-4 \sqrt{6}+4 \sqrt{5}i|$. Tính $P = m+M$.
+A. $P = - \sqrt{235 - 64 \sqrt{3} - 24 \sqrt{15}} + 2 \sqrt{54 + 4 \sqrt{42} - 4 \sqrt{15}}$.
+B. $P = 4 \sqrt{54 + 4 \sqrt{42} - 4 \sqrt{15}}$.
+C. $P = 2 \sqrt{14130 + 768 \sqrt{5} + 940 \sqrt{42} - 2236 \sqrt{15} - 3456 \sqrt{3} - 768 \sqrt{14} - 288 \sqrt{70}}$.
+D. $P = \sqrt{235 - 64 \sqrt{3} - 24 \sqrt{15}} + 2 \sqrt{54 + 4 \sqrt{42} - 4 \sqrt{15}}$.",D,D. $P = \sqrt{235 - 64 \sqrt{3} - 24 \sqrt{15}} + 2 \sqrt{54 + 4 \sqrt{42} - 4 \sqrt{15}}$.,"{""ax"": ""-2*sqrt(7)"", ""ay"": ""-2*sqrt(3)"", ""bx"": ""4*sqrt(2)"", ""by"": ""-3*sqrt(3)"", ""cx"": ""4*sqrt(6)"", ""cy"": ""-4*sqrt(5)""}","Xét các số phức $z$ thỏa mãn $|z+2 \sqrt{7}+2 \sqrt{3}i|+|z-4 \sqrt{2}+3 \sqrt{3}i| = \sqrt{16 \sqrt{14} + 63}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-4 \sqrt{6}+4 \sqrt{5}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{- 64 \sqrt{3} - 24 \sqrt{15} + 235} + 2 \sqrt{- 4 \sqrt{15} + 4 \sqrt{42} + 54}$.
 B. $P = 4 \sqrt{- 4 \sqrt{15} + 4 \sqrt{42} + 54}$.
 C. $P = 2 \sqrt{- 2236 \sqrt{15} - 3456 \sqrt{3} - 768 \sqrt{14} - 288 \sqrt{70} + 768 \sqrt{5} + 940 \sqrt{42} + 14130}$.
 D. $P = \sqrt{- 64 \sqrt{3} - 24 \sqrt{15} + 235} + 2 \sqrt{- 4 \sqrt{15} + 4 \sqrt{42} + 54}$."
-525,D50,D50,75,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Câu hỏi: Xét tập hợp các số phức $z$ thỏa $|z-4 \sqrt{5}+\sqrt{5}i|+|z-4 \sqrt{10}-4 \sqrt{6}i| = \sqrt{- 160 \sqrt{2} + 8 \sqrt{30} + 341}$. Biểu thức $|z-4 \sqrt{10}+3 \sqrt{10}i|$ có giá trị nhỏ nhất là $m$ và giá trị lớn nhất là $M$. Hãy tính $P = m+M$. Chọn một đáp án.
+525,D50,D50,75,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Câu hỏi: Xét tập hợp các số phức $z$ thỏa $|z-4 \sqrt{5}+\sqrt{5}i|+|z-4 \sqrt{10}-4 \sqrt{6}i| = \sqrt{341 + 8 \sqrt{30} - 160 \sqrt{2}}$. Biểu thức $|z-4 \sqrt{10}+3 \sqrt{10}i|$ có giá trị nhỏ nhất là $m$ và giá trị lớn nhất là $M$. Hãy tính $P = m+M$. Chọn một đáp án.
 
 A. $P = - \sqrt{335 - 190 \sqrt{2}} + \sqrt{48 \sqrt{15} + 186}$.
 B. $P = 2 \sqrt{48 \sqrt{15} + 186}$.
@@ -5774,12 +5774,12 @@ A. $P = - \sqrt{335 - 190 \sqrt{2}} + \sqrt{48 \sqrt{15} + 186}$.
 B. $P = 2 \sqrt{48 \sqrt{15} + 186}$.
 C. $P = \sqrt{335 - 190 \sqrt{2}} + \sqrt{48 \sqrt{15} + 186}$.
 D. $P = \sqrt{30} \sqrt{67 - 38 \sqrt{2}} \sqrt{8 \sqrt{15} + 31}$."
-526,D50,D50,76,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Xét các số phức $z$ thỏa mãn $|z-\sqrt{6}+2 \sqrt{10}i|+|z-2 \sqrt{3}+4 \sqrt{6}i| = \sqrt{- 32 \sqrt{15} - 12 \sqrt{2} + 154}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{5}-4 \sqrt{11}i|$. Giá trị của $P = m+M$ bằng bao nhiêu? Chọn một đáp án.
+526,D50,D50,76,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Xét các số phức $z$ thỏa mãn $|z-\sqrt{6}+2 \sqrt{10}i|+|z-2 \sqrt{3}+4 \sqrt{6}i| = \sqrt{154 - 32 \sqrt{15} - 12 \sqrt{2}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{5}-4 \sqrt{11}i|$. Giá trị của $P = m+M$ bằng bao nhiêu? Chọn một đáp án.
 
-A. $P = \sqrt{2} \left(- \sqrt{- 2 \sqrt{30} + 8 \sqrt{110} + 121} + 2 \sqrt{- \sqrt{15} + 4 \sqrt{66} + 38}\right)$.
-B. $P = \sqrt{2} \left(\sqrt{- 2 \sqrt{30} + 8 \sqrt{110} + 121} + 2 \sqrt{- \sqrt{15} + 4 \sqrt{66} + 38}\right)$.
-C. $P = 4 \sqrt{- 2 \sqrt{15} + 8 \sqrt{66} + 76}$.
-D. $P = 4 \sqrt{- 76 \sqrt{30} - 48 \sqrt{55} + 30 \sqrt{2} + 583 \sqrt{15} + 304 \sqrt{110} + 444 \sqrt{66} + 4598}$.",B,B. $P = \sqrt{2} \left(\sqrt{- 2 \sqrt{30} + 8 \sqrt{110} + 121} + 2 \sqrt{- \sqrt{15} + 4 \sqrt{66} + 38}\right)$.,"{""ax"": ""sqrt(6)"", ""ay"": ""-2*sqrt(10)"", ""bx"": ""2*sqrt(3)"", ""by"": ""-4*sqrt(6)"", ""cx"": ""2*sqrt(5)"", ""cy"": ""4*sqrt(11)""}","Xét các số phức $z$ thỏa mãn $|z-\sqrt{6}+2 \sqrt{10}i|+|z-2 \sqrt{3}+4 \sqrt{6}i| = \sqrt{- 32 \sqrt{15} - 12 \sqrt{2} + 154}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{5}-4 \sqrt{11}i|$. Tính $P = m+M$.
+A. $P = \sqrt{2} \left(- \sqrt{121 + 8 \sqrt{110} - 2 \sqrt{30}} + 2 \sqrt{38 + 4 \sqrt{66} - \sqrt{15}}\right)$.
+B. $P = \sqrt{2} \left(\sqrt{121 + 8 \sqrt{110} - 2 \sqrt{30}} + 2 \sqrt{38 + 4 \sqrt{66} - \sqrt{15}}\right)$.
+C. $P = 4 \sqrt{76 + 8 \sqrt{66} - 2 \sqrt{15}}$.
+D. $P = 4 \sqrt{4598 + 30 \sqrt{2} + 583 \sqrt{15} + 304 \sqrt{110} + 444 \sqrt{66} - 76 \sqrt{30} - 48 \sqrt{55}}$.",B,B. $P = \sqrt{2} \left(\sqrt{121 + 8 \sqrt{110} - 2 \sqrt{30}} + 2 \sqrt{38 + 4 \sqrt{66} - \sqrt{15}}\right)$.,"{""ax"": ""sqrt(6)"", ""ay"": ""-2*sqrt(10)"", ""bx"": ""2*sqrt(3)"", ""by"": ""-4*sqrt(6)"", ""cx"": ""2*sqrt(5)"", ""cy"": ""4*sqrt(11)""}","Xét các số phức $z$ thỏa mãn $|z-\sqrt{6}+2 \sqrt{10}i|+|z-2 \sqrt{3}+4 \sqrt{6}i| = \sqrt{- 32 \sqrt{15} - 12 \sqrt{2} + 154}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{5}-4 \sqrt{11}i|$. Tính $P = m+M$.
 
 A. $P = \sqrt{2} \left(- \sqrt{- 2 \sqrt{30} + 8 \sqrt{110} + 121} + 2 \sqrt{- \sqrt{15} + 4 \sqrt{66} + 38}\right)$.
 B. $P = \sqrt{2} \left(\sqrt{- 2 \sqrt{30} + 8 \sqrt{110} + 121} + 2 \sqrt{- \sqrt{15} + 4 \sqrt{66} + 38}\right)$.
@@ -5787,21 +5787,21 @@ C. $P = 4 \sqrt{- 2 \sqrt{15} + 8 \sqrt{66} + 76}$.
 D. $P = 4 \sqrt{- 76 \sqrt{30} - 48 \sqrt{55} + 30 \sqrt{2} + 583 \sqrt{15} + 304 \sqrt{110} + 444 \sqrt{66} + 4598}$."
 527,D50,D50,77,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Với các số phức $z$ thỏa $|z-2 \sqrt{6}+3 \sqrt{2}i|+|z-3 \sqrt{11}-2 \sqrt{2}i| = \sqrt{173 - 12 \sqrt{66}}$, gọi $m$ là giá trị nhỏ nhất và $M$ là giá trị lớn nhất của $|z-2 \sqrt{10}-3 \sqrt{6}i|$. Giá trị của $P = m+M$ là bao nhiêu?
 
-A. $P = - \sqrt{- 12 \sqrt{110} - 24 \sqrt{3} + 201} + 2 \sqrt{- 4 \sqrt{15} + 9 \sqrt{3} + 34}$.
-B. $P = \sqrt{- 12 \sqrt{110} - 24 \sqrt{3} + 201} + 2 \sqrt{- 4 \sqrt{15} + 9 \sqrt{3} + 34}$.
-C. $P = 4 \sqrt{- 4 \sqrt{15} + 9 \sqrt{3} + 34}$.
-D. $P = 2 \sqrt{- 408 \sqrt{110} - 804 \sqrt{15} - 108 \sqrt{330} + 288 \sqrt{5} + 993 \sqrt{3} + 240 \sqrt{66} + 6186}$.",B,B. $P = \sqrt{- 12 \sqrt{110} - 24 \sqrt{3} + 201} + 2 \sqrt{- 4 \sqrt{15} + 9 \sqrt{3} + 34}$.,"{""ax"": ""2*sqrt(6)"", ""ay"": ""-3*sqrt(2)"", ""bx"": ""3*sqrt(11)"", ""by"": ""2*sqrt(2)"", ""cx"": ""2*sqrt(10)"", ""cy"": ""3*sqrt(6)""}","Xét các số phức $z$ thỏa mãn $|z-2 \sqrt{6}+3 \sqrt{2}i|+|z-3 \sqrt{11}-2 \sqrt{2}i| = \sqrt{173 - 12 \sqrt{66}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{10}-3 \sqrt{6}i|$. Tính $P = m+M$.
+A. $P = - \sqrt{201 - 12 \sqrt{110} - 24 \sqrt{3}} + 2 \sqrt{34 + 9 \sqrt{3} - 4 \sqrt{15}}$.
+B. $P = \sqrt{201 - 12 \sqrt{110} - 24 \sqrt{3}} + 2 \sqrt{34 + 9 \sqrt{3} - 4 \sqrt{15}}$.
+C. $P = 4 \sqrt{34 + 9 \sqrt{3} - 4 \sqrt{15}}$.
+D. $P = 2 \sqrt{6186 + 288 \sqrt{5} + 993 \sqrt{3} + 240 \sqrt{66} - 408 \sqrt{110} - 804 \sqrt{15} - 108 \sqrt{330}}$.",B,B. $P = \sqrt{201 - 12 \sqrt{110} - 24 \sqrt{3}} + 2 \sqrt{34 + 9 \sqrt{3} - 4 \sqrt{15}}$.,"{""ax"": ""2*sqrt(6)"", ""ay"": ""-3*sqrt(2)"", ""bx"": ""3*sqrt(11)"", ""by"": ""2*sqrt(2)"", ""cx"": ""2*sqrt(10)"", ""cy"": ""3*sqrt(6)""}","Xét các số phức $z$ thỏa mãn $|z-2 \sqrt{6}+3 \sqrt{2}i|+|z-3 \sqrt{11}-2 \sqrt{2}i| = \sqrt{173 - 12 \sqrt{66}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{10}-3 \sqrt{6}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{- 12 \sqrt{110} - 24 \sqrt{3} + 201} + 2 \sqrt{- 4 \sqrt{15} + 9 \sqrt{3} + 34}$.
 B. $P = \sqrt{- 12 \sqrt{110} - 24 \sqrt{3} + 201} + 2 \sqrt{- 4 \sqrt{15} + 9 \sqrt{3} + 34}$.
 C. $P = 4 \sqrt{- 4 \sqrt{15} + 9 \sqrt{3} + 34}$.
 D. $P = 2 \sqrt{- 408 \sqrt{110} - 804 \sqrt{15} - 108 \sqrt{330} + 288 \sqrt{5} + 993 \sqrt{3} + 240 \sqrt{66} + 6186}$."
-528,D50,D50,78,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Đề bài: Các số phức $z$ thỏa mãn $|z-2 \sqrt{11}+3 \sqrt{2}i|+|z-3 \sqrt{7}+3 \sqrt{3}i| = \sqrt{- 12 \sqrt{77} - 18 \sqrt{6} + 152}$; $m$ và $M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của $|z-2 \sqrt{2}-\sqrt{7}i|$. Yêu cầu: Tính $P = m+M$.
+528,D50,D50,78,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Đề bài: Các số phức $z$ thỏa mãn $|z-2 \sqrt{11}+3 \sqrt{2}i|+|z-3 \sqrt{7}+3 \sqrt{3}i| = \sqrt{152 - 12 \sqrt{77} - 18 \sqrt{6}}$; $m$ và $M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của $|z-2 \sqrt{2}-\sqrt{7}i|$. Yêu cầu: Tính $P = m+M$.
 
-A. $P = - \sqrt{- 8 \sqrt{22} + 6 \sqrt{14} + 77} + \sqrt{- 12 \sqrt{14} + 6 \sqrt{21} + 105}$.
-B. $P = 2 \sqrt{- 12 \sqrt{14} + 6 \sqrt{21} + 105}$.
-C. $P = \sqrt{- 8 \sqrt{22} + 6 \sqrt{14} + 77} + \sqrt{- 12 \sqrt{14} + 6 \sqrt{21} + 105}$.
-D. $P = \sqrt{- 840 \sqrt{22} - 294 \sqrt{14} - 48 \sqrt{462} + 252 \sqrt{6} + 192 \sqrt{77} + 462 \sqrt{21} + 7077}$.",C,C. $P = \sqrt{- 8 \sqrt{22} + 6 \sqrt{14} + 77} + \sqrt{- 12 \sqrt{14} + 6 \sqrt{21} + 105}$.,"{""ax"": ""2*sqrt(11)"", ""ay"": ""-3*sqrt(2)"", ""bx"": ""3*sqrt(7)"", ""by"": ""-3*sqrt(3)"", ""cx"": ""2*sqrt(2)"", ""cy"": ""sqrt(7)""}","Xét các số phức $z$ thỏa mãn $|z-2 \sqrt{11}+3 \sqrt{2}i|+|z-3 \sqrt{7}+3 \sqrt{3}i| = \sqrt{- 12 \sqrt{77} - 18 \sqrt{6} + 152}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{2}-\sqrt{7}i|$. Tính $P = m+M$.
+A. $P = - \sqrt{77 + 6 \sqrt{14} - 8 \sqrt{22}} + \sqrt{105 + 6 \sqrt{21} - 12 \sqrt{14}}$.
+B. $P = 2 \sqrt{105 + 6 \sqrt{21} - 12 \sqrt{14}}$.
+C. $P = \sqrt{77 + 6 \sqrt{14} - 8 \sqrt{22}} + \sqrt{105 + 6 \sqrt{21} - 12 \sqrt{14}}$.
+D. $P = \sqrt{7077 + 252 \sqrt{6} + 192 \sqrt{77} + 462 \sqrt{21} - 840 \sqrt{22} - 294 \sqrt{14} - 48 \sqrt{462}}$.",C,C. $P = \sqrt{77 + 6 \sqrt{14} - 8 \sqrt{22}} + \sqrt{105 + 6 \sqrt{21} - 12 \sqrt{14}}$.,"{""ax"": ""2*sqrt(11)"", ""ay"": ""-3*sqrt(2)"", ""bx"": ""3*sqrt(7)"", ""by"": ""-3*sqrt(3)"", ""cx"": ""2*sqrt(2)"", ""cy"": ""sqrt(7)""}","Xét các số phức $z$ thỏa mãn $|z-2 \sqrt{11}+3 \sqrt{2}i|+|z-3 \sqrt{7}+3 \sqrt{3}i| = \sqrt{- 12 \sqrt{77} - 18 \sqrt{6} + 152}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-2 \sqrt{2}-\sqrt{7}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{- 8 \sqrt{22} + 6 \sqrt{14} + 77} + \sqrt{- 12 \sqrt{14} + 6 \sqrt{21} + 105}$.
 B. $P = 2 \sqrt{- 12 \sqrt{14} + 6 \sqrt{21} + 105}$.
@@ -5820,49 +5820,49 @@ C. $P = 4 \sqrt{14}$.
 D. $P = \dfrac{8 \sqrt{7460033 - 1098608 \sqrt{33}}}{577}$."
 530,D50,D50,80,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Đề bài: Biết $|z-2 \sqrt{2}+4 \sqrt{6}i|+|z-3 \sqrt{2}+3 \sqrt{3}i| = \sqrt{125 - 72 \sqrt{2}}$ với $z$ là số phức. Gọi $m, M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của biểu thức $|z-3 \sqrt{10}-3 \sqrt{11}i|$. Hãy tính $P = m+M$.
 
-A. $P = - 3 \sqrt{- 4 \sqrt{5} + 2 \sqrt{33} + 26} + \sqrt{- 24 \sqrt{5} + 24 \sqrt{66} + 293}$.
-B. $P = 2 \sqrt{- 24 \sqrt{5} + 24 \sqrt{66} + 293}$.
-C. $P = 3 \sqrt{- 4 \sqrt{5} + 2 \sqrt{33} + 26} + \sqrt{- 24 \sqrt{5} + 24 \sqrt{66} + 293}$.
-D. $P = 3 \sqrt{- 1796 \sqrt{5} - 96 \sqrt{330} - 48 \sqrt{165} + 1584 \sqrt{2} + 586 \sqrt{33} + 624 \sqrt{66} + 8098}$.",C,C. $P = 3 \sqrt{- 4 \sqrt{5} + 2 \sqrt{33} + 26} + \sqrt{- 24 \sqrt{5} + 24 \sqrt{66} + 293}$.,"{""ax"": ""2*sqrt(2)"", ""ay"": ""-4*sqrt(6)"", ""bx"": ""3*sqrt(2)"", ""by"": ""-3*sqrt(3)"", ""cx"": ""3*sqrt(10)"", ""cy"": ""3*sqrt(11)""}","Xét các số phức $z$ thỏa mãn $|z-2 \sqrt{2}+4 \sqrt{6}i|+|z-3 \sqrt{2}+3 \sqrt{3}i| = \sqrt{125 - 72 \sqrt{2}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-3 \sqrt{10}-3 \sqrt{11}i|$. Tính $P = m+M$.
+A. $P = - 3 \sqrt{26 + 2 \sqrt{33} - 4 \sqrt{5}} + \sqrt{293 + 24 \sqrt{66} - 24 \sqrt{5}}$.
+B. $P = 2 \sqrt{293 + 24 \sqrt{66} - 24 \sqrt{5}}$.
+C. $P = 3 \sqrt{26 + 2 \sqrt{33} - 4 \sqrt{5}} + \sqrt{293 + 24 \sqrt{66} - 24 \sqrt{5}}$.
+D. $P = 3 \sqrt{8098 + 1584 \sqrt{2} + 586 \sqrt{33} + 624 \sqrt{66} - 1796 \sqrt{5} - 96 \sqrt{330} - 48 \sqrt{165}}$.",C,C. $P = 3 \sqrt{26 + 2 \sqrt{33} - 4 \sqrt{5}} + \sqrt{293 + 24 \sqrt{66} - 24 \sqrt{5}}$.,"{""ax"": ""2*sqrt(2)"", ""ay"": ""-4*sqrt(6)"", ""bx"": ""3*sqrt(2)"", ""by"": ""-3*sqrt(3)"", ""cx"": ""3*sqrt(10)"", ""cy"": ""3*sqrt(11)""}","Xét các số phức $z$ thỏa mãn $|z-2 \sqrt{2}+4 \sqrt{6}i|+|z-3 \sqrt{2}+3 \sqrt{3}i| = \sqrt{125 - 72 \sqrt{2}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-3 \sqrt{10}-3 \sqrt{11}i|$. Tính $P = m+M$.
 
 A. $P = - 3 \sqrt{- 4 \sqrt{5} + 2 \sqrt{33} + 26} + \sqrt{- 24 \sqrt{5} + 24 \sqrt{66} + 293}$.
 B. $P = 2 \sqrt{- 24 \sqrt{5} + 24 \sqrt{66} + 293}$.
 C. $P = 3 \sqrt{- 4 \sqrt{5} + 2 \sqrt{33} + 26} + \sqrt{- 24 \sqrt{5} + 24 \sqrt{66} + 293}$.
 D. $P = 3 \sqrt{- 1796 \sqrt{5} - 96 \sqrt{330} - 48 \sqrt{165} + 1584 \sqrt{2} + 586 \sqrt{33} + 624 \sqrt{66} + 8098}$."
-531,D50,D50,81,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Đề bài: Với $z$ là số phức thỏa mãn $|z+4 \sqrt{5}+4 \sqrt{5}i|+|z+2 \sqrt{3}+\sqrt{10}i| = \sqrt{- 16 \sqrt{15} - 40 \sqrt{2} + 182}$, giá trị lớn nhất của $|z+\sqrt{7}-4 \sqrt{2}i|$ là $M$, giá trị nhỏ nhất là $m$. Xác định $P = m+M$. Chọn đáp án đúng.
+531,D50,D50,81,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Đề bài: Với $z$ là số phức thỏa mãn $|z+4 \sqrt{5}+4 \sqrt{5}i|+|z+2 \sqrt{3}+\sqrt{10}i| = \sqrt{182 - 16 \sqrt{15} - 40 \sqrt{2}}$, giá trị lớn nhất của $|z+\sqrt{7}-4 \sqrt{2}i|$ là $M$, giá trị nhỏ nhất là $m$. Xác định $P = m+M$. Chọn đáp án đúng.
 
-A. $P = \sqrt{- 4 \sqrt{21} + 16 \sqrt{5} + 61} + \sqrt{- 8 \sqrt{35} + 32 \sqrt{10} + 199}$.
-B. $P = - \sqrt{- 4 \sqrt{21} + 16 \sqrt{5} + 61} + \sqrt{- 8 \sqrt{35} + 32 \sqrt{10} + 199}$.
-C. $P = 2 \sqrt{- 8 \sqrt{35} + 32 \sqrt{10} + 199}$.
-D. $P = \sqrt{- 4 \sqrt{21} + 16 \sqrt{5} + 61} \sqrt{- 8 \sqrt{35} + 32 \sqrt{10} + 199}$.",A,A. $P = \sqrt{- 4 \sqrt{21} + 16 \sqrt{5} + 61} + \sqrt{- 8 \sqrt{35} + 32 \sqrt{10} + 199}$.,"{""ax"": ""-4*sqrt(5)"", ""ay"": ""-4*sqrt(5)"", ""bx"": ""-2*sqrt(3)"", ""by"": ""-sqrt(10)"", ""cx"": ""-sqrt(7)"", ""cy"": ""4*sqrt(2)""}","Xét các số phức $z$ thỏa mãn $|z+4 \sqrt{5}+4 \sqrt{5}i|+|z+2 \sqrt{3}+\sqrt{10}i| = \sqrt{- 16 \sqrt{15} - 40 \sqrt{2} + 182}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+\sqrt{7}-4 \sqrt{2}i|$. Tính $P = m+M$.
+A. $P = \sqrt{61 + 16 \sqrt{5} - 4 \sqrt{21}} + \sqrt{199 + 32 \sqrt{10} - 8 \sqrt{35}}$.
+B. $P = - \sqrt{61 + 16 \sqrt{5} - 4 \sqrt{21}} + \sqrt{199 + 32 \sqrt{10} - 8 \sqrt{35}}$.
+C. $P = 2 \sqrt{199 + 32 \sqrt{10} - 8 \sqrt{35}}$.
+D. $P = \sqrt{61 + 16 \sqrt{5} - 4 \sqrt{21}} \sqrt{199 + 32 \sqrt{10} - 8 \sqrt{35}}$.",A,A. $P = \sqrt{61 + 16 \sqrt{5} - 4 \sqrt{21}} + \sqrt{199 + 32 \sqrt{10} - 8 \sqrt{35}}$.,"{""ax"": ""-4*sqrt(5)"", ""ay"": ""-4*sqrt(5)"", ""bx"": ""-2*sqrt(3)"", ""by"": ""-sqrt(10)"", ""cx"": ""-sqrt(7)"", ""cy"": ""4*sqrt(2)""}","Xét các số phức $z$ thỏa mãn $|z+4 \sqrt{5}+4 \sqrt{5}i|+|z+2 \sqrt{3}+\sqrt{10}i| = \sqrt{- 16 \sqrt{15} - 40 \sqrt{2} + 182}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+\sqrt{7}-4 \sqrt{2}i|$. Tính $P = m+M$.
 
 A. $P = \sqrt{- 4 \sqrt{21} + 16 \sqrt{5} + 61} + \sqrt{- 8 \sqrt{35} + 32 \sqrt{10} + 199}$.
 B. $P = - \sqrt{- 4 \sqrt{21} + 16 \sqrt{5} + 61} + \sqrt{- 8 \sqrt{35} + 32 \sqrt{10} + 199}$.
 C. $P = 2 \sqrt{- 8 \sqrt{35} + 32 \sqrt{10} + 199}$.
 D. $P = \sqrt{- 4 \sqrt{21} + 16 \sqrt{5} + 61} \sqrt{- 8 \sqrt{35} + 32 \sqrt{10} + 199}$."
-532,D50,D50,82,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Đề bài: Cho các số phức $z$ thoả mãn $|z+2 \sqrt{10}+2 \sqrt{6}i|+|z+4 \sqrt{6}-4 \sqrt{3}i| = \sqrt{- 32 \sqrt{15} + 48 \sqrt{2} + 208}$. Đặt $m, M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của $|z+\sqrt{6}+3 \sqrt{3}i|$. Xác định $P = m+M$.
+532,D50,D50,82,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Đề bài: Cho các số phức $z$ thoả mãn $|z+2 \sqrt{10}+2 \sqrt{6}i|+|z+4 \sqrt{6}-4 \sqrt{3}i| = \sqrt{208 + 48 \sqrt{2} - 32 \sqrt{15}}$. Đặt $m, M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của $|z+\sqrt{6}+3 \sqrt{3}i|$. Xác định $P = m+M$.
 
-A. $P = - \sqrt{- 36 \sqrt{2} - 8 \sqrt{15} + 97} + \sqrt{201}$.
+A. $P = - \sqrt{97 - 36 \sqrt{2} - 8 \sqrt{15}} + \sqrt{201}$.
 B. $P = 2 \sqrt{201}$.
-C. $P = \sqrt{- 7236 \sqrt{2} - 1608 \sqrt{15} + 19497}$.
-D. $P = \sqrt{- 36 \sqrt{2} - 8 \sqrt{15} + 97} + \sqrt{201}$.",D,D. $P = \sqrt{- 36 \sqrt{2} - 8 \sqrt{15} + 97} + \sqrt{201}$.,"{""ax"": ""-2*sqrt(10)"", ""ay"": ""-2*sqrt(6)"", ""bx"": ""-4*sqrt(6)"", ""by"": ""4*sqrt(3)"", ""cx"": ""-sqrt(6)"", ""cy"": ""-3*sqrt(3)""}","Xét các số phức $z$ thỏa mãn $|z+2 \sqrt{10}+2 \sqrt{6}i|+|z+4 \sqrt{6}-4 \sqrt{3}i| = \sqrt{- 32 \sqrt{15} + 48 \sqrt{2} + 208}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+\sqrt{6}+3 \sqrt{3}i|$. Tính $P = m+M$.
+C. $P = \sqrt{19497 - 7236 \sqrt{2} - 1608 \sqrt{15}}$.
+D. $P = \sqrt{97 - 36 \sqrt{2} - 8 \sqrt{15}} + \sqrt{201}$.",D,D. $P = \sqrt{97 - 36 \sqrt{2} - 8 \sqrt{15}} + \sqrt{201}$.,"{""ax"": ""-2*sqrt(10)"", ""ay"": ""-2*sqrt(6)"", ""bx"": ""-4*sqrt(6)"", ""by"": ""4*sqrt(3)"", ""cx"": ""-sqrt(6)"", ""cy"": ""-3*sqrt(3)""}","Xét các số phức $z$ thỏa mãn $|z+2 \sqrt{10}+2 \sqrt{6}i|+|z+4 \sqrt{6}-4 \sqrt{3}i| = \sqrt{- 32 \sqrt{15} + 48 \sqrt{2} + 208}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+\sqrt{6}+3 \sqrt{3}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{- 36 \sqrt{2} - 8 \sqrt{15} + 97} + \sqrt{201}$.
 B. $P = 2 \sqrt{201}$.
 C. $P = \sqrt{- 7236 \sqrt{2} - 1608 \sqrt{15} + 19497}$.
 D. $P = \sqrt{- 36 \sqrt{2} - 8 \sqrt{15} + 97} + \sqrt{201}$."
-533,D50,D50,83,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Đề bài: Trong các số phức $z$ thỏa mãn $|z-\sqrt{5}+4 \sqrt{2}i|+|z+2 \sqrt{2}+2 \sqrt{6}i| = \sqrt{- 32 \sqrt{3} + 4 \sqrt{10} + 69}$, gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+4 \sqrt{7}-3 \sqrt{3}i|$. Xác định $P = m+M$. Chọn một đáp án.
+533,D50,D50,83,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Đề bài: Trong các số phức $z$ thỏa mãn $|z-\sqrt{5}+4 \sqrt{2}i|+|z+2 \sqrt{2}+2 \sqrt{6}i| = \sqrt{69 + 4 \sqrt{10} - 32 \sqrt{3}}$, gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+4 \sqrt{7}-3 \sqrt{3}i|$. Xác định $P = m+M$. Chọn một đáp án.
 
-A. $P = \sqrt{- 16 \sqrt{14} + 36 \sqrt{2} + 171} + 2 \sqrt{2 \sqrt{35} + 6 \sqrt{6} + 44}$.
-B. $P = - \sqrt{- 16 \sqrt{14} + 36 \sqrt{2} + 171} + 2 \sqrt{2 \sqrt{35} + 6 \sqrt{6} + 44}$.
+A. $P = \sqrt{171 + 36 \sqrt{2} - 16 \sqrt{14}} + 2 \sqrt{2 \sqrt{35} + 6 \sqrt{6} + 44}$.
+B. $P = - \sqrt{171 + 36 \sqrt{2} - 16 \sqrt{14}} + 2 \sqrt{2 \sqrt{35} + 6 \sqrt{6} + 44}$.
 C. $P = 4 \sqrt{2 \sqrt{35} + 6 \sqrt{6} + 44}$.
-D. $P = 2 \sqrt{2} \sqrt{- 16 \sqrt{14} + 36 \sqrt{2} + 171} \sqrt{\sqrt{35} + 3 \sqrt{6} + 22}$.",A,A. $P = \sqrt{- 16 \sqrt{14} + 36 \sqrt{2} + 171} + 2 \sqrt{2 \sqrt{35} + 6 \sqrt{6} + 44}$.,"{""ax"": ""sqrt(5)"", ""ay"": ""-4*sqrt(2)"", ""bx"": ""-2*sqrt(2)"", ""by"": ""-2*sqrt(6)"", ""cx"": ""-4*sqrt(7)"", ""cy"": ""3*sqrt(3)""}","Xét các số phức $z$ thỏa mãn $|z-\sqrt{5}+4 \sqrt{2}i|+|z+2 \sqrt{2}+2 \sqrt{6}i| = \sqrt{- 32 \sqrt{3} + 4 \sqrt{10} + 69}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+4 \sqrt{7}-3 \sqrt{3}i|$. Tính $P = m+M$.
+D. $P = 2 \sqrt{2} \sqrt{171 + 36 \sqrt{2} - 16 \sqrt{14}} \sqrt{\sqrt{35} + 3 \sqrt{6} + 22}$.",A,A. $P = \sqrt{171 + 36 \sqrt{2} - 16 \sqrt{14}} + 2 \sqrt{2 \sqrt{35} + 6 \sqrt{6} + 44}$.,"{""ax"": ""sqrt(5)"", ""ay"": ""-4*sqrt(2)"", ""bx"": ""-2*sqrt(2)"", ""by"": ""-2*sqrt(6)"", ""cx"": ""-4*sqrt(7)"", ""cy"": ""3*sqrt(3)""}","Xét các số phức $z$ thỏa mãn $|z-\sqrt{5}+4 \sqrt{2}i|+|z+2 \sqrt{2}+2 \sqrt{6}i| = \sqrt{- 32 \sqrt{3} + 4 \sqrt{10} + 69}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+4 \sqrt{7}-3 \sqrt{3}i|$. Tính $P = m+M$.
 
 A. $P = \sqrt{- 16 \sqrt{14} + 36 \sqrt{2} + 171} + 2 \sqrt{2 \sqrt{35} + 6 \sqrt{6} + 44}$.
 B. $P = - \sqrt{- 16 \sqrt{14} + 36 \sqrt{2} + 171} + 2 \sqrt{2 \sqrt{35} + 6 \sqrt{6} + 44}$.
 C. $P = 4 \sqrt{2 \sqrt{35} + 6 \sqrt{6} + 44}$.
 D. $P = 2 \sqrt{2} \sqrt{- 16 \sqrt{14} + 36 \sqrt{2} + 171} \sqrt{\sqrt{35} + 3 \sqrt{6} + 22}$."
-534,D50,D50,84,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Cho $|z-\sqrt{3}+\sqrt{2}i|+|z-3 \sqrt{6}+\sqrt{11}i| = \sqrt{- 18 \sqrt{2} - 2 \sqrt{22} + 70}$, với $z$ là số phức. Đặt $M$ và $m$ lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của $|z+2 \sqrt{11}-2 \sqrt{6}i|$. Xác định $P = m+M$. Hãy chọn đáp án đúng.
+534,D50,D50,84,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Cho $|z-\sqrt{3}+\sqrt{2}i|+|z-3 \sqrt{6}+\sqrt{11}i| = \sqrt{70 - 18 \sqrt{2} - 2 \sqrt{22}}$, với $z$ là số phức. Đặt $M$ và $m$ lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của $|z+2 \sqrt{11}-2 \sqrt{6}i|$. Xác định $P = m+M$. Hãy chọn đáp án đúng.
 
 A. $P = - \sqrt{8 \sqrt{3} + 4 \sqrt{33} + 73} + \sqrt{16 \sqrt{66} + 133}$.
 B. $P = 2 \sqrt{16 \sqrt{66} + 133}$.
@@ -5875,16 +5875,16 @@ C. $P = \sqrt{8 \sqrt{3} + 4 \sqrt{33} + 73} + \sqrt{16 \sqrt{66} + 133}$.
 D. $P = \sqrt{16 \sqrt{66} + 133} \sqrt{8 \sqrt{3} + 4 \sqrt{33} + 73}$."
 535,D50,D50,85,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Hãy giải bài toán sau. Xét các số phức $z$ thỏa $|z+\sqrt{5}-2 \sqrt{10}i|+|z+\sqrt{5}-3 \sqrt{5}i| = \sqrt{85 - 60 \sqrt{2}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của biểu thức $|z-3 \sqrt{7}-\sqrt{10}i|$. Tính $P = m+M$.
 
-A. $P = - \sqrt{6 \sqrt{35} + 78} + \sqrt{- 30 \sqrt{2} + 6 \sqrt{35} + 123}$.
-B. $P = 2 \sqrt{- 30 \sqrt{2} + 6 \sqrt{35} + 123}$.
-C. $P = \sqrt{6 \sqrt{35} + 78} + \sqrt{- 30 \sqrt{2} + 6 \sqrt{35} + 123}$.
-D. $P = 3 \sqrt{- 260 \sqrt{2} - 20 \sqrt{70} + 134 \sqrt{35} + 1206}$.",C,C. $P = \sqrt{6 \sqrt{35} + 78} + \sqrt{- 30 \sqrt{2} + 6 \sqrt{35} + 123}$.,"{""ax"": ""-sqrt(5)"", ""ay"": ""2*sqrt(10)"", ""bx"": ""-sqrt(5)"", ""by"": ""3*sqrt(5)"", ""cx"": ""3*sqrt(7)"", ""cy"": ""sqrt(10)""}","Xét các số phức $z$ thỏa mãn $|z+\sqrt{5}-2 \sqrt{10}i|+|z+\sqrt{5}-3 \sqrt{5}i| = \sqrt{85 - 60 \sqrt{2}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-3 \sqrt{7}-\sqrt{10}i|$. Tính $P = m+M$.
+A. $P = - \sqrt{6 \sqrt{35} + 78} + \sqrt{123 + 6 \sqrt{35} - 30 \sqrt{2}}$.
+B. $P = 2 \sqrt{123 + 6 \sqrt{35} - 30 \sqrt{2}}$.
+C. $P = \sqrt{6 \sqrt{35} + 78} + \sqrt{123 + 6 \sqrt{35} - 30 \sqrt{2}}$.
+D. $P = 3 \sqrt{1206 + 134 \sqrt{35} - 260 \sqrt{2} - 20 \sqrt{70}}$.",C,C. $P = \sqrt{6 \sqrt{35} + 78} + \sqrt{123 + 6 \sqrt{35} - 30 \sqrt{2}}$.,"{""ax"": ""-sqrt(5)"", ""ay"": ""2*sqrt(10)"", ""bx"": ""-sqrt(5)"", ""by"": ""3*sqrt(5)"", ""cx"": ""3*sqrt(7)"", ""cy"": ""sqrt(10)""}","Xét các số phức $z$ thỏa mãn $|z+\sqrt{5}-2 \sqrt{10}i|+|z+\sqrt{5}-3 \sqrt{5}i| = \sqrt{85 - 60 \sqrt{2}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-3 \sqrt{7}-\sqrt{10}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{6 \sqrt{35} + 78} + \sqrt{- 30 \sqrt{2} + 6 \sqrt{35} + 123}$.
 B. $P = 2 \sqrt{- 30 \sqrt{2} + 6 \sqrt{35} + 123}$.
 C. $P = \sqrt{6 \sqrt{35} + 78} + \sqrt{- 30 \sqrt{2} + 6 \sqrt{35} + 123}$.
 D. $P = 3 \sqrt{- 260 \sqrt{2} - 20 \sqrt{70} + 134 \sqrt{35} + 1206}$."
-536,D50,D50,86,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Cho các số phức $z$ thỏa mãn $|z-\sqrt{6}-\sqrt{3}i|+|z+\sqrt{5}-4 \sqrt{7}i| = \sqrt{- 8 \sqrt{21} + 2 \sqrt{30} + 126}$. Gọi $M$ là giá trị lớn nhất và $m$ là giá trị nhỏ nhất của $|z+\sqrt{6}-4 \sqrt{7}i|$. Tính $P = m+M$. Hãy chọn đáp án đúng.
+536,D50,D50,86,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Cho các số phức $z$ thỏa mãn $|z-\sqrt{6}-\sqrt{3}i|+|z+\sqrt{5}-4 \sqrt{7}i| = \sqrt{126 + 2 \sqrt{30} - 8 \sqrt{21}}$. Gọi $M$ là giá trị lớn nhất và $m$ là giá trị nhỏ nhất của $|z+\sqrt{6}-4 \sqrt{7}i|$. Tính $P = m+M$. Hãy chọn đáp án đúng.
 
 A. $P = - \sqrt{11 - 2 \sqrt{30}} + \sqrt{139 - 8 \sqrt{21}}$.
 B. $P = 2 \sqrt{139 - 8 \sqrt{21}}$.
@@ -5895,34 +5895,34 @@ A. $P = - \sqrt{11 - 2 \sqrt{30}} + \sqrt{139 - 8 \sqrt{21}}$.
 B. $P = 2 \sqrt{139 - 8 \sqrt{21}}$.
 C. $P = \sqrt{11 - 2 \sqrt{30}} \sqrt{139 - 8 \sqrt{21}}$.
 D. $P = \sqrt{11 - 2 \sqrt{30}} + \sqrt{139 - 8 \sqrt{21}}$."
-537,D50,D50,87,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Xét tập hợp các số phức $z$ thoả mãn $|z-2 \sqrt{2}-3 \sqrt{7}i|+|z+\sqrt{10}-2 \sqrt{6}i| = \sqrt{- 12 \sqrt{42} + 8 \sqrt{5} + 105}$. Biểu thức $|z+4 \sqrt{3}-\sqrt{11}i|$ có giá trị nhỏ nhất là $m$ và giá trị lớn nhất là $M$. Hãy tính $P = m+M$. Chọn một đáp án.
+537,D50,D50,87,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Xét tập hợp các số phức $z$ thoả mãn $|z-2 \sqrt{2}-3 \sqrt{7}i|+|z+\sqrt{10}-2 \sqrt{6}i| = \sqrt{105 + 8 \sqrt{5} - 12 \sqrt{42}}$. Biểu thức $|z+4 \sqrt{3}-\sqrt{11}i|$ có giá trị nhỏ nhất là $m$ và giá trị lớn nhất là $M$. Hãy tính $P = m+M$. Chọn một đáp án.
 
-A. $P = - \sqrt{- 8 \sqrt{30} - 4 \sqrt{66} + 93} + \sqrt{- 6 \sqrt{77} + 16 \sqrt{6} + 130}$.
-B. $P = \sqrt{- 8 \sqrt{30} - 4 \sqrt{66} + 93} + \sqrt{- 6 \sqrt{77} + 16 \sqrt{6} + 130}$.
-C. $P = 2 \sqrt{- 6 \sqrt{77} + 16 \sqrt{6} + 130}$.
-D. $P = \sqrt{2} \sqrt{- 8 \sqrt{30} - 4 \sqrt{66} + 93} \sqrt{- 3 \sqrt{77} + 8 \sqrt{6} + 65}$.",B,B. $P = \sqrt{- 8 \sqrt{30} - 4 \sqrt{66} + 93} + \sqrt{- 6 \sqrt{77} + 16 \sqrt{6} + 130}$.,"{""ax"": ""2*sqrt(2)"", ""ay"": ""3*sqrt(7)"", ""bx"": ""-sqrt(10)"", ""by"": ""2*sqrt(6)"", ""cx"": ""-4*sqrt(3)"", ""cy"": ""sqrt(11)""}","Xét các số phức $z$ thỏa mãn $|z-2 \sqrt{2}-3 \sqrt{7}i|+|z+\sqrt{10}-2 \sqrt{6}i| = \sqrt{- 12 \sqrt{42} + 8 \sqrt{5} + 105}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+4 \sqrt{3}-\sqrt{11}i|$. Tính $P = m+M$.
+A. $P = - \sqrt{93 - 8 \sqrt{30} - 4 \sqrt{66}} + \sqrt{130 + 16 \sqrt{6} - 6 \sqrt{77}}$.
+B. $P = \sqrt{93 - 8 \sqrt{30} - 4 \sqrt{66}} + \sqrt{130 + 16 \sqrt{6} - 6 \sqrt{77}}$.
+C. $P = 2 \sqrt{130 + 16 \sqrt{6} - 6 \sqrt{77}}$.
+D. $P = \sqrt{2} \sqrt{93 - 8 \sqrt{30} - 4 \sqrt{66}} \sqrt{65 + 8 \sqrt{6} - 3 \sqrt{77}}$.",B,B. $P = \sqrt{93 - 8 \sqrt{30} - 4 \sqrt{66}} + \sqrt{130 + 16 \sqrt{6} - 6 \sqrt{77}}$.,"{""ax"": ""2*sqrt(2)"", ""ay"": ""3*sqrt(7)"", ""bx"": ""-sqrt(10)"", ""by"": ""2*sqrt(6)"", ""cx"": ""-4*sqrt(3)"", ""cy"": ""sqrt(11)""}","Xét các số phức $z$ thỏa mãn $|z-2 \sqrt{2}-3 \sqrt{7}i|+|z+\sqrt{10}-2 \sqrt{6}i| = \sqrt{- 12 \sqrt{42} + 8 \sqrt{5} + 105}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+4 \sqrt{3}-\sqrt{11}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{- 8 \sqrt{30} - 4 \sqrt{66} + 93} + \sqrt{- 6 \sqrt{77} + 16 \sqrt{6} + 130}$.
 B. $P = \sqrt{- 8 \sqrt{30} - 4 \sqrt{66} + 93} + \sqrt{- 6 \sqrt{77} + 16 \sqrt{6} + 130}$.
 C. $P = 2 \sqrt{- 6 \sqrt{77} + 16 \sqrt{6} + 130}$.
 D. $P = \sqrt{2} \sqrt{- 8 \sqrt{30} - 4 \sqrt{66} + 93} \sqrt{- 3 \sqrt{77} + 8 \sqrt{6} + 65}$."
-538,D50,D50,88,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Cho các số phức $z$ thoả mãn $|z+2 \sqrt{10}-3 \sqrt{11}i|+|z-\sqrt{5}-3 \sqrt{7}i| = \sqrt{- 18 \sqrt{77} + 20 \sqrt{2} + 207}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-\sqrt{5}-3 \sqrt{7}i|$. Giá trị của $P = m+M$ bằng bao nhiêu?
+538,D50,D50,88,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Cho các số phức $z$ thoả mãn $|z+2 \sqrt{10}-3 \sqrt{11}i|+|z-\sqrt{5}-3 \sqrt{7}i| = \sqrt{207 + 20 \sqrt{2} - 18 \sqrt{77}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-\sqrt{5}-3 \sqrt{7}i|$. Giá trị của $P = m+M$ bằng bao nhiêu?
 
-A. $P = 1 + \sqrt{- 18 \sqrt{77} + 20 \sqrt{2} + 207}$.
-B. $P = 2 \sqrt{- 18 \sqrt{77} + 20 \sqrt{2} + 207}$.
+A. $P = 1 + \sqrt{207 + 20 \sqrt{2} - 18 \sqrt{77}}$.
+B. $P = 2 \sqrt{207 + 20 \sqrt{2} - 18 \sqrt{77}}$.
 C. $P = 0$.
-D. $P = \sqrt{- 18 \sqrt{77} + 20 \sqrt{2} + 207}$.",D,D. $P = \sqrt{- 18 \sqrt{77} + 20 \sqrt{2} + 207}$.,"{""ax"": ""-2*sqrt(10)"", ""ay"": ""3*sqrt(11)"", ""bx"": ""sqrt(5)"", ""by"": ""3*sqrt(7)"", ""cx"": ""sqrt(5)"", ""cy"": ""3*sqrt(7)""}","Xét các số phức $z$ thỏa mãn $|z+2 \sqrt{10}-3 \sqrt{11}i|+|z-\sqrt{5}-3 \sqrt{7}i| = \sqrt{- 18 \sqrt{77} + 20 \sqrt{2} + 207}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-\sqrt{5}-3 \sqrt{7}i|$. Tính $P = m+M$.
+D. $P = \sqrt{207 + 20 \sqrt{2} - 18 \sqrt{77}}$.",D,D. $P = \sqrt{207 + 20 \sqrt{2} - 18 \sqrt{77}}$.,"{""ax"": ""-2*sqrt(10)"", ""ay"": ""3*sqrt(11)"", ""bx"": ""sqrt(5)"", ""by"": ""3*sqrt(7)"", ""cx"": ""sqrt(5)"", ""cy"": ""3*sqrt(7)""}","Xét các số phức $z$ thỏa mãn $|z+2 \sqrt{10}-3 \sqrt{11}i|+|z-\sqrt{5}-3 \sqrt{7}i| = \sqrt{- 18 \sqrt{77} + 20 \sqrt{2} + 207}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-\sqrt{5}-3 \sqrt{7}i|$. Tính $P = m+M$.
 
 A. $P = 1 + \sqrt{- 18 \sqrt{77} + 20 \sqrt{2} + 207}$.
 B. $P = 2 \sqrt{- 18 \sqrt{77} + 20 \sqrt{2} + 207}$.
 C. $P = 0$.
 D. $P = \sqrt{- 18 \sqrt{77} + 20 \sqrt{2} + 207}$."
-539,D50,D50,89,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Đề bài: Với các số phức $z$ thỏa mãn $|z-2 \sqrt{6}+4 \sqrt{2}i|+|z+\sqrt{10}+\sqrt{10}i| = \sqrt{- 16 \sqrt{5} + 8 \sqrt{15} + 76}$, gọi $m$ là giá trị nhỏ nhất và $M$ là giá trị lớn nhất của $|z+3 \sqrt{6}-3 \sqrt{7}i|$. Giá trị của $P = m+M$ là bao nhiêu? Chọn đáp án đúng.
+539,D50,D50,89,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Đề bài: Với các số phức $z$ thỏa mãn $|z-2 \sqrt{6}+4 \sqrt{2}i|+|z+\sqrt{10}+\sqrt{10}i| = \sqrt{76 + 8 \sqrt{15} - 16 \sqrt{5}}$, gọi $m$ là giá trị nhỏ nhất và $M$ là giá trị lớn nhất của $|z+3 \sqrt{6}-3 \sqrt{7}i|$. Giá trị của $P = m+M$ là bao nhiêu? Chọn đáp án đúng.
 
-A. $P = - \sqrt{- 12 \sqrt{15} + 6 \sqrt{70} + 137} + \sqrt{24 \sqrt{14} + 245}$.
-B. $P = \sqrt{- 12 \sqrt{15} + 6 \sqrt{70} + 137} + \sqrt{24 \sqrt{14} + 245}$.
+A. $P = - \sqrt{137 + 6 \sqrt{70} - 12 \sqrt{15}} + \sqrt{24 \sqrt{14} + 245}$.
+B. $P = \sqrt{137 + 6 \sqrt{70} - 12 \sqrt{15}} + \sqrt{24 \sqrt{14} + 245}$.
 C. $P = 2 \sqrt{24 \sqrt{14} + 245}$.
-D. $P = \sqrt{24 \sqrt{14} + 245} \sqrt{- 12 \sqrt{15} + 6 \sqrt{70} + 137}$.",B,B. $P = \sqrt{- 12 \sqrt{15} + 6 \sqrt{70} + 137} + \sqrt{24 \sqrt{14} + 245}$.,"{""ax"": ""2*sqrt(6)"", ""ay"": ""-4*sqrt(2)"", ""bx"": ""-sqrt(10)"", ""by"": ""-sqrt(10)"", ""cx"": ""-3*sqrt(6)"", ""cy"": ""3*sqrt(7)""}","Xét các số phức $z$ thỏa mãn $|z-2 \sqrt{6}+4 \sqrt{2}i|+|z+\sqrt{10}+\sqrt{10}i| = \sqrt{- 16 \sqrt{5} + 8 \sqrt{15} + 76}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+3 \sqrt{6}-3 \sqrt{7}i|$. Tính $P = m+M$.
+D. $P = \sqrt{24 \sqrt{14} + 245} \sqrt{137 + 6 \sqrt{70} - 12 \sqrt{15}}$.",B,B. $P = \sqrt{137 + 6 \sqrt{70} - 12 \sqrt{15}} + \sqrt{24 \sqrt{14} + 245}$.,"{""ax"": ""2*sqrt(6)"", ""ay"": ""-4*sqrt(2)"", ""bx"": ""-sqrt(10)"", ""by"": ""-sqrt(10)"", ""cx"": ""-3*sqrt(6)"", ""cy"": ""3*sqrt(7)""}","Xét các số phức $z$ thỏa mãn $|z-2 \sqrt{6}+4 \sqrt{2}i|+|z+\sqrt{10}+\sqrt{10}i| = \sqrt{- 16 \sqrt{5} + 8 \sqrt{15} + 76}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+3 \sqrt{6}-3 \sqrt{7}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{- 12 \sqrt{15} + 6 \sqrt{70} + 137} + \sqrt{24 \sqrt{14} + 245}$.
 B. $P = \sqrt{- 12 \sqrt{15} + 6 \sqrt{70} + 137} + \sqrt{24 \sqrt{14} + 245}$.
@@ -5930,10 +5930,10 @@ C. $P = 2 \sqrt{24 \sqrt{14} + 245}$.
 D. $P = \sqrt{24 \sqrt{14} + 245} \sqrt{- 12 \sqrt{15} + 6 \sqrt{70} + 137}$."
 540,D50,D50,90,12,Vấn đề 10. Cực trị (min – max) số phức,"Cho z có điểm biểu diễn thuộc một đoạn thẳng, tìm GTLN – GTNN của một môđun",VDC,Số vô tỉ,"Đề bài: Các số phức $z$ thỏa $|z-4 \sqrt{2}-\sqrt{5}i|+|z-\sqrt{5}+2 \sqrt{2}i| = \sqrt{50 - 4 \sqrt{10}}$; $m$ và $M$ lần lượt là giá trị nhỏ nhất và giá trị lớn nhất của $|z+2 \sqrt{3}+2 \sqrt{10}i|$. Yêu cầu: Tính $P = m+M$.
 
-A. $P = - \sqrt{- 16 \sqrt{5} + 4 \sqrt{15} + 65} + \sqrt{20 \sqrt{2} + 16 \sqrt{6} + 89}$.
-B. $P = \sqrt{- 16 \sqrt{5} + 4 \sqrt{15} + 65} + \sqrt{20 \sqrt{2} + 16 \sqrt{6} + 89}$.
+A. $P = - \sqrt{65 + 4 \sqrt{15} - 16 \sqrt{5}} + \sqrt{20 \sqrt{2} + 16 \sqrt{6} + 89}$.
+B. $P = \sqrt{65 + 4 \sqrt{15} - 16 \sqrt{5}} + \sqrt{20 \sqrt{2} + 16 \sqrt{6} + 89}$.
 C. $P = 2 \sqrt{20 \sqrt{2} + 16 \sqrt{6} + 89}$.
-D. $P = \sqrt{- 1424 \sqrt{5} - 176 \sqrt{30} - 128 \sqrt{10} + 356 \sqrt{15} + 1300 \sqrt{2} + 1040 \sqrt{6} + 5785}$.",B,B. $P = \sqrt{- 16 \sqrt{5} + 4 \sqrt{15} + 65} + \sqrt{20 \sqrt{2} + 16 \sqrt{6} + 89}$.,"{""ax"": ""4*sqrt(2)"", ""ay"": ""sqrt(5)"", ""bx"": ""sqrt(5)"", ""by"": ""-2*sqrt(2)"", ""cx"": ""-2*sqrt(3)"", ""cy"": ""-2*sqrt(10)""}","Xét các số phức $z$ thỏa mãn $|z-4 \sqrt{2}-\sqrt{5}i|+|z-\sqrt{5}+2 \sqrt{2}i| = \sqrt{50 - 4 \sqrt{10}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+2 \sqrt{3}+2 \sqrt{10}i|$. Tính $P = m+M$.
+D. $P = \sqrt{5785 + 356 \sqrt{15} + 1300 \sqrt{2} + 1040 \sqrt{6} - 1424 \sqrt{5} - 176 \sqrt{30} - 128 \sqrt{10}}$.",B,B. $P = \sqrt{65 + 4 \sqrt{15} - 16 \sqrt{5}} + \sqrt{20 \sqrt{2} + 16 \sqrt{6} + 89}$.,"{""ax"": ""4*sqrt(2)"", ""ay"": ""sqrt(5)"", ""bx"": ""sqrt(5)"", ""by"": ""-2*sqrt(2)"", ""cx"": ""-2*sqrt(3)"", ""cy"": ""-2*sqrt(10)""}","Xét các số phức $z$ thỏa mãn $|z-4 \sqrt{2}-\sqrt{5}i|+|z-\sqrt{5}+2 \sqrt{2}i| = \sqrt{50 - 4 \sqrt{10}}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z+2 \sqrt{3}+2 \sqrt{10}i|$. Tính $P = m+M$.
 
 A. $P = - \sqrt{- 16 \sqrt{5} + 4 \sqrt{15} + 65} + \sqrt{20 \sqrt{2} + 16 \sqrt{6} + 89}$.
 B. $P = \sqrt{- 16 \sqrt{5} + 4 \sqrt{15} + 65} + \sqrt{20 \sqrt{2} + 16 \sqrt{6} + 89}$.
@@ -7952,7 +7952,7 @@ A. $27$.
 B. $108$.
 C. $\dfrac{27}{2}$.
 D. $54$."
-724,D51,D51,4,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số nguyên,"Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{1}$. Hãy tính giá trị lớn nhất của $P = |z_1-6i|^2 - |z_2-6i|^2$, với $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=1$. Chọn đáp án đúng.
+724,D51,D51,4,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số nguyên,"Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $1$. Hãy tính giá trị lớn nhất của $P = |z_1-6i|^2 - |z_2-6i|^2$, với $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=1$. Chọn đáp án đúng.
 
 A. $6$.
 B. $12$.
@@ -7996,7 +7996,7 @@ A. $10$.
 B. $40$.
 C. $20$.
 D. $8$."
-728,D51,D51,8,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số nguyên,"Câu hỏi: Cho $S$ là tập hợp các số phức $z$ mà số phức $w=\dfrac{1}{|z|-z}$ có phần thực là $\dfrac{1}{1}$. Với $z_1, z_2 \in S$ thỏa $|z_1-z_2|=1$, tìm giá trị lớn nhất của biểu thức $P = |z_1-8i|^2 - |z_2-8i|^2$.
+728,D51,D51,8,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số nguyên,"Câu hỏi: Cho $S$ là tập hợp các số phức $z$ mà số phức $w=\dfrac{1}{|z|-z}$ có phần thực là $1$. Với $z_1, z_2 \in S$ thỏa $|z_1-z_2|=1$, tìm giá trị lớn nhất của biểu thức $P = |z_1-8i|^2 - |z_2-8i|^2$.
 
 A. $16$.
 B. $8$.
@@ -8139,7 +8139,7 @@ A. $4$.
 B. $8$.
 C. $16$.
 D. $12$."
-741,D51,D51,21,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số nguyên,"Cho $|z_1-z_2|=1$ với $z_1, z_2 \in S$, trong đó $S$ là tập hợp tất cả các số phức $z$ thỏa mãn: số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{1}$. Tìm giá trị lớn nhất của $P = |z_1-7i|^2 - |z_2-7i|^2$. Chọn đáp án đúng.
+741,D51,D51,21,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số nguyên,"Cho $|z_1-z_2|=1$ với $z_1, z_2 \in S$, trong đó $S$ là tập hợp tất cả các số phức $z$ thỏa mãn: số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $1$. Tìm giá trị lớn nhất của $P = |z_1-7i|^2 - |z_2-7i|^2$. Chọn đáp án đúng.
 
 A. $7$.
 B. $14$.
@@ -8249,7 +8249,7 @@ A. $2$.
 B. $4$.
 C. $8$.
 D. $7$."
-751,D51,D51,31,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{11}{2}}$. Hãy tính giá trị lớn nhất của $P = |z_1-\dfrac{33}{5}i|^2 - |z_2-\dfrac{33}{5}i|^2$, với $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{1}{5}$. Chọn đáp án đúng.
+751,D51,D51,31,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{2}{11}$. Hãy tính giá trị lớn nhất của $P = |z_1-\dfrac{33}{5}i|^2 - |z_2-\dfrac{33}{5}i|^2$, với $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{1}{5}$. Chọn đáp án đúng.
 
 A. $\dfrac{33}{25}$.
 B. $\dfrac{66}{25}$.
@@ -8260,7 +8260,7 @@ A. $\dfrac{33}{25}$.
 B. $\dfrac{66}{25}$.
 C. $\dfrac{132}{25}$.
 D. $\dfrac{363}{20}$."
-752,D51,D51,32,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Với $S$ là tập hợp tất cả các số phức $z$ mà phần thực của số phức $w=\dfrac{1}{|z|-z}$ bằng $\dfrac{1}{\dfrac{22}{5}}$, hãy tìm giá trị lớn nhất của $P = |z_1-\dfrac{10}{3}i|^2 - |z_2-\dfrac{10}{3}i|^2$, trong đó $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{19}{5}$.
+752,D51,D51,32,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Với $S$ là tập hợp tất cả các số phức $z$ mà phần thực của số phức $w=\dfrac{1}{|z|-z}$ bằng $\dfrac{5}{22}$, hãy tìm giá trị lớn nhất của $P = |z_1-\dfrac{10}{3}i|^2 - |z_2-\dfrac{10}{3}i|^2$, trong đó $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{19}{5}$.
 
 A. $\dfrac{38}{3}$.
 B. $\dfrac{152}{3}$.
@@ -8271,7 +8271,7 @@ A. $\dfrac{38}{3}$.
 B. $\dfrac{152}{3}$.
 C. $\dfrac{76}{3}$.
 D. $\dfrac{22}{3}$."
-753,D51,D51,33,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{17}{2}}$; $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{25}{4}$. Yêu cầu: Tính giá trị lớn nhất của $P = |z_1-\dfrac{19}{3}i|^2 - |z_2-\dfrac{19}{3}i|^2$.
+753,D51,D51,33,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{2}{17}$; $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{25}{4}$. Yêu cầu: Tính giá trị lớn nhất của $P = |z_1-\dfrac{19}{3}i|^2 - |z_2-\dfrac{19}{3}i|^2$.
 
 A. $\dfrac{475}{12}$.
 B. $\dfrac{475}{3}$.
@@ -8282,7 +8282,7 @@ A. $\dfrac{475}{12}$.
 B. $\dfrac{475}{3}$.
 C. $\dfrac{475}{6}$.
 D. $\dfrac{323}{12}$."
-754,D51,D51,34,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{26}{3}}$. Hãy tính giá trị lớn nhất của $P = |z_1-\dfrac{41}{5}i|^2 - |z_2-\dfrac{41}{5}i|^2$, với $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{34}{5}$.
+754,D51,D51,34,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{3}{26}$. Hãy tính giá trị lớn nhất của $P = |z_1-\dfrac{41}{5}i|^2 - |z_2-\dfrac{41}{5}i|^2$, với $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{34}{5}$.
 
 A. $\dfrac{1394}{25}$.
 B. $\dfrac{2788}{25}$.
@@ -8293,7 +8293,7 @@ A. $\dfrac{1394}{25}$.
 B. $\dfrac{2788}{25}$.
 C. $\dfrac{5576}{25}$.
 D. $\dfrac{533}{15}$."
-755,D51,D51,35,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Cho $S$ là tập hợp tất cả các số phức $z$ sao cho phần thực của số phức $w=\dfrac{1}{|z|-z}$ bằng $\dfrac{1}{\dfrac{19}{3}}$. Xét $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{19}{5}$. Hãy tìm giá trị lớn nhất của $P = |z_1-\dfrac{3}{2}i|^2 - |z_2-\dfrac{3}{2}i|^2$.
+755,D51,D51,35,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Cho $S$ là tập hợp tất cả các số phức $z$ sao cho phần thực của số phức $w=\dfrac{1}{|z|-z}$ bằng $\dfrac{3}{19}$. Xét $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{19}{5}$. Hãy tìm giá trị lớn nhất của $P = |z_1-\dfrac{3}{2}i|^2 - |z_2-\dfrac{3}{2}i|^2$.
 
 A. $\dfrac{57}{5}$.
 B. $\dfrac{57}{10}$.
@@ -8304,7 +8304,7 @@ A. $\dfrac{57}{5}$.
 B. $\dfrac{57}{10}$.
 C. $\dfrac{114}{5}$.
 D. $\dfrac{19}{4}$."
-756,D51,D51,36,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Cho $|z_1-z_2|=\dfrac{11}{2}$ với $z_1, z_2 \in S$, trong đó $S$ là tập hợp tất cả các số phức $z$ thỏa mãn: số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{31}{4}}$. Tìm giá trị lớn nhất của $P = |z_1-\dfrac{14}{3}i|^2 - |z_2-\dfrac{14}{3}i|^2$.
+756,D51,D51,36,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Cho $|z_1-z_2|=\dfrac{11}{2}$ với $z_1, z_2 \in S$, trong đó $S$ là tập hợp tất cả các số phức $z$ thỏa mãn: số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{4}{31}$. Tìm giá trị lớn nhất của $P = |z_1-\dfrac{14}{3}i|^2 - |z_2-\dfrac{14}{3}i|^2$.
 
 A. $\dfrac{77}{3}$.
 B. $\dfrac{154}{3}$.
@@ -8315,7 +8315,7 @@ A. $\dfrac{77}{3}$.
 B. $\dfrac{154}{3}$.
 C. $\dfrac{308}{3}$.
 D. $\dfrac{217}{12}$."
-757,D51,D51,37,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Gọi $S$ là tập hợp các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{16}{5}}$. Với $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{3}{2}$, giá trị lớn nhất của $P = |z_1-\dfrac{17}{2}i|^2 - |z_2-\dfrac{17}{2}i|^2$ là bao nhiêu? Hãy chọn đáp án đúng.
+757,D51,D51,37,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Gọi $S$ là tập hợp các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{5}{16}$. Với $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{3}{2}$, giá trị lớn nhất của $P = |z_1-\dfrac{17}{2}i|^2 - |z_2-\dfrac{17}{2}i|^2$ là bao nhiêu? Hãy chọn đáp án đúng.
 
 A. $\dfrac{51}{4}$.
 B. $\dfrac{51}{2}$.
@@ -8326,7 +8326,7 @@ A. $\dfrac{51}{4}$.
 B. $\dfrac{51}{2}$.
 C. $51$.
 D. $\dfrac{68}{5}$."
-758,D51,D51,38,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Cho $S$ là tập hợp các số phức $z$ mà số phức $w=\dfrac{1}{|z|-z}$ có phần thực là $\dfrac{1}{\dfrac{3}{4}}$. Với $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{1}{2}$, tìm giá trị lớn nhất của biểu thức $P = |z_1-\dfrac{7}{2}i|^2 - |z_2-\dfrac{7}{2}i|^2$.
+758,D51,D51,38,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Cho $S$ là tập hợp các số phức $z$ mà số phức $w=\dfrac{1}{|z|-z}$ có phần thực là $\dfrac{4}{3}$. Với $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{1}{2}$, tìm giá trị lớn nhất của biểu thức $P = |z_1-\dfrac{7}{2}i|^2 - |z_2-\dfrac{7}{2}i|^2$.
 
 A. $\dfrac{7}{4}$.
 B. $7$.
@@ -8337,7 +8337,7 @@ A. $\dfrac{7}{4}$.
 B. $7$.
 C. $\dfrac{21}{16}$.
 D. $\dfrac{7}{2}$."
-759,D51,D51,39,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Cho $S$ là tập hợp các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{9}{2}}$. Biết $z_1, z_2 \in S$ và $|z_1-z_2|=\dfrac{16}{5}$. Tìm giá trị lớn nhất của $P = |z_1-\dfrac{20}{3}i|^2 - |z_2-\dfrac{20}{3}i|^2$.
+759,D51,D51,39,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Cho $S$ là tập hợp các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{2}{9}$. Biết $z_1, z_2 \in S$ và $|z_1-z_2|=\dfrac{16}{5}$. Tìm giá trị lớn nhất của $P = |z_1-\dfrac{20}{3}i|^2 - |z_2-\dfrac{20}{3}i|^2$.
 
 A. $\dfrac{64}{3}$.
 B. $\dfrac{128}{3}$.
@@ -8348,7 +8348,7 @@ A. $\dfrac{64}{3}$.
 B. $\dfrac{128}{3}$.
 C. $\dfrac{256}{3}$.
 D. $15$."
-760,D51,D51,40,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{15}{2}}$. Hãy tính giá trị lớn nhất của $P = |z_1-\dfrac{35}{4}i|^2 - |z_2-\dfrac{35}{4}i|^2$, với $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{18}{5}$.
+760,D51,D51,40,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{2}{15}$. Hãy tính giá trị lớn nhất của $P = |z_1-\dfrac{35}{4}i|^2 - |z_2-\dfrac{35}{4}i|^2$, với $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{18}{5}$.
 
 A. $63$.
 B. $\dfrac{63}{2}$.
@@ -8359,7 +8359,7 @@ A. $63$.
 B. $\dfrac{63}{2}$.
 C. $126$.
 D. $\dfrac{525}{16}$."
-761,D51,D51,41,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Tập hợp $S$ gồm các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{29}{4}}$. Giả sử $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{13}{3}$. Giá trị lớn nhất của $P = |z_1-\dfrac{1}{5}i|^2 - |z_2-\dfrac{1}{5}i|^2$ là bao nhiêu?
+761,D51,D51,41,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Tập hợp $S$ gồm các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{4}{29}$. Giả sử $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{13}{3}$. Giá trị lớn nhất của $P = |z_1-\dfrac{1}{5}i|^2 - |z_2-\dfrac{1}{5}i|^2$ là bao nhiêu?
 
 A. $\dfrac{13}{15}$.
 B. $\dfrac{26}{15}$.
@@ -8370,7 +8370,7 @@ A. $\dfrac{13}{15}$.
 B. $\dfrac{26}{15}$.
 C. $\dfrac{52}{15}$.
 D. $\dfrac{29}{40}$."
-762,D51,D51,42,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Với hai số phức $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{13}{5}$, giá trị lớn nhất của $P = |z_1-\dfrac{3}{4}i|^2 - |z_2-\dfrac{3}{4}i|^2$ là bao nhiêu, biết $S$ là tập hợp các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{23}{3}}$?
+762,D51,D51,42,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Với hai số phức $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{13}{5}$, giá trị lớn nhất của $P = |z_1-\dfrac{3}{4}i|^2 - |z_2-\dfrac{3}{4}i|^2$ là bao nhiêu, biết $S$ là tập hợp các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{3}{23}$?
 
 A. $\dfrac{39}{20}$.
 B. $\dfrac{39}{5}$.
@@ -8381,7 +8381,7 @@ A. $\dfrac{39}{20}$.
 B. $\dfrac{39}{5}$.
 C. $\dfrac{23}{8}$.
 D. $\dfrac{39}{10}$."
-763,D51,D51,43,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Bài toán: Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{7}{2}}$. Tính giá trị lớn nhất của $P = |z_1-\dfrac{22}{3}i|^2 - |z_2-\dfrac{22}{3}i|^2$, với $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=\dfrac{7}{4}$. Chọn đáp án đúng.
+763,D51,D51,43,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Bài toán: Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{2}{7}$. Tính giá trị lớn nhất của $P = |z_1-\dfrac{22}{3}i|^2 - |z_2-\dfrac{22}{3}i|^2$, với $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=\dfrac{7}{4}$. Chọn đáp án đúng.
 
 A. $\dfrac{77}{6}$.
 B. $\dfrac{154}{3}$.
@@ -8392,7 +8392,7 @@ A. $\dfrac{77}{6}$.
 B. $\dfrac{154}{3}$.
 C. $\dfrac{83}{6}$.
 D. $\dfrac{77}{3}$."
-764,D51,D51,44,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: Xét $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{11}{4}$, trong đó $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{17}{2}}$. Giá trị lớn nhất của $P = |z_1-\dfrac{11}{2}i|^2 - |z_2-\dfrac{11}{2}i|^2$ bằng bao nhiêu?
+764,D51,D51,44,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: Xét $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{11}{4}$, trong đó $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{2}{17}$. Giá trị lớn nhất của $P = |z_1-\dfrac{11}{2}i|^2 - |z_2-\dfrac{11}{2}i|^2$ bằng bao nhiêu?
 
 A. $\dfrac{121}{4}$.
 B. $\dfrac{121}{8}$.
@@ -8403,7 +8403,7 @@ A. $\dfrac{121}{4}$.
 B. $\dfrac{121}{8}$.
 C. $\dfrac{121}{2}$.
 D. $\dfrac{187}{8}$."
-765,D51,D51,45,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Biết $S$ là tập hợp các số phức $z$ thỏa điều kiện phần thực của số phức $w=\dfrac{1}{|z|-z}$ bằng $\dfrac{1}{\dfrac{23}{4}}$. Hãy tìm giá trị lớn nhất của $P = |z_1-\dfrac{3}{2}i|^2 - |z_2-\dfrac{3}{2}i|^2$ khi $z_1, z_2 \in S$ và $|z_1-z_2|=\dfrac{5}{2}$.
+765,D51,D51,45,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Biết $S$ là tập hợp các số phức $z$ thỏa điều kiện phần thực của số phức $w=\dfrac{1}{|z|-z}$ bằng $\dfrac{4}{23}$. Hãy tìm giá trị lớn nhất của $P = |z_1-\dfrac{3}{2}i|^2 - |z_2-\dfrac{3}{2}i|^2$ khi $z_1, z_2 \in S$ và $|z_1-z_2|=\dfrac{5}{2}$.
 
 A. $\dfrac{15}{2}$.
 B. $\dfrac{15}{4}$.
@@ -8414,7 +8414,7 @@ A. $\dfrac{15}{2}$.
 B. $\dfrac{15}{4}$.
 C. $15$.
 D. $\dfrac{69}{16}$."
-766,D51,D51,46,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Bài toán: Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{26}{3}}$. Tính giá trị lớn nhất của $P = |z_1-\dfrac{19}{3}i|^2 - |z_2-\dfrac{19}{3}i|^2$, với $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=\dfrac{5}{2}$.
+766,D51,D51,46,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Bài toán: Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{3}{26}$. Tính giá trị lớn nhất của $P = |z_1-\dfrac{19}{3}i|^2 - |z_2-\dfrac{19}{3}i|^2$, với $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=\dfrac{5}{2}$.
 
 A. $\dfrac{95}{3}$.
 B. $\dfrac{95}{6}$.
@@ -8425,7 +8425,7 @@ A. $\dfrac{95}{3}$.
 B. $\dfrac{95}{6}$.
 C. $\dfrac{190}{3}$.
 D. $\dfrac{247}{9}$."
-767,D51,D51,47,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: Với $S$ là tập hợp tất cả các số phức $z$ mà phần thực của số phức $w=\dfrac{1}{|z|-z}$ bằng $\dfrac{1}{\dfrac{11}{4}}$, hãy tìm giá trị lớn nhất của $P = |z_1-\dfrac{42}{5}i|^2 - |z_2-\dfrac{42}{5}i|^2$, trong đó $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{4}{3}$.
+767,D51,D51,47,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: Với $S$ là tập hợp tất cả các số phức $z$ mà phần thực của số phức $w=\dfrac{1}{|z|-z}$ bằng $\dfrac{4}{11}$, hãy tìm giá trị lớn nhất của $P = |z_1-\dfrac{42}{5}i|^2 - |z_2-\dfrac{42}{5}i|^2$, trong đó $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{4}{3}$.
 
 A. $\dfrac{56}{5}$.
 B. $\dfrac{224}{5}$.
@@ -8436,7 +8436,7 @@ A. $\dfrac{56}{5}$.
 B. $\dfrac{224}{5}$.
 C. $\dfrac{112}{5}$.
 D. $\dfrac{231}{20}$."
-768,D51,D51,48,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{35}{4}}$; $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{15}{4}$. Yêu cầu: Tính giá trị lớn nhất của $P = |z_1-\dfrac{5}{3}i|^2 - |z_2-\dfrac{5}{3}i|^2$.
+768,D51,D51,48,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{4}{35}$; $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{15}{4}$. Yêu cầu: Tính giá trị lớn nhất của $P = |z_1-\dfrac{5}{3}i|^2 - |z_2-\dfrac{5}{3}i|^2$.
 
 A. $\dfrac{25}{4}$.
 B. $25$.
@@ -8447,7 +8447,7 @@ A. $\dfrac{25}{4}$.
 B. $25$.
 C. $\dfrac{25}{2}$.
 D. $\dfrac{175}{24}$."
-769,D51,D51,49,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Câu hỏi: Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{11}{2}}$. Tính giá trị lớn nhất của $P = |z_1-\dfrac{13}{3}i|^2 - |z_2-\dfrac{13}{3}i|^2$, với $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{7}{3}$.
+769,D51,D51,49,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Câu hỏi: Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{2}{11}$. Tính giá trị lớn nhất của $P = |z_1-\dfrac{13}{3}i|^2 - |z_2-\dfrac{13}{3}i|^2$, với $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{7}{3}$.
 
 A. $\dfrac{91}{9}$.
 B. $\dfrac{364}{9}$.
@@ -8458,7 +8458,7 @@ A. $\dfrac{91}{9}$.
 B. $\dfrac{364}{9}$.
 C. $\dfrac{143}{12}$.
 D. $\dfrac{182}{9}$."
-770,D51,D51,50,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Cho $S$ là tập hợp tất cả các số phức $z$ sao cho phần thực của số phức $w=\dfrac{1}{|z|-z}$ bằng $\dfrac{1}{\dfrac{23}{3}}$. Xét $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=\dfrac{15}{2}$. Hãy tìm giá trị lớn nhất của $P = |z_1-\dfrac{13}{2}i|^2 - |z_2-\dfrac{13}{2}i|^2$.
+770,D51,D51,50,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Cho $S$ là tập hợp tất cả các số phức $z$ sao cho phần thực của số phức $w=\dfrac{1}{|z|-z}$ bằng $\dfrac{3}{23}$. Xét $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=\dfrac{15}{2}$. Hãy tìm giá trị lớn nhất của $P = |z_1-\dfrac{13}{2}i|^2 - |z_2-\dfrac{13}{2}i|^2$.
 
 A. $\dfrac{195}{4}$.
 B. $\dfrac{195}{2}$.
@@ -8469,7 +8469,7 @@ A. $\dfrac{195}{4}$.
 B. $\dfrac{195}{2}$.
 C. $195$.
 D. $\dfrac{299}{12}$."
-771,D51,D51,51,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Cho $|z_1-z_2|=\dfrac{2}{5}$ với $z_1, z_2 \in S$, trong đó $S$ là tập hợp tất cả các số phức $z$ thỏa mãn: số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{19}{5}}$. Tìm giá trị lớn nhất của $P = |z_1-\dfrac{1}{2}i|^2 - |z_2-\dfrac{1}{2}i|^2$. Chọn đáp án đúng.
+771,D51,D51,51,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Cho $|z_1-z_2|=\dfrac{2}{5}$ với $z_1, z_2 \in S$, trong đó $S$ là tập hợp tất cả các số phức $z$ thỏa mãn: số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{5}{19}$. Tìm giá trị lớn nhất của $P = |z_1-\dfrac{1}{2}i|^2 - |z_2-\dfrac{1}{2}i|^2$. Chọn đáp án đúng.
 
 A. $\dfrac{1}{5}$.
 B. $\dfrac{4}{5}$.
@@ -8480,7 +8480,7 @@ A. $\dfrac{1}{5}$.
 B. $\dfrac{4}{5}$.
 C. $\dfrac{2}{5}$.
 D. $\dfrac{19}{20}$."
-772,D51,D51,52,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Câu hỏi: Gọi $S$ là tập hợp các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{37}{5}}$. Với $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{11}{2}$, giá trị lớn nhất của $P = |z_1-\dfrac{1}{4}i|^2 - |z_2-\dfrac{1}{4}i|^2$ là bao nhiêu?
+772,D51,D51,52,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Câu hỏi: Gọi $S$ là tập hợp các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{5}{37}$. Với $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{11}{2}$, giá trị lớn nhất của $P = |z_1-\dfrac{1}{4}i|^2 - |z_2-\dfrac{1}{4}i|^2$ là bao nhiêu?
 
 A. $\dfrac{11}{8}$.
 B. $\dfrac{11}{2}$.
@@ -8491,7 +8491,7 @@ A. $\dfrac{11}{8}$.
 B. $\dfrac{11}{2}$.
 C. $\dfrac{11}{4}$.
 D. $\dfrac{37}{40}$."
-773,D51,D51,53,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Cho $S$ là tập hợp các số phức $z$ mà số phức $w=\dfrac{1}{|z|-z}$ có phần thực là $\dfrac{1}{\dfrac{17}{3}}$. Với $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=\dfrac{15}{4}$, tìm giá trị lớn nhất của biểu thức $P = |z_1-\dfrac{12}{5}i|^2 - |z_2-\dfrac{12}{5}i|^2$. Chọn đáp án đúng.
+773,D51,D51,53,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Cho $S$ là tập hợp các số phức $z$ mà số phức $w=\dfrac{1}{|z|-z}$ có phần thực là $\dfrac{3}{17}$. Với $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=\dfrac{15}{4}$, tìm giá trị lớn nhất của biểu thức $P = |z_1-\dfrac{12}{5}i|^2 - |z_2-\dfrac{12}{5}i|^2$. Chọn đáp án đúng.
 
 A. $9$.
 B. $36$.
@@ -8502,7 +8502,7 @@ A. $9$.
 B. $36$.
 C. $\dfrac{34}{5}$.
 D. $18$."
-774,D51,D51,54,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Câu hỏi: Cho $S$ là tập hợp các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{29}{4}}$. Biết $z_1, z_2 \in S$ và $|z_1-z_2|=\dfrac{34}{5}$. Tìm giá trị lớn nhất của $P = |z_1-\dfrac{21}{4}i|^2 - |z_2-\dfrac{21}{4}i|^2$.
+774,D51,D51,54,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Câu hỏi: Cho $S$ là tập hợp các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{4}{29}$. Biết $z_1, z_2 \in S$ và $|z_1-z_2|=\dfrac{34}{5}$. Tìm giá trị lớn nhất của $P = |z_1-\dfrac{21}{4}i|^2 - |z_2-\dfrac{21}{4}i|^2$.
 
 A. $\dfrac{357}{10}$.
 B. $\dfrac{357}{5}$.
@@ -8513,7 +8513,7 @@ A. $\dfrac{357}{10}$.
 B. $\dfrac{357}{5}$.
 C. $\dfrac{714}{5}$.
 D. $\dfrac{609}{32}$."
-775,D51,D51,55,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{43}{5}}$. Hãy tính giá trị lớn nhất của $P = |z_1-\dfrac{22}{3}i|^2 - |z_2-\dfrac{22}{3}i|^2$, với $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=\dfrac{1}{2}$. Chọn đáp án đúng.
+775,D51,D51,55,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{5}{43}$. Hãy tính giá trị lớn nhất của $P = |z_1-\dfrac{22}{3}i|^2 - |z_2-\dfrac{22}{3}i|^2$, với $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=\dfrac{1}{2}$. Chọn đáp án đúng.
 
 A. $\dfrac{11}{3}$.
 B. $\dfrac{44}{3}$.
@@ -8524,7 +8524,7 @@ A. $\dfrac{11}{3}$.
 B. $\dfrac{44}{3}$.
 C. $\dfrac{22}{3}$.
 D. $\dfrac{473}{15}$."
-776,D51,D51,56,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Bài toán: Tập hợp $S$ gồm các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{7}{2}}$. Giả sử $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{1}{2}$. Giá trị lớn nhất của $P = |z_1-\dfrac{3}{5}i|^2 - |z_2-\dfrac{3}{5}i|^2$ là bao nhiêu?
+776,D51,D51,56,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Bài toán: Tập hợp $S$ gồm các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{2}{7}$. Giả sử $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{1}{2}$. Giá trị lớn nhất của $P = |z_1-\dfrac{3}{5}i|^2 - |z_2-\dfrac{3}{5}i|^2$ là bao nhiêu?
 
 A. $\dfrac{3}{10}$.
 B. $\dfrac{6}{5}$.
@@ -8535,7 +8535,7 @@ A. $\dfrac{3}{10}$.
 B. $\dfrac{6}{5}$.
 C. $\dfrac{21}{20}$.
 D. $\dfrac{3}{5}$."
-777,D51,D51,57,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: Với hai số phức $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{8}{3}$, giá trị lớn nhất của $P = |z_1-\dfrac{5}{2}i|^2 - |z_2-\dfrac{5}{2}i|^2$ là bao nhiêu, biết $S$ là tập hợp các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{13}{3}}$? Hãy chọn đáp án đúng.
+777,D51,D51,57,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Đề bài: Với hai số phức $z_1, z_2 \in S$ thỏa $|z_1-z_2|=\dfrac{8}{3}$, giá trị lớn nhất của $P = |z_1-\dfrac{5}{2}i|^2 - |z_2-\dfrac{5}{2}i|^2$ là bao nhiêu, biết $S$ là tập hợp các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{3}{13}$? Hãy chọn đáp án đúng.
 
 A. $\dfrac{40}{3}$.
 B. $\dfrac{20}{3}$.
@@ -8546,7 +8546,7 @@ A. $\dfrac{40}{3}$.
 B. $\dfrac{20}{3}$.
 C. $\dfrac{80}{3}$.
 D. $\dfrac{65}{12}$."
-778,D51,D51,58,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{26}{3}}$. Hãy tính giá trị lớn nhất của $P = |z_1-\dfrac{7}{3}i|^2 - |z_2-\dfrac{7}{3}i|^2$, với $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{9}{2}$.
+778,D51,D51,58,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{3}{26}$. Hãy tính giá trị lớn nhất của $P = |z_1-\dfrac{7}{3}i|^2 - |z_2-\dfrac{7}{3}i|^2$, với $z_1, z_2 \in S$ thoả mãn $|z_1-z_2|=\dfrac{9}{2}$.
 
 A. $\dfrac{21}{2}$.
 B. $42$.
@@ -8557,7 +8557,7 @@ A. $\dfrac{21}{2}$.
 B. $42$.
 C. $\dfrac{91}{9}$.
 D. $21$."
-779,D51,D51,59,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Xét $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=\dfrac{10}{3}$, trong đó $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{\dfrac{22}{3}}$. Giá trị lớn nhất của $P = |z_1-\dfrac{22}{3}i|^2 - |z_2-\dfrac{22}{3}i|^2$ bằng bao nhiêu?
+779,D51,D51,59,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Xét $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=\dfrac{10}{3}$, trong đó $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w=\dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{3}{22}$. Giá trị lớn nhất của $P = |z_1-\dfrac{22}{3}i|^2 - |z_2-\dfrac{22}{3}i|^2$ bằng bao nhiêu?
 
 A. $\dfrac{220}{9}$.
 B. $\dfrac{880}{9}$.
@@ -8568,7 +8568,7 @@ A. $\dfrac{220}{9}$.
 B. $\dfrac{880}{9}$.
 C. $\dfrac{440}{9}$.
 D. $\dfrac{242}{9}$."
-780,D51,D51,60,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Biết $S$ là tập hợp các số phức $z$ thỏa điều kiện phần thực của số phức $w=\dfrac{1}{|z|-z}$ bằng $\dfrac{1}{\dfrac{43}{5}}$. Hãy tìm giá trị lớn nhất của $P = |z_1-\dfrac{5}{4}i|^2 - |z_2-\dfrac{5}{4}i|^2$ khi $z_1, z_2 \in S$ và $|z_1-z_2|=\dfrac{11}{3}$.
+780,D51,D51,60,27,Vấn đề 10. Cực trị (min – max) số phức,"Cho z thuộc một đường tròn, tìm GTLN của hiệu bình phương hai khoảng cách",VDC,Số hữu tỉ,"Biết $S$ là tập hợp các số phức $z$ thỏa điều kiện phần thực của số phức $w=\dfrac{1}{|z|-z}$ bằng $\dfrac{5}{43}$. Hãy tìm giá trị lớn nhất của $P = |z_1-\dfrac{5}{4}i|^2 - |z_2-\dfrac{5}{4}i|^2$ khi $z_1, z_2 \in S$ và $|z_1-z_2|=\dfrac{11}{3}$.
 
 A. $\dfrac{55}{12}$.
 B. $\dfrac{55}{6}$.
@@ -17513,10 +17513,10 @@ C. $\sqrt{\dfrac{87 \sqrt{10}}{4} + \dfrac{1615}{8}}$.
 D. $2 \sqrt{\dfrac{87 \sqrt{10}}{4} + \dfrac{1615}{8}}$."
 1593,D32,D32,63,45,Vấn đề 6. Giải phương trình để tìm số phức z,"Cho phương trình chứa cả z và z̄, giải tìm z rồi tính môđun |z|",VD,Số vô tỉ,"Đề bài: Số phức $z$ thoả mãn $3(\overline{z}-i)-(2+3i)z = - 2 \sqrt{3}+3 \sqrt{11}i$. Yêu cầu: Tính môđun của $z$. Hãy chọn đáp án đúng.
 
-A. $\sqrt{- \dfrac{27 \sqrt{33}}{2} - \dfrac{27 \sqrt{3}}{2} + \dfrac{45 \sqrt{11}}{4} + 93}$.
+A. $\sqrt{93 + \dfrac{45 \sqrt{11}}{4} - \dfrac{27 \sqrt{33}}{2} - \dfrac{27 \sqrt{3}}{2}}$.
 B. $- \dfrac{27 \sqrt{33}}{2} - \dfrac{27 \sqrt{3}}{2} + \dfrac{45 \sqrt{11}}{4} + 93$.
 C. $- 4 \sqrt{3} + 3 + 3 \sqrt{11}$.
-D. $2 \sqrt{- \dfrac{27 \sqrt{33}}{2} - \dfrac{27 \sqrt{3}}{2} + \dfrac{45 \sqrt{11}}{4} + 93}$.",A,A. $\sqrt{- \dfrac{27 \sqrt{33}}{2} - \dfrac{27 \sqrt{3}}{2} + \dfrac{45 \sqrt{11}}{4} + 93}$.,"{""p"": ""-2*sqrt(3)"", ""q"": ""3*sqrt(11)""}","Cho số phức $z$ thoả mãn $3(\overline{z}-i)-(2+3i)z = - 2 \sqrt{3}+3 \sqrt{11}i$. Mô-đun của $z$ bằng
+D. $2 \sqrt{93 + \dfrac{45 \sqrt{11}}{4} - \dfrac{27 \sqrt{33}}{2} - \dfrac{27 \sqrt{3}}{2}}$.",A,A. $\sqrt{93 + \dfrac{45 \sqrt{11}}{4} - \dfrac{27 \sqrt{33}}{2} - \dfrac{27 \sqrt{3}}{2}}$.,"{""p"": ""-2*sqrt(3)"", ""q"": ""3*sqrt(11)""}","Cho số phức $z$ thoả mãn $3(\overline{z}-i)-(2+3i)z = - 2 \sqrt{3}+3 \sqrt{11}i$. Mô-đun của $z$ bằng
 
 A. $\sqrt{- \dfrac{27 \sqrt{33}}{2} - \dfrac{27 \sqrt{3}}{2} + \dfrac{45 \sqrt{11}}{4} + 93}$.
 B. $- \dfrac{27 \sqrt{33}}{2} - \dfrac{27 \sqrt{3}}{2} + \dfrac{45 \sqrt{11}}{4} + 93$.
@@ -17658,8 +17658,8 @@ D. $2 \sqrt{\dfrac{1637}{8} - 9 \sqrt{6}}$."
 
 A. $- \dfrac{27 \sqrt{5}}{2} - \dfrac{9 \sqrt{30}}{2} + \dfrac{15 \sqrt{6}}{4} + \dfrac{415}{8}$.
 B. $-3 - \sqrt{6} + 4 \sqrt{5}$.
-C. $\sqrt{- \dfrac{27 \sqrt{5}}{2} - \dfrac{9 \sqrt{30}}{2} + \dfrac{15 \sqrt{6}}{4} + \dfrac{415}{8}}$.
-D. $2 \sqrt{- \dfrac{27 \sqrt{5}}{2} - \dfrac{9 \sqrt{30}}{2} + \dfrac{15 \sqrt{6}}{4} + \dfrac{415}{8}}$.",C,C. $\sqrt{- \dfrac{27 \sqrt{5}}{2} - \dfrac{9 \sqrt{30}}{2} + \dfrac{15 \sqrt{6}}{4} + \dfrac{415}{8}}$.,"{""p"": ""-2*sqrt(5)"", ""q"": ""sqrt(6)""}","Cho số phức $z$ thoả mãn $3(\overline{z}-i)-(2+3i)z = - 2 \sqrt{5}+\sqrt{6}i$. Mô-đun của $z$ bằng
+C. $\sqrt{\dfrac{415}{8} + \dfrac{15 \sqrt{6}}{4} - \dfrac{27 \sqrt{5}}{2} - \dfrac{9 \sqrt{30}}{2}}$.
+D. $2 \sqrt{\dfrac{415}{8} + \dfrac{15 \sqrt{6}}{4} - \dfrac{27 \sqrt{5}}{2} - \dfrac{9 \sqrt{30}}{2}}$.",C,C. $\sqrt{\dfrac{415}{8} + \dfrac{15 \sqrt{6}}{4} - \dfrac{27 \sqrt{5}}{2} - \dfrac{9 \sqrt{30}}{2}}$.,"{""p"": ""-2*sqrt(5)"", ""q"": ""sqrt(6)""}","Cho số phức $z$ thoả mãn $3(\overline{z}-i)-(2+3i)z = - 2 \sqrt{5}+\sqrt{6}i$. Mô-đun của $z$ bằng
 
 A. $- \dfrac{27 \sqrt{5}}{2} - \dfrac{9 \sqrt{30}}{2} + \dfrac{15 \sqrt{6}}{4} + \dfrac{415}{8}$.
 B. $-3 - \sqrt{6} + 4 \sqrt{5}$.
@@ -17711,10 +17711,10 @@ C. $7 - \sqrt{11}$.
 D. $2 \sqrt{\dfrac{255}{8} - \dfrac{15 \sqrt{11}}{2}}$."
 1611,D32,D32,81,45,Vấn đề 6. Giải phương trình để tìm số phức z,"Cho phương trình chứa cả z và z̄, giải tìm z rồi tính môđun |z|",VD,Số vô tỉ,"Cho số phức $z$, biết rằng $3(\overline{z}-i)-(2+3i)z = - 2 \sqrt{3}+\sqrt{6}i$. Mô-đun của $z$ bằng bao nhiêu?
 
-A. $\sqrt{- \dfrac{27 \sqrt{3}}{2} - \dfrac{27 \sqrt{2}}{2} + \dfrac{15 \sqrt{6}}{4} + \dfrac{279}{8}}$.
+A. $\sqrt{\dfrac{279}{8} + \dfrac{15 \sqrt{6}}{4} - \dfrac{27 \sqrt{3}}{2} - \dfrac{27 \sqrt{2}}{2}}$.
 B. $- \dfrac{27 \sqrt{3}}{2} - \dfrac{27 \sqrt{2}}{2} + \dfrac{15 \sqrt{6}}{4} + \dfrac{279}{8}$.
 C. $-3 - \sqrt{6} + 4 \sqrt{3}$.
-D. $2 \sqrt{- \dfrac{27 \sqrt{3}}{2} - \dfrac{27 \sqrt{2}}{2} + \dfrac{15 \sqrt{6}}{4} + \dfrac{279}{8}}$.",A,A. $\sqrt{- \dfrac{27 \sqrt{3}}{2} - \dfrac{27 \sqrt{2}}{2} + \dfrac{15 \sqrt{6}}{4} + \dfrac{279}{8}}$.,"{""p"": ""-2*sqrt(3)"", ""q"": ""sqrt(6)""}","Cho số phức $z$ thoả mãn $3(\overline{z}-i)-(2+3i)z = - 2 \sqrt{3}+\sqrt{6}i$. Mô-đun của $z$ bằng
+D. $2 \sqrt{\dfrac{279}{8} + \dfrac{15 \sqrt{6}}{4} - \dfrac{27 \sqrt{3}}{2} - \dfrac{27 \sqrt{2}}{2}}$.",A,A. $\sqrt{\dfrac{279}{8} + \dfrac{15 \sqrt{6}}{4} - \dfrac{27 \sqrt{3}}{2} - \dfrac{27 \sqrt{2}}{2}}$.,"{""p"": ""-2*sqrt(3)"", ""q"": ""sqrt(6)""}","Cho số phức $z$ thoả mãn $3(\overline{z}-i)-(2+3i)z = - 2 \sqrt{3}+\sqrt{6}i$. Mô-đun của $z$ bằng
 
 A. $\sqrt{- \dfrac{27 \sqrt{3}}{2} - \dfrac{27 \sqrt{2}}{2} + \dfrac{15 \sqrt{6}}{4} + \dfrac{279}{8}}$.
 B. $- \dfrac{27 \sqrt{3}}{2} - \dfrac{27 \sqrt{2}}{2} + \dfrac{15 \sqrt{6}}{4} + \dfrac{279}{8}$.
@@ -17766,10 +17766,10 @@ C. $4 \sqrt{2} + 11$.
 D. $2 \sqrt{48 \sqrt{2} + \dfrac{165}{2}}$."
 1616,D32,D32,86,45,Vấn đề 6. Giải phương trình để tìm số phức z,"Cho phương trình chứa cả z và z̄, giải tìm z rồi tính môđun |z|",VD,Số vô tỉ,"Hãy giải bài toán sau. Mô-đun của số phức $z$ thỏa mãn $3(\overline{z}-i)-(2+3i)z = - 2 \sqrt{3}-\sqrt{11}i$ bằng bao nhiêu? Chọn một đáp án.
 
-A. $\sqrt{- \dfrac{27 \sqrt{3}}{2} - \dfrac{15 \sqrt{11}}{4} + \dfrac{9 \sqrt{33}}{2} + 38}$.
+A. $\sqrt{38 + \dfrac{9 \sqrt{33}}{2} - \dfrac{27 \sqrt{3}}{2} - \dfrac{15 \sqrt{11}}{4}}$.
 B. $- \dfrac{27 \sqrt{3}}{2} - \dfrac{15 \sqrt{11}}{4} + \dfrac{9 \sqrt{33}}{2} + 38$.
 C. $-3 + \sqrt{11} + 4 \sqrt{3}$.
-D. $2 \sqrt{- \dfrac{27 \sqrt{3}}{2} - \dfrac{15 \sqrt{11}}{4} + \dfrac{9 \sqrt{33}}{2} + 38}$.",A,A. $\sqrt{- \dfrac{27 \sqrt{3}}{2} - \dfrac{15 \sqrt{11}}{4} + \dfrac{9 \sqrt{33}}{2} + 38}$.,"{""p"": ""-2*sqrt(3)"", ""q"": ""-sqrt(11)""}","Cho số phức $z$ thoả mãn $3(\overline{z}-i)-(2+3i)z = - 2 \sqrt{3}-\sqrt{11}i$. Mô-đun của $z$ bằng
+D. $2 \sqrt{38 + \dfrac{9 \sqrt{33}}{2} - \dfrac{27 \sqrt{3}}{2} - \dfrac{15 \sqrt{11}}{4}}$.",A,A. $\sqrt{38 + \dfrac{9 \sqrt{33}}{2} - \dfrac{27 \sqrt{3}}{2} - \dfrac{15 \sqrt{11}}{4}}$.,"{""p"": ""-2*sqrt(3)"", ""q"": ""-sqrt(11)""}","Cho số phức $z$ thoả mãn $3(\overline{z}-i)-(2+3i)z = - 2 \sqrt{3}-\sqrt{11}i$. Mô-đun của $z$ bằng
 
 A. $\sqrt{- \dfrac{27 \sqrt{3}}{2} - \dfrac{15 \sqrt{11}}{4} + \dfrac{9 \sqrt{33}}{2} + 38}$.
 B. $- \dfrac{27 \sqrt{3}}{2} - \dfrac{15 \sqrt{11}}{4} + \dfrac{9 \sqrt{33}}{2} + 38$.
@@ -17779,8 +17779,8 @@ D. $2 \sqrt{- \dfrac{27 \sqrt{3}}{2} - \dfrac{15 \sqrt{11}}{4} + \dfrac{9 \sqrt{
 
 A. $- 36 \sqrt{70} - 15 \sqrt{7} + 27 \sqrt{10} + \dfrac{3325}{8}$.
 B. $- 4 \sqrt{7} + 3 + 8 \sqrt{10}$.
-C. $\sqrt{- 36 \sqrt{70} - 15 \sqrt{7} + 27 \sqrt{10} + \dfrac{3325}{8}}$.
-D. $2 \sqrt{- 36 \sqrt{70} - 15 \sqrt{7} + 27 \sqrt{10} + \dfrac{3325}{8}}$.",C,C. $\sqrt{- 36 \sqrt{70} - 15 \sqrt{7} + 27 \sqrt{10} + \dfrac{3325}{8}}$.,"{""p"": ""4*sqrt(10)"", ""q"": ""-4*sqrt(7)""}","Cho số phức $z$ thoả mãn $3(\overline{z}-i)-(2+3i)z = 4 \sqrt{10}-4 \sqrt{7}i$. Mô-đun của $z$ bằng
+C. $\sqrt{\dfrac{3325}{8} + 27 \sqrt{10} - 36 \sqrt{70} - 15 \sqrt{7}}$.
+D. $2 \sqrt{\dfrac{3325}{8} + 27 \sqrt{10} - 36 \sqrt{70} - 15 \sqrt{7}}$.",C,C. $\sqrt{\dfrac{3325}{8} + 27 \sqrt{10} - 36 \sqrt{70} - 15 \sqrt{7}}$.,"{""p"": ""4*sqrt(10)"", ""q"": ""-4*sqrt(7)""}","Cho số phức $z$ thoả mãn $3(\overline{z}-i)-(2+3i)z = 4 \sqrt{10}-4 \sqrt{7}i$. Mô-đun của $z$ bằng
 
 A. $- 36 \sqrt{70} - 15 \sqrt{7} + 27 \sqrt{10} + \dfrac{3325}{8}$.
 B. $- 4 \sqrt{7} + 3 + 8 \sqrt{10}$.
@@ -18149,7 +18149,7 @@ A. $\dfrac{245}{1152}$.
 B. $\dfrac{7 \sqrt{10}}{96}$.
 C. $\dfrac{7 \sqrt{10}}{24}$.
 D. $\dfrac{7 \sqrt{10}}{48}$."
-1651,D44,D44,31,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Câu hỏi: Giả sử số phức $z$ thoả mãn $|z|=\dfrac{5}{3}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của các số phức $w=\dfrac{- \dfrac{19}{3}+iz}{1+z}$ là một đường tròn. Hãy tìm bán kính của đường tròn đó. Chọn đáp án đúng.
+1651,D44,D44,31,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Câu hỏi: Giả sử số phức $z$ thoả mãn $|z|=\dfrac{5}{3}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của các số phức $w=\dfrac{-19+3iz}{3(1+z)}$ là một đường tròn. Hãy tìm bán kính của đường tròn đó. Chọn đáp án đúng.
 
 A. $\dfrac{4625}{128}$.
 B. $\dfrac{5 \sqrt{370}}{16}$.
@@ -18160,7 +18160,7 @@ A. $\dfrac{4625}{128}$.
 B. $\dfrac{5 \sqrt{370}}{16}$.
 C. $\dfrac{5 \sqrt{370}}{32}$.
 D. $\dfrac{5 \sqrt{370}}{8}$."
-1652,D44,D44,32,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Câu hỏi: Biết rằng $z$ là số phức có $|z|=\dfrac{1}{2}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\dfrac{- \dfrac{2}{3}+iz}{1+z}$ là một đường tròn. Hãy tính bán kính của đường tròn đó. Chọn đáp án đúng.
+1652,D44,D44,32,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Câu hỏi: Biết rằng $z$ là số phức có $|z|=\dfrac{1}{2}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\dfrac{-2+3iz}{3(1+z)}$ là một đường tròn. Hãy tính bán kính của đường tròn đó. Chọn đáp án đúng.
 
 A. $\dfrac{52}{81}$.
 B. $\dfrac{\sqrt{13}}{9}$.
@@ -18171,7 +18171,7 @@ A. $\dfrac{52}{81}$.
 B. $\dfrac{\sqrt{13}}{9}$.
 C. $\dfrac{4 \sqrt{13}}{9}$.
 D. $\dfrac{2 \sqrt{13}}{9}$."
-1653,D44,D44,33,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Bài toán: Khi số phức $z$ thỏa $|z|=\dfrac{11}{2}$, tập hợp điểm biểu diễn các số phức $w=\dfrac{\dfrac{22}{5}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Hãy tính bán kính của đường tròn đó.
+1653,D44,D44,33,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Bài toán: Khi số phức $z$ thỏa $|z|=\dfrac{11}{2}$, tập hợp điểm biểu diễn các số phức $w=\dfrac{22+5iz}{5(1+z)}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Hãy tính bán kính của đường tròn đó.
 
 A. $\dfrac{22 \sqrt{509}}{585}$.
 B. $\dfrac{246356}{342225}$.
@@ -18182,7 +18182,7 @@ A. $\dfrac{22 \sqrt{509}}{585}$.
 B. $\dfrac{246356}{342225}$.
 C. $\dfrac{11 \sqrt{509}}{585}$.
 D. $\dfrac{44 \sqrt{509}}{585}$."
-1654,D44,D44,34,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Cho số phức $z$ thỏa mãn $|z|=\dfrac{13}{2}$. Tập hợp các điểm biểu diễn số phức $w=\dfrac{\dfrac{11}{3}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Tính bán kính của đường tròn đó.
+1654,D44,D44,34,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Cho số phức $z$ thỏa mãn $|z|=\dfrac{13}{2}$. Tập hợp các điểm biểu diễn số phức $w=\dfrac{11+3iz}{3(1+z)}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Tính bán kính của đường tròn đó.
 
 A. $\dfrac{17576}{49005}$.
 B. $\dfrac{13 \sqrt{130}}{495}$.
@@ -18193,7 +18193,7 @@ A. $\dfrac{17576}{49005}$.
 B. $\dfrac{13 \sqrt{130}}{495}$.
 C. $\dfrac{52 \sqrt{130}}{495}$.
 D. $\dfrac{26 \sqrt{130}}{495}$."
-1655,D44,D44,35,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Bài toán: Với số phức $z$ thoả mãn $|z|=\dfrac{33}{4}$, tập hợp điểm biểu diễn của số phức $w=\dfrac{- \dfrac{11}{4}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Hãy tính bán kính của đường tròn đó.
+1655,D44,D44,35,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Bài toán: Với số phức $z$ thoả mãn $|z|=\dfrac{33}{4}$, tập hợp điểm biểu diễn của số phức $w=\dfrac{-11+4iz}{4(1+z)}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Hãy tính bán kính của đường tròn đó.
 
 A. $\dfrac{149193}{1151329}$.
 B. $\dfrac{33 \sqrt{137}}{1073}$.
@@ -18204,7 +18204,7 @@ A. $\dfrac{149193}{1151329}$.
 B. $\dfrac{33 \sqrt{137}}{1073}$.
 C. $\dfrac{33 \sqrt{137}}{2146}$.
 D. $\dfrac{66 \sqrt{137}}{1073}$."
-1656,D44,D44,36,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Đề bài: Số phức $z$ thỏa mãn $|z|=\dfrac{17}{2}$; số phức $w=\dfrac{\dfrac{23}{3}+iz}{1+z}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của số phức $w$ là một đường tròn. Yêu cầu: Tính bán kính của đường tròn đó.
+1656,D44,D44,36,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Đề bài: Số phức $z$ thỏa mãn $|z|=\dfrac{17}{2}$; số phức $w=\dfrac{23+3iz}{3(1+z)}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của số phức $w$ là một đường tròn. Yêu cầu: Tính bán kính của đường tròn đó.
 
 A. $\dfrac{621928}{731025}$.
 B. $\dfrac{17 \sqrt{538}}{855}$.
@@ -18215,7 +18215,7 @@ A. $\dfrac{621928}{731025}$.
 B. $\dfrac{17 \sqrt{538}}{855}$.
 C. $\dfrac{34 \sqrt{538}}{855}$.
 D. $\dfrac{68 \sqrt{538}}{855}$."
-1657,D44,D44,37,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Xét số phức $z$ thoả mãn $|z|=\dfrac{19}{5}$. Trong mặt phẳng tọa độ $Oxy$, tập hợp các điểm biểu diễn của số phức $w=\dfrac{- \dfrac{13}{3}+iz}{1+z}$ là một đường tròn. Hãy tính bán kính của đường tròn đó.
+1657,D44,D44,37,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Xét số phức $z$ thoả mãn $|z|=\dfrac{19}{5}$. Trong mặt phẳng tọa độ $Oxy$, tập hợp các điểm biểu diễn của số phức $w=\dfrac{-13+3iz}{3(1+z)}$ là một đường tròn. Hãy tính bán kính của đường tròn đó.
 
 A. $\dfrac{803225}{508032}$.
 B. $\dfrac{95 \sqrt{178}}{1008}$.
@@ -18226,7 +18226,7 @@ A. $\dfrac{803225}{508032}$.
 B. $\dfrac{95 \sqrt{178}}{1008}$.
 C. $\dfrac{95 \sqrt{178}}{2016}$.
 D. $\dfrac{95 \sqrt{178}}{504}$."
-1658,D44,D44,38,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Số phức $z$ thoả mãn $|z|=\dfrac{10}{3}$. Khi đó, trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của các số phức $w=\dfrac{\dfrac{20}{3}+iz}{1+z}$ là một đường tròn. Tính bán kính của đường tròn đó.
+1658,D44,D44,38,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Số phức $z$ thoả mãn $|z|=\dfrac{10}{3}$. Khi đó, trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của các số phức $w=\dfrac{20+3iz}{3(1+z)}$ là một đường tròn. Tính bán kính của đường tròn đó.
 
 A. $\dfrac{40900}{8281}$.
 B. $\dfrac{5 \sqrt{409}}{91}$.
@@ -18237,7 +18237,7 @@ A. $\dfrac{40900}{8281}$.
 B. $\dfrac{5 \sqrt{409}}{91}$.
 C. $\dfrac{10 \sqrt{409}}{91}$.
 D. $\dfrac{20 \sqrt{409}}{91}$."
-1659,D44,D44,39,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Trong mặt phẳng tọa độ $Oxy$, đường tròn (C) là tập hợp điểm biểu diễn các số phức $w=\dfrac{\dfrac{13}{2}+iz}{1+z}$, với $z$ là số phức thoả mãn $|z|=\dfrac{42}{5}$. Bán kính của (C) bằng bao nhiêu? Chọn một đáp án.
+1659,D44,D44,39,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Trong mặt phẳng tọa độ $Oxy$, đường tròn (C) là tập hợp điểm biểu diễn các số phức $w=\dfrac{13+2iz}{2(1+z)}$, với $z$ là số phức thoả mãn $|z|=\dfrac{42}{5}$. Bán kính của (C) bằng bao nhiêu? Chọn một đáp án.
 
 A. $\dfrac{105 \sqrt{173}}{1739}$.
 B. $\dfrac{1907325}{3024121}$.
@@ -18248,7 +18248,7 @@ A. $\dfrac{105 \sqrt{173}}{1739}$.
 B. $\dfrac{1907325}{3024121}$.
 C. $\dfrac{105 \sqrt{173}}{3478}$.
 D. $\dfrac{210 \sqrt{173}}{1739}$."
-1660,D44,D44,40,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Câu hỏi: Giả sử số phức $z$ sao cho $|z|=\dfrac{7}{2}$. Tập hợp điểm biểu diễn các số phức $w=\dfrac{\dfrac{26}{3}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Hãy tìm bán kính của đường tròn đó.
+1660,D44,D44,40,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Câu hỏi: Giả sử số phức $z$ sao cho $|z|=\dfrac{7}{2}$. Tập hợp điểm biểu diễn các số phức $w=\dfrac{26+3iz}{3(1+z)}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Hãy tìm bán kính của đường tròn đó.
 
 A. $\dfrac{26852}{3645}$.
 B. $\dfrac{14 \sqrt{685}}{135}$.
@@ -18259,7 +18259,7 @@ A. $\dfrac{26852}{3645}$.
 B. $\dfrac{14 \sqrt{685}}{135}$.
 C. $\dfrac{7 \sqrt{685}}{135}$.
 D. $\dfrac{28 \sqrt{685}}{135}$."
-1661,D44,D44,41,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Đề bài: Tính bán kính của đường tròn là tập hợp điểm biểu diễn của số phức $w=\dfrac{- \dfrac{7}{2}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, với $z$ là số phức thỏa mãn $|z|=\dfrac{5}{2}$.
+1661,D44,D44,41,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Đề bài: Tính bán kính của đường tròn là tập hợp điểm biểu diễn của số phức $w=\dfrac{-7+2iz}{2(1+z)}$ trên mặt phẳng tọa độ $Oxy$, với $z$ là số phức thỏa mãn $|z|=\dfrac{5}{2}$.
 
 A. $\dfrac{1325}{441}$.
 B. $\dfrac{5 \sqrt{53}}{21}$.
@@ -18270,7 +18270,7 @@ A. $\dfrac{1325}{441}$.
 B. $\dfrac{5 \sqrt{53}}{21}$.
 C. $\dfrac{5 \sqrt{53}}{42}$.
 D. $\dfrac{10 \sqrt{53}}{21}$."
-1662,D44,D44,42,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $w=\dfrac{\dfrac{22}{3}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, biết số phức $z$ thoả mãn $|z|=\dfrac{23}{5}$.
+1662,D44,D44,42,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $w=\dfrac{22+3iz}{3(1+z)}$ trên mặt phẳng tọa độ $Oxy$, biết số phức $z$ thoả mãn $|z|=\dfrac{23}{5}$.
 
 A. $\dfrac{6519925}{2286144}$.
 B. $\dfrac{115 \sqrt{493}}{1512}$.
@@ -18281,7 +18281,7 @@ A. $\dfrac{6519925}{2286144}$.
 B. $\dfrac{115 \sqrt{493}}{1512}$.
 C. $\dfrac{115 \sqrt{493}}{3024}$.
 D. $\dfrac{115 \sqrt{493}}{756}$."
-1663,D44,D44,43,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Cho số phức $z$ thỏa $|z|=\dfrac{8}{3}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của số phức $w=\dfrac{- \dfrac{5}{2}+iz}{1+z}$ là một đường tròn. Hãy tìm bán kính của đường tròn đó. Chọn một đáp án.
+1663,D44,D44,43,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Cho số phức $z$ thỏa $|z|=\dfrac{8}{3}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của số phức $w=\dfrac{-5+2iz}{2(1+z)}$ là một đường tròn. Hãy tìm bán kính của đường tròn đó. Chọn một đáp án.
 
 A. $\dfrac{4176}{3025}$.
 B. $\dfrac{12 \sqrt{29}}{55}$.
@@ -18292,7 +18292,7 @@ A. $\dfrac{4176}{3025}$.
 B. $\dfrac{12 \sqrt{29}}{55}$.
 C. $\dfrac{6 \sqrt{29}}{55}$.
 D. $\dfrac{24 \sqrt{29}}{55}$."
-1664,D44,D44,44,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Biết rằng $z$ là số phức có $|z|=\dfrac{16}{3}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của các số phức $w=\dfrac{\dfrac{11}{5}+iz}{1+z}$ là một đường tròn. Đường tròn đó có bán kính bằng bao nhiêu? Hãy chọn đáp án đúng.
+1664,D44,D44,44,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Biết rằng $z$ là số phức có $|z|=\dfrac{16}{3}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của các số phức $w=\dfrac{11+5iz}{5(1+z)}$ là một đường tròn. Đường tròn đó có bán kính bằng bao nhiêu? Hãy chọn đáp án đúng.
 
 A. $\dfrac{336384}{1525225}$.
 B. $\dfrac{24 \sqrt{146}}{1235}$.
@@ -18303,7 +18303,7 @@ A. $\dfrac{336384}{1525225}$.
 B. $\dfrac{24 \sqrt{146}}{1235}$.
 C. $\dfrac{48 \sqrt{146}}{1235}$.
 D. $\dfrac{96 \sqrt{146}}{1235}$."
-1665,D44,D44,45,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Đề bài: Cho $z$ là số phức có $|z|=\dfrac{37}{5}$, và đặt $w=\dfrac{\dfrac{13}{2}+iz}{1+z}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của số phức $w$ là một đường tròn. Hãy tính bán kính của đường tròn đó.
+1665,D44,D44,45,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Đề bài: Cho $z$ là số phức có $|z|=\dfrac{37}{5}$, và đặt $w=\dfrac{13+2iz}{2(1+z)}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của số phức $w$ là một đường tròn. Hãy tính bán kính của đường tròn đó.
 
 A. $\dfrac{5920925}{7225344}$.
 B. $\dfrac{185 \sqrt{173}}{5376}$.
@@ -18314,7 +18314,7 @@ A. $\dfrac{5920925}{7225344}$.
 B. $\dfrac{185 \sqrt{173}}{5376}$.
 C. $\dfrac{185 \sqrt{173}}{1344}$.
 D. $\dfrac{185 \sqrt{173}}{2688}$."
-1666,D44,D44,46,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Cho số phức $z$ thoả mãn $|z|=\dfrac{21}{5}$. Tập hợp các điểm biểu diễn số phức $w=\dfrac{\dfrac{1}{2}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Bán kính của đường tròn đó bằng bao nhiêu? Chọn một đáp án.
+1666,D44,D44,46,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Cho số phức $z$ thoả mãn $|z|=\dfrac{21}{5}$. Tập hợp các điểm biểu diễn số phức $w=\dfrac{1+2iz}{2(1+z)}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Bán kính của đường tròn đó bằng bao nhiêu? Chọn một đáp án.
 
 A. $\dfrac{105 \sqrt{5}}{832}$.
 B. $\dfrac{55125}{692224}$.
@@ -18325,7 +18325,7 @@ A. $\dfrac{105 \sqrt{5}}{832}$.
 B. $\dfrac{55125}{692224}$.
 C. $\dfrac{105 \sqrt{5}}{1664}$.
 D. $\dfrac{105 \sqrt{5}}{416}$."
-1667,D44,D44,47,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Với số phức $z$ thoả mãn $|z|=\dfrac{13}{4}$, tập hợp điểm biểu diễn các số phức $w=\dfrac{- \dfrac{1}{2}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Bán kính của đường tròn đó là bao nhiêu? Chọn đáp án đúng.
+1667,D44,D44,47,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Với số phức $z$ thoả mãn $|z|=\dfrac{13}{4}$, tập hợp điểm biểu diễn các số phức $w=\dfrac{-1+2iz}{2(1+z)}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Bán kính của đường tròn đó là bao nhiêu? Chọn đáp án đúng.
 
 A. $\dfrac{3380}{23409}$.
 B. $\dfrac{13 \sqrt{5}}{153}$.
@@ -18336,7 +18336,7 @@ A. $\dfrac{3380}{23409}$.
 B. $\dfrac{13 \sqrt{5}}{153}$.
 C. $\dfrac{52 \sqrt{5}}{153}$.
 D. $\dfrac{26 \sqrt{5}}{153}$."
-1668,D44,D44,48,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Khi số phức $z$ thỏa $|z|=\dfrac{27}{4}$, tập hợp điểm biểu diễn các số phức $w=\dfrac{- \dfrac{17}{3}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Tính bán kính của đường tròn đó.
+1668,D44,D44,48,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Khi số phức $z$ thỏa $|z|=\dfrac{27}{4}$, tập hợp điểm biểu diễn các số phức $w=\dfrac{-17+3iz}{3(1+z)}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Tính bán kính của đường tròn đó.
 
 A. $\dfrac{36 \sqrt{298}}{713}$.
 B. $\dfrac{386208}{508369}$.
@@ -18347,7 +18347,7 @@ A. $\dfrac{36 \sqrt{298}}{713}$.
 B. $\dfrac{386208}{508369}$.
 C. $\dfrac{18 \sqrt{298}}{713}$.
 D. $\dfrac{72 \sqrt{298}}{713}$."
-1669,D44,D44,49,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Giả sử số phức $z$ thoả mãn $|z|=\dfrac{9}{4}$. Trong mặt phẳng tọa độ $Oxy$, tập hợp các điểm biểu diễn của số phức $w=\dfrac{- \dfrac{17}{2}+iz}{1+z}$ là một đường tròn. Bán kính của đường tròn đó bằng bao nhiêu?
+1669,D44,D44,49,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Giả sử số phức $z$ thoả mãn $|z|=\dfrac{9}{4}$. Trong mặt phẳng tọa độ $Oxy$, tập hợp các điểm biểu diễn của số phức $w=\dfrac{-17+2iz}{2(1+z)}$ là một đường tròn. Bán kính của đường tròn đó bằng bao nhiêu?
 
 A. $\dfrac{94932}{4225}$.
 B. $\dfrac{9 \sqrt{293}}{65}$.
@@ -18358,7 +18358,7 @@ A. $\dfrac{94932}{4225}$.
 B. $\dfrac{9 \sqrt{293}}{65}$.
 C. $\dfrac{18 \sqrt{293}}{65}$.
 D. $\dfrac{36 \sqrt{293}}{65}$."
-1670,D44,D44,50,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Số phức $z$ thỏa $|z|=\dfrac{15}{2}$. Khi đó, trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\dfrac{- \dfrac{9}{4}+iz}{1+z}$ là một đường tròn. Tính bán kính của đường tròn đó.
+1670,D44,D44,50,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Số phức $z$ thỏa $|z|=\dfrac{15}{2}$. Khi đó, trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\dfrac{-9+4iz}{4(1+z)}$ là một đường tròn. Tính bán kính của đường tròn đó.
 
 A. $\dfrac{15 \sqrt{97}}{442}$.
 B. $\dfrac{21825}{195364}$.
@@ -18369,7 +18369,7 @@ A. $\dfrac{15 \sqrt{97}}{442}$.
 B. $\dfrac{21825}{195364}$.
 C. $\dfrac{15 \sqrt{97}}{884}$.
 D. $\dfrac{15 \sqrt{97}}{221}$."
-1671,D44,D44,51,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Đề bài: Số phức $z$ thỏa $|z|=\dfrac{1}{3}$; số phức $w=\dfrac{\dfrac{9}{2}+iz}{1+z}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của số phức $w$ là một đường tròn. Yêu cầu: Tính bán kính của đường tròn đó. Chọn đáp án đúng.
+1671,D44,D44,51,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Đề bài: Số phức $z$ thỏa $|z|=\dfrac{1}{3}$; số phức $w=\dfrac{9+2iz}{2(1+z)}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của số phức $w$ là một đường tròn. Yêu cầu: Tính bán kính của đường tròn đó. Chọn đáp án đúng.
 
 A. $\dfrac{3 \sqrt{85}}{16}$.
 B. $\dfrac{765}{256}$.
@@ -18380,7 +18380,7 @@ A. $\dfrac{3 \sqrt{85}}{16}$.
 B. $\dfrac{765}{256}$.
 C. $\dfrac{3 \sqrt{85}}{32}$.
 D. $\dfrac{3 \sqrt{85}}{8}$."
-1672,D44,D44,52,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Giả sử số phức $z$ sao cho $|z|=\dfrac{19}{3}$. Tập hợp điểm biểu diễn của các số phức $w=\dfrac{\dfrac{3}{2}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Hãy tìm bán kính của đường tròn đó.
+1672,D44,D44,52,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Giả sử số phức $z$ sao cho $|z|=\dfrac{19}{3}$. Tập hợp điểm biểu diễn của các số phức $w=\dfrac{3+2iz}{2(1+z)}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Hãy tìm bán kính của đường tròn đó.
 
 A. $\dfrac{57 \sqrt{13}}{704}$.
 B. $\dfrac{42237}{495616}$.
@@ -18391,7 +18391,7 @@ A. $\dfrac{57 \sqrt{13}}{704}$.
 B. $\dfrac{42237}{495616}$.
 C. $\dfrac{57 \sqrt{13}}{1408}$.
 D. $\dfrac{57 \sqrt{13}}{352}$."
-1673,D44,D44,53,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Hãy tính bán kính của đường tròn là tập hợp điểm biểu diễn các số phức $w=\dfrac{\dfrac{25}{4}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, với $z$ là số phức thỏa mãn $|z|=\dfrac{26}{3}$. Chọn một đáp án.
+1673,D44,D44,53,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Hãy tính bán kính của đường tròn là tập hợp điểm biểu diễn các số phức $w=\dfrac{25+4iz}{4(1+z)}$ trên mặt phẳng tọa độ $Oxy$, với $z$ là số phức thỏa mãn $|z|=\dfrac{26}{3}$. Chọn một đáp án.
 
 A. $\dfrac{974961}{1779556}$.
 B. $\dfrac{39 \sqrt{641}}{2668}$.
@@ -18402,7 +18402,7 @@ A. $\dfrac{974961}{1779556}$.
 B. $\dfrac{39 \sqrt{641}}{2668}$.
 C. $\dfrac{39 \sqrt{641}}{1334}$.
 D. $\dfrac{39 \sqrt{641}}{667}$."
-1674,D44,D44,54,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Trong mặt phẳng tọa độ $Oxy$, đường tròn (C) là tập hợp điểm biểu diễn các số phức $w=\dfrac{- \dfrac{16}{5}+iz}{1+z}$, với $z$ là số phức thoả mãn $|z|=\dfrac{27}{4}$. Hãy tính bán kính của (C). Chọn một đáp án.
+1674,D44,D44,54,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Trong mặt phẳng tọa độ $Oxy$, đường tròn (C) là tập hợp điểm biểu diễn các số phức $w=\dfrac{-16+5iz}{5(1+z)}$, với $z$ là số phức thoả mãn $|z|=\dfrac{27}{4}$. Hãy tính bán kính của (C). Chọn một đáp án.
 
 A. $\dfrac{3277584}{12709225}$.
 B. $\dfrac{54 \sqrt{281}}{3565}$.
@@ -18413,7 +18413,7 @@ A. $\dfrac{3277584}{12709225}$.
 B. $\dfrac{54 \sqrt{281}}{3565}$.
 C. $\dfrac{108 \sqrt{281}}{3565}$.
 D. $\dfrac{216 \sqrt{281}}{3565}$."
-1675,D44,D44,55,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Cho số phức $z$ thỏa mãn $|z|=\dfrac{25}{4}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\dfrac{\dfrac{9}{2}+iz}{1+z}$ là một đường tròn. Bán kính của đường tròn đó là bao nhiêu? Chọn đáp án đúng.
+1675,D44,D44,55,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Cho số phức $z$ thỏa mãn $|z|=\dfrac{25}{4}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\dfrac{9+2iz}{2(1+z)}$ là một đường tròn. Bán kính của đường tròn đó là bao nhiêu? Chọn đáp án đúng.
 
 A. $\dfrac{212500}{370881}$.
 B. $\dfrac{25 \sqrt{85}}{609}$.
@@ -18424,7 +18424,7 @@ A. $\dfrac{212500}{370881}$.
 B. $\dfrac{25 \sqrt{85}}{609}$.
 C. $\dfrac{100 \sqrt{85}}{609}$.
 D. $\dfrac{50 \sqrt{85}}{609}$."
-1676,D44,D44,56,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Biết rằng $z$ là số phức có $|z|=\dfrac{10}{3}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của số phức $w=\dfrac{- \dfrac{21}{5}+iz}{1+z}$ là một đường tròn. Đường tròn đó có bán kính bằng bao nhiêu? Chọn một đáp án.
+1676,D44,D44,56,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Biết rằng $z$ là số phức có $|z|=\dfrac{10}{3}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của số phức $w=\dfrac{-21+5iz}{5(1+z)}$ là một đường tròn. Đường tròn đó có bán kính bằng bao nhiêu? Chọn một đáp án.
 
 A. $\dfrac{16776}{8281}$.
 B. $\dfrac{6 \sqrt{466}}{91}$.
@@ -18435,7 +18435,7 @@ A. $\dfrac{16776}{8281}$.
 B. $\dfrac{6 \sqrt{466}}{91}$.
 C. $\dfrac{3 \sqrt{466}}{91}$.
 D. $\dfrac{12 \sqrt{466}}{91}$."
-1677,D44,D44,57,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $w=\dfrac{- \dfrac{5}{2}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$, biết số phức $z$ thỏa $|z|=\dfrac{2}{3}$. Chọn đáp án đúng.
+1677,D44,D44,57,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Hãy tìm bán kính của đường tròn biểu diễn tập hợp các số phức $w=\dfrac{-5+2iz}{2(1+z)}$ trên mặt phẳng tọa độ $Oxy$, biết số phức $z$ thỏa $|z|=\dfrac{2}{3}$. Chọn đáp án đúng.
 
 A. $\dfrac{261}{25}$.
 B. $\dfrac{3 \sqrt{29}}{10}$.
@@ -18446,7 +18446,7 @@ A. $\dfrac{261}{25}$.
 B. $\dfrac{3 \sqrt{29}}{10}$.
 C. $\dfrac{6 \sqrt{29}}{5}$.
 D. $\dfrac{3 \sqrt{29}}{5}$."
-1678,D44,D44,58,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Cho số phức $z$ thoả mãn $|z|=\dfrac{19}{3}$. Tập hợp các điểm biểu diễn số phức $w=\dfrac{- \dfrac{7}{3}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Hãy tính bán kính của đường tròn đó. Chọn đáp án đúng.
+1678,D44,D44,58,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Cho số phức $z$ thoả mãn $|z|=\dfrac{19}{3}$. Tập hợp các điểm biểu diễn số phức $w=\dfrac{-7+3iz}{3(1+z)}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Hãy tính bán kính của đường tròn đó. Chọn đáp án đúng.
 
 A. $\dfrac{10469}{61952}$.
 B. $\dfrac{19 \sqrt{58}}{704}$.
@@ -18457,7 +18457,7 @@ A. $\dfrac{10469}{61952}$.
 B. $\dfrac{19 \sqrt{58}}{704}$.
 C. $\dfrac{19 \sqrt{58}}{176}$.
 D. $\dfrac{19 \sqrt{58}}{352}$."
-1679,D44,D44,59,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Bài toán: Với số phức $z$ thoả mãn $|z|=\dfrac{7}{2}$, tập hợp điểm biểu diễn các số phức $w=\dfrac{- \dfrac{11}{2}+iz}{1+z}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Bán kính của đường tròn đó bằng bao nhiêu? Chọn một đáp án.
+1679,D44,D44,59,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Bài toán: Với số phức $z$ thoả mãn $|z|=\dfrac{7}{2}$, tập hợp điểm biểu diễn các số phức $w=\dfrac{-11+2iz}{2(1+z)}$ trên mặt phẳng tọa độ $Oxy$ là một đường tròn. Bán kính của đường tròn đó bằng bao nhiêu? Chọn một đáp án.
 
 A. $\dfrac{7 \sqrt{5}}{9}$.
 B. $\dfrac{245}{81}$.
@@ -18468,7 +18468,7 @@ A. $\dfrac{7 \sqrt{5}}{9}$.
 B. $\dfrac{245}{81}$.
 C. $\dfrac{7 \sqrt{5}}{18}$.
 D. $\dfrac{14 \sqrt{5}}{9}$."
-1680,D44,D44,60,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Bài toán: Cho $z$ là số phức có $|z|=\dfrac{11}{2}$, và đặt $w=\dfrac{\dfrac{19}{4}+iz}{1+z}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của số phức $w$ là một đường tròn. Bán kính của đường tròn đó bằng bao nhiêu?
+1680,D44,D44,60,46,Vấn đề 8. Tập hợp điểm biểu diễn số phức (quỹ tích),"Cho w = (az+b)/(cz+d) và |z| không đổi, tìm tập hợp điểm biểu diễn của w (đường tròn)",VDC,Số hữu tỉ,"Bài toán: Cho $z$ là số phức có $|z|=\dfrac{11}{2}$, và đặt $w=\dfrac{19+4iz}{4(1+z)}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn của số phức $w$ là một đường tròn. Bán kính của đường tròn đó bằng bao nhiêu?
 
 A. $\dfrac{3509}{4212}$.
 B. $\dfrac{11 \sqrt{377}}{468}$.
