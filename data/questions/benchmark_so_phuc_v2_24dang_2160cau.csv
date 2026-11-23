@@ -6940,7 +6940,7 @@ A. $8$.
 B. $10$.
 C. $11$.
 D. $9$."
-632,D45,D45,2,26,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để hai nghiệm có môđun bằng nhau",VD,Số nguyên,"Hãy tìm số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz-5m-1=0$ có hai nghiệm phức phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$ trên tập số phức, biết $m$ là tham số thực. Chọn đáp án đúng.
+632,D45,D45,2,26,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để hai nghiệm có môđun bằng nhau",VD,Số nguyên,"Hãy tìm số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz-5m-1=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phức phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$, biết $m$ là tham số thực. Chọn đáp án đúng.
 
 A. $4$.
 B. $6$.
@@ -7105,7 +7105,7 @@ A. $6$.
 B. $8$.
 C. $9$.
 D. $7$."
-647,D45,D45,17,26,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để hai nghiệm có môđun bằng nhau",VD,Số nguyên,"Câu hỏi: Hãy tìm số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+5m+1=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$ trên tập số phức, biết $m$ là tham số thực.
+647,D45,D45,17,26,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để hai nghiệm có môđun bằng nhau",VD,Số nguyên,"Câu hỏi: Hãy tìm số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+5m+1=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$, biết $m$ là tham số thực.
 
 A. $5$.
 B. $6$.
@@ -7270,7 +7270,7 @@ A. $1$.
 B. $2$.
 C. $3$.
 D. $4$."
-662,D45,D45,32,26,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để hai nghiệm có môđun bằng nhau",VD,Số hữu tỉ,"Hãy tìm số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+\dfrac{27}{5}m+\dfrac{10}{3}=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$ trên tập số phức, biết $m$ là một tham số thực. Chọn đáp án đúng.
+662,D45,D45,32,26,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để hai nghiệm có môđun bằng nhau",VD,Số hữu tỉ,"Hãy tìm số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+\dfrac{27}{5}m+\dfrac{10}{3}=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$, biết $m$ là một tham số thực. Chọn đáp án đúng.
 
 A. $5$.
 B. $6$.
@@ -7435,7 +7435,7 @@ A. $6$.
 B. $5$.
 C. $7$.
 D. $8$."
-677,D45,D45,47,26,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để hai nghiệm có môđun bằng nhau",VD,Số hữu tỉ,"Hãy xác định số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+\dfrac{26}{3}m+\dfrac{3}{5}=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$ trên tập số phức, biết $m$ là một tham số thực.
+677,D45,D45,47,26,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để hai nghiệm có môđun bằng nhau",VD,Số hữu tỉ,"Hãy xác định số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+\dfrac{26}{3}m+\dfrac{3}{5}=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$, biết $m$ là một tham số thực.
 
 A. $8$.
 B. $10$.
@@ -7600,7 +7600,7 @@ A. $4$.
 B. $6$.
 C. $7$.
 D. $5$."
-692,D45,D45,62,26,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để hai nghiệm có môđun bằng nhau",VD,Số vô tỉ,"Bài toán: Hãy xác định số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz-3 \sqrt{2}m+5=0$ có hai nghiệm phức phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$ trên tập số phức, biết $m$ là tham số thực.
+692,D45,D45,62,26,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để hai nghiệm có môđun bằng nhau",VD,Số vô tỉ,"Bài toán: Hãy xác định số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz-3 \sqrt{2}m+5=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phức phân biệt $z_1, z_2$ thỏa $|z_1| = |z_2|$, biết $m$ là tham số thực.
 
 A. $5$.
 B. $7$.
@@ -7765,7 +7765,7 @@ A. $6$.
 B. $8$.
 C. $9$.
 D. $7$."
-707,D45,D45,77,26,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để hai nghiệm có môđun bằng nhau",VD,Số vô tỉ,"Hãy tìm số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+\sqrt{7}m+4=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$ trên tập số phức, biết $m$ là một tham số thực. Chọn đáp án đúng.
+707,D45,D45,77,26,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để hai nghiệm có môđun bằng nhau",VD,Số vô tỉ,"Hãy tìm số giá trị nguyên của $m$ sao cho phương trình $z^2-2mz+\sqrt{7}m+4=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$, biết $m$ là một tham số thực. Chọn đáp án đúng.
 
 A. $4$.
 B. $6$.
@@ -10966,7 +10966,7 @@ A. $1$.
 B. $2$.
 C. $3$.
 D. $4$."
-998,D46,D46,8,33,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tổng môđun hai nghiệm bằng S",VD,Số nguyên,"Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m-3)z+m^2=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1|+|z_2|=7$ trên tập số phức, biết $m$ là một tham số thực. Chọn một đáp án.
+998,D46,D46,8,33,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tổng môđun hai nghiệm bằng S",VD,Số nguyên,"Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m-3)z+m^2=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phân biệt $z_1, z_2$ thỏa $|z_1|+|z_2|=7$, biết $m$ là một tham số thực. Chọn một đáp án.
 
 A. $1$.
 B. $3$.
@@ -11131,7 +11131,7 @@ A. $1$.
 B. $3$.
 C. $4$.
 D. $2$."
-1013,D46,D46,23,33,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tổng môđun hai nghiệm bằng S",VD,Số nguyên,"Hãy tìm số giá trị của $m$ sao cho phương trình $z^2-2(m+5)z+m^2=0$ có hai nghiệm phức phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=9$ trên tập số phức, biết $m$ là một tham số thực. Chọn đáp án đúng.
+1013,D46,D46,23,33,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tổng môđun hai nghiệm bằng S",VD,Số nguyên,"Hãy tìm số giá trị của $m$ sao cho phương trình $z^2-2(m+5)z+m^2=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phức phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=9$, biết $m$ là một tham số thực. Chọn đáp án đúng.
 
 A. $1$.
 B. $3$.
@@ -11296,7 +11296,7 @@ A. $1$.
 B. $3$.
 C. $4$.
 D. $2$."
-1028,D46,D46,38,33,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tổng môđun hai nghiệm bằng S",VD,Số hữu tỉ,"Bài toán: Hãy tìm số giá trị thực của $m$ sao cho phương trình $z^2-2(m-\dfrac{1}{2})z+m^2=0$ có hai nghiệm phức phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=\dfrac{11}{5}$ trên tập số phức, biết $m$ là một tham số thực.
+1028,D46,D46,38,33,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tổng môđun hai nghiệm bằng S",VD,Số hữu tỉ,"Bài toán: Hãy tìm số giá trị thực của $m$ sao cho phương trình $z^2-2(m-\dfrac{1}{2})z+m^2=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phức phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=\dfrac{11}{5}$, biết $m$ là một tham số thực.
 
 A. $1$.
 B. $3$.
@@ -11461,7 +11461,7 @@ A. $1$.
 B. $2$.
 C. $3$.
 D. $4$."
-1043,D46,D46,53,33,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tổng môđun hai nghiệm bằng S",VD,Số hữu tỉ,"Hãy tìm số giá trị thực của $m$ sao cho phương trình $z^2-2(m+\dfrac{1}{5})z+m^2=0$ có hai nghiệm phức phân biệt $z_1, z_2$ thoả mãn $|z_1|+|z_2|=\dfrac{11}{2}$ trên tập số phức, biết $m$ là một tham số thực.
+1043,D46,D46,53,33,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tổng môđun hai nghiệm bằng S",VD,Số hữu tỉ,"Hãy tìm số giá trị thực của $m$ sao cho phương trình $z^2-2(m+\dfrac{1}{5})z+m^2=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phức phân biệt $z_1, z_2$ thoả mãn $|z_1|+|z_2|=\dfrac{11}{2}$, biết $m$ là một tham số thực.
 
 A. $1$.
 B. $2$.
@@ -11626,7 +11626,7 @@ A. $2$.
 B. $1$.
 C. $3$.
 D. $4$."
-1058,D46,D46,68,33,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tổng môđun hai nghiệm bằng S",VD,Số vô tỉ,"Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m-5)z+m^2=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=4 \sqrt{6}$ trên tập số phức, biết $m$ là một tham số thực. Chọn một đáp án.
+1058,D46,D46,68,33,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tổng môđun hai nghiệm bằng S",VD,Số vô tỉ,"Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m-5)z+m^2=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=4 \sqrt{6}$, biết $m$ là một tham số thực. Chọn một đáp án.
 
 A. $1$.
 B. $2$.
@@ -11791,7 +11791,7 @@ A. $2$.
 B. $1$.
 C. $3$.
 D. $4$."
-1073,D46,D46,83,33,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tổng môđun hai nghiệm bằng S",VD,Số vô tỉ,"Hãy tìm số giá trị của $m$ sao cho phương trình $z^2-2(m-1)z+m^2=0$ có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=\sqrt{2}$ trên tập số phức, biết $m$ là tham số thực. Chọn đáp án đúng.
+1073,D46,D46,83,33,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tổng môđun hai nghiệm bằng S",VD,Số vô tỉ,"Hãy tìm số giá trị của $m$ sao cho phương trình $z^2-2(m-1)z+m^2=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=\sqrt{2}$, biết $m$ là tham số thực. Chọn đáp án đúng.
 
 A. $1$.
 B. $3$.
@@ -19876,7 +19876,7 @@ A. $2$.
 B. $4$.
 C. $5$.
 D. $3$."
-1808,D47,D47,8,56,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tồn tại nghiệm z₀ có môđun R",VD,Số nguyên,"Bài toán: Hãy tìm số giá trị của $m$ sao cho phương trình $z^2-2(m+1)z+m^2=0$ có nghiệm phức $z_0$ thỏa $|z_0|=6$ trên tập số phức, biết $m$ là một tham số thực. Chọn đáp án đúng.
+1808,D47,D47,8,56,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tồn tại nghiệm z₀ có môđun R",VD,Số nguyên,"Bài toán: Hãy tìm số giá trị của $m$ sao cho phương trình $z^2-2(m+1)z+m^2=0$ (ẩn $z$ thuộc tập số phức) có nghiệm phức $z_0$ thỏa $|z_0|=6$, biết $m$ là một tham số thực. Chọn đáp án đúng.
 
 A. $2$.
 B. $3$.
@@ -20041,7 +20041,7 @@ A. $2$.
 B. $4$.
 C. $5$.
 D. $3$."
-1823,D47,D47,23,56,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tồn tại nghiệm z₀ có môđun R",VD,Số nguyên,"Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m-7)z+m^2=0$ có nghiệm $z_0$ thỏa mãn $|z_0|=4$ trên tập số phức, biết $m$ là một tham số thực. Chọn đáp án đúng.
+1823,D47,D47,23,56,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tồn tại nghiệm z₀ có môđun R",VD,Số nguyên,"Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m-7)z+m^2=0$ (ẩn $z$ thuộc tập số phức) có nghiệm $z_0$ thỏa mãn $|z_0|=4$, biết $m$ là một tham số thực. Chọn đáp án đúng.
 
 A. $3$.
 B. $2$.
@@ -20206,7 +20206,7 @@ A. $2$.
 B. $4$.
 C. $5$.
 D. $3$."
-1838,D47,D47,38,56,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tồn tại nghiệm z₀ có môđun R",VD,Số hữu tỉ,"Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m+\dfrac{11}{2})z+m^2=0$ có ít nhất một nghiệm $z_0$ thỏa mãn $|z_0|=\dfrac{14}{3}$ trên tập số phức, biết $m$ là tham số thực. Chọn đáp án đúng.
+1838,D47,D47,38,56,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tồn tại nghiệm z₀ có môđun R",VD,Số hữu tỉ,"Hãy xác định số giá trị của $m$ sao cho phương trình $z^2-2(m+\dfrac{11}{2})z+m^2=0$ (ẩn $z$ thuộc tập số phức) có ít nhất một nghiệm $z_0$ thỏa mãn $|z_0|=\dfrac{14}{3}$, biết $m$ là tham số thực. Chọn đáp án đúng.
 
 A. $2$.
 B. $3$.
@@ -20371,7 +20371,7 @@ A. $2$.
 B. $4$.
 C. $5$.
 D. $3$."
-1853,D47,D47,53,56,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tồn tại nghiệm z₀ có môđun R",VD,Số hữu tỉ,"Hãy tìm số giá trị thực của $m$ sao cho phương trình $z^2-2(m-\dfrac{5}{2})z+m^2=0$ có ít nhất một nghiệm $z_0$ thỏa $|z_0|=\dfrac{3}{2}$ trên tập số phức, biết $m$ là một tham số thực.
+1853,D47,D47,53,56,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tồn tại nghiệm z₀ có môđun R",VD,Số hữu tỉ,"Hãy tìm số giá trị thực của $m$ sao cho phương trình $z^2-2(m-\dfrac{5}{2})z+m^2=0$ (ẩn $z$ thuộc tập số phức) có ít nhất một nghiệm $z_0$ thỏa $|z_0|=\dfrac{3}{2}$, biết $m$ là một tham số thực.
 
 A. $3$.
 B. $2$.
@@ -20536,7 +20536,7 @@ A. $1$.
 B. $2$.
 C. $3$.
 D. $4$."
-1868,D47,D47,68,56,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tồn tại nghiệm z₀ có môđun R",VD,Số vô tỉ,"Bài toán: Hãy tìm số giá trị thực của $m$ sao cho phương trình $z^2-2(m-7)z+m^2=0$ có nghiệm phức $z_0$ thoả mãn $|z_0|=4 \sqrt{7}$ trên tập số phức, biết $m$ là tham số thực.
+1868,D47,D47,68,56,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tồn tại nghiệm z₀ có môđun R",VD,Số vô tỉ,"Bài toán: Hãy tìm số giá trị thực của $m$ sao cho phương trình $z^2-2(m-7)z+m^2=0$ (ẩn $z$ thuộc tập số phức) có nghiệm phức $z_0$ thoả mãn $|z_0|=4 \sqrt{7}$, biết $m$ là tham số thực.
 
 A. $2$.
 B. $3$.
@@ -20701,7 +20701,7 @@ A. $2$.
 B. $3$.
 C. $4$.
 D. $5$."
-1883,D47,D47,83,56,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tồn tại nghiệm z₀ có môđun R",VD,Số vô tỉ,"Hãy xác định số giá trị thực của $m$ sao cho phương trình $z^2-2(m-4 \sqrt{11})z+m^2=0$ có nghiệm $z_0$ thoả mãn $|z_0|=8$ trên tập số phức, biết $m$ là một tham số thực.
+1883,D47,D47,83,56,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai một tham số m, đếm số giá trị m để tồn tại nghiệm z₀ có môđun R",VD,Số vô tỉ,"Hãy xác định số giá trị thực của $m$ sao cho phương trình $z^2-2(m-4 \sqrt{11})z+m^2=0$ (ẩn $z$ thuộc tập số phức) có nghiệm $z_0$ thoả mãn $|z_0|=8$, biết $m$ là một tham số thực.
 
 A. $2$.
 B. $4$.
@@ -20800,7 +20800,7 @@ A. $1$.
 B. $3$.
 C. $2$.
 D. $4$."
-1892,D48,D48,2,61,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai hai tham số, đếm số cặp tham số thỏa điều kiện về nghiệm",VDC,Số nguyên,"Câu hỏi: Hãy xác định số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ có hai nghiệm phức $z_1, z_2$ thỏa mãn $z_1+2iz_2=-3-7i$ trên tập số phức, biết $a, b$ là các tham số thực. Chọn đáp án đúng.
+1892,D48,D48,2,61,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai hai tham số, đếm số cặp tham số thỏa điều kiện về nghiệm",VDC,Số nguyên,"Câu hỏi: Hãy xác định số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phức $z_1, z_2$ thỏa mãn $z_1+2iz_2=-3-7i$, biết $a, b$ là các tham số thực. Chọn đáp án đúng.
 
 A. $3$.
 B. $5$.
@@ -20965,7 +20965,7 @@ A. $2$.
 B. $1$.
 C. $3$.
 D. $4$."
-1907,D48,D48,17,61,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai hai tham số, đếm số cặp tham số thỏa điều kiện về nghiệm",VDC,Số nguyên,"Hãy xác định số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ có hai nghiệm $z_1, z_2$ thoả mãn $z_1+2iz_2=8+9i$ trên tập số phức, biết $a, b$ là các tham số thực.
+1907,D48,D48,17,61,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai hai tham số, đếm số cặp tham số thỏa điều kiện về nghiệm",VDC,Số nguyên,"Hãy xác định số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm $z_1, z_2$ thoả mãn $z_1+2iz_2=8+9i$, biết $a, b$ là các tham số thực.
 
 A. $3$.
 B. $5$.
@@ -21130,7 +21130,7 @@ A. $4$.
 B. $3$.
 C. $5$.
 D. $6$."
-1922,D48,D48,32,61,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai hai tham số, đếm số cặp tham số thỏa điều kiện về nghiệm",VDC,Số hữu tỉ,"Hãy tìm số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ có hai nghiệm $z_1, z_2$ thoả mãn $z_1+2iz_2=\dfrac{13}{2}+\dfrac{11}{2}i$ trên tập số phức, biết $a, b$ là các tham số thực.
+1922,D48,D48,32,61,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai hai tham số, đếm số cặp tham số thỏa điều kiện về nghiệm",VDC,Số hữu tỉ,"Hãy tìm số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm $z_1, z_2$ thoả mãn $z_1+2iz_2=\dfrac{13}{2}+\dfrac{11}{2}i$, biết $a, b$ là các tham số thực.
 
 A. $3$.
 B. $5$.
@@ -21295,7 +21295,7 @@ A. $1$.
 B. $2$.
 C. $3$.
 D. $4$."
-1937,D48,D48,47,61,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai hai tham số, đếm số cặp tham số thỏa điều kiện về nghiệm",VDC,Số hữu tỉ,"Bài toán: Hãy tìm số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ có hai nghiệm $z_1, z_2$ thỏa $z_1+2iz_2=- \dfrac{9}{2}+\dfrac{18}{5}i$ trên tập số phức, biết $a, b$ là các tham số thực.
+1937,D48,D48,47,61,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai hai tham số, đếm số cặp tham số thỏa điều kiện về nghiệm",VDC,Số hữu tỉ,"Bài toán: Hãy tìm số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm $z_1, z_2$ thỏa $z_1+2iz_2=- \dfrac{9}{2}+\dfrac{18}{5}i$, biết $a, b$ là các tham số thực.
 
 A. $1$.
 B. $2$.
@@ -21460,7 +21460,7 @@ A. $3$.
 B. $5$.
 C. $6$.
 D. $4$."
-1952,D48,D48,62,61,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai hai tham số, đếm số cặp tham số thỏa điều kiện về nghiệm",VDC,Số vô tỉ,"Hãy tìm số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ có hai nghiệm $z_1, z_2$ thoả mãn $z_1+2iz_2=- 3 \sqrt{5}-4 \sqrt{6}i$ trên tập số phức, biết $a, b$ là các tham số thực.
+1952,D48,D48,62,61,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai hai tham số, đếm số cặp tham số thỏa điều kiện về nghiệm",VDC,Số vô tỉ,"Hãy tìm số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm $z_1, z_2$ thoả mãn $z_1+2iz_2=- 3 \sqrt{5}-4 \sqrt{6}i$, biết $a, b$ là các tham số thực.
 
 A. $4$.
 B. $3$.
@@ -21625,7 +21625,7 @@ A. $3$.
 B. $5$.
 C. $4$.
 D. $6$."
-1967,D48,D48,77,61,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai hai tham số, đếm số cặp tham số thỏa điều kiện về nghiệm",VDC,Số vô tỉ,"Hãy tìm số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ có hai nghiệm phức $z_1, z_2$ thỏa $z_1+2iz_2=2 \sqrt{11}-i$ trên tập số phức, biết $a, b$ là các tham số thực. Chọn một đáp án.
+1967,D48,D48,77,61,Vấn đề 9. Phương trình bậc hai với hệ số thực,"Cho phương trình bậc hai hai tham số, đếm số cặp tham số thỏa điều kiện về nghiệm",VDC,Số vô tỉ,"Hãy tìm số cặp số thực $(a;b)$ sao cho phương trình $z^2+4az+b^2+2=0$ (ẩn $z$ thuộc tập số phức) có hai nghiệm phức $z_1, z_2$ thỏa $z_1+2iz_2=2 \sqrt{11}-i$, biết $a, b$ là các tham số thực. Chọn một đáp án.
 
 A. $2$.
 B. $1$.
