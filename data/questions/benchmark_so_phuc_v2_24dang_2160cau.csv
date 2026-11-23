@@ -21812,7 +21812,7 @@ A. $\dfrac{17 \sqrt{65}}{9}$.
 B. $\dfrac{17 \sqrt{65}}{36}$.
 C. $\dfrac{17 \sqrt{65}}{72}$.
 D. $\dfrac{17 \sqrt{65}}{18}$."
-1984,D54,D55,4,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Cho các số phức $z_1, z_2, z_3$ thoả mãn $8(z_1+z_2)z_3=-6z_1z_2$ và $|z_1|=|z_2|=2|z_3|=6$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Hãy xác định diện tích tam giác $ABC$. Chọn đáp án đúng.
+1984,D54,D55,4,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Cho các số phức $z_1, z_2, z_3$ thoả mãn $4(z_1+z_2)z_3=-3z_1z_2$ và $|z_1|=|z_2|=2|z_3|=6$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Hãy xác định diện tích tam giác $ABC$. Chọn đáp án đúng.
 
 A. $\dfrac{45 \sqrt{7}}{2}$.
 B. $\dfrac{45 \sqrt{7}}{8}$.
@@ -21845,7 +21845,7 @@ A. $2 \sqrt{10}$.
 B. $\sqrt{10}$.
 C. $\dfrac{\sqrt{10}}{2}$.
 D. $\dfrac{\sqrt{10}}{4}$."
-1987,D54,D55,7,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Cho các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=3$ và $4(z_1+z_2)z_3=-2z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Tính diện tích tam giác $ABC$.
+1987,D54,D55,7,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Cho các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=3$ và $2(z_1+z_2)z_3=-z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Tính diện tích tam giác $ABC$.
 
 A. $9 \sqrt{3}$.
 B. $\dfrac{9 \sqrt{3}}{4}$.
@@ -21878,7 +21878,7 @@ A. $\dfrac{96 \sqrt{6}}{49}$.
 B. $\dfrac{24 \sqrt{6}}{49}$.
 C. $\dfrac{12 \sqrt{6}}{49}$.
 D. $\dfrac{48 \sqrt{6}}{49}$."
-1990,D54,D55,10,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Bài toán: Cho các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=8$ và $8(z_1+z_2)z_3=-2z_1z_2$. Các điểm $A, B, C$ lần lượt biểu diễn $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Hãy xác định diện tích tam giác $ABC$. Chọn đáp án đúng.
+1990,D54,D55,10,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Bài toán: Cho các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=8$ và $4(z_1+z_2)z_3=-z_1z_2$. Các điểm $A, B, C$ lần lượt biểu diễn $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Hãy xác định diện tích tam giác $ABC$. Chọn đáp án đúng.
 
 A. $12 \sqrt{15}$.
 B. $24 \sqrt{15}$.
@@ -21900,7 +21900,7 @@ A. $\dfrac{100 \sqrt{11}}{9}$.
 B. $\dfrac{25 \sqrt{11}}{9}$.
 C. $\dfrac{25 \sqrt{11}}{18}$.
 D. $\dfrac{50 \sqrt{11}}{9}$."
-1992,D54,D55,12,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Tính diện tích tam giác $ABC$. Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=4$ và $8(z_1+z_2)z_3=6z_1z_2$.
+1992,D54,D55,12,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Tính diện tích tam giác $ABC$. Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=4$ và $4(z_1+z_2)z_3=3z_1z_2$.
 
 A. $2 \sqrt{7}$.
 B. $\dfrac{\sqrt{7}}{2}$.
@@ -21977,7 +21977,7 @@ A. $\dfrac{1911}{25}$.
 B. $\dfrac{1911}{100}$.
 C. $\dfrac{1911}{50}$.
 D. $\dfrac{1911}{200}$."
-1999,D54,D55,19,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Xét các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=5$ và $8(z_1+z_2)z_3=2z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Hãy xác định diện tích tam giác $ABC$.
+1999,D54,D55,19,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Xét các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=5$ và $4(z_1+z_2)z_3=z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Hãy xác định diện tích tam giác $ABC$.
 
 A. $\dfrac{25 \sqrt{15}}{8}$.
 B. $\dfrac{25 \sqrt{15}}{16}$.
@@ -22021,7 +22021,7 @@ A. $81 \sqrt{3}$.
 B. $\dfrac{81 \sqrt{3}}{2}$.
 C. $\dfrac{81 \sqrt{3}}{4}$.
 D. $\dfrac{81 \sqrt{3}}{8}$."
-2003,D54,D55,23,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Bài toán: Xét các số phức $z_1, z_2, z_3$ với $-8(z_1+z_2)z_3=2z_1z_2$ và $|z_1|=|z_2|=2|z_3|=2$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Tính diện tích tam giác $ABC$.
+2003,D54,D55,23,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Bài toán: Xét các số phức $z_1, z_2, z_3$ với $-4(z_1+z_2)z_3=z_1z_2$ và $|z_1|=|z_2|=2|z_3|=2$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Tính diện tích tam giác $ABC$.
 
 A. $\dfrac{3 \sqrt{15}}{2}$.
 B. $\dfrac{3 \sqrt{15}}{4}$.
@@ -22076,7 +22076,7 @@ A. $\dfrac{14 \sqrt{17}}{9}$.
 B. $\dfrac{28 \sqrt{17}}{9}$.
 C. $\dfrac{7 \sqrt{17}}{9}$.
 D. $\dfrac{7 \sqrt{17}}{18}$."
-2008,D54,D55,28,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Cho các số phức $z_1, z_2, z_3$ thoả mãn $-8(z_1+z_2)z_3=-2z_1z_2$ và $|z_1|=|z_2|=2|z_3|=3$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Tính diện tích tam giác $ABC$. Hãy chọn đáp án đúng.
+2008,D54,D55,28,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Cho các số phức $z_1, z_2, z_3$ thoả mãn $-4(z_1+z_2)z_3=-z_1z_2$ và $|z_1|=|z_2|=2|z_3|=3$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Tính diện tích tam giác $ABC$. Hãy chọn đáp án đúng.
 
 A. $\dfrac{9 \sqrt{15}}{16}$.
 B. $\dfrac{9 \sqrt{15}}{8}$.
@@ -22098,7 +22098,7 @@ A. $\dfrac{250 \sqrt{2}}{9}$.
 B. $\dfrac{125 \sqrt{2}}{9}$.
 C. $\dfrac{125 \sqrt{2}}{18}$.
 D. $\dfrac{125 \sqrt{2}}{36}$."
-2010,D54,D55,30,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Cho tam giác $ABC$ có các đỉnh $A, B, C$ lần lượt là điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, trong đó các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=1$ và $-4(z_1+z_2)z_3=2z_1z_2$. Hãy tính diện tích của tam giác $ABC$. Chọn đáp án đúng.
+2010,D54,D55,30,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số nguyên,"Cho tam giác $ABC$ có các đỉnh $A, B, C$ lần lượt là điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, trong đó các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=1$ và $-2(z_1+z_2)z_3=z_1z_2$. Hãy tính diện tích của tam giác $ABC$. Chọn đáp án đúng.
 
 A. $\dfrac{\sqrt{3}}{2}$.
 B. $\sqrt{3}$.
@@ -22120,7 +22120,7 @@ A. $\dfrac{8281 \sqrt{6319}}{160000}$.
 B. $\dfrac{8281 \sqrt{6319}}{80000}$.
 C. $\dfrac{8281 \sqrt{6319}}{320000}$.
 D. $\dfrac{8281 \sqrt{6319}}{640000}$."
-2012,D54,D55,32,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=\dfrac{37}{5}$, $\dfrac{15}{2}(z_1+z_2)z_3=\dfrac{10}{3}z_1z_2$. Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Tính diện tích tam giác $ABC$.
+2012,D54,D55,32,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=\dfrac{37}{5}$, $9(z_1+z_2)z_3=4z_1z_2$. Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Tính diện tích tam giác $ABC$.
 
 A. $\dfrac{1369 \sqrt{65}}{2025}$.
 B. $\dfrac{1369 \sqrt{65}}{8100}$.
@@ -22219,7 +22219,7 @@ A. $\dfrac{44764 \sqrt{65}}{27225}$.
 B. $\dfrac{22382 \sqrt{65}}{27225}$.
 C. $\dfrac{11191 \sqrt{65}}{27225}$.
 D. $\dfrac{11191 \sqrt{65}}{54450}$."
-2021,D54,D55,41,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Đề bài: Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là điểm biểu diễn của các số phức $z_1, z_2, z_3$. Biết rằng $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=\dfrac{1}{4}$ và $- \dfrac{11}{2}(z_1+z_2)z_3=\dfrac{3}{2}z_1z_2$. Diện tích tam giác $ABC$ bằng bao nhiêu? Hãy chọn đáp án đúng.
+2021,D54,D55,41,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Đề bài: Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là điểm biểu diễn của các số phức $z_1, z_2, z_3$. Biết rằng $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=\dfrac{1}{4}$ và $-11(z_1+z_2)z_3=3z_1z_2$. Diện tích tam giác $ABC$ bằng bao nhiêu? Hãy chọn đáp án đúng.
 
 A. $\dfrac{17 \sqrt{7}}{968}$.
 B. $\dfrac{17 \sqrt{7}}{484}$.
@@ -22241,7 +22241,7 @@ A. $\dfrac{57 \sqrt{791}}{200}$.
 B. $\dfrac{57 \sqrt{791}}{800}$.
 C. $\dfrac{57 \sqrt{791}}{1600}$.
 D. $\dfrac{57 \sqrt{791}}{400}$."
-2023,D54,D55,43,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Cho các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=\dfrac{1}{2}$ và $\dfrac{3}{2}(z_1+z_2)z_3=\dfrac{1}{2}z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Diện tích tam giác $ABC$ bằng bao nhiêu?
+2023,D54,D55,43,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Cho các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=\dfrac{1}{2}$ và $3(z_1+z_2)z_3=z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Diện tích tam giác $ABC$ bằng bao nhiêu?
 
 A. $\dfrac{\sqrt{2}}{36}$.
 B. $\dfrac{\sqrt{2}}{18}$.
@@ -22263,7 +22263,7 @@ A. $\dfrac{4205 \sqrt{583}}{8192}$.
 B. $\dfrac{4205 \sqrt{583}}{16384}$.
 C. $\dfrac{4205 \sqrt{583}}{32768}$.
 D. $\dfrac{4205 \sqrt{583}}{65536}$."
-2025,D54,D55,45,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Đề bài: Các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=\dfrac{18}{5}$ và $- \dfrac{35}{4}(z_1+z_2)z_3=- \dfrac{7}{2}z_1z_2$; $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Yêu cầu: Tính diện tích tam giác $ABC$. Hãy chọn đáp án đúng.
+2025,D54,D55,45,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Đề bài: Các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=\dfrac{18}{5}$ và $-5(z_1+z_2)z_3=-2z_1z_2$; $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Yêu cầu: Tính diện tích tam giác $ABC$. Hãy chọn đáp án đúng.
 
 A. $\dfrac{324 \sqrt{21}}{625}$.
 B. $\dfrac{81 \sqrt{21}}{625}$.
@@ -22296,7 +22296,7 @@ A. $\dfrac{3575 \sqrt{485}}{10404}$.
 B. $\dfrac{3575 \sqrt{485}}{20808}$.
 C. $\dfrac{3575 \sqrt{485}}{41616}$.
 D. $\dfrac{3575 \sqrt{485}}{83232}$."
-2028,D54,D55,48,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Tính diện tích tam giác $ABC$. Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=\dfrac{5}{2}$ và $- \dfrac{25}{4}(z_1+z_2)z_3=\dfrac{1}{2}z_1z_2$. Chọn đáp án đúng.
+2028,D54,D55,48,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Hãy giải bài toán sau. Tính diện tích tam giác $ABC$. Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=\dfrac{5}{2}$ và $-25(z_1+z_2)z_3=2z_1z_2$. Chọn đáp án đúng.
 
 A. $\dfrac{87 \sqrt{69}}{100}$.
 B. $\dfrac{87 \sqrt{69}}{200}$.
@@ -22318,7 +22318,7 @@ A. $\dfrac{5203 \sqrt{3869}}{127008}$.
 B. $\dfrac{5203 \sqrt{3869}}{63504}$.
 C. $\dfrac{5203 \sqrt{3869}}{254016}$.
 D. $\dfrac{5203 \sqrt{3869}}{508032}$."
-2030,D54,D55,50,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Gọi $A, B, C$ lần lượt là các điểm biểu diễn của các số phức $z_1, z_2, z_3$ trên mặt phẳng tọa độ, biết $z_1, z_2, z_3$ thỏa $\dfrac{19}{5}(z_1+z_2)z_3=\dfrac{12}{5}z_1z_2$ và $|z_1|=|z_2|=2|z_3|=\dfrac{20}{3}$. Tính diện tích tam giác $ABC$.
+2030,D54,D55,50,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Gọi $A, B, C$ lần lượt là các điểm biểu diễn của các số phức $z_1, z_2, z_3$ trên mặt phẳng tọa độ, biết $z_1, z_2, z_3$ thỏa $19(z_1+z_2)z_3=12z_1z_2$ và $|z_1|=|z_2|=2|z_3|=\dfrac{20}{3}$. Tính diện tích tam giác $ABC$.
 
 A. $\dfrac{2000 \sqrt{217}}{3249}$.
 B. $\dfrac{500 \sqrt{217}}{3249}$.
@@ -22340,7 +22340,7 @@ A. $\dfrac{3725 \sqrt{2639}}{26244}$.
 B. $\dfrac{3725 \sqrt{2639}}{13122}$.
 C. $\dfrac{3725 \sqrt{2639}}{52488}$.
 D. $\dfrac{3725 \sqrt{2639}}{104976}$."
-2032,D54,D55,52,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Cho các số phức $z_1, z_2, z_3$ thỏa $\dfrac{17}{3}(z_1+z_2)z_3=- \dfrac{14}{3}z_1z_2$ và $|z_1|=|z_2|=2|z_3|=\dfrac{10}{3}$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Diện tích của tam giác $ABC$ là bao nhiêu?
+2032,D54,D55,52,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Cho các số phức $z_1, z_2, z_3$ thỏa $17(z_1+z_2)z_3=-14z_1z_2$ và $|z_1|=|z_2|=2|z_3|=\dfrac{10}{3}$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Diện tích của tam giác $ABC$ là bao nhiêu?
 
 A. $\dfrac{500 \sqrt{93}}{289}$.
 B. $\dfrac{125 \sqrt{93}}{289}$.
@@ -22351,7 +22351,7 @@ A. $\dfrac{500 \sqrt{93}}{289}$.
 B. $\dfrac{125 \sqrt{93}}{289}$.
 C. $\dfrac{250 \sqrt{93}}{289}$.
 D. $\dfrac{125 \sqrt{93}}{578}$."
-2033,D54,D55,53,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là điểm biểu diễn của các số phức $z_1, z_2, z_3$. Biết rằng $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=\dfrac{20}{3}$ và $- \dfrac{11}{2}(z_1+z_2)z_3=- \dfrac{9}{2}z_1z_2$. Tính diện tích tam giác $ABC$.
+2033,D54,D55,53,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là điểm biểu diễn của các số phức $z_1, z_2, z_3$. Biết rằng $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=\dfrac{20}{3}$ và $-11(z_1+z_2)z_3=-9z_1z_2$. Tính diện tích tam giác $ABC$.
 
 A. $\dfrac{5600 \sqrt{10}}{1089}$.
 B. $\dfrac{2800 \sqrt{10}}{1089}$.
@@ -22362,7 +22362,7 @@ A. $\dfrac{5600 \sqrt{10}}{1089}$.
 B. $\dfrac{2800 \sqrt{10}}{1089}$.
 C. $\dfrac{1400 \sqrt{10}}{1089}$.
 D. $\dfrac{700 \sqrt{10}}{1089}$."
-2034,D54,D55,54,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Câu hỏi: Cho tam giác $ABC$ có các đỉnh $A, B, C$ lần lượt là điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, trong đó các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=\dfrac{19}{3}$ và $- \dfrac{31}{4}(z_1+z_2)z_3=\dfrac{3}{2}z_1z_2$. Diện tích tam giác $ABC$ bằng bao nhiêu?
+2034,D54,D55,54,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Câu hỏi: Cho tam giác $ABC$ có các đỉnh $A, B, C$ lần lượt là điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, trong đó các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=\dfrac{19}{3}$ và $-31(z_1+z_2)z_3=6z_1z_2$. Diện tích tam giác $ABC$ bằng bao nhiêu?
 
 A. $\dfrac{77615 \sqrt{37}}{8649}$.
 B. $\dfrac{77615 \sqrt{37}}{34596}$.
@@ -22373,7 +22373,7 @@ A. $\dfrac{77615 \sqrt{37}}{8649}$.
 B. $\dfrac{77615 \sqrt{37}}{34596}$.
 C. $\dfrac{77615 \sqrt{37}}{69192}$.
 D. $\dfrac{77615 \sqrt{37}}{17298}$."
-2035,D54,D55,55,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Đề bài: Cho các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=\dfrac{9}{2}$ và $- \dfrac{38}{5}(z_1+z_2)z_3=- \dfrac{7}{5}z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Diện tích tam giác $ABC$ bằng bao nhiêu?
+2035,D54,D55,55,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Đề bài: Cho các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=\dfrac{9}{2}$ và $-38(z_1+z_2)z_3=-7z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Diện tích tam giác $ABC$ bằng bao nhiêu?
 
 A. $\dfrac{729 \sqrt{155}}{722}$.
 B. $\dfrac{729 \sqrt{155}}{1444}$.
@@ -22395,7 +22395,7 @@ A. $\dfrac{5491 \sqrt{41}}{1764}$.
 B. $\dfrac{5491 \sqrt{41}}{7056}$.
 C. $\dfrac{5491 \sqrt{41}}{14112}$.
 D. $\dfrac{5491 \sqrt{41}}{3528}$."
-2037,D54,D55,57,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Đề bài: Các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=\dfrac{15}{2}$ và $- \dfrac{9}{2}(z_1+z_2)z_3=\dfrac{3}{2}z_1z_2$; $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Yêu cầu: Tính diện tích tam giác $ABC$. Chọn đáp án đúng.
+2037,D54,D55,57,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Đề bài: Các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=\dfrac{15}{2}$ và $-3(z_1+z_2)z_3=z_1z_2$; $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Yêu cầu: Tính diện tích tam giác $ABC$. Chọn đáp án đúng.
 
 A. $\dfrac{125 \sqrt{2}}{2}$.
 B. $\dfrac{125 \sqrt{2}}{4}$.
@@ -22428,7 +22428,7 @@ A. $\dfrac{265 \sqrt{79}}{5408}$.
 B. $\dfrac{265 \sqrt{79}}{21632}$.
 C. $\dfrac{265 \sqrt{79}}{43264}$.
 D. $\dfrac{265 \sqrt{79}}{10816}$."
-2040,D54,D55,60,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Diện tích của tam giác $ABC$ là bao nhiêu? Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=\dfrac{11}{2}$ và $- \dfrac{13}{2}(z_1+z_2)z_3=\dfrac{11}{2}z_1z_2$.
+2040,D54,D55,60,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số hữu tỉ,"Diện tích của tam giác $ABC$ là bao nhiêu? Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=\dfrac{11}{2}$ và $-13(z_1+z_2)z_3=11z_1z_2$.
 
 A. $\dfrac{4235 \sqrt{3}}{338}$.
 B. $\dfrac{4235 \sqrt{3}}{169}$.
@@ -22461,7 +22461,7 @@ A. $\dfrac{5 \sqrt{30} \left(3 - \sqrt{6}\right)}{18}$.
 B. $\dfrac{5 \sqrt{30} \left(3 - \sqrt{6}\right)}{36}$.
 C. $\dfrac{5 \sqrt{30} \left(3 - \sqrt{6}\right)}{72}$.
 D. $\dfrac{5 \sqrt{30} \left(3 - \sqrt{6}\right)}{144}$."
-2043,D54,D55,63,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Xét ba số phức $z_1, z_2, z_3$ có $|z_1|=|z_2|=2|z_3|=\sqrt{6}$ và $- 4 \sqrt{3}(z_1+z_2)z_3=2 \sqrt{10}z_1z_2$. Trên mặt phẳng tọa độ, ba điểm $A, B, C$ lần lượt biểu diễn $z_1, z_2, z_3$. Diện tích tam giác $ABC$ bằng bao nhiêu? Hãy chọn đáp án đúng.
+2043,D54,D55,63,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Xét ba số phức $z_1, z_2, z_3$ có $|z_1|=|z_2|=2|z_3|=\sqrt{6}$ và $- 2 \sqrt{3}(z_1+z_2)z_3=\sqrt{10}z_1z_2$. Trên mặt phẳng tọa độ, ba điểm $A, B, C$ lần lượt biểu diễn $z_1, z_2, z_3$. Diện tích tam giác $ABC$ bằng bao nhiêu? Hãy chọn đáp án đúng.
 
 A. $\sqrt{6} + 2 \sqrt{5}$.
 B. $\dfrac{\sqrt{6}}{2} + \sqrt{5}$.
@@ -22483,7 +22483,7 @@ A. $- \dfrac{22 \sqrt{374}}{45} + \dfrac{11 \sqrt{170}}{15}$.
 B. $- \dfrac{11 \sqrt{374}}{90} + \dfrac{11 \sqrt{170}}{60}$.
 C. $- \dfrac{11 \sqrt{374}}{45} + \dfrac{11 \sqrt{170}}{30}$.
 D. $- \dfrac{11 \sqrt{374}}{180} + \dfrac{11 \sqrt{170}}{120}$."
-2045,D54,D55,65,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Câu hỏi: Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là điểm biểu diễn của các số phức $z_1, z_2, z_3$. Biết rằng $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=3 \sqrt{2}$ và $- 4 \sqrt{3}(z_1+z_2)z_3=2 \sqrt{2}z_1z_2$. Hãy tính diện tích của tam giác $ABC$.
+2045,D54,D55,65,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Câu hỏi: Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là điểm biểu diễn của các số phức $z_1, z_2, z_3$. Biết rằng $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=3 \sqrt{2}$ và $- 2 \sqrt{3}(z_1+z_2)z_3=\sqrt{2}z_1z_2$. Hãy tính diện tích của tam giác $ABC$.
 
 A. $\sqrt{30} \left(\sqrt{6} + 3\right)$.
 B. $\dfrac{\sqrt{30} \left(\sqrt{6} + 3\right)}{2}$.
@@ -22494,7 +22494,7 @@ A. $\sqrt{30} \left(\sqrt{6} + 3\right)$.
 B. $\dfrac{\sqrt{30} \left(\sqrt{6} + 3\right)}{2}$.
 C. $\dfrac{\sqrt{30} \left(\sqrt{6} + 3\right)}{4}$.
 D. $\dfrac{\sqrt{30} \left(\sqrt{6} + 3\right)}{8}$."
-2046,D54,D55,66,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Bài toán: Cho tam giác $ABC$ có các đỉnh $A, B, C$ lần lượt là điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, trong đó các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{10}$ và $3 \sqrt{3}(z_1+z_2)z_3=2 \sqrt{3}z_1z_2$. Diện tích của tam giác $ABC$ là bao nhiêu? Hãy chọn đáp án đúng.
+2046,D54,D55,66,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Bài toán: Cho tam giác $ABC$ có các đỉnh $A, B, C$ lần lượt là điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, trong đó các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{10}$ và $3(z_1+z_2)z_3=2z_1z_2$. Diện tích của tam giác $ABC$ là bao nhiêu? Hãy chọn đáp án đúng.
 
 A. $\dfrac{80 \sqrt{5}}{9}$.
 B. $\dfrac{160 \sqrt{5}}{9}$.
@@ -22505,7 +22505,7 @@ A. $\dfrac{80 \sqrt{5}}{9}$.
 B. $\dfrac{160 \sqrt{5}}{9}$.
 C. $\dfrac{40 \sqrt{5}}{9}$.
 D. $\dfrac{20 \sqrt{5}}{9}$."
-2047,D54,D55,67,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Xét các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{10}$ và $4 \sqrt{3}(z_1+z_2)z_3=\sqrt{3}z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Hãy xác định diện tích tam giác $ABC$. Chọn đáp án đúng.
+2047,D54,D55,67,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Xét các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{10}$ và $4(z_1+z_2)z_3=z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Hãy xác định diện tích tam giác $ABC$. Chọn đáp án đúng.
 
 A. $20 \sqrt{15}$.
 B. $5 \sqrt{15}$.
@@ -22516,7 +22516,7 @@ A. $20 \sqrt{15}$.
 B. $5 \sqrt{15}$.
 C. $10 \sqrt{15}$.
 D. $\dfrac{5 \sqrt{15}}{2}$."
-2048,D54,D55,68,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{6}$, $3 \sqrt{11}(z_1+z_2)z_3=3 \sqrt{3}z_1z_2$. Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Hãy tính diện tích của tam giác $ABC$.
+2048,D54,D55,68,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{6}$, $\sqrt{11}(z_1+z_2)z_3=\sqrt{3}z_1z_2$. Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Hãy tính diện tích của tam giác $ABC$.
 
 A. $- \dfrac{192 \sqrt{22}}{11} + \dfrac{384 \sqrt{6}}{11}$.
 B. $- \dfrac{96 \sqrt{22}}{11} + \dfrac{192 \sqrt{6}}{11}$.
@@ -22527,7 +22527,7 @@ A. $- \dfrac{192 \sqrt{22}}{11} + \dfrac{384 \sqrt{6}}{11}$.
 B. $- \dfrac{96 \sqrt{22}}{11} + \dfrac{192 \sqrt{6}}{11}$.
 C. $- \dfrac{48 \sqrt{22}}{11} + \dfrac{96 \sqrt{6}}{11}$.
 D. $- \dfrac{24 \sqrt{22}}{11} + \dfrac{48 \sqrt{6}}{11}$."
-2049,D54,D55,69,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Đề bài: Các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=3 \sqrt{2}$ và $4 \sqrt{5}(z_1+z_2)z_3=- 3 \sqrt{5}z_1z_2$; $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Yêu cầu: Tính diện tích tam giác $ABC$. Hãy chọn đáp án đúng.
+2049,D54,D55,69,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Đề bài: Các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=3 \sqrt{2}$ và $4(z_1+z_2)z_3=-3z_1z_2$; $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Yêu cầu: Tính diện tích tam giác $ABC$. Hãy chọn đáp án đúng.
 
 A. $\dfrac{45 \sqrt{7}}{8}$.
 B. $\dfrac{45 \sqrt{7}}{4}$.
@@ -22538,7 +22538,7 @@ A. $\dfrac{45 \sqrt{7}}{8}$.
 B. $\dfrac{45 \sqrt{7}}{4}$.
 C. $\dfrac{45 \sqrt{7}}{16}$.
 D. $\dfrac{45 \sqrt{7}}{32}$."
-2050,D54,D55,70,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Bài toán: Giả sử các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=2 \sqrt{10}$ và $4 \sqrt{11}(z_1+z_2)z_3=2 \sqrt{6}z_1z_2$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Diện tích của tam giác $ABC$ là bao nhiêu? Chọn một đáp án.
+2050,D54,D55,70,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Bài toán: Giả sử các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=2 \sqrt{10}$ và $2 \sqrt{11}(z_1+z_2)z_3=\sqrt{6}z_1z_2$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Diện tích của tam giác $ABC$ là bao nhiêu? Chọn một đáp án.
 
 A. $\dfrac{20 \sqrt{418} \left(11 - \sqrt{66}\right)}{121}$.
 B. $\dfrac{10 \sqrt{418} \left(11 - \sqrt{66}\right)}{121}$.
@@ -22549,7 +22549,7 @@ A. $\dfrac{20 \sqrt{418} \left(11 - \sqrt{66}\right)}{121}$.
 B. $\dfrac{10 \sqrt{418} \left(11 - \sqrt{66}\right)}{121}$.
 C. $\dfrac{5 \sqrt{418} \left(11 - \sqrt{66}\right)}{121}$.
 D. $\dfrac{5 \sqrt{418} \left(11 - \sqrt{66}\right)}{242}$."
-2051,D54,D55,71,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Đề bài: Cho các số phức $z_1, z_2, z_3$ với $- 2 \sqrt{5}(z_1+z_2)z_3=2 \sqrt{2}z_1z_2$ và $|z_1|=|z_2|=2|z_3|=4 \sqrt{11}$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Tính diện tích tam giác $ABC$. Hãy chọn đáp án đúng.
+2051,D54,D55,71,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Đề bài: Cho các số phức $z_1, z_2, z_3$ với $- \sqrt{5}(z_1+z_2)z_3=\sqrt{2}z_1z_2$ và $|z_1|=|z_2|=2|z_3|=4 \sqrt{11}$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Tính diện tích tam giác $ABC$. Hãy chọn đáp án đúng.
 
 A. $\dfrac{176 \sqrt{15}}{5} + \dfrac{352 \sqrt{6}}{5}$.
 B. $\dfrac{88 \sqrt{15}}{5} + \dfrac{176 \sqrt{6}}{5}$.
@@ -22560,7 +22560,7 @@ A. $\dfrac{176 \sqrt{15}}{5} + \dfrac{352 \sqrt{6}}{5}$.
 B. $\dfrac{88 \sqrt{15}}{5} + \dfrac{176 \sqrt{6}}{5}$.
 C. $\dfrac{44 \sqrt{15}}{5} + \dfrac{88 \sqrt{6}}{5}$.
 D. $\dfrac{22 \sqrt{15}}{5} + \dfrac{44 \sqrt{6}}{5}$."
-2052,D54,D55,72,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Bài toán: Hãy xác định diện tích tam giác $ABC$. Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{10}$ và $3 \sqrt{6}(z_1+z_2)z_3=4 \sqrt{2}z_1z_2$. Chọn một đáp án.
+2052,D54,D55,72,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Bài toán: Hãy xác định diện tích tam giác $ABC$. Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{10}$ và $3 \sqrt{3}(z_1+z_2)z_3=4z_1z_2$. Chọn một đáp án.
 
 A. $- \dfrac{80 \sqrt{33}}{9} + \dfrac{640 \sqrt{11}}{27}$.
 B. $- \dfrac{160 \sqrt{33}}{9} + \dfrac{1280 \sqrt{11}}{27}$.
@@ -22571,7 +22571,7 @@ A. $- \dfrac{80 \sqrt{33}}{9} + \dfrac{640 \sqrt{11}}{27}$.
 B. $- \dfrac{160 \sqrt{33}}{9} + \dfrac{1280 \sqrt{11}}{27}$.
 C. $- \dfrac{40 \sqrt{33}}{9} + \dfrac{320 \sqrt{11}}{27}$.
 D. $- \dfrac{20 \sqrt{33}}{9} + \dfrac{160 \sqrt{11}}{27}$."
-2053,D54,D55,73,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Đề bài: Cho các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{7}$ và $- 4 \sqrt{10}(z_1+z_2)z_3=- 4 \sqrt{7}z_1z_2$. Các điểm $A, B, C$ lần lượt biểu diễn $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Diện tích tam giác $ABC$ bằng bao nhiêu?
+2053,D54,D55,73,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Đề bài: Cho các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{7}$ và $- \sqrt{10}(z_1+z_2)z_3=- \sqrt{7}z_1z_2$. Các điểm $A, B, C$ lần lượt biểu diễn $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Diện tích tam giác $ABC$ bằng bao nhiêu?
 
 A. $\dfrac{56 \sqrt{30} \left(-5 + \sqrt{70}\right)}{25}$.
 B. $\dfrac{14 \sqrt{30} \left(-5 + \sqrt{70}\right)}{25}$.
@@ -22604,7 +22604,7 @@ A. $\dfrac{4 \sqrt{790} \left(\sqrt{110} + 15\right)}{225}$.
 B. $\dfrac{2 \sqrt{790} \left(\sqrt{110} + 15\right)}{225}$.
 C. $\dfrac{\sqrt{790} \left(\sqrt{110} + 15\right)}{225}$.
 D. $\dfrac{\sqrt{790} \left(\sqrt{110} + 15\right)}{450}$."
-2056,D54,D55,76,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Cho các số phức $z_1, z_2, z_3$ thoả mãn $2 \sqrt{6}(z_1+z_2)z_3=- \sqrt{2}z_1z_2$ và $|z_1|=|z_2|=2|z_3|=3 \sqrt{7}$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Hãy xác định diện tích tam giác $ABC$. Chọn đáp án đúng.
+2056,D54,D55,76,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Cho các số phức $z_1, z_2, z_3$ thoả mãn $2 \sqrt{3}(z_1+z_2)z_3=-z_1z_2$ và $|z_1|=|z_2|=2|z_3|=3 \sqrt{7}$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Hãy xác định diện tích tam giác $ABC$. Chọn đáp án đúng.
 
 A. $\dfrac{7 \sqrt{33} \left(\sqrt{3} + 3\right)}{4}$.
 B. $\dfrac{7 \sqrt{33} \left(\sqrt{3} + 3\right)}{2}$.
@@ -22615,7 +22615,7 @@ A. $\dfrac{7 \sqrt{33} \left(\sqrt{3} + 3\right)}{4}$.
 B. $\dfrac{7 \sqrt{33} \left(\sqrt{3} + 3\right)}{2}$.
 C. $\dfrac{7 \sqrt{33} \left(\sqrt{3} + 3\right)}{8}$.
 D. $\dfrac{7 \sqrt{33} \left(\sqrt{3} + 3\right)}{16}$."
-2057,D54,D55,77,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là điểm biểu diễn của các số phức $z_1, z_2, z_3$. Biết rằng $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=2 \sqrt{11}$ và $- 3 \sqrt{11}(z_1+z_2)z_3=- 3 \sqrt{6}z_1z_2$. Hãy tính diện tích của tam giác $ABC$.
+2057,D54,D55,77,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là điểm biểu diễn của các số phức $z_1, z_2, z_3$. Biết rằng $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=2 \sqrt{11}$ và $- \sqrt{11}(z_1+z_2)z_3=- \sqrt{6}z_1z_2$. Hãy tính diện tích của tam giác $ABC$.
 
 A. $- 4 \sqrt{55} + 8 \sqrt{30}$.
 B. $- \sqrt{55} + 2 \sqrt{30}$.
@@ -22626,7 +22626,7 @@ A. $- 4 \sqrt{55} + 8 \sqrt{30}$.
 B. $- \sqrt{55} + 2 \sqrt{30}$.
 C. $- \dfrac{\sqrt{55}}{2} + \sqrt{30}$.
 D. $- 2 \sqrt{55} + 4 \sqrt{30}$."
-2058,D54,D55,78,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Bài toán: Cho tam giác $ABC$ có các đỉnh $A, B, C$ lần lượt là điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, trong đó các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=3 \sqrt{6}$ và $- 2 \sqrt{11}(z_1+z_2)z_3=2 \sqrt{5}z_1z_2$. Hãy tính diện tích của tam giác $ABC$.
+2058,D54,D55,78,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Bài toán: Cho tam giác $ABC$ có các đỉnh $A, B, C$ lần lượt là điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, trong đó các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=3 \sqrt{6}$ và $- \sqrt{11}(z_1+z_2)z_3=\sqrt{5}z_1z_2$. Hãy tính diện tích của tam giác $ABC$.
 
 A. $\dfrac{27 \sqrt{66}}{11} + \dfrac{54 \sqrt{30}}{11}$.
 B. $\dfrac{54 \sqrt{66}}{11} + \dfrac{108 \sqrt{30}}{11}$.
@@ -22637,7 +22637,7 @@ A. $\dfrac{27 \sqrt{66}}{11} + \dfrac{54 \sqrt{30}}{11}$.
 B. $\dfrac{54 \sqrt{66}}{11} + \dfrac{108 \sqrt{30}}{11}$.
 C. $\dfrac{27 \sqrt{66}}{22} + \dfrac{27 \sqrt{30}}{11}$.
 D. $\dfrac{27 \sqrt{66}}{44} + \dfrac{27 \sqrt{30}}{22}$."
-2059,D54,D55,79,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Bài toán: Cho các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{3}$ và $- 4 \sqrt{10}(z_1+z_2)z_3=- 2 \sqrt{7}z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Hãy tính diện tích của tam giác $ABC$. Chọn đáp án đúng.
+2059,D54,D55,79,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Bài toán: Cho các số phức $z_1, z_2, z_3$ thoả mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{3}$ và $- 2 \sqrt{10}(z_1+z_2)z_3=- \sqrt{7}z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Hãy tính diện tích của tam giác $ABC$. Chọn đáp án đúng.
 
 A. $\dfrac{3 \sqrt{330} \left(10 - \sqrt{70}\right)}{25}$.
 B. $\dfrac{6 \sqrt{330} \left(10 - \sqrt{70}\right)}{25}$.
@@ -22648,7 +22648,7 @@ A. $\dfrac{3 \sqrt{330} \left(10 - \sqrt{70}\right)}{25}$.
 B. $\dfrac{6 \sqrt{330} \left(10 - \sqrt{70}\right)}{25}$.
 C. $\dfrac{3 \sqrt{330} \left(10 - \sqrt{70}\right)}{50}$.
 D. $\dfrac{3 \sqrt{330} \left(10 - \sqrt{70}\right)}{100}$."
-2060,D54,D55,80,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=\sqrt{6}$, $4 \sqrt{5}(z_1+z_2)z_3=3 \sqrt{5}z_1z_2$. Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Tính diện tích tam giác $ABC$.
+2060,D54,D55,80,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=\sqrt{6}$, $4(z_1+z_2)z_3=3z_1z_2$. Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Tính diện tích tam giác $ABC$.
 
 A. $\dfrac{3 \sqrt{7}}{4}$.
 B. $\dfrac{3 \sqrt{7}}{8}$.
@@ -22670,7 +22670,7 @@ A. $\dfrac{11 \sqrt{290} \left(10 + \sqrt{110}\right)}{50}$.
 B. $\dfrac{11 \sqrt{290} \left(10 + \sqrt{110}\right)}{100}$.
 C. $\dfrac{11 \sqrt{290} \left(10 + \sqrt{110}\right)}{200}$.
 D. $\dfrac{11 \sqrt{290} \left(10 + \sqrt{110}\right)}{400}$."
-2062,D54,D55,82,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Cho các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=2 \sqrt{10}$ và $- 3 \sqrt{5}(z_1+z_2)z_3=2 \sqrt{5}z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Hãy xác định diện tích tam giác $ABC$.
+2062,D54,D55,82,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Cho các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=2 \sqrt{10}$ và $-3(z_1+z_2)z_3=2z_1z_2$. Trên mặt phẳng tọa độ, gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$. Hãy xác định diện tích tam giác $ABC$.
 
 A. $\dfrac{280 \sqrt{5}}{9}$.
 B. $\dfrac{70 \sqrt{5}}{9}$.
@@ -22692,7 +22692,7 @@ A. $\dfrac{7 \sqrt{30} \left(\sqrt{6} + 3\right)}{18}$.
 B. $\dfrac{7 \sqrt{30} \left(\sqrt{6} + 3\right)}{72}$.
 C. $\dfrac{7 \sqrt{30} \left(\sqrt{6} + 3\right)}{36}$.
 D. $\dfrac{7 \sqrt{30} \left(\sqrt{6} + 3\right)}{144}$."
-2064,D54,D55,84,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Hãy tính diện tích của tam giác $ABC$. Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=4 \sqrt{6}$ và $- 4 \sqrt{5}(z_1+z_2)z_3=- \sqrt{10}z_1z_2$.
+2064,D54,D55,84,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Hãy tính diện tích của tam giác $ABC$. Biết $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, với các số phức $z_1, z_2, z_3$ thỏa $|z_1|=|z_2|=2|z_3|=4 \sqrt{6}$ và $-4(z_1+z_2)z_3=- \sqrt{2}z_1z_2$.
 
 A. $- 24 \sqrt{7} + 24 \sqrt{14}$.
 B. $- 6 \sqrt{7} + 6 \sqrt{14}$.
@@ -22714,7 +22714,7 @@ A. $\dfrac{10 \sqrt{649}}{33} + \dfrac{40 \sqrt{590}}{99}$.
 B. $\dfrac{5 \sqrt{649}}{66} + \dfrac{10 \sqrt{590}}{99}$.
 C. $\dfrac{5 \sqrt{649}}{132} + \dfrac{5 \sqrt{590}}{99}$.
 D. $\dfrac{5 \sqrt{649}}{33} + \dfrac{20 \sqrt{590}}{99}$."
-2066,D54,D55,86,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Đề bài: Gọi $A, B, C$ lần lượt là các điểm biểu diễn của các số phức $z_1, z_2, z_3$ trên mặt phẳng tọa độ, biết $z_1, z_2, z_3$ thỏa $- 4 \sqrt{7}(z_1+z_2)z_3=- 3 \sqrt{7}z_1z_2$ và $|z_1|=|z_2|=2|z_3|=2 \sqrt{6}$. Diện tích tam giác $ABC$ bằng bao nhiêu?
+2066,D54,D55,86,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Đề bài: Gọi $A, B, C$ lần lượt là các điểm biểu diễn của các số phức $z_1, z_2, z_3$ trên mặt phẳng tọa độ, biết $z_1, z_2, z_3$ thỏa $-4(z_1+z_2)z_3=-3z_1z_2$ và $|z_1|=|z_2|=2|z_3|=2 \sqrt{6}$. Diện tích tam giác $ABC$ bằng bao nhiêu?
 
 A. $3 \sqrt{7}$.
 B. $\dfrac{3 \sqrt{7}}{2}$.
@@ -22736,7 +22736,7 @@ A. $\dfrac{4 \sqrt{129} \left(\sqrt{15} + 6\right)}{9}$.
 B. $\dfrac{\sqrt{129} \left(\sqrt{15} + 6\right)}{9}$.
 C. $\dfrac{\sqrt{129} \left(\sqrt{15} + 6\right)}{18}$.
 D. $\dfrac{2 \sqrt{129} \left(\sqrt{15} + 6\right)}{9}$."
-2068,D54,D55,88,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Hãy giải bài toán sau. Cho các số phức $z_1, z_2, z_3$ thỏa mãn $- 4 \sqrt{10}(z_1+z_2)z_3=2 \sqrt{5}z_1z_2$ và $|z_1|=|z_2|=2|z_3|=3 \sqrt{3}$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Tính diện tích tam giác $ABC$.
+2068,D54,D55,88,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Hãy giải bài toán sau. Cho các số phức $z_1, z_2, z_3$ thỏa mãn $- 2 \sqrt{2}(z_1+z_2)z_3=z_1z_2$ và $|z_1|=|z_2|=2|z_3|=3 \sqrt{3}$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Tính diện tích tam giác $ABC$.
 
 A. $\dfrac{27 \sqrt{14} \left(\sqrt{2} + 2\right)}{8}$.
 B. $\dfrac{27 \sqrt{14} \left(\sqrt{2} + 2\right)}{32}$.
@@ -22747,7 +22747,7 @@ A. $\dfrac{27 \sqrt{14} \left(\sqrt{2} + 2\right)}{8}$.
 B. $\dfrac{27 \sqrt{14} \left(\sqrt{2} + 2\right)}{32}$.
 C. $\dfrac{27 \sqrt{14} \left(\sqrt{2} + 2\right)}{64}$.
 D. $\dfrac{27 \sqrt{14} \left(\sqrt{2} + 2\right)}{16}$."
-2069,D54,D55,89,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là điểm biểu diễn của các số phức $z_1, z_2, z_3$. Biết rằng $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=\sqrt{6}$ và $- 3 \sqrt{7}(z_1+z_2)z_3=- 3 \sqrt{3}z_1z_2$. Hãy xác định diện tích tam giác $ABC$. Chọn một đáp án.
+2069,D54,D55,89,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Trên mặt phẳng tọa độ, $A, B, C$ lần lượt là điểm biểu diễn của các số phức $z_1, z_2, z_3$. Biết rằng $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=\sqrt{6}$ và $- \sqrt{7}(z_1+z_2)z_3=- \sqrt{3}z_1z_2$. Hãy xác định diện tích tam giác $ABC$. Chọn một đáp án.
 
 A. $- \dfrac{6 \sqrt{7}}{7} + \dfrac{12 \sqrt{3}}{7}$.
 B. $- \dfrac{12 \sqrt{7}}{7} + \dfrac{24 \sqrt{3}}{7}$.
@@ -22758,7 +22758,7 @@ A. $- \dfrac{6 \sqrt{7}}{7} + \dfrac{12 \sqrt{3}}{7}$.
 B. $- \dfrac{12 \sqrt{7}}{7} + \dfrac{24 \sqrt{3}}{7}$.
 C. $- \dfrac{3 \sqrt{7}}{7} + \dfrac{6 \sqrt{3}}{7}$.
 D. $- \dfrac{3 \sqrt{7}}{14} + \dfrac{3 \sqrt{3}}{7}$."
-2070,D54,D55,90,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Bài toán: Cho tam giác $ABC$ có các đỉnh $A, B, C$ lần lượt là điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, trong đó các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{6}$ và $3 \sqrt{10}(z_1+z_2)z_3=3 \sqrt{5}z_1z_2$. Diện tích tam giác $ABC$ bằng bao nhiêu?
+2070,D54,D55,90,65,Vấn đề 10. Cực trị (min – max) số phức,"Cho ba số phức thỏa một hệ thức, tính diện tích tam giác tạo bởi ba điểm biểu diễn",VDC,Số vô tỉ,"Bài toán: Cho tam giác $ABC$ có các đỉnh $A, B, C$ lần lượt là điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ, trong đó các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=4 \sqrt{6}$ và $\sqrt{2}(z_1+z_2)z_3=z_1z_2$. Diện tích tam giác $ABC$ bằng bao nhiêu?
 
 A. $96 - 48 \sqrt{2}$.
 B. $48 - 24 \sqrt{2}$.
